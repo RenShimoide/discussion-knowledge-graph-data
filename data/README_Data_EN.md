@@ -1,4 +1,4 @@
-# ObG Discourse Tool: Five Completed Discussions with Original ID References (Format 3)
+# ObG Discourse Tool: Five Completed Discussions with Original ID References
 
 This dataset consists of UTF-8 JSON arrays containing original IDs, generated labels, and structural information, without including ObG comment text or quotations. Random `public_*` IDs are not used.
 
