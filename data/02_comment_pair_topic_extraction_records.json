@@ -1,0 +1,942 @@
+[
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_7a9953751da9d5c49747",
+    "source_parent_comment_id": "comment_61a903e26b",
+    "source_child_comment_id": "comment_408b04034b",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_61a903e26b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_7a9953751da9d5c49747",
+    "source_parent_comment_id": "comment_61a903e26b",
+    "source_child_comment_id": "comment_408b04034b",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_61a903e26b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_7a9953751da9d5c49747",
+    "source_parent_comment_id": "comment_61a903e26b",
+    "source_child_comment_id": "comment_408b04034b",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_61a903e26b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_7a9953751da9d5c49747",
+    "source_parent_comment_id": "comment_61a903e26b",
+    "source_child_comment_id": "comment_408b04034b",
+    "pair_claim_id": "claim_4",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_408b04034b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "negated",
+    "certainty": "uncertain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_7a9953751da9d5c49747",
+    "source_parent_comment_id": "comment_61a903e26b",
+    "source_child_comment_id": "comment_408b04034b",
+    "pair_claim_id": "claim_5",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_408b04034b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_7a9953751da9d5c49747",
+    "source_parent_comment_id": "comment_61a903e26b",
+    "source_child_comment_id": "comment_408b04034b",
+    "pair_claim_id": "claim_6",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_408b04034b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_07ed4df23f853c75d3c2",
+    "source_parent_comment_id": "comment_408b04034b",
+    "source_child_comment_id": "comment_6fda8071df",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_408b04034b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_07ed4df23f853c75d3c2",
+    "source_parent_comment_id": "comment_408b04034b",
+    "source_child_comment_id": "comment_6fda8071df",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_408b04034b"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_07ed4df23f853c75d3c2",
+    "source_parent_comment_id": "comment_408b04034b",
+    "source_child_comment_id": "comment_6fda8071df",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_6fda8071df"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_07ed4df23f853c75d3c2",
+    "source_parent_comment_id": "comment_408b04034b",
+    "source_child_comment_id": "comment_6fda8071df",
+    "pair_claim_id": "claim_4",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_6fda8071df"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_384921c8ab33b43d2212",
+    "source_parent_comment_id": "comment_6fda8071df",
+    "source_child_comment_id": "comment_e6773d697d",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_6fda8071df"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_384921c8ab33b43d2212",
+    "source_parent_comment_id": "comment_6fda8071df",
+    "source_child_comment_id": "comment_e6773d697d",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_e6773d697d"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_405bcdde48cdfd2fe313",
+    "source_parent_comment_id": "comment_e6773d697d",
+    "source_child_comment_id": "comment_0f0edf5c8e",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_e6773d697d"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_405bcdde48cdfd2fe313",
+    "source_parent_comment_id": "comment_e6773d697d",
+    "source_child_comment_id": "comment_0f0edf5c8e",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_0f0edf5c8e"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_405bcdde48cdfd2fe313",
+    "source_parent_comment_id": "comment_e6773d697d",
+    "source_child_comment_id": "comment_0f0edf5c8e",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_0f0edf5c8e"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_405bcdde48cdfd2fe313",
+    "source_parent_comment_id": "comment_e6773d697d",
+    "source_child_comment_id": "comment_0f0edf5c8e",
+    "pair_claim_id": "claim_4",
+    "topic_id": "claim_16",
+    "source_comment_ids": [
+      "comment_0f0edf5c8e"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "negated",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_405bcdde48cdfd2fe313",
+    "source_parent_comment_id": "comment_e6773d697d",
+    "source_child_comment_id": "comment_0f0edf5c8e",
+    "pair_claim_id": "claim_5",
+    "topic_id": "claim_17",
+    "source_comment_ids": [
+      "comment_0f0edf5c8e"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_405bcdde48cdfd2fe313",
+    "source_parent_comment_id": "comment_e6773d697d",
+    "source_child_comment_id": "comment_0f0edf5c8e",
+    "pair_claim_id": "claim_6",
+    "topic_id": "claim_18",
+    "source_comment_ids": [
+      "comment_0f0edf5c8e"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_32291eaac8",
+    "source_split": "Train",
+    "pair_id": "causal_405bcdde48cdfd2fe313",
+    "source_parent_comment_id": "comment_e6773d697d",
+    "source_child_comment_id": "comment_0f0edf5c8e",
+    "pair_claim_id": "claim_7",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_0f0edf5c8e"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "pair_id": "causal_ee5772effdf090941a6b",
+    "source_parent_comment_id": "comment_002ef13f72",
+    "source_child_comment_id": "comment_c7dd3061b2",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_002ef13f72"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "pair_id": "causal_ee5772effdf090941a6b",
+    "source_parent_comment_id": "comment_002ef13f72",
+    "source_child_comment_id": "comment_c7dd3061b2",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_c7dd3061b2"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "negated",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "pair_id": "causal_afe64b9a23322419f96f",
+    "source_parent_comment_id": "comment_c7dd3061b2",
+    "source_child_comment_id": "comment_5e7d8f9d8c",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_c7dd3061b2"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "negated",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "pair_id": "causal_afe64b9a23322419f96f",
+    "source_parent_comment_id": "comment_c7dd3061b2",
+    "source_child_comment_id": "comment_5e7d8f9d8c",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_5e7d8f9d8c"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "pair_id": "causal_45bb42d85ea88273834e",
+    "source_parent_comment_id": "comment_5e7d8f9d8c",
+    "source_child_comment_id": "comment_72ee55acc4",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_5e7d8f9d8c"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "pair_id": "causal_45bb42d85ea88273834e",
+    "source_parent_comment_id": "comment_5e7d8f9d8c",
+    "source_child_comment_id": "comment_72ee55acc4",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_72ee55acc4"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "pair_id": "causal_45bb42d85ea88273834e",
+    "source_parent_comment_id": "comment_5e7d8f9d8c",
+    "source_child_comment_id": "comment_72ee55acc4",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_72ee55acc4"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_1da2207d7d542225d4c8",
+    "source_parent_comment_id": "comment_e619222c13",
+    "source_child_comment_id": "comment_9da421ec55",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_9da421ec55"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_1da2207d7d542225d4c8",
+    "source_parent_comment_id": "comment_e619222c13",
+    "source_child_comment_id": "comment_9da421ec55",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_9da421ec55"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_1da2207d7d542225d4c8",
+    "source_parent_comment_id": "comment_e619222c13",
+    "source_child_comment_id": "comment_9da421ec55",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_9da421ec55"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_1da2207d7d542225d4c8",
+    "source_parent_comment_id": "comment_e619222c13",
+    "source_child_comment_id": "comment_9da421ec55",
+    "pair_claim_id": "claim_4",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_9da421ec55"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_04eede6ab56b1ed591a0",
+    "source_parent_comment_id": "comment_9da421ec55",
+    "source_child_comment_id": "comment_228e21b4ff",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_9da421ec55"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_04eede6ab56b1ed591a0",
+    "source_parent_comment_id": "comment_9da421ec55",
+    "source_child_comment_id": "comment_228e21b4ff",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_9da421ec55"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_04eede6ab56b1ed591a0",
+    "source_parent_comment_id": "comment_9da421ec55",
+    "source_child_comment_id": "comment_228e21b4ff",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_9da421ec55"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_04eede6ab56b1ed591a0",
+    "source_parent_comment_id": "comment_9da421ec55",
+    "source_child_comment_id": "comment_228e21b4ff",
+    "pair_claim_id": "claim_4",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_228e21b4ff"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_0f94a5abc0",
+    "source_split": "Train",
+    "pair_id": "causal_04eede6ab56b1ed591a0",
+    "source_parent_comment_id": "comment_9da421ec55",
+    "source_child_comment_id": "comment_228e21b4ff",
+    "pair_claim_id": "claim_5",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_228e21b4ff"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_2b87f3e7c2",
+    "source_split": "Train",
+    "pair_id": "causal_2f9f904b833e5d11801c",
+    "source_parent_comment_id": "comment_f183a9fb0d",
+    "source_child_comment_id": "comment_04ace286ea",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_f183a9fb0d"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_2b87f3e7c2",
+    "source_split": "Train",
+    "pair_id": "causal_2f9f904b833e5d11801c",
+    "source_parent_comment_id": "comment_f183a9fb0d",
+    "source_child_comment_id": "comment_04ace286ea",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_f183a9fb0d"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_2b87f3e7c2",
+    "source_split": "Train",
+    "pair_id": "causal_2f9f904b833e5d11801c",
+    "source_parent_comment_id": "comment_f183a9fb0d",
+    "source_child_comment_id": "comment_04ace286ea",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_04ace286ea"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_9c3748140a143b0176b3",
+    "source_parent_comment_id": "comment_f03bb0d655",
+    "source_child_comment_id": "comment_2aa81108fb",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_f03bb0d655"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_9c3748140a143b0176b3",
+    "source_parent_comment_id": "comment_f03bb0d655",
+    "source_child_comment_id": "comment_2aa81108fb",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_f03bb0d655"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_9c3748140a143b0176b3",
+    "source_parent_comment_id": "comment_f03bb0d655",
+    "source_child_comment_id": "comment_2aa81108fb",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_f03bb0d655"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_9c3748140a143b0176b3",
+    "source_parent_comment_id": "comment_f03bb0d655",
+    "source_child_comment_id": "comment_2aa81108fb",
+    "pair_claim_id": "claim_4",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_2aa81108fb"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "revise",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_b29d072144205d9b6130",
+    "source_parent_comment_id": "comment_2aa81108fb",
+    "source_child_comment_id": "comment_3111d0b4ed",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_2aa81108fb"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_b29d072144205d9b6130",
+    "source_parent_comment_id": "comment_2aa81108fb",
+    "source_child_comment_id": "comment_3111d0b4ed",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_3111d0b4ed"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_b29d072144205d9b6130",
+    "source_parent_comment_id": "comment_2aa81108fb",
+    "source_child_comment_id": "comment_3111d0b4ed",
+    "pair_claim_id": "claim_3",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_3111d0b4ed"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "negated",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_a3f9652b691e5a5c872e",
+    "source_parent_comment_id": "comment_c3654aabf4",
+    "source_child_comment_id": "comment_228bbaaca8",
+    "pair_claim_id": "claim_1",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_c3654aabf4"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "normalization_status": "direct"
+  },
+  {
+    "source_discussion_id": "discussion_79eeb6cb7e",
+    "source_split": "Train",
+    "pair_id": "causal_a3f9652b691e5a5c872e",
+    "source_parent_comment_id": "comment_c3654aabf4",
+    "source_child_comment_id": "comment_228bbaaca8",
+    "pair_claim_id": "claim_2",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_228bbaaca8"
+    ],
+    "stage": 3,
+    "model": "gpt-oss:120b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success",
+    "decision": "accept",
+    "polarity": "negated",
+    "certainty": "certain",
+    "normalization_status": "normalized"
+  }
+]

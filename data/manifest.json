@@ -1,0 +1,151 @@
+{
+  "format_version": 3,
+  "edition": "source_ids_normalized",
+  "discussion_count": 5,
+  "validation": "ObG comment and parent-child joins passed",
+  "source_dataset": [
+    {
+      "path": "Dataset/Train.json",
+      "sha256": "2fe672bf90cece739c6f6d444fb80a8d42eecf3a198e760278504c41d090c1d3"
+    },
+    {
+      "path": "Dataset/Test.json",
+      "sha256": "381c74460668df591d70b8720256edc6ccbc1764ab325ed2f3421a949f4b989b"
+    }
+  ],
+  "files": {
+    "01_comment_pair_asr_annotations.json": {
+      "records": 120,
+      "bytes": 60690,
+      "sha256": "18d6f9e52ed6f6d08654e9462b124ce948658cf63e67bee189254344a3b14b5a"
+    },
+    "05b_comment_causal_relation_link_judgments.json": {
+      "records": 141,
+      "bytes": 51410,
+      "sha256": "48bb5238085820e7a4ec6c9c7f7cf69f2f4f56d49a645130c8e3857789d13841"
+    },
+    "05a_comment_topic_link_judgments.json": {
+      "records": 167,
+      "bytes": 56839,
+      "sha256": "2cfd01bf634af30d583b0ea6fd3fbb193886b24ab28b941906005e2b08c91506"
+    },
+    "07_discussion_processing_summary.json": {
+      "records": 5,
+      "bytes": 1295,
+      "sha256": "175f9a9781f7febe0fd37b27cfd151106de680dc6cbddcf8cc3e1bb2d7531e84"
+    },
+    "06b_comment_causal_relation_attitudes.json": {
+      "records": 27,
+      "bytes": 9609,
+      "sha256": "b8388f88d2f0e3e8ddfdb3d5cfa0d2f3fc286041b3791182be916a9c45ef794f"
+    },
+    "06a_comment_topic_attitudes.json": {
+      "records": 62,
+      "bytes": 20769,
+      "sha256": "f91ae8d753c0480cd9f84add8a141b81f893a07362c5dd979eb96d2368d3f83e"
+    },
+    "02_comment_pair_topic_extraction_records.json": {
+      "records": 47,
+      "bytes": 29367,
+      "sha256": "690f9bb6a402427ddd7084cc4a5541903e4d74fc0b111e76ebcffbbbcfa3af0d"
+    },
+    "03_discussion_topic_index.json": {
+      "records": 46,
+      "bytes": 8247,
+      "sha256": "85a38404968de95581c8c73026c4b97dc4f6efd08aacd6b14741f2d7f3456d43"
+    },
+    "04_topic_causal_relation_judgments.json": {
+      "records": 518,
+      "bytes": 230465,
+      "sha256": "ec114d42c3e7cec993cf4621a9c117f8d8a92d55d9c8fe423d046d908c5d22d4"
+    }
+  },
+  "processing_order": [
+    {
+      "order": 1,
+      "files": [
+        "01_comment_pair_asr_annotations.json"
+      ],
+      "depends_on": [],
+      "description": "親子コメントのASR付与"
+    },
+    {
+      "order": 2,
+      "files": [
+        "02_comment_pair_topic_extraction_records.json"
+      ],
+      "depends_on": [
+        "01_comment_pair_asr_annotations.json"
+      ],
+      "description": "ASRを手掛かりにペア別Topic抽出"
+    },
+    {
+      "order": 3,
+      "files": [
+        "03_discussion_topic_index.json"
+      ],
+      "depends_on": [
+        "02_comment_pair_topic_extraction_records.json"
+      ],
+      "description": "ペア別Topicの結合・再採番・完全一致重複除去"
+    },
+    {
+      "order": 4,
+      "files": [
+        "04_topic_causal_relation_judgments.json"
+      ],
+      "depends_on": [
+        "03_discussion_topic_index.json"
+      ],
+      "description": "Topic間の因果仮説・関係判定"
+    },
+    {
+      "order": 5,
+      "files": [
+        "05a_comment_topic_link_judgments.json",
+        "05b_comment_causal_relation_link_judgments.json"
+      ],
+      "depends_on": [
+        "04_topic_causal_relation_judgments.json"
+      ],
+      "description": "採択因果関係の端点Topic、および因果関係とコメントの対応付け（並列の2タスク）"
+    },
+    {
+      "order": 6,
+      "files": [
+        "06a_comment_topic_attitudes.json"
+      ],
+      "depends_on": [
+        "05a_comment_topic_link_judgments.json"
+      ],
+      "description": "命題全体を対象とするリンクに態度付与"
+    },
+    {
+      "order": 6,
+      "files": [
+        "06b_comment_causal_relation_attitudes.json"
+      ],
+      "depends_on": [
+        "05b_comment_causal_relation_link_judgments.json"
+      ],
+      "description": "関係を対象とするリンクに態度付与"
+    },
+    {
+      "order": 7,
+      "files": [
+        "07_discussion_processing_summary.json"
+      ],
+      "depends_on": [
+        "01_comment_pair_asr_annotations.json",
+        "02_comment_pair_topic_extraction_records.json",
+        "03_discussion_topic_index.json",
+        "04_topic_causal_relation_judgments.json",
+        "05a_comment_topic_link_judgments.json",
+        "05b_comment_causal_relation_link_judgments.json",
+        "06a_comment_topic_attitudes.json",
+        "06b_comment_causal_relation_attitudes.json"
+      ],
+      "description": "全処理の件数・到達状況の要約（独立した推論処理ではない）"
+    }
+  ]
+}
