@@ -1,0 +1,63 @@
+{
+  "format_version": 3,
+  "edition": "source_ids_normalized",
+  "discussion_count": 5,
+  "validation": "ObG comment and parent-child joins passed",
+  "source_dataset": [
+    {
+      "path": "Dataset/Train.json",
+      "sha256": "2fe672bf90cece739c6f6d444fb80a8d42eecf3a198e760278504c41d090c1d3"
+    },
+    {
+      "path": "Dataset/Test.json",
+      "sha256": "381c74460668df591d70b8720256edc6ccbc1764ab325ed2f3421a949f4b989b"
+    }
+  ],
+  "files": {
+    "asr_annotations.json": {
+      "records": 120,
+      "bytes": 60690,
+      "sha256": "18d6f9e52ed6f6d08654e9462b124ce948658cf63e67bee189254344a3b14b5a"
+    },
+    "comment_relation_labels.json": {
+      "records": 141,
+      "bytes": 51410,
+      "sha256": "48bb5238085820e7a4ec6c9c7f7cf69f2f4f56d49a645130c8e3857789d13841"
+    },
+    "comment_topic_labels.json": {
+      "records": 167,
+      "bytes": 56839,
+      "sha256": "2cfd01bf634af30d583b0ea6fd3fbb193886b24ab28b941906005e2b08c91506"
+    },
+    "discourse_summary.json": {
+      "records": 5,
+      "bytes": 1295,
+      "sha256": "175f9a9781f7febe0fd37b27cfd151106de680dc6cbddcf8cc3e1bb2d7531e84"
+    },
+    "relation_attitudes.json": {
+      "records": 27,
+      "bytes": 9609,
+      "sha256": "b8388f88d2f0e3e8ddfdb3d5cfa0d2f3fc286041b3791182be916a9c45ef794f"
+    },
+    "topic_attitudes.json": {
+      "records": 62,
+      "bytes": 20769,
+      "sha256": "f91ae8d753c0480cd9f84add8a141b81f893a07362c5dd979eb96d2368d3f83e"
+    },
+    "topic_extractions.json": {
+      "records": 47,
+      "bytes": 29367,
+      "sha256": "690f9bb6a402427ddd7084cc4a5541903e4d74fc0b111e76ebcffbbbcfa3af0d"
+    },
+    "topic_inventory.json": {
+      "records": 46,
+      "bytes": 8247,
+      "sha256": "85a38404968de95581c8c73026c4b97dc4f6efd08aacd6b14741f2d7f3456d43"
+    },
+    "topic_relations.json": {
+      "records": 518,
+      "bytes": 230465,
+      "sha256": "ec114d42c3e7cec993cf4621a9c117f8d8a92d55d9c8fe423d046d908c5d22d4"
+    }
+  }
+}
