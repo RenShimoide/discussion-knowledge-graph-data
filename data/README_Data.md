@@ -1,73 +1,142 @@
-# ObG Discourse Tool: Discussions Data with Original ID References
+# Data Schema and File Guide
 
-This dataset consists of UTF-8 JSON arrays containing original IDs, generated labels, and structural information, without including ObG comment text or quotations[cite: 5]. Random `public_*` IDs are not used[cite: 5].
+This directory contains UTF-8 JSON outputs for **five Old but Gold (ObG) discussion chains processed with the same pipeline described in the NLP4KGC 2026 paper _From Comments to Discussion Knowledge Graphs: Modeling Context Dependent Opinions and Topic Evolution_**.
+
+Two of the released discussions are presented in detail in the paper. The other released discussions provide additional machine-readable instances showing that the same construction pipeline has been used beyond those two case studies.
+
+The release preserves source IDs and generated graph annotations, but does **not** redistribute the full ObG comment texts, quotations, source spans, or the original ObG stance / relation / quality annotations. Generated Topic Triple fields may retain words or short phrases derived from the source comments; they are pipeline outputs and are not intended to substitute for the original comments.
+
+## Correspondence to the Proposed Representation
+
+The paper separates the representation into two layers:
+
+- **Comment Discussion Graph (CDG):** participants/comments, reply structure, and argumentative relations associated with the observable discussion structure.
+- **Topic Assumption Graph (TAG):** discussion-level Topic Triples and relations reconstructed from the discussion.
+
+The two layers are connected by links from comments to individual Topic Triples or Topic–Topic relations, together with the comment-specific attitudes **support**, **rebuttal**, and **qualification**.
+
+The repository stores the generated outputs used to instantiate these structures. It does not claim that the released JSON alone is a complete end-to-end reproduction package for every intermediate LLM decision.
 
 ## ID Conventions
 
-| Field                                                  | Meaning / Reference                                                                                          |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| `source_discussion_id`                                 | ObG discussion key. Shared across all files[cite: 5].                                                                 |
-| `source_split`                                         | The original ObG split, either Train or Test. This is different from any split created during preprocessing[cite: 5]. |
-| `source_comment_id`                                    | ObG `CommentID`[cite: 5].                                                                                             |
-| `source_parent_comment_id` / `source_child_comment_id` | Original parent and child comment IDs used for ASR and Topic extraction[cite: 5].                                     |
-| `source_comment_ids`                                   | List of original comment IDs that provide the evidence for a Topic. The comment text itself is not included[cite: 5]. |
-| `pair_id`                                              | Parent-child pair ID generated during tool preprocessing. This is not an original ObG field[cite: 5].                 |
-| `pair_claim_id`                                        | Extracted Topic ID within a parent-child pair[cite: 5].                                                               |
-| `topic_id`                                             | Topic ID after deduplication and reassignment. See `03_discussion_topic_index.json`[cite: 3, 4, 5].                                        |
-| `relation_id`                                          | ID assigned to a causal-relation candidate. See `04_topic_causal_relation_judgments.json`[cite: 3, 4, 5].                                           |
-| `from_topic_id` / `to_topic_id`                        | Source and target Topic IDs supplied as input to relation classification[cite: 5].                                    |
+| Field | Meaning / Reference |
+| --- | --- |
+| `source_discussion_id` | ObG discussion key. Interpret generated IDs within this discussion. |
+| `source_split` | Original ObG split (`Train` or `Test`) used by the source data. |
+| `source_comment_id` | Original ObG `CommentID`. |
+| `source_parent_comment_id` / `source_child_comment_id` | Original parent and child comment IDs used for pair-level ASR and Topic processing. |
+| `source_comment_ids` | Original comment IDs used as provenance for a discussion-level Topic. Full comment text is not included here. |
+| `pair_id` | Parent–child pair ID generated during preprocessing; not an original ObG field. |
+| `pair_claim_id` | Topic identifier within a parent–child extraction record. |
+| `topic_id` | Discussion-level Topic ID after consolidation / reassignment. See `03_discussion_topic_index.json`. |
+| `relation_id` | Identifier assigned to a Topic–Topic causal-relation candidate. See `04_topic_causal_relation_judgments.json`. |
+| `from_topic_id` / `to_topic_id` | The two Topic IDs supplied to the relation-classification task. Use `direction` for the inferred causal direction. |
 
-Generated IDs must always be interpreted together with `source_discussion_id`[cite: 5]. A `pair_claim_id` additionally requires its corresponding `pair_id`[cite: 5].
+Generated IDs must be interpreted together with `source_discussion_id`. A `pair_claim_id` must additionally be interpreted with its corresponding `pair_id`.
 
-The `topic_id` field in `02_comment_pair_topic_extraction_records.json` maps each pair-level extraction to its downstream Topic[cite: 3, 4, 5]. This mapping has been verified based on consistency in the Triple, polarity, conditions, evidence, and related attributes[cite: 5].
+The `topic_id` field in `02_comment_pair_topic_extraction_records.json` maps a pair-level extraction to its downstream discussion-level Topic in `03_discussion_topic_index.json`.
 
-For comment links and attitude annotations, Topic-oriented files use `topic_id` as the target, while relation-oriented files use `relation_id`[cite: 5]. Ambiguous `target_id` fields or redundant `target_type` fields are not used[cite: 5].
+For Phase II outputs, Topic-oriented files use `topic_id` as the target, while relation-oriented files use `relation_id`.
 
-`from_topic_id` and `to_topic_id` represent the order in which Topics were provided as input[cite: 5]. The inferred causal direction should be determined from the `direction` field[cite: 5].
+## Topic Triple Representation
 
-## Joining with ObG
+Each record in `03_discussion_topic_index.json` contains the existing discussion-level Topic metadata plus:
 
-Using the split specified by `source_split`, load `discussions[source_discussion_id].messages` from either `Dataset/Train.json` or `Dataset/Test.json`, and join records by matching `source_comment_id` and related fields against `CommentID`[cite: 5].
+```json
+"topic_triple": {
+  "surface": {
+    "subject": "...",
+    "predicate": "...",
+    "object": "..."
+  },
+  "normalized": {
+    "subject": "...",
+    "predicate": "...",
+    "object": "..."
+  }
+}
+```
 
-For a direct parent-child reply relation, the parent comment ID is given by the child's `responding_to.comment_id`[cite: 5].
+- `surface` is the Topic Triple before normalization, copied from the saved pipeline output.
+- `normalized` is the final normalized Topic Triple used for the discussion-level Topic, also copied from the saved pipeline output.
+- The current release contains **46 discussion-level Topics**. No Topic records or provenance IDs were added when the Triple contents were exposed.
+- Seven normalized `object` values are empty strings because that is the value recorded by the pipeline; they have not been manually filled or reconstructed.
 
-The SHA-256 hashes of the original source files are recorded in `manifest.json`[cite: 5]. No private ID mapping table is required[cite: 5].
+The Topic Triple contents are generated outputs. Full ObG comments, dedicated quotation fields, and source-span fields are not included.
+
+## Argumentative Semantic Relations (ASRs)
+
+`01_comment_pair_asr_annotations.json` contains judgments for the four coarse-grained **Argumentative Semantic Relations (ASRs)** used as contextual cues in the paper:
+
+- `afsj`: Argument from Supportive Justification (AfSJ)
+- `afr`: Argument from Rebuttal (AfR)
+- `afcc`: Argument from Causal Consequence (AfCC)
+- `afac`: Argument from Analogy or Comparison (AfAC)
+
+These ASRs are evaluated on parent–child comment pairs and are used as signals for Topic reconstruction; they should not be interpreted as a complete taxonomy of Walton's Argumentation Schemes.
+
+## Topic–Topic Causal Relation Labels
+
+`04_topic_causal_relation_judgments.json` contains all evaluated Topic-pair candidates. Its implementation labels map to the terminology used in the paper as follows:
+
+| JSON value (`final_causal_status`) | Paper terminology | Retained in Topic structure |
+| --- | --- | --- |
+| `Explicit` | explicit causal | Yes |
+| `Implicit` | implicit causal | Yes |
+| `Unsupported` | unrelated | No |
+
+The current release contains **518** evaluated causal-relation candidates: **9 Explicit**, **13 Implicit**, and **496 Unsupported**. Thus, **22** Topic–Topic causal relations are retained under the representation described in the paper.
+
+`from_topic_id` and `to_topic_id` describe the input ordering of the candidate pair. The inferred relation direction is stored separately in `direction`.
+
+## Phase II Links and Attitudes
+
+Phase II is represented by two parallel target types:
+
+- `05a_comment_topic_link_judgments.json` identifies links from comments to individual Topic Triples.
+- `05b_comment_causal_relation_link_judgments.json` identifies links from comments to Topic–Topic causal relations.
+- `06a_comment_topic_attitudes.json` assigns **support**, **rebuttal**, or **qualification** to identified Comment–Topic targets.
+- `06b_comment_causal_relation_attitudes.json` assigns the same three attitude types to identified Comment–Relation targets.
+
+These links provide the cross-layer connections between the observable discussion structure and the reconstructed Topic structure described in the paper.
 
 ## Files and Record Counts
 
-| File                                                  | Records |
-| ----------------------------------------------------- | ------: |
-| `07_discussion_processing_summary.json`               |       5 |
-| `01_comment_pair_asr_annotations.json`                |     120 |
-| `02_comment_pair_topic_extraction_records.json`       |      47 |
-| `03_discussion_topic_index.json`                      |      46 |
-| `04_topic_causal_relation_judgments.json`             |     518 |
-| `05a_comment_topic_link_judgments.json`               |     167 |
-| `05b_comment_causal_relation_link_judgments.json`      |     141 |
-| `06a_comment_topic_attitudes.json`                    |      62 |
-| `06b_comment_causal_relation_attitudes.json`          |      27 |
+| File | Records |
+| --- | ---: |
+| `01_comment_pair_asr_annotations.json` | 120 |
+| `02_comment_pair_topic_extraction_records.json` | 47 |
+| `03_discussion_topic_index.json` | 46 |
+| `04_topic_causal_relation_judgments.json` | 518 |
+| `05a_comment_topic_link_judgments.json` | 167 |
+| `05b_comment_causal_relation_link_judgments.json` | 141 |
+| `06a_comment_topic_attitudes.json` | 62 |
+| `06b_comment_causal_relation_attitudes.json` | 27 |
+| `07_discussion_processing_summary.json` | 5 |
 
-The dataset contains 35 comments, 46 C2 Topics, and 518 causal-relation candidates, of which 22 were accepted[cite: 5]. A total of 25 Topics were selected as linking targets[cite: 5].
+Across the five released discussions, the data reference **35 source comments** and contain **46 discussion-level Topics**. The 518 Topic-pair candidates include the 22 retained explicit/implicit causal relations described above.
 
-Completion of Stages 1–3 has been confirmed for all selected targets[cite: 5]. This does **not** mean that attitude labels were assigned to all 46 Topics[cite: 5].
+The record counts, byte sizes, and SHA-256 values of the released JSON files are recorded in `manifest.json`.
 
-The ASR annotations contain successful Stage 3 results for the five discussions[cite: 5].
+## Joining with the Original ObG Dataset
 
-The ASR labels are defined as follows[cite: 5]:
+To inspect the generated structures together with the original discussion text, obtain the ObG dataset separately. Using `source_split`, locate `discussions[source_discussion_id].messages` in the corresponding source split and join the released records using `source_comment_id`, `source_parent_comment_id`, `source_child_comment_id`, or `source_comment_ids` against ObG `CommentID` values.
 
-* `AfSJ`: Supportive Justification[cite: 5]
-* `AfR`: Rebuttal[cite: 5]
-* `AfCC`: Causal Consequence[cite: 5]
-* `AfAC`: Analogy or Comparison[cite: 5]
+For a direct parent–child reply relation, the parent ID corresponds to the child's `responding_to.comment_id` in the source data used by the pipeline.
 
-## Scope of Reproducibility
+The SHA-256 hashes of the ObG source files used during processing are recorded under `source_dataset` in `manifest.json`. The original ObG data themselves are not included in this repository.
 
-`03_discussion_topic_index.json` includes `topic_triple.surface` and `topic_triple.normalized` for each existing Topic. `surface` represents the Topic Triple before normalization, whereas `normalized` represents the final normalized Topic Triple. Both are copied verbatim from saved pipeline outputs. When multiple distinct surface Triples were consolidated into one Topic, `surface` is an array; otherwise it is an object. Seven normalized `object` values remain empty strings, as recorded by the pipeline. No Topic records or existing provenance fields have been changed.
+## Reproducibility and Release Scope
 
-The released data allow verification of correspondence between the original comments and generated labels, parent-child relations, and references to Topics[cite: 5].
+The public JSON files provide inspectable final structured outputs and provenance for the five released discussions. In particular, they make it possible to inspect:
 
-Apart from the extracted surface and normalized Topic Triples in `03_discussion_topic_index.json`, the dataset does not include hypothesis text, quotations, reasoning justifications, inference traces, or existing stance annotations from ObG. These Topic representations do not guarantee full reproducibility of the complete inference process.
+- pair-level ASR results;
+- pair-level Topic extraction records;
+- surface and normalized discussion-level Topic Triples;
+- explicit / implicit causal Topic–Topic judgments;
+- Comment–Topic and Comment–Relation links; and
+- support / rebuttal / qualification attitudes.
 
-Model and prompt versions are retained as provenance information for the processing pipeline[cite: 5].
+Where present, records retain fields such as `stage`, `model`, `prompt_version`, `status`, and confidence values from the saved pipeline outputs.
 
-The original ObG dataset must be obtained separately[cite: 5].
+The repository does **not** include the full ObG comments, dedicated quotation/source-span fields, reasoning justifications, chain-of-thought, or every intermediate LLM judgment. The prompt set used for the submission is distributed separately as supplementary material. Accordingly, this repository should be understood as the machine-readable data release supporting inspection of the instantiated representation, rather than as a standalone package for reproducing the complete inference process from raw text.
