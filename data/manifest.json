@@ -51,8 +51,8 @@
     },
     "03_discussion_topic_index.json": {
       "records": 46,
-      "bytes": 8247,
-      "sha256": "85a38404968de95581c8c73026c4b97dc4f6efd08aacd6b14741f2d7f3456d43"
+      "bytes": 23532,
+      "sha256": "a45947e561af8425c0d9ee0f40843d7e1a159eb7b9ab8024cedd53ddc5e7d23e"
     },
     "04_topic_causal_relation_judgments.json": {
       "records": 518,

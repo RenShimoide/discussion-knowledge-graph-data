@@ -62,9 +62,11 @@ The ASR labels are defined as follows[cite: 5]:
 
 ## Scope of Reproducibility
 
+`03_discussion_topic_index.json` includes `topic_triple.surface` and `topic_triple.normalized` for each existing Topic. `surface` represents the Topic Triple before normalization, whereas `normalized` represents the final normalized Topic Triple. Both are copied verbatim from saved pipeline outputs. When multiple distinct surface Triples were consolidated into one Topic, `surface` is an array; otherwise it is an object. Seven normalized `object` values remain empty strings, as recorded by the pipeline. No Topic records or existing provenance fields have been changed.
+
 The released data allow verification of correspondence between the original comments and generated labels, parent-child relations, and references to Topics[cite: 5].
 
-However, the dataset does not include Triple or hypothesis text, quotations, reasoning justifications, inference traces, or existing stance annotations from ObG[cite: 5]. Therefore, it does not guarantee full reproducibility of proposition content or the complete inference process[cite: 5].
+Apart from the extracted surface and normalized Topic Triples in `03_discussion_topic_index.json`, the dataset does not include hypothesis text, quotations, reasoning justifications, inference traces, or existing stance annotations from ObG. These Topic representations do not guarantee full reproducibility of the complete inference process.
 
 Model and prompt versions are retained as provenance information for the processing pipeline[cite: 5].
 
