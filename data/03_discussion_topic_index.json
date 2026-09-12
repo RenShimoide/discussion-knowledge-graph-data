@@ -5,7 +5,19 @@
     "topic_id": "claim_1",
     "source_comment_ids": [
       "comment_9da421ec55"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "texas",
+        "predicate": "should be given to",
+        "object": "mexico"
+      },
+      "normalized": {
+        "subject": "Texas",
+        "predicate": "should be given to",
+        "object": "Mexico"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_0f94a5abc0",
@@ -13,7 +25,19 @@
     "topic_id": "claim_2",
     "source_comment_ids": [
       "comment_9da421ec55"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "border states",
+        "predicate": "would have stopped this",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "border states",
+        "predicate": "would have stopped this",
+        "object": ""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_0f94a5abc0",
@@ -21,7 +45,19 @@
     "topic_id": "claim_3",
     "source_comment_ids": [
       "comment_9da421ec55"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "texas",
+        "predicate": "has been",
+        "object": "a flop"
+      },
+      "normalized": {
+        "subject": "Texas",
+        "predicate": "has been",
+        "object": "a flop"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_0f94a5abc0",
@@ -29,7 +65,19 @@
     "topic_id": "claim_4",
     "source_comment_ids": [
       "comment_9da421ec55"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "need to dump",
+        "object": "it"
+      },
+      "normalized": {
+        "subject": "we",
+        "predicate": "need to dump",
+        "object": "Texas"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_0f94a5abc0",
@@ -37,7 +85,19 @@
     "topic_id": "claim_6",
     "source_comment_ids": [
       "comment_9da421ec55"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "border states",
+        "predicate": "would have stopped this",
+        "object": "50 years ago"
+      },
+      "normalized": {
+        "subject": "border states",
+        "predicate": "would have stopped this",
+        "object": "50 years ago"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_0f94a5abc0",
@@ -45,7 +105,19 @@
     "topic_id": "claim_7",
     "source_comment_ids": [
       "comment_9da421ec55"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "texas",
+        "predicate": "has been",
+        "object": "a flop"
+      },
+      "normalized": {
+        "subject": "Texas",
+        "predicate": "has been",
+        "object": "a failure"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_0f94a5abc0",
@@ -53,7 +125,19 @@
     "topic_id": "claim_8",
     "source_comment_ids": [
       "comment_228e21b4ff"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "states",
+        "predicate": "not up to",
+        "object": "enforce the border"
+      },
+      "normalized": {
+        "subject": "states",
+        "predicate": "are not responsible for enforcing",
+        "object": "the border"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_0f94a5abc0",
@@ -61,7 +145,19 @@
     "topic_id": "claim_9",
     "source_comment_ids": [
       "comment_228e21b4ff"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the federal government",
+        "predicate": "has sued",
+        "object": "our state"
+      },
+      "normalized": {
+        "subject": "the federal government",
+        "predicate": "has sued",
+        "object": "the state"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_2b87f3e7c2",
@@ -69,7 +165,19 @@
     "topic_id": "claim_1",
     "source_comment_ids": [
       "comment_f183a9fb0d"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "in Vietnam a mantra we say: \"Nhập gia tuỳ tục\"",
+        "predicate": "means that",
+        "object": "when you visit a place, you must follow that place lifestyle"
+      },
+      "normalized": {
+        "subject": "the Vietnamese mantra 'Nhập gia tuỳ tục'",
+        "predicate": "means",
+        "object": "one must follow the lifestyle of a place when visiting it"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_2b87f3e7c2",
@@ -77,7 +185,19 @@
     "topic_id": "claim_2",
     "source_comment_ids": [
       "comment_f183a9fb0d"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "when you join a new company, a new society",
+        "predicate": "you need to follow",
+        "object": "their cultures"
+      },
+      "normalized": {
+        "subject": "one",
+        "predicate": "needs to follow",
+        "object": "the culture of a new company or society when joining them"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_2b87f3e7c2",
@@ -85,7 +205,19 @@
     "topic_id": "claim_3",
     "source_comment_ids": [
       "comment_04ace286ea"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "In Spain (and I'm sure in other Hispanic American countries too) we say: \"Allá donde fueres, haz lo que vieres.\"",
+        "predicate": "is a proverb in Old Spanish meaning",
+        "object": "\"There where you go, do as you see.\""
+      },
+      "normalized": {
+        "subject": "the Spanish proverb 'Allá donde fueres, haz lo que vieres'",
+        "predicate": "means",
+        "object": "\"There where you go, do as you see\""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -93,7 +225,19 @@
     "topic_id": "claim_1",
     "source_comment_ids": [
       "comment_61a903e26b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US",
+        "predicate": "must tighten",
+        "object": "the borders"
+      },
+      "normalized": {
+        "subject": "US",
+        "predicate": "must tighten",
+        "object": "the borders"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -101,7 +245,19 @@
     "topic_id": "claim_2",
     "source_comment_ids": [
       "comment_61a903e26b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US",
+        "predicate": "must help",
+        "object": "Mexico develop economically"
+      },
+      "normalized": {
+        "subject": "US",
+        "predicate": "must help",
+        "object": "Mexico develop economically"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -109,7 +265,19 @@
     "topic_id": "claim_3",
     "source_comment_ids": [
       "comment_61a903e26b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US",
+        "predicate": "spending billions of dollors for",
+        "object": "their care"
+      },
+      "normalized": {
+        "subject": "US",
+        "predicate": "spends billions of dollars on",
+        "object": "care for illegal immigrants"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -117,7 +285,19 @@
     "topic_id": "claim_4",
     "source_comment_ids": [
       "comment_408b04034b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people crossing the border",
+        "predicate": "are not only",
+        "object": "people of Mexico"
+      },
+      "normalized": {
+        "subject": "people crossing the border",
+        "predicate": "are not only",
+        "object": "people from Mexico"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -125,7 +305,19 @@
     "topic_id": "claim_5",
     "source_comment_ids": [
       "comment_408b04034b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people crossing the border",
+        "predicate": "are coming from",
+        "object": "any part of the world"
+      },
+      "normalized": {
+        "subject": "people crossing the border",
+        "predicate": "come from",
+        "object": "any part of the world"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -133,7 +325,19 @@
     "topic_id": "claim_6",
     "source_comment_ids": [
       "comment_408b04034b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people crossing the border",
+        "predicate": "use",
+        "object": "the south border"
+      },
+      "normalized": {
+        "subject": "people crossing the border",
+        "predicate": "use",
+        "object": "the south border"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -141,7 +345,19 @@
     "topic_id": "claim_7",
     "source_comment_ids": [
       "comment_408b04034b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are coming from",
+        "object": "any part of the world"
+      },
+      "normalized": {
+        "subject": "immigrants",
+        "predicate": "come from",
+        "object": "any part of the world"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -149,7 +365,19 @@
     "topic_id": "claim_8",
     "source_comment_ids": [
       "comment_408b04034b"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are using",
+        "object": "the south border"
+      },
+      "normalized": {
+        "subject": "immigrants",
+        "predicate": "use",
+        "object": "the south border"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -157,7 +385,19 @@
     "topic_id": "claim_9",
     "source_comment_ids": [
       "comment_6fda8071df"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Mexico",
+        "predicate": "can be asked to close its South border if",
+        "object": "US helps Mexico develop trained work force and create jobs"
+      },
+      "normalized": {
+        "subject": "Mexico",
+        "predicate": "can be asked to close its South border if",
+        "object": "the US helps Mexico develop a trained workforce and create jobs"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -165,7 +405,19 @@
     "topic_id": "claim_10",
     "source_comment_ids": [
       "comment_6fda8071df"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The main issue",
+        "predicate": "is",
+        "object": "Mexico"
+      },
+      "normalized": {
+        "subject": "Mexico",
+        "predicate": "is",
+        "object": "the main issue"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -173,7 +425,19 @@
     "topic_id": "claim_11",
     "source_comment_ids": [
       "comment_6fda8071df"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US helps Mexico develop trained work force and create jobs",
+        "predicate": "is a precondition for asking Mexico to close its South border",
+        "object": "Mexico closing its South border"
+      },
+      "normalized": {
+        "subject": "US assistance in developing workforce and creating jobs",
+        "predicate": "is a precondition for requiring Mexico to close its southern border",
+        "object": "Mexico closing its southern border"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -181,7 +445,19 @@
     "topic_id": "claim_12",
     "source_comment_ids": [
       "comment_e6773d697d"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people from America",
+        "predicate": "went to Mexico to try to teach the Mexicans how to farm with automated equipment and they refused",
+        "object": "choosing to do it the old antiquated way"
+      },
+      "normalized": {
+        "subject": "Americans",
+        "predicate": "attempted to teach Mexicans automated farming but were refused by Mexicans who chose traditional methods",
+        "object": "Mexicans"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -189,7 +465,19 @@
     "topic_id": "claim_13",
     "source_comment_ids": [
       "comment_e6773d697d"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people from America",
+        "predicate": "went to Mexico to try to teach the Mexicans how to farm with automated equipment and they refused, choosing to do it the old antiquated way",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "people from America",
+        "predicate": "tried to teach Mexicans automated farming but were refused by Mexicans who chose traditional methods",
+        "object": ""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -197,7 +485,19 @@
     "topic_id": "claim_14",
     "source_comment_ids": [
       "comment_0f0edf5c8e"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "What is needed now",
+        "predicate": "is",
+        "object": "creation of jobs in Mexico, in addition to technology transfer"
+      },
+      "normalized": {
+        "subject": "Mexico needs job creation and technology transfer",
+        "predicate": "needs",
+        "object": "job creation and technology transfer"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -205,7 +505,19 @@
     "topic_id": "claim_15",
     "source_comment_ids": [
       "comment_0f0edf5c8e"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US industry",
+        "predicate": "can do it",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "US industry",
+        "predicate": "can achieve",
+        "object": "job creation and technology transfer in Mexico"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -213,7 +525,19 @@
     "topic_id": "claim_16",
     "source_comment_ids": [
       "comment_0f0edf5c8e"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "there",
+        "predicate": "is no",
+        "object": "political will"
+      },
+      "normalized": {
+        "subject": "political will",
+        "predicate": "does not exist",
+        "object": ""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -221,7 +545,19 @@
     "topic_id": "claim_17",
     "source_comment_ids": [
       "comment_0f0edf5c8e"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Mexico",
+        "predicate": "has made a shift in macroeconomics about 20 years ago and got slightly better",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "Mexico",
+        "predicate": "shifted its macroeconomics and improved",
+        "object": ""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -229,7 +565,19 @@
     "topic_id": "claim_18",
     "source_comment_ids": [
       "comment_0f0edf5c8e"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "should focus on",
+        "object": "microeconomics now"
+      },
+      "normalized": {
+        "subject": "Mexico",
+        "predicate": "should focus on",
+        "object": "microeconomics"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_32291eaac8",
@@ -237,7 +585,19 @@
     "topic_id": "claim_19",
     "source_comment_ids": [
       "comment_0f0edf5c8e"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "MIT's Poverty Action Lab and such institutions",
+        "predicate": "can help",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "MIT's Poverty Action Lab and similar institutions",
+        "predicate": "can provide assistance",
+        "object": ""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_4fe555337f",
@@ -245,7 +605,19 @@
     "topic_id": "claim_1",
     "source_comment_ids": [
       "comment_002ef13f72"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "feel like Denmark is home",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "feel like Denmark is home",
+        "object": ""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_4fe555337f",
@@ -253,7 +625,19 @@
     "topic_id": "claim_2",
     "source_comment_ids": [
       "comment_c7dd3061b2"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "can't stop speaking",
+        "object": "your mother language"
+      },
+      "normalized": {
+        "subject": "one",
+        "predicate": "cannot stop speaking",
+        "object": "one's mother language"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_4fe555337f",
@@ -261,7 +645,19 @@
     "topic_id": "claim_3",
     "source_comment_ids": [
       "comment_c7dd3061b2"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "can't stop speaking",
+        "object": "your mother language"
+      },
+      "normalized": {
+        "subject": "You",
+        "predicate": "cannot stop speaking",
+        "object": "your mother language"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_4fe555337f",
@@ -269,7 +665,19 @@
     "topic_id": "claim_4",
     "source_comment_ids": [
       "comment_5e7d8f9d8c"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "speak their language or translate for them",
+        "object": "what you just said"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "speak their language or translate for them",
+        "object": "what you just said"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_4fe555337f",
@@ -277,7 +685,19 @@
     "topic_id": "claim_5",
     "source_comment_ids": [
       "comment_5e7d8f9d8c"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "their language or translate for them"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "speak or translate into",
+        "object": "the natives' language"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_4fe555337f",
@@ -285,7 +705,19 @@
     "topic_id": "claim_6",
     "source_comment_ids": [
       "comment_72ee55acc4"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "would be better to speak in",
+        "object": "the language she's more comfortable with"
+      },
+      "normalized": {
+        "subject": "speaking in the language she is more comfortable with",
+        "predicate": "is better",
+        "object": ""
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_4fe555337f",
@@ -293,7 +725,19 @@
     "topic_id": "claim_7",
     "source_comment_ids": [
       "comment_72ee55acc4"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "speaking in the language she's more comfortable with",
+        "predicate": "allows to deliver",
+        "object": "the message in the best way possible"
+      },
+      "normalized": {
+        "subject": "speaking in her preferred language",
+        "predicate": "enables optimal delivery of",
+        "object": "the message"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -301,7 +745,19 @@
     "topic_id": "claim_1",
     "source_comment_ids": [
       "comment_f03bb0d655"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "this country",
+        "predicate": "was",
+        "object": "perfect"
+      },
+      "normalized": {
+        "subject": "Sweden",
+        "predicate": "was",
+        "object": "perfect"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -309,7 +765,19 @@
     "topic_id": "claim_2",
     "source_comment_ids": [
       "comment_f03bb0d655"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Sweden",
+        "predicate": "need to take",
+        "object": "harder measures"
+      },
+      "normalized": {
+        "subject": "Sweden",
+        "predicate": "needs to take",
+        "object": "harder measures"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -317,7 +785,19 @@
     "topic_id": "claim_3",
     "source_comment_ids": [
       "comment_f03bb0d655"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "harder measures",
+        "predicate": "prevent",
+        "object": "this country from falling apart"
+      },
+      "normalized": {
+        "subject": "harder measures",
+        "predicate": "prevent",
+        "object": "Sweden from falling apart"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -325,7 +805,19 @@
     "topic_id": "claim_4",
     "source_comment_ids": [
       "comment_2aa81108fb"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people like you",
+        "predicate": "caused",
+        "object": "this"
+      },
+      "normalized": {
+        "subject": "people like the speaker in Comment 1",
+        "predicate": "caused",
+        "object": "the situation described in the video"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -333,7 +825,19 @@
     "topic_id": "claim_5",
     "source_comment_ids": [
       "comment_2aa81108fb"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people like you",
+        "predicate": "caused this",
+        "object": "this"
+      },
+      "normalized": {
+        "subject": "people like the interlocutor",
+        "predicate": "caused",
+        "object": "the event"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -341,7 +845,19 @@
     "topic_id": "claim_6",
     "source_comment_ids": [
       "comment_3111d0b4ed"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "YOUR religion and culture",
+        "predicate": "causes it",
+        "object": "it"
+      },
+      "normalized": {
+        "subject": "the interlocutor's religion and culture",
+        "predicate": "cause",
+        "object": "the event"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -349,7 +865,19 @@
     "topic_id": "claim_7",
     "source_comment_ids": [
       "comment_3111d0b4ed"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Migrants",
+        "predicate": "are not",
+        "object": "the same"
+      },
+      "normalized": {
+        "subject": "Migrants",
+        "predicate": "are not",
+        "object": "the same"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -357,7 +885,19 @@
     "topic_id": "claim_8",
     "source_comment_ids": [
       "comment_c3654aabf4"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "He",
+        "predicate": "is from",
+        "object": "Bosnia"
+      },
+      "normalized": {
+        "subject": "He",
+        "predicate": "is from",
+        "object": "Bosnia"
+      }
+    }
   },
   {
     "source_discussion_id": "discussion_79eeb6cb7e",
@@ -365,6 +905,18 @@
     "topic_id": "claim_9",
     "source_comment_ids": [
       "comment_228bbaaca8"
-    ]
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "am not",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "I",
+        "predicate": "am not from",
+        "object": "Bosnia"
+      }
+    }
   }
 ]
