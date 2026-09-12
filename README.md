@@ -23,6 +23,8 @@ This repository contains dataset extensions, prompt specifications, and pipeline
 
 ## Data Pipeline & File Structure
 
+`data/03_discussion_topic_index.json` contains the existing discussion-level Topic IDs, provenance, and both the extracted surface and final normalized subject–predicate–object representations. The stored pipeline output is preserved verbatim, including seven empty normalized object values.
+
 The graph construction follows a sequential multi-stage extraction pipeline. Following Step 4, Steps **5a/6a** (topic targets) and **5b/6b** (relation targets) branch into two parallel tracks.
 
 > **Note for Reviewers**: Although `07_discussion_processing_summary.json` is generated last during execution (Step 7), inspecting it first provides a helpful high-level summary of overall metrics and completion statuses across all discussions.
