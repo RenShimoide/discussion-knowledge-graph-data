@@ -11,16 +11,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "people",
-        "predicate": "are allowed to come to your country and blatantly flout the rules with no consequences",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "people",
-        "predicate": "are allowed to enter countries and violate rules without consequences",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -35,16 +27,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "are facing consequences",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "people in the video",
-        "predicate": "are facing consequences",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -59,16 +43,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "The people in this video",
-        "predicate": "are legally applying for refugee status",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "The people in this video",
-        "predicate": "are legally applying for refugee status",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -83,16 +59,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the courts",
-        "predicate": "will evaluate their case and either accept or deport them",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "the courts",
-        "predicate": "will evaluate their case and either accept or deport them",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -107,16 +75,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "are facing",
-        "object": "consequences"
-      },
-      "normalized": {
-        "subject": "the people in the video",
-        "predicate": "are facing",
-        "object": "consequences"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -131,16 +91,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "The people in this video",
-        "predicate": "are legally applying for",
-        "object": "refugee status"
-      },
-      "normalized": {
-        "subject": "The people in this video",
-        "predicate": "are legally applying for",
-        "object": "refugee status"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -155,16 +107,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the courts",
-        "predicate": "will evaluate",
-        "object": "their case"
-      },
-      "normalized": {
-        "subject": "the courts",
-        "predicate": "will evaluate",
-        "object": "the case of the people in the video"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -179,16 +123,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the courts",
-        "predicate": "will either accept or deport",
-        "object": "them"
-      },
-      "normalized": {
-        "subject": "the courts",
-        "predicate": "will either accept or deport",
-        "object": "the people in the video"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -200,16 +136,8 @@
       "comment_98e94b0ef6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "China",
-        "predicate": "doesn't accept",
-        "object": "them back"
-      },
-      "normalized": {
-        "subject": "China",
-        "predicate": "does not accept",
-        "object": "the people in the video back"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -221,16 +149,8 @@
       "comment_98e94b0ef6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "is almost guaranteed",
-        "object": "they will stay"
-      },
-      "normalized": {
-        "subject": "the people in the video",
-        "predicate": "are almost guaranteed to stay",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -245,16 +165,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "entering a country illegally",
-        "predicate": "shows",
-        "object": "a level of contempt for the rules and values of that country"
-      },
-      "normalized": {
-        "subject": "entering a country illegally",
-        "predicate": "shows",
-        "object": "a level of contempt for the rules and values of that country"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -269,16 +181,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "entering a country illegally",
-        "predicate": "makes it less likely",
-        "object": "they're the type of people to follow the rules of the land whilst here"
-      },
-      "normalized": {
-        "subject": "entering a country illegally",
-        "predicate": "makes it less likely",
-        "object": "they will follow the rules of the land while present"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -293,16 +197,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "without borders",
-        "predicate": "you have",
-        "object": "no country"
-      },
-      "normalized": {
-        "subject": "absence of borders",
-        "predicate": "results in",
-        "object": "non-existence of a country"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -317,16 +213,8 @@
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "entering a country illegally",
-        "predicate": "poses a threat to",
-        "object": "the agricultural industry via introduced pests and diseases"
-      },
-      "normalized": {
-        "subject": "illegal entry",
-        "predicate": "threatens",
-        "object": "agricultural industry through pests and diseases"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -335,16 +223,8 @@
     "topic_id": "claim_15",
     "source_comment_ids": [],
     "topic_triple": {
-      "surface": {
-        "subject": "entering a country illegally",
-        "predicate": "poses a threat via",
-        "object": "spies, saboteurs, and terrorists"
-      },
-      "normalized": {
-        "subject": "illegal entry",
-        "predicate": "threatens via",
-        "object": "spies, saboteurs, and terrorists"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

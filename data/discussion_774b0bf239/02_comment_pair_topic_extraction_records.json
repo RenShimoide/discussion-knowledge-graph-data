@@ -7,16 +7,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "there",
-      "predicate": "is",
-      "object": "so much unrest"
-    },
-    "normalized_triple": {
-      "subject": "there",
-      "predicate": "is",
-      "object": "much unrest"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -33,16 +25,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "the Mexican president",
-      "predicate": "was holding them at the border",
-      "object": "them"
-    },
-    "normalized_triple": {
-      "subject": "the Mexican president",
-      "predicate": "was holding them at the border",
-      "object": "them"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -59,16 +43,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Mr.biden",
-      "predicate": "said to let them in",
-      "object": "them"
-    },
-    "normalized_triple": {
-      "subject": "Mr. Biden",
-      "predicate": "said to let them in",
-      "object": "them"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -85,16 +61,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "became",
-      "object": "our problem"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "became",
-      "object": "our problem"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",

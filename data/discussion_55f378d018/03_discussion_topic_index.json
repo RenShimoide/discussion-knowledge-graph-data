@@ -8,16 +8,8 @@
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "can't afford",
-        "object": "a baby"
-      },
-      "normalized": {
-        "subject": "They",
-        "predicate": "cannot afford",
-        "object": "a baby"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -29,16 +21,8 @@
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you people",
-        "predicate": "stole",
-        "object": "their wealth"
-      },
-      "normalized": {
-        "subject": "you people",
-        "predicate": "stole",
-        "object": "their wealth"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -50,16 +34,8 @@
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you people",
-        "predicate": "have been waging",
-        "object": "wars on them"
-      },
-      "normalized": {
-        "subject": "you people",
-        "predicate": "have been waging",
-        "object": "wars on them"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -71,16 +47,8 @@
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "People like you",
-        "predicate": "are",
-        "object": "just lucky to be born in the other side of the fence"
-      },
-      "normalized": {
-        "subject": "People like you",
-        "predicate": "are",
-        "object": "lucky to be born on the other side of the fence"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -89,16 +57,8 @@
     "topic_id": "claim_5",
     "source_comment_ids": [],
     "topic_triple": {
-      "surface": {
-        "subject": "People like you",
-        "predicate": "are",
-        "object": "just more of the same ignorance"
-      },
-      "normalized": {
-        "subject": "People like you",
-        "predicate": "are",
-        "object": "more of the same ignorance"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

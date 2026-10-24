@@ -12,16 +12,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Elon",
-        "predicate": "is",
-        "object": "a Billionaire"
-      },
-      "normalized": {
-        "subject": "Elon",
-        "predicate": "is",
-        "object": "a billionaire"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -37,16 +29,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "is trying to make a stand for",
-        "object": "our country"
-      },
-      "normalized": {
-        "subject": "Elon",
-        "predicate": "is trying to make a stand for",
-        "object": "our country"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -62,16 +46,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "could be",
-        "object": "off on a yacht"
-      },
-      "normalized": {
-        "subject": "Elon",
-        "predicate": "could be",
-        "object": "off on a yacht"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -86,16 +62,8 @@
       "comment_bcf8c032d2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "can improve on",
-        "object": "a lot going on there"
-      },
-      "normalized": {
-        "subject": "Elon",
-        "predicate": "can improve on",
-        "object": "issues in South Africa"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -111,16 +79,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "helping",
-        "object": "South Africa"
-      },
-      "normalized": {
-        "subject": "he",
-        "predicate": "can help",
-        "object": "South Africa"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -136,16 +96,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "can improve on",
-        "object": "South Africa"
-      },
-      "normalized": {
-        "subject": "he",
-        "predicate": "can improve",
-        "object": "South Africa"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -161,16 +113,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "South Africa",
-        "predicate": "is",
-        "object": "dead"
-      },
-      "normalized": {
-        "subject": "South Africa",
-        "predicate": "is",
-        "object": "dead"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -185,16 +129,8 @@
       "comment_bcf8c032d2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "nothing he can do",
-        "predicate": "for",
-        "object": "South Africa"
-      },
-      "normalized": {
-        "subject": "he",
-        "predicate": "can do nothing for",
-        "object": "South Africa"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -206,16 +142,8 @@
       "comment_7679f45438"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "saving South Africa",
-        "predicate": "is like",
-        "object": "saving North Korea"
-      },
-      "normalized": {
-        "subject": "saving South Africa",
-        "predicate": "is like",
-        "object": "saving North Korea"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -227,16 +155,8 @@
       "comment_7679f45438"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "would likely be shot in the chest",
-        "object": "on the first day of arrival"
-      },
-      "normalized": {
-        "subject": "he",
-        "predicate": "would likely be shot in the chest",
-        "object": "on the first day of arrival"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -248,16 +168,8 @@
       "comment_7679f45438"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "America",
-        "predicate": "should be kept from",
-        "object": "suffering the same fate"
-      },
-      "normalized": {
-        "subject": "America",
-        "predicate": "should be kept from",
-        "object": "suffering the same fate"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -273,16 +185,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "USA",
-        "predicate": "is dying",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "USA",
-        "predicate": "is dying",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -298,16 +202,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "immigrants",
-        "predicate": "cause",
-        "object": "USA is dying"
-      },
-      "normalized": {
-        "subject": "immigrants",
-        "predicate": "cause",
-        "object": "USA is dying"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -323,16 +219,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "US",
-        "predicate": "is not dying",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "US",
-        "predicate": "is not dying",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -347,16 +235,8 @@
       "comment_bcf8c032d2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "US",
-        "predicate": "is",
-        "object": "growing"
-      },
-      "normalized": {
-        "subject": "US",
-        "predicate": "is",
-        "object": "growing"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -372,16 +252,8 @@
       "comment_3017363d17"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "User_772",
-        "predicate": "demands proof of",
-        "object": "USA is dying because of immigrants"
-      },
-      "normalized": {
-        "subject": "User_772",
-        "predicate": "demands proof of",
-        "object": "USA is dying because of immigrants"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

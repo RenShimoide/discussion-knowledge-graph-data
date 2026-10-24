@@ -7,16 +7,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "can't afford",
-      "object": "a baby"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "cannot afford",
-      "object": "a baby"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -33,16 +25,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "you people",
-      "predicate": "stole",
-      "object": "their wealth"
-    },
-    "normalized_triple": {
-      "subject": "you people",
-      "predicate": "stole",
-      "object": "their wealth"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -59,16 +43,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "you people",
-      "predicate": "have been waging",
-      "object": "wars on them"
-    },
-    "normalized_triple": {
-      "subject": "you people",
-      "predicate": "have been waging",
-      "object": "wars on them"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -85,16 +61,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "People like you",
-      "predicate": "are",
-      "object": "just lucky to be born in the other side of the fence"
-    },
-    "normalized_triple": {
-      "subject": "People like you",
-      "predicate": "are",
-      "object": "lucky to be born on the other side of the fence"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",

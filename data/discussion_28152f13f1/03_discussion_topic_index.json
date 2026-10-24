@@ -9,16 +9,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the people",
-        "predicate": "got exactly what they voted for",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "the people",
-        "predicate": "got exactly what they voted for",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -31,16 +23,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Nobody",
-        "predicate": "voted for",
-        "object": "this"
-      },
-      "normalized": {
-        "subject": "Nobody",
-        "predicate": "voted for",
-        "object": "this"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -53,16 +37,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the UK",
-        "predicate": "has",
-        "object": "same problems"
-      },
-      "normalized": {
-        "subject": "the UK",
-        "predicate": "has",
-        "object": "same problems"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -75,16 +51,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "we",
-        "predicate": "voted for",
-        "object": "immigration to be cut to 10,000 per year"
-      },
-      "normalized": {
-        "subject": "UK voters",
-        "predicate": "voted for",
-        "object": "immigration to be cut to 10,000 per year"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -97,16 +65,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "we",
-        "predicate": "got",
-        "object": "1.2 million immigrants"
-      },
-      "normalized": {
-        "subject": "the UK",
-        "predicate": "received",
-        "object": "1.2 million immigrants"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -119,16 +79,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Nobody",
-        "predicate": "voted for",
-        "object": "this"
-      },
-      "normalized": {
-        "subject": "Nobody",
-        "predicate": "voted for",
-        "object": "this"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -141,16 +93,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "we",
-        "predicate": "voted for",
-        "object": "immigration to be cut to 10,000 per year"
-      },
-      "normalized": {
-        "subject": "the UK public",
-        "predicate": "voted for",
-        "object": "immigration to be cut to 10,000 per year"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -163,16 +107,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you guys",
-        "predicate": "did",
-        "object": "vote for this"
-      },
-      "normalized": {
-        "subject": "the people addressed by the child comment",
-        "predicate": "voted for",
-        "object": "this"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -185,16 +121,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the cancer of feminism",
-        "predicate": "came to",
-        "object": "the stage"
-      },
-      "normalized": {
-        "subject": "feminism",
-        "predicate": "emerged as a dominant force",
-        "object": "in society"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -206,16 +134,8 @@
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "allowed",
-        "object": "the cancer of feminism"
-      },
-      "normalized": {
-        "subject": "the people addressed by the child comment",
-        "predicate": "allowed",
-        "object": "feminism to emerge"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

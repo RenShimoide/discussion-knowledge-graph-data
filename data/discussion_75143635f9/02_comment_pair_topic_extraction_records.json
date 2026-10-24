@@ -7,16 +7,8 @@
     "source_child_comment_id": "comment_26f07429dd",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "a beautiful country",
-      "predicate": "being trashed",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "a beautiful country",
-      "predicate": "is being trashed",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -33,16 +25,8 @@
     "source_child_comment_id": "comment_26f07429dd",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "take part in",
-      "object": "the wars"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "take part in",
-      "object": "the wars"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -59,16 +43,8 @@
     "source_child_comment_id": "comment_26f07429dd",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "take part in the wars",
-      "object": "refugee"
-    },
-    "normalized_triple": {
-      "subject": "taking part in wars",
-      "predicate": "causes",
-      "object": "dealing with refugees"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -85,16 +61,8 @@
     "source_child_comment_id": "comment_7db671bc48",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "take part in the wars",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "takes part in wars",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -111,16 +79,8 @@
     "source_child_comment_id": "comment_7db671bc48",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "NATO",
-      "predicate": "is",
-      "object": "an aggressor"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is",
-      "object": "an aggressor"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -137,16 +97,8 @@
     "source_child_comment_id": "comment_7db671bc48",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is",
-      "object": "a defence pact"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is",
-      "object": "a defence pact"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -163,16 +115,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Nato",
-      "predicate": "isn't an",
-      "object": "aggressor"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is not",
-      "object": "an aggressor"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -189,16 +133,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is a",
-      "object": "defence pact"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is a",
-      "object": "defense pact"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -215,16 +151,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "they went to",
-      "object": "syria ,Afghanistan , Libya"
-    },
-    "normalized_triple": {
-      "subject": "The USA and European countries",
-      "predicate": "went to",
-      "object": "Syria, Afghanistan, and Libya"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -241,16 +169,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "started",
-      "object": "all these problem"
-    },
-    "normalized_triple": {
-      "subject": "The USA and European countries",
-      "predicate": "started",
-      "object": "all these problems"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -267,16 +187,8 @@
     "source_child_comment_id": "comment_adce9e92c0",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "went to",
-      "object": "syria ,Afghanistan , Libya"
-    },
-    "normalized_triple": {
-      "subject": "USA and European countries",
-      "predicate": "went to",
-      "object": "Syria, Afghanistan, and Libya"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -293,16 +205,8 @@
     "source_child_comment_id": "comment_adce9e92c0",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "started",
-      "object": "all these problem"
-    },
-    "normalized_triple": {
-      "subject": "USA and European countries",
-      "predicate": "started",
-      "object": "all these problems"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -319,16 +223,8 @@
     "source_child_comment_id": "comment_adce9e92c0",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Nato",
-      "predicate": "not run by",
-      "object": "dictatorships or religious nut cases"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is not run by",
-      "object": "dictators or religious extremists"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -345,16 +241,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "european",
-      "predicate": "are complaining why",
-      "object": "all those refugee in europe"
-    },
-    "normalized_triple": {
-      "subject": "Europeans",
-      "predicate": "are complaining about the presence of",
-      "object": "refugees in Europe"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -371,16 +259,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "will always come",
-      "object": "anyway"
-    },
-    "normalized_triple": {
-      "subject": "refugees",
-      "predicate": "will always arrive",
-      "object": "anyway"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -397,16 +277,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "a huge percent",
-      "predicate": "are",
-      "object": "bogus refugees"
-    },
-    "normalized_triple": {
-      "subject": "a large percentage of refugees",
-      "predicate": "are",
-      "object": "bogus refugees"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -423,16 +295,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Albanian etc etc",
-      "predicate": "not escaping",
-      "object": "war"
-    },
-    "normalized_triple": {
-      "subject": "Albanians and others",
-      "predicate": "are not escaping",
-      "object": "war"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",

@@ -10,16 +10,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "asylees",
-        "predicate": "probably feel the same way -- so wrong that this situation is their best option",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "asylees",
-        "predicate": "probably feel",
-        "object": "this situation is their best option is wrong"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -33,16 +25,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "your view of this situation",
-        "predicate": "is grounded in",
-        "object": "compassion"
-      },
-      "normalized": {
-        "subject": "your view of this situation",
-        "predicate": "is grounded in",
-        "object": "compassion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -56,16 +40,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "have been gaslit into believing",
-        "object": "allowing this is compassionate"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "have been gaslit into believing",
-        "object": "allowing this is compassionate"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -78,16 +54,8 @@
       "comment_e72b1be8ea"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "have no idea what they are getting themselves into",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "asylees/refugees",
-        "predicate": "lack knowledge of the consequences of leaving their homes",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -100,16 +68,8 @@
       "comment_e72b1be8ea"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "have no idea of what is happening to them",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "the other user",
-        "predicate": "lacks knowledge of the situation regarding asylees",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -123,16 +83,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "your view of this situation",
-        "predicate": "is grounded in",
-        "object": "compassion"
-      },
-      "normalized": {
-        "subject": "User_762's view of this situation",
-        "predicate": "is grounded in",
-        "object": "compassion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -146,16 +98,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "allowing this",
-        "predicate": "is",
-        "object": "compassionate"
-      },
-      "normalized": {
-        "subject": "allowing this",
-        "predicate": "is",
-        "object": "compassionate"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -169,16 +113,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "have no idea what they are getting themselves into",
-        "object": "when they leave their homes and become the product of the cartels"
-      },
-      "normalized": {
-        "subject": "People leaving their homes",
-        "predicate": "do not know the consequences of becoming the product of the cartels",
-        "object": "becoming the product of the cartels"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -191,16 +127,8 @@
       "comment_e72b1be8ea"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "is not",
-        "object": "compassion"
-      },
-      "normalized": {
-        "subject": "User_762's view",
-        "predicate": "is not",
-        "object": "compassion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -213,16 +141,8 @@
       "comment_e72b1be8ea"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "is",
-        "object": "completely and total naivete/subversion"
-      },
-      "normalized": {
-        "subject": "User_762's view",
-        "predicate": "is",
-        "object": "complete and total naivete/subversion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -236,16 +156,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "is not",
-        "object": "compassion"
-      },
-      "normalized": {
-        "subject": "It",
-        "predicate": "is not",
-        "object": "compassion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -259,16 +171,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "is",
-        "object": "completely and total naivete/subversion"
-      },
-      "normalized": {
-        "subject": "It",
-        "predicate": "is",
-        "object": "complete and total naivete/subversion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -282,16 +186,8 @@
       "comment_a530406132"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "con artists",
-        "predicate": "play on",
-        "object": "naive compassionate people"
-      },
-      "normalized": {
-        "subject": "con artists",
-        "predicate": "play on",
-        "object": "naive compassionate people"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

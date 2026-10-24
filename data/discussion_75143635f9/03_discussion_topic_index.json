@@ -13,16 +13,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "a beautiful country",
-        "predicate": "being trashed",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "a beautiful country",
-        "predicate": "is being trashed",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -39,16 +31,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "NATO",
-        "predicate": "take part in",
-        "object": "the wars"
-      },
-      "normalized": {
-        "subject": "NATO",
-        "predicate": "takes part in",
-        "object": "wars"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -65,16 +49,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "NATO taking part in wars",
-        "predicate": "causes",
-        "object": "refugees"
-      },
-      "normalized": {
-        "subject": "NATO participation in wars",
-        "predicate": "causes",
-        "object": "refugee crisis"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -91,16 +67,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "take part in the wars",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "NATO",
-        "predicate": "takes part in wars",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -117,16 +85,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "NATO",
-        "predicate": "is",
-        "object": "an aggressor"
-      },
-      "normalized": {
-        "subject": "NATO",
-        "predicate": "is",
-        "object": "an aggressor"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -143,16 +103,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "is",
-        "object": "a defence pact"
-      },
-      "normalized": {
-        "subject": "NATO",
-        "predicate": "is",
-        "object": "a defence pact"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -169,16 +121,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Nato",
-        "predicate": "isn't an",
-        "object": "aggressor"
-      },
-      "normalized": {
-        "subject": "NATO",
-        "predicate": "is not",
-        "object": "an aggressor"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -195,16 +139,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "is a",
-        "object": "defence pact"
-      },
-      "normalized": {
-        "subject": "NATO",
-        "predicate": "is a",
-        "object": "defense pact"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -221,16 +157,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Usa and european countries",
-        "predicate": "they went to",
-        "object": "syria ,Afghanistan , Libya"
-      },
-      "normalized": {
-        "subject": "The USA and European countries",
-        "predicate": "went to",
-        "object": "Syria, Afghanistan, and Libya"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -244,16 +172,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Usa and european countries",
-        "predicate": "started",
-        "object": "all these problem"
-      },
-      "normalized": {
-        "subject": "The USA and European countries",
-        "predicate": "started",
-        "object": "all these problems"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -270,16 +190,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Usa and european countries",
-        "predicate": "went to",
-        "object": "syria ,Afghanistan , Libya"
-      },
-      "normalized": {
-        "subject": "USA and European countries",
-        "predicate": "went to",
-        "object": "Syria, Afghanistan, and Libya"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -296,16 +208,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Usa and european countries",
-        "predicate": "started",
-        "object": "all these problem"
-      },
-      "normalized": {
-        "subject": "USA and European countries",
-        "predicate": "started",
-        "object": "all these problems"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -322,16 +226,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Nato",
-        "predicate": "not run by",
-        "object": "dictatorships or religious nut cases"
-      },
-      "normalized": {
-        "subject": "NATO",
-        "predicate": "is not run by",
-        "object": "dictatorships or religious extremists"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -348,16 +244,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "european",
-        "predicate": "are complaining why",
-        "object": "all those refugee in europe"
-      },
-      "normalized": {
-        "subject": "Europeans",
-        "predicate": "are complaining about the presence of",
-        "object": "refugees in Europe"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -374,16 +262,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "will always come",
-        "object": "anyway"
-      },
-      "normalized": {
-        "subject": "refugees",
-        "predicate": "will always arrive",
-        "object": "anyway"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -400,16 +280,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "a huge percent",
-        "predicate": "are",
-        "object": "bogus refugees"
-      },
-      "normalized": {
-        "subject": "a large percentage of refugees",
-        "predicate": "are",
-        "object": "bogus refugees"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -423,16 +295,8 @@
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Albanian etc etc",
-        "predicate": "not escaping",
-        "object": "war"
-      },
-      "normalized": {
-        "subject": "Albanians and others",
-        "predicate": "are not escaping",
-        "object": "war"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -441,16 +305,8 @@
     "topic_id": "claim_18",
     "source_comment_ids": [],
     "topic_triple": {
-      "surface": {
-        "subject": "many [refugees]",
-        "predicate": "passing through",
-        "object": "endless safe countries"
-      },
-      "normalized": {
-        "subject": "many refugees",
-        "predicate": "pass through",
-        "object": "safe countries"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

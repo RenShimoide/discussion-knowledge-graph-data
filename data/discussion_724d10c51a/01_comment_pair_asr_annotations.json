@@ -2,8 +2,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_f0bcbbc7c19327a954a1",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434   it bothers me because entering a country illegally shows a level of contempt for the rules and values of that country from the outset.  Making it less likely they're the type of people to follow the rules of the land whilst here also.\nNot to mention the threat to the agricultural industry with introduced pests and deseases,  spy's, saboteurs, terrorists etc.  \nwithout borders you have no country !",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f0bcbbc7c19327a954a1",
@@ -25,9 +23,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "support",
       "confidence": 0.95,
-      "decision_source": "initial_annotation",
-      "reason": "The child comment explicitly supplies reasons ('it bothers me because...') that justify the stance implied in the parent comment's question, creating a clear supportive‑justification relation from the child to the parent.",
-      "evidence": "Parent asks 'that’s bothers you because?' (seeking a reason). Child replies with multiple justifications (contempt for rules, threats to agriculture, security risks, etc.)."
+      "decision_source": "initial_annotation"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -44,14 +40,12 @@
       "output_source": "response",
       "thinking_chars": 6083
     },
-    "thinking_output": "We need to decide final values. Let's analyze.\n\nParent comment: \"User_433 and that’s bothers you because?\" This is a bit garbled. Likely the parent is asking \"and that’s bothers you because?\" maybe they are asking why something bothers you. It's a question asking for reason.\n\nChild comment: \"User_434   it bothers me because entering a country illegally shows a level of contempt for the rules and values of that country from the outset.  Making it less likely they're the type of people to follow the rules of the land whilst here also. Not to mention the threat to the agricultural industry with introduced pests and deseases,  spy's, saboteurs, terrorists etc.  without borders you have no country !\"\n\nSo child says \"it bothers me because ...\" providing reasons. The parent asked \"that’s bothers you because?\" So child is giving justification for why it bothers them. That seems like a supportive justification relation from child to parent: child provides reasons supporting the parent's implied claim? Actually parent is a question: \"that’s bothers you because?\" The child answers with reasons. The relation is that child is providing justification for the stance that \"it bothers me\". The parent is asking for reason, not stating a claim. Does that count as supportive justification? The definition: \"one comment relates to the other by providing reasons, evidence, explanation, clarification, or justification that supports or strengthens the target comment's claim, standpoint, or reasoning.\" The parent comment is a question, not a claim. Does providing reasons to answer a question count as supportive justification? The child is providing justification for why something bothers them, which is the content of the parent question. The parent is not making a claim, just asking \"why does it bother you?\" So the child is not supporting a claim, but answering a question. The definition seems to require that the target comment has a claim, standpoint, or reasoning that is being supported. A question may not count. However, the child is providing justification for the stance implied in the parent comment's question. The parent is asking for justification, not presenting a claim. So is that considered supportive justification? The child is providing justification for the stance that \"it bothers me\". The parent is not stating that stance; they are asking why it bothers. So maybe not.\n\nBut the validation judgment says it's a clear supportive-justification relation from C to P. The validator says child provides reasons for the stance implied in the parent comment's question. However, the adjudicator must follow the rules: if validation judgment identifies a valid error, prefer it. But we must evaluate if the validator is correct.\n\nWe need to decide final_present true/false/uncertain.\n\nConsider the definition: \"Mere agreement, praise, repetition, or topical continuation is not sufficient unless one comment gives a reason, evidence, explanation, clarification, or justification for the other.\" Here child does give reasons. The target is the parent comment. Does the parent have a claim? The parent is \"User_433 and that’s bothers you because?\" It's ambiguous but seems like they are asking \"and that bothers you because?\" So they are asking for reason. The child gives reasons. That could be considered a justification relation: child justifies the claim that \"it bothers me\". The parent is not claiming that it bothers them; they are asking why it bothers them. So the child is not supporting a claim, but answering a question. The definition may still count because the child is providing justification for the stance implied in the parent comment's question. The stance is \"it bothers you\". The parent is asking \"why does it bother you?\" The child says \"because ...\". That is a justification for the stance that it bothers them. So arguably supportive justification.\n\nThus final_present likely true. Direction C->P (child supports parent). Polarity: support (child supports the implied claim). Confidence maybe high.\n\nBut we must ensure not to misinterpret. The parent comment is garbled: \"User_433 and that’s bothers you because?\" Could be \"User_433, and that bothers you because?\" Might be a rhetorical question: \"and that bothers you because?\" So the parent might be stating something that bothers them and asking why? Hard to parse.\n\nNevertheless, child says \"it bothers me because ...\" So they are aligning with the parent? The parent maybe said \"that bothers you because?\" So child says \"it bothers me because ...\". So child is providing justification for why it bothers them, which matches the parent question. So supportive justification.\n\nThus final_present true, direction C->P, polarity support.\n\nNow we need to decide decision_source. The initial annotation says present true, direction C->P, polarity support. Validation also says same (true, C->P, support). Both agree. So we can keep initial annotation or validation. Both are same. According to rule 8: If the initial annotation is valid according to the validation judgment, prefer the initial annotation unless adjudicator finds a clear error. Both are same, so either is fine. Decision_source could be \"initial_annotation\" or \"validation_judgment\". Since they match, we can choose \"initial_annotation\". But we must ensure that the annotation is indeed correct per definition. I think it's correct.\n\nThus final JSON:\n\n{\n\"final_present\": \"true\",\n\"final_direction\": \"C->P\",\n\"final_polarity_to_target\": \"support\",\n\"confidence\": 0.95,\n\"decision_source\": \"initial_annotation\",\n\"reason\": \"The child comment explicitly provides reasons ('it bothers me because...') that justify the stance implied in the parent comment's question, establishing a supportive-justification relation from C to P.\",\n\"evidence\": \"Parent asks why it bothers; child answers with multiple reasons.\"\n}\n\nMake sure fields match required names: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nConfidence maybe 0.95 as validator gave 0.95. Use that.\n\nReturn JSON only.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "true",
         "polarity_to_target": "support",
         "confidence": 1.0,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -64,8 +58,7 @@
       "corrected_polarity_to_target": "support",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly marks the relation as absent or misinterprets the direction/polarity. The child comment explicitly provides reasons and justification ('it bothers me because...') for the stance implied in the parent comment's question ('that’s bothers you because?'). The child explains why the situation is bothersome, citing contempt for rules, threats to agriculture, security risks, etc. This constitutes a clear supportive-justification relation from C to P."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"support\",\n\"confidence\": 1.0,\n\"rationale\": \"The child reply provides specific reasons and justifications in response to the parent's question.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply explicitly justifies the sentiment mentioned in the parent comment.\"\n}",
@@ -76,8 +69,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_1ff9cc53a48277b08b60",
-    "parent_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
-    "child_text": "User_433 and that’s bothers you because?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_1ff9cc53a48277b08b60",
@@ -96,9 +87,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "initial_annotation",
-      "reason": "Both the initial annotation and the validation judgment agree that no supportive‑justification relation is present; per the guidelines we retain the initial annotation when it is validated as correct.",
-      "evidence": ""
+      "decision_source": "initial_annotation"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -115,14 +104,12 @@
       "output_source": "response",
       "thinking_chars": 2165
     },
-    "thinking_output": "We need to evaluate if the final answer given is correct per instructions. The initial annotation says present false, direction none, polarity none. Validation judgment says is_valid true, corrected_present false, direction none, polarity none. So both agree that no supportive justification relation. The adjudicator must decide final values. According to rules, if validation judgment identifies a valid error, prefer validator. Here validator says annotation is valid, so no error. So we can keep initial annotation. Decision source could be either initial_annotation or validation_judgment. Both are same. The rule: \"If the initial annotation is valid according to the validation judgment, prefer the initial annotation unless the adjudicator finds a clear textual or schema error.\" So we could choose initial_annotation as source. But using validation_judgment also acceptable? The decision_source must reflect which source we used. Since both are same, either is okay but guidelines say prefer initial annotation. So decision_source should be \"initial_annotation\". Also confidence: both gave 0.95. So final confidence 0.95.\n\nThe provided final answer uses decision_source \"validation_judgment\". That may be acceptable but guidelines prefer initial_annotation. However the rule says \"If the initial annotation is valid according to the validation judgment, prefer the initial annotation unless the adjudicator finds a clear textual or schema error.\" So we should set decision_source to \"initial_annotation\". Also reason should reflect that both agree and we keep initial.\n\nThus the given answer is not fully correct due to decision_source. Also reason mentions validation judgment is preferred, which contradicts rule. So we need to produce corrected JSON.\n\nThus final output:\n\n{\n\"final_present\":\"false\",\n\"final_direction\":\"none\",\n\"final_polarity_to_target\":\"none\",\n\"confidence\":0.95,\n\"decision_source\":\"initial_annotation\",\n\"reason\":\"Both the initial annotation and the validation judgment agree that no supportive‑justification relation is present; according to the guidelines we keep the initial annotation when it is validated as correct.\",\n\"evidence\":\"\"\n}",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -135,8 +122,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child's reply is a question challenging the parent's implication rather than providing justification or evidence.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established between the comments.\"\n}",
@@ -147,8 +133,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_e763b8e77e5ac349b574",
-    "parent_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
-    "child_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e763b8e77e5ac349b574",
@@ -167,9 +151,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment supplies a specific reason (China does not accept them back) to argue that the people will stay, directly challenging the parent comment's claim that courts may deport them. This is a clear supportive‑justification relation used to attack the parent’s assertion.",
-      "evidence": "Parent: \"courts will evaluate their case and either accept or deport them\"; Child: \"China doesn't accept them back so it's almost guaranteed they will stay!!\""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -186,14 +168,12 @@
       "output_source": "response",
       "thinking_chars": 3794
     },
-    "thinking_output": "We need to evaluate the pair.\n\nParent comment: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\"\n\nChild comment: \"User_432 Did you watch the video? China doesn't accept them back so it's almost guaranteed they will stay!!\"\n\nWe need to decide if there is an argument from supportive justification relation.\n\nDefinition: supportive justification is when one comment provides reasons, evidence, explanation, clarification, or justification that supports or strengthens the target comment's claim, standpoint, or reasoning. Also can be attack: providing justification to attack.\n\nIn this case, parent says courts will evaluate case and either accept or deport them. Child says China doesn't accept them back, so it's almost guaranteed they will stay. This is a counter-argument to the parent's claim that they could be deported. Child provides a reason/evidence (China doesn't accept them back) to argue that deportation is unlikely, thus attacking the parent's claim that courts could deport them. So child is providing justification for the claim that they will stay, which attacks the parent's claim about possible deportation.\n\nThus there is a supportive justification relation from child to parent, but it's an attack (providing justification to attack). So present = true, direction = C->P, polarity = attack.\n\nNow we need to see if any nuance: Is the child's statement actually providing justification for the parent's claim? No, it's providing justification for a contrary claim. The definition says supportive justification can be used to support, attack, reject, or otherwise respond to the target comment. So yes, it's an attack via justification.\n\nThus final_present true, direction C->P, polarity attack.\n\nNow we need to consider validation judgment: they say corrected_present true, direction C->P, polarity attack. They claim initial annotation incorrectly labeled relation as false? Actually initial annotation had present true, direction C->P, polarity attack. So they think initial annotation is correct? Wait initial annotation: present true, polarity attack, direction C->P. Validation says is_valid false, corrected_present true, direction C->P, polarity attack. So they think initial annotation is invalid because it incorrectly labels relation as 'false' when a clear supportive-justification relation exists. But initial annotation didn't label false; maybe they misread. Anyway both agree on true.\n\nThus we should accept present true.\n\nNow we must produce final JSON with fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nDecision source: Since validation judgment agrees with initial annotation and is correct, we can use \"validation_judgment\" (or \"initial_annotation\"?). Rule 7: If validation identifies a valid error, prefer validator. Here validator says initial annotation is invalid, but actually initial annotation is correct. However validator's correction matches initial annotation. The validation says is_valid false (meaning initial annotation invalid) but they corrected to same values. That's contradictory. We need to decide which to trust. The instruction: \"If the validation judgment identifies a valid error in the initial annotation, prefer the validator's corrected values.\" Here validator claims error but corrected values are same as initial. So either way final values are same. Decision source could be \"validation_judgment\" because they provided corrected values, even though they think initial wrong. Use validation_judgment.\n\nConfidence: high, maybe 0.95.\n\nProvide reason: supportive justification attack.\n\nEvidence: maybe include snippet.\n\nLet's craft JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -206,8 +186,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.85,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear supportive-justification relation exists. The child comment (C) directly attacks the parent's claim that courts will evaluate cases and either accept or deport them by providing a specific reason/evidence: China doesn't accept them back, making deportation impossible and thus guaranteeing they stay. This constitutes an attack via justification/reasoning against the parent's assertion about legal evaluation outcomes."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply provides a reason (China's non-acceptance) to attack the implication of the parent's claim.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child uses an explanation to counter the parent's claim of potential deportation.\"\n}",
@@ -218,8 +197,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_e7ce7c4470af1b38c5e2",
-    "parent_text": "What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?",
-    "child_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e7ce7c4470af1b38c5e2",
@@ -238,9 +215,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment directly attacks the parent’s claim that people face no consequences by providing a justification: it states that the individuals are legally applying for refugee status and that courts will evaluate their cases, potentially leading to acceptance or deportation. This constitutes a clear supportive‑justification attack relation from C to P.",
-      "evidence": "Parent: claims people flout rules with no consequences. Child: counters with evidence that they are legally applying, courts will decide, and outcomes include deportation."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -257,14 +232,12 @@
       "output_source": "response",
       "thinking_chars": 1816
     },
-    "thinking_output": "We need to decide final values. Let's analyze.\n\nParent comment: \"What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?\"\n\nChild comment: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\"\n\nWe need to see if child provides supportive justification (or attack) to parent. The child says \"they are facing consequences\" and explains that they are legally applying, courts evaluate, may accept or deport. This is a justification (evidence) that counters the parent's claim that people flout rules with no consequences. So child attacks parent's claim with justification. That matches \"Argument from Supportive Justification\" with direction C->P, polarity attack.\n\nThus present = true, direction C->P, polarity attack.\n\nNow we must consider validation judgment: says is_valid false (meaning initial annotation invalid) and corrected values same as we think: present true, direction C->P, polarity attack. So validation says correct.\n\nThus final should adopt validation judgment (corrected). Decision source = validation_judgment.\n\nConfidence maybe 0.95 as given.\n\nThus final JSON:\n\n{\n\"final_present\":\"true\",\n\"final_direction\":\"C->P\",\n\"final_polarity_to_target\":\"attack\",\n\"confidence\":0.95,\n\"decision_source\":\"validation_judgment\",\n\"reason\":\"... etc\"\n}\n\nWe need to include reason and evidence fields? The format earlier includes reason and evidence optional? The example output includes reason and evidence fields. The spec says output only JSON object, no extra text. We can include reason and evidence fields.\n\nThus produce final JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -277,8 +250,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear supportive-justification relation exists. The child comment (C) directly attacks the parent's claim that people face 'no consequences' by providing evidence and explanation: they are legally applying for refugee status, courts will evaluate their cases, and outcomes include acceptance or deportation. This constitutes a justificatory attack on the parent's premise, establishing a C->P relation with attack polarity."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply provides an explanation of legal procedures to refute the parent's claim that rules are flouted without consequences.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply uses an explanation to attack the parent's premise.\"\n}",
@@ -289,8 +261,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_f4690220cbf3ee4d5f0d",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434  Wtf are you talking about?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f4690220cbf3ee4d5f0d",
@@ -311,9 +281,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments consist of a vague statement and a confused question, without any reason, evidence, explanation, or justification linking them. Therefore, no supportive‑justification relation is present.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -330,14 +298,12 @@
       "output_source": "response",
       "thinking_chars": 483
     },
-    "thinking_output": "We need to verify if final decision should be false, none, none. The comments: Parent: \"User_433 and that’s bothers you because?\" Child: \"User_434  Wtf are you talking about?\" This is a question and a confused reply. No supportive justification. So false. Both initial and validation say false. Validation is correct. So final_present false, direction none, polarity none. Confidence maybe 0.95. decision_source validation_judgment. Provide reason. evidence maybe empty. Output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -350,8 +316,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply expresses confusion rather than providing any justification or evidence for the parent comment.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is present.\"\n}",
@@ -362,8 +327,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_f0bcbbc7c19327a954a1",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434   it bothers me because entering a country illegally shows a level of contempt for the rules and values of that country from the outset.  Making it less likely they're the type of people to follow the rules of the land whilst here also.\nNot to mention the threat to the agricultural industry with introduced pests and deseases,  spy's, saboteurs, terrorists etc.  \nwithout borders you have no country !",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f0bcbbc7c19327a954a1",
@@ -385,9 +348,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments do not contain an explicit or strongly inferable counter‑claim, correction, or objection; the child merely offers a reason why something bothers them, not a rebuttal of the parent.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -404,14 +365,12 @@
       "output_source": "response",
       "thinking_chars": 1848
     },
-    "thinking_output": "We need to evaluate if any rebuttal relation exists between parent comment \"User_433 and that’s bothers you because?\" and child comment \"User_434   it bothers me because entering a country illegally shows a level of contempt for the rules and values of that country from the outset.  Making it less likely they're the type of people to follow the rules of the land whilst here also. Not to mention the threat to the agricultural industry with introduced pests and deseases,  spy's, saboteurs, terrorists etc.  without borders you have no country !\"\n\nParent comment is garbled: \"User_433 and that’s bothers you because?\" Possibly a question: \"User_433 and that's bothers you because?\" Hard to parse. Could be asking \"User_433, and that's bothers you because?\" Not clear. Child comment says \"it bothers me because entering a country illegally shows a level of contempt...\" So child is responding to something about \"bothers you\". The parent maybe asked \"what bothers you?\" The child gives reasons. Is that a rebuttal? The child is not rebutting; it's providing a reason why something bothers them. Not challenging the parent's claim. There's no claim in parent to rebut. So no rebuttal relation. So final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.\n\nCheck guidelines: If false, direction none, polarity none. Provide confidence maybe 0.95. Provide reason field? The output format expects only fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence? The example includes reason and evidence. The instruction says \"Return only one valid JSON object.\" Not specify required fields beyond those. The initial example includes reason and evidence. We can include them. Provide as per final answer.\n\nThus final.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -424,8 +383,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply provides an explanation for a stance rather than rebutting a claim in the parent comment.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"The interaction is an answer to a question, not a rebuttal.\"\n}",
@@ -436,8 +394,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_1ff9cc53a48277b08b60",
-    "parent_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
-    "child_text": "User_433 and that’s bothers you because?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_1ff9cc53a48277b08b60",
@@ -456,9 +412,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments do not contain a substantive counter‑claim, correction, or objection. The child merely asks a question without refuting or challenging the parent’s statement, so no rebuttal relation is present.",
-      "evidence": "Parent: \"China doesn't accept them back so it's almost guaranteed they will stay!!\" Child: \"and that’s bothers you because?\" – the child does not provide a counter‑argument or correction."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -475,14 +429,12 @@
       "output_source": "response",
       "thinking_chars": 974
     },
-    "thinking_output": "We need to evaluate if any rebuttal relation exists between parent and child comments.\n\nParent: \"User_432 Did you watch the video? China doesn't accept them back so it's almost guaranteed they will stay!!\"\n\nChild: \"User_433 and that’s bothers you because?\"\n\nInterpretation: Child asks \"and that's bothers you because?\" maybe meaning \"and that bothers you because?\" It's a question, possibly asking why the parent is bothered. Not a rebuttal. No substantive counter-claim. So no rebuttal.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.\n\nCheck guidelines: If false, direction none, polarity none. Provide confidence maybe 0.95. Provide reason and evidence fields optional? The format includes fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. Provide as per example. Provide reason summarizing.\n\nThus final answer.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -495,8 +447,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a rhetorical question challenging the significance of the claim rather than providing a substantive rebuttal.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No substantive rebuttal or counter-claim is established.\"\n}",
@@ -507,8 +458,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_e763b8e77e5ac349b574",
-    "parent_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
-    "child_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e763b8e77e5ac349b574",
@@ -527,9 +476,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.96,
-      "decision_source": "initial_annotation",
-      "reason": "The child comment directly challenges the parent comment's claim that courts may deport the applicants by asserting that China will not accept them back, making it almost certain they will stay. This constitutes a substantive counter‑claim, i.e., a rebuttal, from the child to the parent, attacking the parent's reasoning.",
-      "evidence": "Parent: \"courts will evaluate their case and either accept or deport them\". Child: \"China doesn't accept them back so it's almost guaranteed they will stay!!\""
+      "decision_source": "initial_annotation"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -546,14 +493,12 @@
       "output_source": "response",
       "thinking_chars": 3375
     },
-    "thinking_output": "We need to decide final values. Let's analyze.\n\nParent comment: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\"\n\nChild comment: \"User_432 Did you watch the video? China doesn't accept them back so it's almost guaranteed they will stay!!\"\n\nInterpretation: Parent says: People are applying for refugee status, courts will evaluate and either accept or deport them. So outcome depends on courts.\n\nChild says: China doesn't accept them back, so it's almost guaranteed they will stay!! This is a claim that because China won't accept them back, they will stay (i.e., not be deported). This challenges the parent's claim that courts will evaluate and could deport them. Child asserts that deportation is unlikely because China won't accept them, thus they will stay. That's a counter-claim to the parent's statement about possible deportation.\n\nIs this a rebuttal? The child is providing a counter-argument to the parent's claim about possible deportation. The child says \"almost guaranteed they will stay!!\" This is a substantive counter-claim, correcting the parent's implication that courts could deport them. So yes, it's a rebuttal.\n\nThus final_present should be \"true\". Direction: C->P (child rebutting parent). Polarity: attack (child attacks parent's claim). Confidence high.\n\nNow we must consider validation judgment: It says corrected_present true, direction C->P, polarity attack. It says initial annotation incorrectly labeled false? Actually initial annotation had present true, direction C->P, polarity attack. So both initial and validation say true. Wait initial annotation: present true, direction C->P, polarity attack. Validation says corrected_present true, direction C->P, polarity attack. So both agree. Validation says is_valid false (meaning initial annotation is invalid?) but they corrected same values? The validation says \"incorrect_labeling\" because it incorrectly labels the relation as 'false' when a clear rebuttal exists. But initial annotation didn't label false; it labeled true. Possibly a mismatch: The validation description seems to think initial annotation labeled false, but actual initial annotation shows true. Might be a mistake. We need to decide final based on text and definitions.\n\nGiven the text, there is a rebuttal. So final_present true.\n\nThus final_direction C->P, final_polarity attack.\n\nDecision source: Since both initial and validation agree, we can choose \"initial_annotation\" or \"validation_judgment\". Rule: If both are correct, prefer initial unless adjudicator finds error. Both are correct. Could choose either. Probably \"initial_annotation\" as it's correct. But validation also correct. The instruction: \"If the initial annotation is valid according to the validation judgment, prefer the initial annotation unless the adjudicator finds a clear textual or schema error.\" Validation says is_valid false, but that seems contradictory. However we must evaluate which is correct. The validation says initial annotation is invalid because it incorrectly labels relation as false, but that's not true. So validation judgment is itself erroneous. So we should trust initial annotation. So decision_source \"initial_annotation\".\n\nConfidence maybe 0.96.\n\nProvide reason and evidence.\n\nLet's craft JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -566,8 +511,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.85,
-      "error_type": "incorrect_labeling",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal exists. The parent comment (P) claims that people are facing consequences and will be evaluated by courts for acceptance or deportation. The child comment (C) directly challenges this by stating China doesn't accept them back, implying they will stay regardless of court evaluation. This constitutes a substantive counter-claim/correction to P's reasoning about the legal process and outcome, establishing an argument from rebuttal relation where C attacks P's claim."
+      "error_type": "incorrect_labeling"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply provides a counter-reason to undermine the parent's claim regarding the possibility of deportation.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child's comment directly challenges the parent's implication with a specific counter-fact.\"\n}",
@@ -578,8 +522,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_e7ce7c4470af1b38c5e2",
-    "parent_text": "What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?",
-    "child_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e7ce7c4470af1b38c5e2",
@@ -598,9 +540,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.97,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment directly counters the parent’s claim that people can flout immigration rules with no consequences, stating that they are facing legal consequences through refugee applications and court decisions. This constitutes a clear rebuttal (attack) from child to parent.",
-      "evidence": "Parent: claims no consequences for rule‑breaking. Child: 'Except they are facing consequences... legally applying for refugee status... courts will evaluate... either accept or deport them.'"
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -617,14 +557,12 @@
       "output_source": "response",
       "thinking_chars": 2697
     },
-    "thinking_output": "We need to decide final values. Let's examine the comments.\n\nParent: \"What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?\"\n\nChild: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\"\n\nThe child is directly rebutting the parent's claim that people are allowed to flout rules with no consequences. Child says they are facing consequences, they are applying legally, courts will evaluate, may deport. That's a substantive counter-claim. So there is a rebuttal relation from child to parent, direction C->P, polarity attack (child attacks parent's claim). So final_present should be \"true\". The validation judgment says present true, direction C->P, polarity attack. The initial annotation also says present true, direction C->P, polarity attack. Both agree. The validation says is_valid false (meaning initial annotation invalid?) Wait validation judgment says is_valid: false, corrected_present true etc. Means validator says initial annotation was invalid? Actually initial annotation had present true, direction C->P, polarity attack. So why validator says it's invalid? The validator says \"The proposed annotation is invalid because it incorrectly labels the relation as absent when a clear rebuttal exists.\" That seems contradictory: initial annotation didn't label absent. Maybe there is confusion: The initial annotation maybe had present true? It says present true. The validator says incorrectly labels as absent, but maybe they misread. Regardless, both agree that relation exists.\n\nThus final_present true, direction C->P, polarity attack. Confidence maybe high, 0.98. Decision source: initial_annotation? Or validation_judgment? Both are consistent. According to rule 7: If validation identifies error, prefer validator. But here validator says initial annotation is invalid but actually they are same? The validator's reasoning says initial annotation incorrectly labels as absent, but initial annotation didn't. Possibly a mistake. But we need to decide final values based on text. So we choose true.\n\nDecision source: adjudicator_override? Since both agree, we could use initial_annotation or validation_judgment. The validation judgment says corrected values same as initial. So we can pick either. Use \"validation_judgment\" as they provided corrected values. But they claim initial was wrong, but corrected same. Might be safe to use \"validation_judgment\". Provide confidence 0.97.\n\nReturn JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 1.0,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -637,8 +575,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_labeling",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as absent when a clear rebuttal exists. The parent comment claims that people are allowed to flout rules with no consequences. The child reply directly counters this by stating 'Except they are facing consequences' and provides a substantive counter-reason: the individuals are legally applying for refugee status, which involves court evaluation leading to acceptance or deportation. This constitutes a direct rebuttal of the parent's claim about lack of consequences, establishing an Argument from Rebuttal relation in the C->P direction with attack polarity."
+      "error_type": "incorrect_labeling"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 1.0,\n\"rationale\": \"The child reply directly refutes the parent's claim that people flout rules without consequences.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child provides a substantive correction to the parent's assertion.\"\n}",
@@ -649,8 +586,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_f4690220cbf3ee4d5f0d",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434  Wtf are you talking about?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f4690220cbf3ee4d5f0d",
@@ -671,9 +606,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "initial_annotation",
-      "reason": "Both the initial annotation and validation judgment correctly identify that the child comment merely asks for clarification and does not present a substantive counter‑claim, correction, or objection, so no rebuttal relation is established.",
-      "evidence": "Child comment: \"Wtf are you talking about?\" is a request for clarification, not a rebuttal."
+      "decision_source": "initial_annotation"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -690,14 +623,12 @@
       "output_source": "response",
       "thinking_chars": 2757
     },
-    "thinking_output": "We need to evaluate if the final answer should be as given. Let's examine the task.\n\nParent comment: \"User_433 and that’s bothers you because?\" This is a bit garbled. Possibly \"User_433 and that's bothers you because?\" Not clear. Child comment: \"User_434  Wtf are you talking about?\" So child is asking \"what are you talking about?\" That's a request for clarification, maybe a mild challenge but not a substantive counter-claim. According to definition, mere disagreement, insult, ridicule, dismissal, or emotional reaction is not sufficient unless substantive counter-claim, correction, etc. Here child is just asking \"what are you talking about?\" That's a request for clarification, not a rebuttal. So no rebuttal relation. So final_present false, direction none, polarity none. The initial annotation says false, direction none, polarity none. Validation says same. Both agree. According to rule 7, if validation identifies error, prefer validator. Here validator says correct. So decision source could be either initial_annotation or validation_judgment. Since both are same, we can choose either. The guidelines: \"If the initial annotation is valid according to the validation judgment, prefer the initial annotation unless the adjudicator finds a clear textual or schema error.\" So we could keep initial_annotation. But either is fine as long as we follow rule 15: decision_source must be one of \"initial_annotation\", \"validation_judgment\", \"adjudicator_override\". Since both are correct, we could choose \"initial_annotation\". The provided answer uses \"validation_judgment\". That's acceptable because validation judgment is also correct. The rule says prefer initial unless adjudicator finds error. But we can also choose validation as source if we think it's more appropriate. However rule 7 says if validation identifies a valid error, prefer validator. Here validation didn't identify error, just confirmed. So we should prefer initial annotation. So decision_source should be \"initial_annotation\". Also confidence: both gave 0.95. So final confidence 0.95.\n\nThus final JSON should have decision_source \"initial_annotation\". Also reason should reflect that both agree and no rebuttal. Provide evidence maybe.\n\nThus final answer:\n\n{\n\"final_present\":\"false\",\n\"final_direction\":\"none\",\n\"final_polarity_to_target\":\"none\",\n\"confidence\":0.95,\n\"decision_source\":\"initial_annotation\",\n\"reason\":\"Both the initial annotation and validation judgment correctly identify that the child comment merely asks for clarification and does not present a substantive counter‑claim or correction, so no rebuttal relation is established.\",\n\"evidence\":\"Child comment: \\\"Wtf are you talking about?\\\" is a request for clarification, not a rebuttal.\"\n}\n\nMake sure JSON valid.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -710,8 +641,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply expresses confusion rather than providing a substantive counter-claim or rebuttal.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
@@ -722,8 +652,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_f0bcbbc7c19327a954a1",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434   it bothers me because entering a country illegally shows a level of contempt for the rules and values of that country from the outset.  Making it less likely they're the type of people to follow the rules of the land whilst here also.\nNot to mention the threat to the agricultural industry with introduced pests and deseases,  spy's, saboteurs, terrorists etc.  \nwithout borders you have no country !",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f0bcbbc7c19327a954a1",
@@ -745,9 +673,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "support",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment explicitly provides causal reasons ('because entering a country illegally shows contempt...') for why the issue bothers them, directly answering the parent’s question asking for the cause. This establishes a clear causal‑consequence relation from the child to the parent, functioning as support for the parent’s request for an explanation.",
-      "evidence": "Parent: '... bothers you because?' (question asking for cause). Child: 'it bothers me because entering a country illegally shows a level of contempt... Not to mention the threat to the agricultural industry... without borders you have no country!' – child supplies causes/effects, fulfilling the causal‑consequence scheme."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -764,14 +690,12 @@
       "output_source": "response",
       "thinking_chars": 6122
     },
-    "thinking_output": "We need to decide final values. Let's examine the comments.\n\nParent comment: \"User_433 and that’s bothers you because?\" This is a bit garbled. Likely the parent is asking \"User_433 and that's bothers you because?\" maybe they are asking why something bothers you. So parent is a question: \"and that's bothers you because?\" Not clear.\n\nChild comment: \"User_434   it bothers me because entering a country illegally shows a level of contempt for the rules and values of that country from the outset.  Making it less likely they're the type of people to follow the rules of the land whilst here also. Not to mention the threat to the agricultural industry with introduced pests and deseases,  spy's, saboteurs, terrorists etc.  without borders you have no country !\"\n\nSo child says \"it bothers me because ...\" giving reasons. The parent asked \"that’s bothers you because?\" So child is answering the question, providing causal reasons for why it bothers them. The relation: child uses causal explanation to answer parent question. Does that count as an argument from causal consequence? The child says \"it bothers me because X\". That's a cause (X) for the feeling (bothers me). The parent asked \"why does it bother you?\" So the child is providing cause. The question: Is there an argument-scheme relation between them? The child is providing a causal explanation supporting its stance (the cause of being bothered). The parent is a question, not a claim. The definition: \"Argument from Causal Consequence\" label is present when one comment relates to the other by referring to causes, effects, consequences, outcomes, risks, benefits, or practical results. The relation is not directionally fixed. So does child refer to cause/effect relative to parent? The parent asks \"bothers you because?\" The child says \"it bothers me because X\". That's a causal relation but it's about the child's feeling, not about the parent's claim. The parent didn't make a claim; it's a question. The child is providing cause for its feeling, which is a response to the question. Is that considered a causal-consequence relation between the comments? The child is using causal reasoning to answer the question, but the relation is not about the parent's statement, but about the parent's question. The definition says \"relates to the other by referring to causes, effects, consequences, outcomes, risks, benefits, or practical results.\" The child refers to cause (entering illegally shows contempt) as reason for being bothered. That is a causal relation, but is it directed towards the parent comment? The parent comment is a question asking for cause. The child provides cause. So there is a causal relation from child to parent? The child is providing cause for the feeling that the parent asked about. The parent didn't assert a cause; they asked for cause. So the direction could be C->P (child provides cause to answer parent). The polarity: support? The child is not supporting or attacking the parent; they are answering. The schema expects support/attack/mixed. In this case, maybe \"support\" because they are supporting the parent's request for explanation? But the definition of polarity is about using causal relation to support or attack the target comment. Here the child is not supporting or attacking; they are just answering. Might be \"none\"? But the schema requires if present, polarity must be support/attack/mixed. Could we consider it \"support\" because they are supporting the premise that something bothers them? Not clear.\n\nHowever, the validation judgment says present true, direction C->P, polarity support. They argue that child provides reasons for why parent's implied stance bothers them. The validator says the initial annotation incorrectly labeled relation as false (but initial annotation actually said true). Wait initial annotation says present true, direction C->P, polarity support. Validation says is_valid false, corrected_present true, direction C->P, polarity support. So they think initial annotation is correct? Actually they say \"The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear causal-consequence relation exists.\" But the initial annotation labeled true, not false. Maybe they refer to some other annotation? The validation says corrected_present true, etc. So they think the correct answer is true.\n\nWe need to adjudicate. Let's examine if the causal-consequence relation is \"clearly established\". The child says \"it bothers me because entering a country illegally shows a level of contempt ...\". That's a cause for being bothered. The parent asked \"that’s bothers you because?\" So the child is providing cause. This is indeed a causal relation. The relation is between child and parent: child uses cause to answer parent. The question: does that count as an argument scheme relation? The definition: \"Argument from Causal Consequence\" label is present when one comment relates to the other by referring to causes, effects, consequences, outcomes, risks, benefits, or practical results.\" The child refers to consequences (contempt, threats) of illegal entry. That is a causal argument about the issue (illegal entry). The parent comment is a question about why something bothers them. The child is giving reasons. So yes, there is a causal-consequence relation.\n\nDirection: The child is providing cause for the feeling that the parent asked about. So the causal relation is from child to parent (C->P). Polarity: The child is not attacking the parent; they are providing support for the claim that something bothers them. The parent didn't claim anything, just asked. So maybe polarity \"support\" is appropriate as they are supporting the premise that the issue is bothersome. The schema may treat answering a question as support. I'd lean to accept validation.\n\nThus final_present true, direction C->P, polarity support. Confidence high, maybe 0.95.\n\nDecision source: validation_judgment (since they corrected). But we must ensure no rule violation: If final_present true, direction must be C->P, polarity support. Good.\n\nThus output JSON accordingly.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "support",
         "confidence": 1.0,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -784,8 +708,7 @@
       "corrected_polarity_to_target": "support",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear causal-consequence relation exists. The child comment explicitly provides reasons (causes/consequences) for why the parent's implied stance bothers them: entering illegally shows contempt, which leads to less rule-following; lack of borders leads to threats like pests, spies, etc., and ultimately 'no country'. This is a direct causal argument supporting the child's position in response to the parent's question."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"support\",\n\"confidence\": 1.0,\n\"rationale\": \"The child reply provides specific consequences and risks to explain why the situation is bothersome.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child uses 'because' to outline causal consequences and risks.\"\n}",
@@ -796,8 +719,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_1ff9cc53a48277b08b60",
-    "parent_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
-    "child_text": "User_433 and that’s bothers you because?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_1ff9cc53a48277b08b60",
@@ -816,9 +737,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments do not contain an explicit or strongly inferable causal or consequential claim linking them; the child merely asks a question without asserting cause or effect.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -835,14 +754,12 @@
       "output_source": "response",
       "thinking_chars": 794
     },
-    "thinking_output": "We need to evaluate if any causal-consequence relation exists between parent and child comments.\n\nParent: \"User_432 Did you watch the video? China doesn't accept them back so it's almost guaranteed they will stay!!\"\n\nChild: \"User_433 and that’s bothers you because?\"\n\nInterpretation: Child asks \"and that's bothers you because?\" maybe meaning \"and that bothers you because?\" It's a question asking why something bothers the parent. Not a causal claim. No causal relation.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.\n\nCheck guidelines: If final_present false, direction none, polarity none. Provide confidence maybe 0.96. Provide reason. Provide evidence maybe empty string.\n\nReturn JSON only.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -855,8 +772,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a rhetorical question about the parent's reaction, not a causal-consequence relation.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation is established between the comments.\"\n}",
@@ -867,8 +783,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_e763b8e77e5ac349b574",
-    "parent_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
-    "child_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e763b8e77e5ac349b574",
@@ -887,9 +801,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.93,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment explicitly states a causal consequence (China doesn't accept them back → they will stay) to counter the parent comment's claim about possible deportation, establishing a clear C->P causal‑consequence attack.",
-      "evidence": "Parent: courts will evaluate and may deport them. Child: China doesn't accept them back so it's almost guaranteed they will stay, attacking the deportation possibility."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -906,14 +818,12 @@
       "output_source": "response",
       "thinking_chars": 2144
     },
-    "thinking_output": "We need to decide final values. Let's examine the comments.\n\nParent P: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\"\n\nChild C: \"User_432 Did you watch the video? China doesn't accept them back so it's almost guaranteed they will stay!!\"\n\nInterpretation: Parent says courts will evaluate and either accept or deport them. Child says China doesn't accept them back, so it's almost guaranteed they will stay. This is a causal claim: because China doesn't accept them back, they will stay (i.e., not be deported). The child is attacking the parent's claim that they could be deported, by pointing out a consequence (China's refusal) that makes deportation unlikely. So there is a causal-consequence relation: C uses a cause (China doesn't accept them) leading to effect (they will stay) to attack P's claim about possible deportation.\n\nThus present = true, direction = C->P, polarity = attack.\n\nNow we need to see if any nuance: Is the causal relation explicit? Child says \"China doesn't accept them back so it's almost guaranteed they will stay!!\". That's a cause-effect statement. It attacks the parent's claim about deportation. So yes.\n\nThus final_present true, final_direction C->P, final_polarity attack.\n\nConfidence maybe 0.9.\n\nDecision source: validation_judgment says corrected_present true etc. The initial annotation also had true, direction C->P, polarity attack. So both agree. Validation says is_valid false (meaning initial annotation invalid?) but they corrected to same values. Actually initial annotation had present true, direction C->P, polarity attack. So it's correct. Validation says is_valid false (meaning the annotation is invalid?) but then they correct to same values. Possibly they think initial annotation had some error but they corrected to same. Anyway both agree. According to rule 7, if validation identifies error, prefer validator. But both same. So decision_source could be \"validation_judgment\" or \"initial_annotation\". Either is fine. Choose validation_judgment.\n\nThus final JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -926,8 +836,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.9,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' in the corrected fields while claiming validity. The child comment (C) directly attacks the parent's claim that courts will evaluate and potentially deport them by pointing out a causal consequence: China doesn't accept them back, which leads to the practical outcome that they are almost guaranteed to stay. This establishes a clear causal-consequence relation where C uses the consequence of China's refusal to attack P's assertion about potential deportation. Therefore, 'present' should be 'true', direction 'C->P', and polarity 'attack'."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply uses China's refusal as a cause to counter the parent's claim about deportation.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The reply establishes a causal consequence to challenge the parent's argument.\"\n}",
@@ -938,8 +847,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_e7ce7c4470af1b38c5e2",
-    "parent_text": "What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?",
-    "child_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e7ce7c4470af1b38c5e2",
@@ -958,9 +865,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.98,
-      "decision_source": "initial_annotation",
-      "reason": "The child comment explicitly mentions consequences (court evaluation, possible deportation) to counter the parent’s claim that there are no consequences, establishing a clear causal‑consequence relation used to attack the parent’s premise.",
-      "evidence": "Parent asserts 'no consequences' undermines borders; child states 'they are facing consequences' and describes the legal process, directly addressing the causal claim."
+      "decision_source": "initial_annotation"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -977,14 +882,12 @@
       "output_source": "response",
       "thinking_chars": 4941
     },
-    "thinking_output": "We need to decide final values. Let's analyze.\n\nTask: Determine if there is an Argument from Causal Consequence relation between parent and child comment.\n\nParent: \"What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?\"\n\nChild: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\"\n\nWe need to see if child uses causal/consequential relation to attack/support parent. The child says there are consequences (court evaluation, possible deportation). This directly addresses parent's claim that there are no consequences. This is indeed a causal-consequence claim: the existence of consequences (court evaluation) is a consequence of applying for refugee status. The child is using that to argue that there are consequences, thus attacking parent's premise.\n\nIs that considered an \"Argument from Causal Consequence\"? The definition: \"referring to causes, effects, consequences, outcomes, risks, benefits, or practical results.\" The child mentions consequences (court evaluation, possible deportation). That's a consequence of applying for refugee status. The parent mentions lack of consequences. So there is a causal-consequence relation.\n\nThus presence = true. Direction: child to parent (C->P) because child uses causal claim to attack parent. Polarity: attack (child attacks parent's claim). Confidence high.\n\nNow we have initial annotation: present true, direction C->P, polarity attack. Validation judgment says is_valid false, but then they argue that annotation is correct and they think is_valid should be true. The validation judgment is contradictory: they say is_valid false but then argue that annotation is correct. The validation judgment says corrected_present true, direction C->P, polarity attack. So they think the initial annotation is correct but flagged is_valid false due to some error in the prompt. The validation says error_type \"incorrect_presence_label\". But they then say the annotation is correct. So the validation judgment is confusing.\n\nWe need to follow final decision rules: If validation judgment identifies a valid error, prefer validator's corrected values. If initial annotation is valid according to validation judgment, prefer initial unless adjudicator finds error.\n\nHere validation says is_valid false, meaning they think initial annotation is not valid. But then they provide corrected values that match the initial annotation. So they think the initial annotation is correct but flagged as invalid? The validation says \"error_type\": \"incorrect_presence_label\". But they then say \"the proposed annotation is actually correct\". So they think the initial annotation is correct, but they flagged is_valid false maybe due to confusion.\n\nWe need to adjudicate. According to our analysis, the correct answer is present true, direction C->P, polarity attack. So we should output that.\n\nNow we need to decide decision_source. Since both initial and validation agree on the final values (both say present true, direction C->P, polarity attack). The validation says is_valid false but then corrects to same values. The initial annotation is correct. According to rule 7: If validation identifies a valid error, prefer validator. But here validation says there is an error but then corrects to same as initial. This is contradictory. We need to decide which to trust. The validation's reasoning says the annotation is correct, but they flagged is_valid false erroneously. So we can consider the validation judgment is flawed. The initial annotation is correct. So decision_source = \"initial_annotation\". Or we could use \"adjudicator_override\" because we are overriding the contradictory validation.\n\nGiven the guidelines: \"If the initial annotation is valid according to the validation judgment, prefer the initial annotation unless the adjudicator finds a clear textual or schema error.\" The validation judgment says is_valid false, meaning they think initial is invalid. But they also provide corrected values that match initial. This is ambiguous. We need to decide if validation judgment is valid. The validation's reasoning says the annotation is correct, so they think the initial is correct. So we can treat validation as not identifying a real error. So we can keep initial.\n\nThus final_present true, direction C->P, polarity attack, confidence maybe 0.98. decision_source \"initial_annotation\" (or \"adjudicator_override\"?). Since we are making a decision based on our own analysis, we could set decision_source \"adjudicator_override\" because we are overriding the contradictory validation. But rule says use \"initial_annotation\" when initial is correct and should be retained. That seems appropriate.\n\nThus output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 1.0,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -997,8 +900,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_presence_label",
-      "reason": "The parent comment argues that allowing people to flout rules with no consequences undermines the purpose of borders and immigration policies (implying a causal link between lack of consequences and the futility of these systems). The child reply directly attacks this premise by asserting that consequences are indeed being faced, specifically pointing out that the individuals are legally applying for refugee status and will face court evaluation leading to acceptance or deportation. This establishes a clear causal-consequence relation where the child uses the existence of legal consequences (court evaluation, potential deportation) to attack the parent's claim that there are no consequences. The proposed annotation correctly identifies the presence, direction, and polarity, but the error_type in the prompt's example output was 'none' while claiming validity for a false label. Here, the proposed annotation is actually correct in its assessment of the relation. Wait, let me re-read the input carefully.\n\nParent: 'What's the point... if people are allowed to come... and blatantly flout the rules with no consequences?'\nChild: 'Except they are facing consequences. The people... are legally applying... courts will evaluate... accept or deport them.'\n\nAnalysis:\nP claims X (no consequences) leads to Y (pointlessness of borders).\nC claims Not X (consequences exist: court evaluation, deportation).\nC attacks P's premise regarding the lack of consequences.\nIs this an Argument from Causal Consequence?\nThe definition says: 'referring to causes, effects, consequences, outcomes, risks, benefits, or practical results.'\nP explicitly mentions 'no consequences'. C explicitly mentions 'facing consequences' and describes the process (court evaluation -> accept/deport) which are the consequences.\nThe relation is about the existence and nature of consequences. P argues that the lack of consequences negates the point. C argues that consequences exist, thereby attacking P's argument.\nThis fits the definition. The child uses the factual claim about consequences to attack the parent's rhetorical question/premise.\nTherefore, present=true, direction=C->P, polarity=attack.\nThe proposed annotation says: present=true, polarity=attack, direction=C->P.\nSo the proposed annotation is correct.\nWhy did I think it was invalid? The prompt asks me to evaluate whether the proposed annotation is correct.\nProposed: present=true, polarity=attack, confidence=1.0, direction=C->P.\nMy analysis: present=true, polarity=attack, direction=C->P.\nSo is_valid should be true.\nLet's double check the definition of Argument from Causal Consequence.\n'referring to causes, effects, consequences, outcomes, risks, benefits, or practical results.'\nP: 'no consequences' -> 'What's the point'. This is a causal/consequential argument structure. If no consequences, then borders are pointless.\nC: 'they are facing consequences'. This attacks the antecedent of P's causal claim.\nThis is a clear instance.\nThe proposed annotation is valid.\nI will output is_valid: true."
+      "error_type": "incorrect_presence_label"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 1.0,\n\"rationale\": \"The child reply refutes the parent's claim of 'no consequences' by describing the legal outcomes of the process.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply establishes a consequential relation to attack the parent's premise.\"\n}",
@@ -1009,8 +911,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_f4690220cbf3ee4d5f0d",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434  Wtf are you talking about?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f4690220cbf3ee4d5f0d",
@@ -1031,9 +931,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments consist of a vague statement and a questioning reply, with no explicit or inferable causal or consequential claim linking them. The validation judgment correctly identifies the absence of an argument-from-causal-consequence relation.",
-      "evidence": "Parent: \"User_433 and that’s bothers you because?\" – no clear cause/effect claim. Child: \"Wtf are you talking about?\" – merely asks for clarification, not presenting a causal argument."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1050,14 +948,12 @@
       "output_source": "response",
       "thinking_chars": 1093
     },
-    "thinking_output": "We need to evaluate if the final answer should be as given. The task: determine if there is an argument from causal consequence between parent and child comments.\n\nParent: \"User_433 and that’s bothers you because?\" This is a bit garbled. Possibly \"User_433 and that’s bothers you because?\" Not clear. Child: \"User_434  Wtf are you talking about?\" So child is asking what the parent means. No causal relation. So present false, direction none, polarity none. The initial annotation says false, direction none, polarity none. Validation says same, is_valid true, corrected false etc. So final should be false, none, none. Decision source could be either initial or validation. Since validation judgment is valid and matches, we can choose validation_judgment. Confidence maybe 0.95 as given. Provide reason and evidence optional. The provided final JSON matches that. Need to ensure compliance: fields final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. The example includes reason and evidence. That's fine.\n\nThus final answer same as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1070,8 +966,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The parent asks for a cause, but the child's reply does not establish any causal or consequential relation.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation is established.\"\n}",
@@ -1082,8 +977,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_f0bcbbc7c19327a954a1",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434   it bothers me because entering a country illegally shows a level of contempt for the rules and values of that country from the outset.  Making it less likely they're the type of people to follow the rules of the land whilst here also.\nNot to mention the threat to the agricultural industry with introduced pests and deseases,  spy's, saboteurs, terrorists etc.  \nwithout borders you have no country !",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f0bcbbc7c19327a954a1",
@@ -1105,9 +998,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that there is no explicit or strongly inferable analogical or comparative relation between the parent and child comments. The child comment merely states reasons why illegal entry is problematic, without using any analogy or comparison to the parent comment.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1124,14 +1015,12 @@
       "output_source": "response",
       "thinking_chars": 765
     },
-    "thinking_output": "We need to evaluate if any analogy/comparison relation exists between parent comment \"User_433 and that’s bothers you because?\" and child comment which is a long statement about illegal entry, etc. The parent comment is garbled: \"User_433 and that’s bothers you because?\" Possibly a question: \"User_433 and that's bothers you because?\" Not clear. The child comment is about why illegal entry bothers them. There's no explicit analogy/comparison. So final_present false, direction none, polarity none. Both initial and validation say false. According to rules, if validation is correct, we use validation. So final values as given. Provide confidence maybe 0.95. Provide decision_source validation_judgment. Provide reason. Provide evidence maybe empty. Output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1144,8 +1033,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply provides direct reasons for a stance without using an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
@@ -1156,8 +1044,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_1ff9cc53a48277b08b60",
-    "parent_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
-    "child_text": "User_433 and that’s bothers you because?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_1ff9cc53a48277b08b60",
@@ -1176,9 +1062,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that there is no explicit or strongly inferable analogical or comparative relation between the parent and child comments.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1195,14 +1079,12 @@
       "output_source": "response",
       "thinking_chars": 800
     },
-    "thinking_output": "We need to evaluate if any analogy/comparison relation exists between parent and child comments.\n\nParent: \"User_432 Did you watch the video? China doesn't accept them back so it's almost guaranteed they will stay!!\"\n\nChild: \"User_433 and that’s bothers you because?\"\n\nInterpretation: Child asks \"and that's bothers you because?\" maybe rhetorical. No analogy/comparison. So present false, direction none, polarity none. Both initial and validation say false. According to rules, choose validation if it's correct. Both agree. Decision source could be either initial_annotation or validation_judgment. Since validation says is_valid true and correct, we can use validation_judgment. Provide confidence maybe 0.95 as given. Provide reason. Provide evidence maybe empty string.\n\nThus final JSON as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1215,8 +1097,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply questions the parent's concern without using an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison relation is established.\"\n}",
@@ -1227,8 +1108,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_e763b8e77e5ac349b574",
-    "parent_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
-    "child_text": "​User_432  Did you watch the video?   China doesn't accept them back so it's almost guaranteed they will stay!!",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e763b8e77e5ac349b574",
@@ -1247,9 +1126,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not contain an explicit or strongly inferable analogy or comparison with the parent comment; it merely asserts a factual claim about the situation.",
-      "evidence": "Parent discusses legal refugee application and court decisions; child replies that China does not accept them back, implying they will stay. No analogical or comparative language is present."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1266,14 +1143,12 @@
       "output_source": "response",
       "thinking_chars": 1163
     },
-    "thinking_output": "We need to evaluate if any analogy/comparison relation exists between parent and child comments.\n\nParent: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\"\n\nChild: \"User_432 Did you watch the video? China doesn't accept them back so it's almost guaranteed they will stay!!\"\n\nChild says: \"China doesn't accept them back so it's almost guaranteed they will stay!!\" This is a statement about the situation: because China doesn't accept them back, they will stay (i.e., not be deported). Not an analogy or comparison. It's just a claim about the outcome. No analogical comparison.\n\nThus final_present false, direction none, polarity none. Confidence high.\n\nBoth initial and validation say false. So decision source could be either. According to rule 7, if validation judgment identifies a valid error, prefer validator. Here validator says it's valid. So we can keep validation as source. Provide final JSON.\n\nMake sure fields match: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nOk.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1286,8 +1161,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply provides a factual counter-argument regarding China's policy rather than using an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison relation is established.\"\n}",
@@ -1298,8 +1172,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_e7ce7c4470af1b38c5e2",
-    "parent_text": "What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?",
-    "child_text": "Except they are facing consequences.  The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_e7ce7c4470af1b38c5e2",
@@ -1318,9 +1190,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments discuss refugee policy, but the child merely refutes the parent's claim without using any analogy, comparison, or contrast. No analogical relation is present.",
-      "evidence": "Parent asks why have borders if people can flout rules; child replies that they are facing legal consequences, not an analogical comparison."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1337,14 +1207,12 @@
       "output_source": "response",
       "thinking_chars": 880
     },
-    "thinking_output": "We need to evaluate if any analogy/comparison relation exists between parent and child. Parent: \"What's the point of even having countries, citizenship, borders, passports, visas, refugee and immigration policies etc if people are allowed to come to your country and blatantly flout the rules with no consequences?\" Child: \"Except they are facing consequences. The people in this video are legally applying for refugee status, the courts will evaluate their case and either accept or deport them\". This is a direct rebuttal, not an analogy. No comparison. So present false, direction none, polarity none. Both initial and validation say false. Validation is correct. So final values as per rules: present false, direction none, polarity none, confidence maybe 0.95. decision_source: validation_judgment (since validator correct). Provide reason and evidence optional. Output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1357,8 +1225,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a direct factual rebuttal of the parent's claim rather than an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison relation is established.\"\n}",
@@ -1369,8 +1236,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_f4690220cbf3ee4d5f0d",
-    "parent_text": "User_433 and that’s bothers you because?",
-    "child_text": "User_434  Wtf are you talking about?",
     "metadata": {
       "discussion_id": "discussion_724d10c51a",
       "source_pair_id": "causal_f4690220cbf3ee4d5f0d",
@@ -1391,9 +1256,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments consist of a vague statement and a request for clarification, with no explicit or strongly inferable analogy, comparison, or contrast. The validation judgment correctly identified the absence of an argument-from-analogy relation, so its assessment is retained.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1410,14 +1273,12 @@
       "output_source": "response",
       "thinking_chars": 668
     },
-    "thinking_output": "We need to verify if any analogy/comparison exists. Parent comment: \"User_433 and that’s bothers you because?\" This is garbled, maybe \"User_433 and that’s bothers you because?\" Not clear. Child: \"User_434  Wtf are you talking about?\" This is a question asking for clarification. No analogy/comparison. So present false, direction none, polarity none. Validation says correct. So final values as given. Need confidence maybe 0.95. Decision source validation_judgment. Provide JSON. Ensure fields match required: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. Provide reason. Evidence maybe empty. Provide final.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1430,8 +1291,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The comments consist of a rhetorical question and a confused reaction, without any comparison or analogy.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
