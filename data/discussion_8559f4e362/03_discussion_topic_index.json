@@ -10,16 +10,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Chinese",
-        "predicate": "won't take them back",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "China",
-        "predicate": "will not take them back",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -33,16 +25,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "know theyre gaming the system",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "know they are gaming the system",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -56,16 +40,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "A vote for Trump",
-        "predicate": "will send them all back",
-        "object": "them all"
-      },
-      "normalized": {
-        "subject": "A vote for Trump",
-        "predicate": "will send them all back",
-        "object": "them all"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -79,16 +55,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "A vote for Trump",
-        "predicate": "will send",
-        "object": "them all back"
-      },
-      "normalized": {
-        "subject": "A vote for Trump",
-        "predicate": "will send",
-        "object": "them all back"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -102,16 +70,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "is running",
-        "object": "this business"
-      },
-      "normalized": {
-        "subject": "he",
-        "predicate": "is running",
-        "object": "this business"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -125,16 +85,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "could be using it to gain",
-        "object": "political advantage"
-      },
-      "normalized": {
-        "subject": "he",
-        "predicate": "could be using it to gain",
-        "object": "political advantage"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -148,16 +100,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "he",
-        "predicate": "could be using it to gain",
-        "object": "political advantage"
-      },
-      "normalized": {
-        "subject": "he",
-        "predicate": "could be using it to gain",
-        "object": "political advantage"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -171,16 +115,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "am not fooled by",
-        "object": "anything Biden or China does"
-      },
-      "normalized": {
-        "subject": "I",
-        "predicate": "am not fooled by",
-        "object": "anything Biden or China does"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -194,16 +130,8 @@
       "comment_c4fe4b225a"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "feel like I am fighting",
-        "object": "by myself"
-      },
-      "normalized": {
-        "subject": "I",
-        "predicate": "feel like I am fighting",
-        "object": "by myself"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

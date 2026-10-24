@@ -8,16 +8,8 @@
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Westerners",
-        "predicate": "should not have to",
-        "object": "drop their values or acclimate to immigrants worldview"
-      },
-      "normalized": {
-        "subject": "Westerners",
-        "predicate": "should not have to drop their values or acclimate to immigrants worldview",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -29,16 +21,8 @@
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "The people opening the borders around the world",
-        "predicate": "know this will",
-        "object": "create chaos and destroy Western countries"
-      },
-      "normalized": {
-        "subject": "The people opening the borders around the world",
-        "predicate": "know that opening borders will create chaos and destroy Western countries",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -50,16 +34,8 @@
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Ukrainian refugees",
-        "predicate": "fit right in",
-        "object": "Poland"
-      },
-      "normalized": {
-        "subject": "Ukrainian refugees",
-        "predicate": "fit right in",
-        "object": "Poland"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -71,16 +47,8 @@
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "people",
-        "predicate": "share",
-        "object": "different values in society"
-      },
-      "normalized": {
-        "subject": "people",
-        "predicate": "share",
-        "object": "different values in society"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -92,16 +60,8 @@
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "sharing values",
-        "predicate": "does not depend on",
-        "object": "nationality"
-      },
-      "normalized": {
-        "subject": "sharing values",
-        "predicate": "does not depend on",
-        "object": "nationality"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -113,16 +73,8 @@
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "a person with Syrian background",
-        "predicate": "may have more values in common with",
-        "object": "you"
-      },
-      "normalized": {
-        "subject": "a person with Syrian background",
-        "predicate": "may have more values in common with",
-        "object": "the listener"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

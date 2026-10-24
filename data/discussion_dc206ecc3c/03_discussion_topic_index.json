@@ -11,16 +11,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "America",
-        "predicate": "put sanctions on",
-        "object": "the country"
-      },
-      "normalized": {
-        "subject": "America",
-        "predicate": "put sanctions on",
-        "object": "the country"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -35,16 +27,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "America",
-        "predicate": "engaged in",
-        "object": "proxy war"
-      },
-      "normalized": {
-        "subject": "America",
-        "predicate": "engaged in",
-        "object": "proxy war"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -59,16 +43,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "proxy war",
-        "predicate": "has end goal of",
-        "object": "installing a puppet government"
-      },
-      "normalized": {
-        "subject": "proxy war",
-        "predicate": "has end goal of",
-        "object": "installing a puppet government"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -83,16 +59,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Venezuela",
-        "predicate": "has",
-        "object": "an Embassy in Washington"
-      },
-      "normalized": {
-        "subject": "Venezuela",
-        "predicate": "has",
-        "object": "an Embassy in Washington"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -106,16 +74,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Embassy in Washington",
-        "predicate": "processes",
-        "object": "travel documents"
-      },
-      "normalized": {
-        "subject": "Embassy in Washington",
-        "predicate": "processes",
-        "object": "travel documents"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -129,16 +89,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Embassy in Washington",
-        "predicate": "supports",
-        "object": "nationals in the US"
-      },
-      "normalized": {
-        "subject": "Embassy in Washington",
-        "predicate": "supports",
-        "object": "nationals in the US"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -150,16 +102,8 @@
       "comment_dd0e392e9c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "CAN",
-        "object": "leave"
-      },
-      "normalized": {
-        "subject": "nationals",
-        "predicate": "can leave",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -171,16 +115,8 @@
       "comment_dd0e392e9c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "don't want to",
-        "object": "leave"
-      },
-      "normalized": {
-        "subject": "nationals",
-        "predicate": "do not want to leave",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -195,16 +131,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the embassy",
-        "predicate": "processes",
-        "object": "travel documents and supports nationals in the US"
-      },
-      "normalized": {
-        "subject": "the embassy",
-        "predicate": "processes",
-        "object": "travel documents and supports nationals in the US"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -219,16 +147,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "CAN leave",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "Venezuelan nationals in the US",
-        "predicate": "can leave",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -243,16 +163,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "don't want to",
-        "object": "leave"
-      },
-      "normalized": {
-        "subject": "Venezuelan nationals in the US",
-        "predicate": "do not want to leave",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -266,16 +178,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "That embassy",
-        "predicate": "has been closed",
-        "object": "for over 3 years"
-      },
-      "normalized": {
-        "subject": "That embassy",
-        "predicate": "has been closed",
-        "object": "for over 3 years"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -289,16 +193,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "our [embassy] in Venezuela",
-        "predicate": "has been closed",
-        "object": "for over 3 years"
-      },
-      "normalized": {
-        "subject": "the US embassy in Venezuela",
-        "predicate": "has been closed",
-        "object": "for over 3 years"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -313,16 +209,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "That embassy",
-        "predicate": "has been closed for",
-        "object": "over 3 years"
-      },
-      "normalized": {
-        "subject": "That embassy",
-        "predicate": "has been closed for",
-        "object": "over 3 years"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -337,16 +225,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "our embassy in Venezuela",
-        "predicate": "has been closed for",
-        "object": "over 3 years"
-      },
-      "normalized": {
-        "subject": "our embassy in Venezuela",
-        "predicate": "has been closed for",
-        "object": "over 3 years"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -361,16 +241,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "is processed via",
-        "object": "the Swiss consulate or Embassy"
-      },
-      "normalized": {
-        "subject": "it",
-        "predicate": "is processed via",
-        "object": "the Swiss consulate or Embassy"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -385,16 +257,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "don’t need",
-        "object": "an exit visa to leave the US"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "do not need",
-        "object": "an exit visa to leave the US"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -408,16 +272,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "could withdraw",
-        "object": "their application at any time"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "could withdraw",
-        "object": "their application at any time"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -431,16 +287,8 @@
       "comment_19b7655447"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "them",
-        "predicate": "are not forced to stay",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "them",
-        "predicate": "are not forced to stay",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

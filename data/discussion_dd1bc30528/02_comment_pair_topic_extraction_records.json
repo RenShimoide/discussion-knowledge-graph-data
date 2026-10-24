@@ -7,16 +7,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "One of the richest humans in the history of time",
-      "predicate": "is",
-      "object": "he"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "is",
-      "object": "one of the richest humans in the history of time"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -33,16 +25,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "beat the odds and became president of the most powerful country in the world",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "beat the odds and became president of the most powerful country in the world",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -59,16 +43,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "isn't rich",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "is not rich",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -85,16 +61,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "has",
-      "object": "his father's real estate inheritance"
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "has",
-      "object": "his father's real estate inheritance"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -111,16 +79,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "scams",
-      "object": "investors"
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "scams",
-      "object": "investors"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -137,16 +97,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "depends on",
-      "object": "bailouts"
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "depends on",
-      "object": "bailouts"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -163,16 +115,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "his haphazard ignorant policies",
-      "predicate": "are going to be",
-      "object": "the death of you and your immediate family"
-    },
-    "normalized_triple": {
-      "subject": "his haphazard ignorant policies",
-      "predicate": "will cause the death of",
-      "object": "you and your immediate family"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -189,16 +133,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "User_155",
-      "predicate": "is desperate when he begins to like his own comments",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "User_155",
-      "predicate": "is desperate when liking his own comments",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -215,16 +151,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "User_156",
-      "predicate": "has never once liked",
-      "object": "his own comments"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "has never liked",
-      "object": "his own comments"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -241,16 +169,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "User_156",
-      "predicate": "does not create",
-      "object": "multiple accounts to agree with himself"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "does not create",
-      "object": "multiple accounts to agree with himself"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -267,16 +187,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Your delusional political conspiracy theories",
-      "predicate": "ended",
-      "object": "the second you attempted to label me"
-    },
-    "normalized_triple": {
-      "subject": "Your delusional political conspiracy theories",
-      "predicate": "ended",
-      "object": "when you attempted to label me"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -293,16 +205,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "do not care for",
-      "object": "political parties"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "does not care for",
-      "object": "political parties"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -319,16 +223,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "am not someone who is lead",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "is not someone who is led",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -345,16 +241,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "make",
-      "object": "my own informed decisions"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "makes",
-      "object": "his own informed decisions"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -371,16 +259,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_8",
     "topic_id": "candidate_8",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "believe in",
-      "object": "the letter of the law"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "believes in",
-      "object": "the letter of the law"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -397,16 +277,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_9",
     "topic_id": "candidate_9",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "do not believe in",
-      "object": "the president that happens to be in office"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "does not believe in",
-      "object": "the president that happens to be in office"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",

@@ -11,16 +11,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "women",
-        "predicate": "fix",
-        "object": "houses all the time in America"
-      },
-      "normalized": {
-        "subject": "women",
-        "predicate": "fix",
-        "object": "houses in America"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -35,16 +27,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "some of the best kindergarten teachers",
-        "predicate": "are",
-        "object": "men"
-      },
-      "normalized": {
-        "subject": "some of the best kindergarten teachers",
-        "predicate": "are",
-        "object": "men"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -59,16 +43,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "builders",
-        "predicate": "are",
-        "object": "disproportionately men"
-      },
-      "normalized": {
-        "subject": "builders",
-        "predicate": "are",
-        "object": "disproportionately men"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -83,16 +59,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "kindergarten teachers",
-        "predicate": "are",
-        "object": "disproportionately women"
-      },
-      "normalized": {
-        "subject": "kindergarten teachers",
-        "predicate": "are",
-        "object": "disproportionately women"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -106,16 +74,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "gender disparities in professions",
-        "predicate": "are caused by",
-        "object": "brain function differences"
-      },
-      "normalized": {
-        "subject": "gender disparities in professions",
-        "predicate": "are caused by",
-        "object": "brain function differences"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -129,16 +89,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "men and women",
-        "predicate": "are not",
-        "object": "the same"
-      },
-      "normalized": {
-        "subject": "men and women",
-        "predicate": "are not",
-        "object": "the same"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -153,16 +105,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "most builders",
-        "predicate": "are",
-        "object": "men"
-      },
-      "normalized": {
-        "subject": "most builders",
-        "predicate": "are",
-        "object": "men"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -177,16 +121,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "most kindergarden teachers",
-        "predicate": "are",
-        "object": "women"
-      },
-      "normalized": {
-        "subject": "most kindergarten teachers",
-        "predicate": "are",
-        "object": "women"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -201,16 +137,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "we",
-        "predicate": "are",
-        "object": "different"
-      },
-      "normalized": {
-        "subject": "men and women",
-        "predicate": "are",
-        "object": "different"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -225,16 +153,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Men and women",
-        "predicate": "are",
-        "object": "the same"
-      },
-      "normalized": {
-        "subject": "Men and women",
-        "predicate": "are",
-        "object": "the same"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -249,16 +169,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Men and Woman",
-        "predicate": "are not",
-        "object": "the same"
-      },
-      "normalized": {
-        "subject": "Men and women",
-        "predicate": "are not",
-        "object": "the same"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -272,16 +184,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "scientists and physiologists",
-        "predicate": "state that",
-        "object": "men and women are not the same"
-      },
-      "normalized": {
-        "subject": "scientists and physiologists",
-        "predicate": "state that",
-        "object": "men and women are not the same"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -295,16 +199,8 @@
       "comment_f1cbef3ae7"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "men and women",
-        "predicate": "have",
-        "object": "huge differences"
-      },
-      "normalized": {
-        "subject": "men and women",
-        "predicate": "have",
-        "object": "huge differences"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

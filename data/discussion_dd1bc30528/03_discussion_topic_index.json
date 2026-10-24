@@ -10,16 +10,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "User_155",
-        "predicate": "is desperate when he begins to like his own comments",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "User_155",
-        "predicate": "is desperate when liking his own comments",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -33,16 +25,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "User_156",
-        "predicate": "has never once liked",
-        "object": "his own comments"
-      },
-      "normalized": {
-        "subject": "User_156",
-        "predicate": "has never liked",
-        "object": "his own comments"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -56,16 +40,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "User_156",
-        "predicate": "does not create",
-        "object": "multiple accounts to agree with himself"
-      },
-      "normalized": {
-        "subject": "User_156",
-        "predicate": "does not create",
-        "object": "multiple accounts to agree with himself"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -79,16 +55,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "User_155's delusional political conspiracy theories",
-        "predicate": "ended",
-        "object": "when User_155 attempted to label User_156"
-      },
-      "normalized": {
-        "subject": "User_155's delusional political conspiracy theories",
-        "predicate": "ended",
-        "object": "when User_155 attempted to label User_156"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -102,16 +70,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "do not care for",
-        "object": "political parties"
-      },
-      "normalized": {
-        "subject": "User_156",
-        "predicate": "does not care for",
-        "object": "political parties"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -125,16 +85,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "am not someone who is lead",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "User_156",
-        "predicate": "is not someone who is led",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -148,16 +100,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "make",
-        "object": "my own informed decisions"
-      },
-      "normalized": {
-        "subject": "User_156",
-        "predicate": "makes",
-        "object": "his own informed decisions"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -169,16 +113,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "believe in",
-        "object": "the letter of the law"
-      },
-      "normalized": {
-        "subject": "User_156",
-        "predicate": "believes in",
-        "object": "the letter of the law"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -190,16 +126,8 @@
       "comment_c994fa79d4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "User_156",
-        "predicate": "does not believe in",
-        "object": "the president that happens to be in office at any given time"
-      },
-      "normalized": {
-        "subject": "User_156",
-        "predicate": "does not believe in",
-        "object": "the president that happens to be in office at any given time"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

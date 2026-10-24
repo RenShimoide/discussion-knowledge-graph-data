@@ -2,8 +2,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_874392a472c0e74f4454",
-    "parent_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
-    "child_text": "User_135  at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then  become citizens too.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_874392a472c0e74f4454",
@@ -22,9 +20,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.93,
-      "decision_source": "initial_annotation",
-      "reason": "The child comment supplies reasons and evidence (higher earnings after experience, ability to buy a car/house, become citizens) that directly counter the parent’s claim that low‑wage work leads nowhere. This constitutes a clear supportive‑justification relation used to attack the parent’s stance, flowing from child to parent.",
-      "evidence": "Child: \"at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then become citizens too.\""
+      "decision_source": "initial_annotation"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -41,14 +37,12 @@
       "output_source": "response",
       "thinking_chars": 4031
     },
-    "thinking_output": "We need to decide final values. Let's analyze.\n\nParent comment: \"so you devalue our way of living because it’s more convenient for you?? How ... come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nInterpretation: The parent is saying that immigrants (presumably) devalue the way of living, and if they come legally they'd avoid low-wage jobs that get you nowhere.\n\nChild comment: \"at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then become citizens too.\"\n\nChild is responding: At the beginning it's low money but after gaining experience they earn more, buy car, house, become citizens. This is providing a counter-argument: that low wages are temporary, upward mobility exists.\n\nIs this a supportive-justification relation? The child provides reasons/evidence to attack the parent's claim. That matches definition: providing reasons/evidence that supports or attacks the target comment. So yes, supportive justification relation exists, direction C->P, polarity attack.\n\nNow we must see if any issues: The task says \"supportive justification\" includes providing reasons, evidence, explanation, clarification that supports or strengthens the target comment's claim, standpoint, or reasoning. Also can be used to attack? The definition earlier: \"The child reply uses a supportive or justificatory relation to support, attack, explain, reject, or otherwise respond to the parent comment.\" So attack is allowed.\n\nThus the validation judgment says present true, direction C->P, polarity attack. The initial annotation also says present true, direction C->P, polarity attack. Both agree. The validation says initial annotation is invalid because incorrectly marks relation as absent? Wait initial annotation says present true. The validation says \"incorrect_annotation\" error type but says \"The proposed annotation is invalid because it incorrectly marks the relation as absent when a clear supportive-justification relation exists.\" That seems contradictory: initial annotation says present true. Maybe they think the initial annotation had \"no_argument_scheme_relation\": false? Actually initial annotation includes \"no_argument_scheme_relation\": false, meaning there is a relation. So maybe they think something else. But both initial and validation agree on present true, direction C->P, polarity attack.\n\nThus final should be present true, direction C->P, polarity attack, confidence maybe high (0.9). Decision source: either initial_annotation or validation_judgment. Since both agree, we can choose either. According to rule 7, if validation identifies error, prefer validator. But here validator says initial annotation is invalid? But they both same? The validator says \"incorrect_annotation\" but they corrected present true etc. But initial already had those values. So maybe the validator thought initial had something else? The initial annotation had present true, direction C->P, polarity attack. So validator's correction matches initial. So no conflict. We can choose \"initial_annotation\" as source, but also \"validation_judgment\" is fine. The rule: If both are correct, prefer initial. But we need to decide which is more reliable. Both same. Use \"initial_annotation\" maybe.\n\nNow produce JSON.\n\n{\n\"final_present\": \"true\",\n\"final_direction\": \"C->P\",\n\"final_polarity_to_target\": \"attack\",\n\"confidence\": 0.93,\n\"decision_source\": \"initial_annotation\",\n\"reason\": \"Both the child comment provides reasons and evidence that counter the parent's claim about low-wage work, establishing a clear supportive‑justification relation that attacks the parent’s stance. Direction is from child to parent, polarity is attack.\",\n\"evidence\": \"Child offers explanation that wages increase with experience, contradicting parent’s claim of no upward mobility.\"\n}\n\nCheck format: fields final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nYes.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -61,8 +55,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.85,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly marks the relation as absent when a clear supportive-justification relation exists. The parent comment (P) claims that immigrants working for low wages ('Pennie's on the dollar') will 'get you nowhere in life.' The child comment (C) directly responds by providing evidence and explanation to counter this claim: 'at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then become citizens too.' This constitutes a supportive-justification relation where C attacks P's claim by offering reasons/evidence that contradict the assertion of having no upward mobility. The direction is C->P because the child reply provides justification/reasoning in response to the parent's claim. The polarity is 'attack' because C challenges and refutes P's standpoint."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply provides an explanation of economic progression to attack the parent's claim that the job leads nowhere.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply uses justification to attack the parent's claim.\"\n}",
@@ -73,8 +66,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_149c16ff303b628aefe0",
-    "parent_text": "User_135  less than americans but for a new inmigrants is good money",
-    "child_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_149c16ff303b628aefe0",
@@ -98,9 +89,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validator correctly identify that the child comment does not provide a clear supportive or justificatory reason for the parent comment; it is merely a rebuttal without explicit support, so the relation is absent.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -117,14 +106,12 @@
       "output_source": "response",
       "thinking_chars": 2362
     },
-    "thinking_output": "We need to verify if any supportive justification relation exists. Parent comment: \"User_135 less than americans but for a new inmigrants is good money\". It's a bit garbled: maybe meaning \"less than Americans but for new immigrants is good money\". Child comment: \"User_134 so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nParent says something about wages? Child says you devalue our way of living... It's a response, but does child provide justification for parent? The child is attacking the parent, maybe accusing them of devaluing way of living. Does child give reasons? It says \"come here legally the right way and you won’t have to work for Pennie's on the dollar for a job that will get you nowhere in life.\" That's a justification for why they think the parent is devaluing? It's more of an attack with some reasoning. However, the supportive justification relation is about providing reasons/evidence that supports or strengthens the target comment's claim. Here child is attacking parent, not supporting. Could be \"attack\" polarity. But does it provide justification for the attack? It says \"come here legally... you won't have to work for pennies\". That's a reason why they think the parent's viewpoint is wrong? The parent comment is about wages for immigrants being good money. Child says \"so you devalue our way of living because it's more convenient for you?? How about come here legally...\". This is more of a counter-argument, not supportive justification. The relation is not supportive justification; it's a disagreement with some reasoning. The scheme is \"Argument from Supportive Justification\" which can be used to support or attack? The definition says \"providing reasons, evidence, explanation, clarification, or justification that supports or strengthens the target comment's claim, standpoint, or reasoning.\" It says \"supports or strengthens\". Attack is not included. So if child is attacking, not supportive, then relation not present. So final_present false, direction none, polarity none. Both initial and validation say false. Validation is correct. So final decision: use validation_judgment. Confidence maybe 0.95 as given. Provide reason. Output JSON accordingly.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -137,8 +124,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The reply is a rhetorical attack and does not provide a justification or evidence for the parent's claim.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
@@ -149,8 +135,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_dedfad7319cf25e6e654",
-    "parent_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
-    "child_text": "User_135  less than americans but for a new inmigrants is good money",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_dedfad7319cf25e6e654",
@@ -169,9 +153,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not provide an explicit or strongly inferable supportive justification for the parent comment; it merely mentions lower wages without directly supporting or explaining the parent’s claim.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -188,14 +170,12 @@
       "output_source": "response",
       "thinking_chars": 1906
     },
-    "thinking_output": "We need to verify if any supportive justification relation exists. Parent comment: \"⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" Child comment: \"User_135  less than americans but for a new inmigrants is good money\". The child seems to be responding to some prior context about wages, maybe saying that it's less than Americans but good for new immigrants. Does it provide justification for the parent's claim? Parent says \"they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" Child says \"less than americans but for a new inmigrants is good money\". This could be seen as providing a justification: that wages are lower than Americans, which could be a reason why they are taken advantage of? But the child is not explicitly supporting the parent's claim; it's more like adding a fact about wages being lower. Could be considered a supportive justification: providing evidence that wages are lower, which supports the claim that they are taken advantage of. However, the relation is not explicit; it's just a statement. The task says need explicit or strongly inferable supportive justification. This is somewhat inferable: parent claims they work harder for less pay; child says it's less than Americans but good for new immigrants. That is evidence of lower pay, which supports the claim. But is it clear that child is supporting the parent's claim? The child doesn't say \"yes, that's why they are taken advantage of\". It's just a statement. Could be considered a supportive justification, but the relation is weak. According to rule 10, if evidence is weak, choose false. So final_present false, direction none, polarity none. Validation says false. So final decision matches validation. Use decision_source validation_judgment. Confidence maybe 0.95 as validation. Provide reason. Output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -208,8 +188,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The reply provides a comparative qualification regarding pay rather than a reason or evidence for the parent's claim.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
@@ -220,8 +199,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_3bee5245ccdd1e5d8ac1",
-    "parent_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
-    "child_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_3bee5245ccdd1e5d8ac1",
@@ -243,9 +220,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "support",
       "confidence": 0.86,
-      "decision_source": "adjudicator_override",
-      "reason": "The child comment uses a causal explanation ('because they are taken advantage of and work harder for less pay...') that directly justifies the parent comment's claim that immigrants are doing jobs Americans don't want. This provides a supportive justification relation from C to P, contrary to the validator's claim of mere topical continuation.",
-      "evidence": "Parent: 'they are not \"taking\" your jobs. They are doing jobs that americans don't want to do.' Child: 'because they are taken advantage of and work harder for less pay aka they don’t know their own worth.' The child's 'because' clause supplies a reason supporting the parent's statement."
+      "decision_source": "adjudicator_override"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -262,14 +237,12 @@
       "output_source": "response",
       "thinking_chars": 3305
     },
-    "thinking_output": "We need to evaluate if the validation judgment is correct. Let's examine the comments.\n\nParent: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\"\n\nChild: \"⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\"\n\nInterpretation: Parent says immigrants are not taking jobs, they are doing undesirable jobs. Child says (addressing User_134) because they are taken advantage of and work harder for less pay, they don't know their own worth. This seems to be providing a justification for why immigrants take those jobs? Actually child says \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" This could be interpreted as providing a reason for why immigrants do those jobs: they are exploited, work harder for less pay, don't know their worth. That is a justification for the claim that they are doing jobs Americans don't want to do. The child is giving a reason (exploitation) for why they are in those jobs. Does that count as supportive justification? The definition: supportive justification is providing reasons, evidence, explanation, clarification, or justification that supports or strengthens the target comment's claim. The child's statement explains why immigrants are doing those jobs: because they are taken advantage of, work harder for less pay, don't know their worth. That is an explanation that supports the parent's claim that they are doing jobs Americans don't want. So there is a supportive justification relation from C to P.\n\nBut the validator says it's not supportive, just topical continuation. Let's examine nuance: The child's comment is not directly supporting the claim that immigrants are not taking jobs but doing undesirable jobs; it's rather commenting on the condition of those workers (exploitation). It could be seen as supporting the idea that they are forced into those jobs due to exploitation, which aligns with the parent's claim. The child says \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" The \"because\" indicates a causal explanation for something. The antecedent is not explicit; maybe it's responding to \"they are doing jobs that americans don't want to do.\" So child says \"because they are taken advantage of...\" So yes, child provides a justification for why they are doing those jobs. That seems supportive.\n\nThus the relation is present, direction C->P, polarity support.\n\nWe need to decide final values. According to rule 6-9, if validator identifies error, we prefer validator unless we think validator is wrong. We think validator may be wrong because there is supportive justification. Let's double-check: The child's comment includes \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" The \"because\" indicates a reason for something. The something is presumably the fact that they are doing jobs Americans don't want. So child is giving a reason that supports the parent's claim. So yes supportive.\n\nThus final_present true, direction C->P, polarity support. Confidence maybe 0.85.\n\nDecision source: adjudicator_override (since we override both). Provide reason.\n\nLet's craft JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "true",
         "polarity_to_target": "support",
         "confidence": 0.85,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -282,8 +255,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label",
-      "reason": "The proposed annotation incorrectly labels the relation as 'true'. The parent comment (P) makes a claim that immigrants are not taking jobs but doing jobs Americans don't want to do. The child comment (C) responds by stating that these workers are taken advantage of, work harder for less pay, and don't know their worth. While C is topically related to P, it does not provide a reason, evidence, explanation, or justification that supports or attacks P's specific claim about job-taking vs. job-doing. Instead, C introduces a new point about exploitation and self-worth, which is a topical continuation but not a supportive-justification relation as defined. Therefore, the correct label is 'false'."
+      "error_type": "incorrect_label"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"support\",\n\"confidence\": 0.85,\n\"rationale\": \"The child reply provides an explanation for the situation described in the parent comment using the word 'because'.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply functions as an explanation for the parent's claim.\"\n}",
@@ -294,8 +266,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_4f21fd7f201026289bed",
-    "parent_text": "I remember when people were complaining about Mexicans crossing illegally and taking jobs away from Americans. Well now we can complain about everyone coming across illegally.",
-    "child_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_4f21fd7f201026289bed",
@@ -317,9 +287,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the child comment provides a reason/explanation that counters the parent's claim, constituting a supportive justification used to attack the parent. The validation judgment correctly identifies this relation and corrects the annotation accordingly.",
-      "evidence": "Child: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\" – offers a justification opposing the parent's statement about Mexicans taking jobs."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -336,14 +304,12 @@
       "output_source": "response",
       "thinking_chars": 3041
     },
-    "thinking_output": "We need to evaluate the pair.\n\nParent: \"I remember when people were complaining about Mexicans crossing illegally and taking jobs away from Americans. Well now we can complain about everyone coming across illegally.\"\n\nChild: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\"\n\nWe need to decide if there is an argument from supportive justification relation. The child is responding to the parent's claim that Mexicans crossing illegally take jobs away from Americans. Child says they are not taking jobs; they are doing jobs Americans don't want to do. That's providing a reason/evidence to counter the parent's claim. That is a supportive justification (providing justification) but it's used to attack the parent's claim. So it's a supportive justification relation from C to P, polarity attack.\n\nThe task definition: \"Argument from Supportive Justification: This label is present when one comment relates to the other by providing reasons, evidence, explanation, clarification, or justification that supports or strengthens the target comment's claim, standpoint, or reasoning.\"\n\nBut also they say \"The source comment uses the supportive or justificatory relation to support, attack, reject, or otherwise respond to the target comment.\" So attack is allowed.\n\nThus C provides a justification (explanation) that counters P's claim. That qualifies as supportive justification (providing reason) used to attack. So present true, direction C->P, polarity attack.\n\nNow we need to see if any nuance: Is the child's statement a justification? It says \"they are not taking your jobs. They are doing jobs that americans don't want to do. Its different\". That's an explanation, a reason. So yes.\n\nThus final_present true, direction C->P, polarity attack.\n\nNow we need to consider the validation judgment: It says is_valid false (meaning the validation says the initial annotation is invalid) and corrected_present true, direction C->P, polarity attack. So validation says the annotation should be true. The initial annotation also says present true, direction C->P, polarity attack. Wait initial annotation: present true, polarity attack, direction C->P. So both initial and validation agree. The validation says the initial annotation is invalid because it incorrectly labels the relation as 'false'—but the initial annotation actually labeled as true. The validation's reason seems mismatched: they say \"incorrectly labels the relation as 'false'\" but the annotation is true. Possibly a mistake. But we must follow the rules: If validation judgment identifies a valid error, prefer validator's corrected values. Here validation says is_valid false, corrected_present true etc. So we should adopt corrected values.\n\nThus final_present true, final_direction C->P, final_polarity_to_target attack.\n\nConfidence? The validation confidence 0.95. We can set confidence maybe 0.95.\n\nDecision_source: validation_judgment (since we follow validator's corrected values). Provide reason.\n\nNow produce JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -356,8 +322,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear supportive-justification relation exists. The child comment (C) directly attacks the parent's claim by providing a counter-reason: 'they are not taking your jobs... They are doing jobs that americans don't want to do.' This constitutes an argument from supportive justification where C uses evidence/reasoning to attack P's standpoint. Therefore, present should be true, direction C->P, polarity attack."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child provides a reason to refute the parent's implication regarding jobs being taken.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply provides a justification to attack the parent's premise.\"\n}",
@@ -368,8 +333,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_874392a472c0e74f4454",
-    "parent_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
-    "child_text": "User_135  at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then  become citizens too.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_874392a472c0e74f4454",
@@ -388,9 +351,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.93,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment directly challenges the parent’s claim that low‑wage work leads to nowhere by offering a counter‑reason that experience leads to higher earnings, asset acquisition, and citizenship. This constitutes a clear rebuttal (attack) from C to P.",
-      "evidence": "Parent: \"... work for Pennie's on the dollar for a job that will get you nowhere in life.\" Child: \"at the beginning is low money but after gaining experience they earn more and start to buy car and even house and then become citizens too.\""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -407,14 +368,12 @@
       "output_source": "response",
       "thinking_chars": 4931
     },
-    "thinking_output": "We need to decide final values. Let's examine the comments.\n\nParent: \"so you devalue our way of living because it’s more convenient for you?? How ... come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nInterpretation: The parent is saying that immigrants (presumably) devalue way of living, and if they come legally they won't have to work for low wages (\"Pennie's on the dollar\") for a job that will get you nowhere.\n\nChild: \"at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then become citizens too.\"\n\nInterpretation: The child says that initially low money but after gaining experience they earn more, buy car, house, become citizens. This is a counter-argument to the parent's claim that low-wage work leads to nowhere.\n\nIs this a rebuttal? The child is providing a counter-reason: \"though low money at beginning, later you earn more and become citizen.\" That directly challenges the parent's claim that such work leads to nowhere. So yes, it's a rebuttal.\n\nThus presence = true, direction = C->P (child rebutting parent), polarity = attack (child attacks parent's claim). Confidence high.\n\nNow we must consider validation judgment: It says is_valid false (meaning the validation says the initial annotation is invalid? Actually validation judgment says is_valid false, corrected_present true etc. The validator says the initial annotation incorrectly labels relation as false? Wait initial annotation says present true. The validation says is_valid false (meaning the validation says the initial annotation is not valid) and corrected_present true. So they agree that present true. So both say present true. The initial annotation says present true, direction C->P, polarity attack. The validator says same. So both agree. The validation says is_valid false (meaning the validation considered the initial annotation invalid? Actually \"is_valid\": false indicates the validator judged the initial annotation as invalid. But they propose corrected values that match the initial annotation. So maybe they think the initial annotation is wrong in some other way? Let's read: Validation Judgment reason: \"The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal exists.\" Wait that seems contradictory: The proposed annotation (maybe from some other system) labeled false, but the initial annotation we have is true. Possibly the validation is referencing a different annotation (maybe the system's original before we got this). But in our given \"Initial Annotation\" it's true. The validation says corrected_present true etc. So they think the correct is true.\n\nThus both agree that present true, direction C->P, polarity attack.\n\nThus final_present true, final_direction C->P, final_polarity_to_target attack.\n\nConfidence maybe 0.9.\n\nDecision source: Since both agree, we can use \"initial_annotation\" or \"validation_judgment\". Rule: If initial annotation is valid according to validation judgment, prefer initial unless adjudicator finds error. Validation says initial annotation is invalid? But they corrected same values. However they say \"is_valid\": false meaning they think the initial annotation is invalid. But the initial annotation is actually correct per our analysis. The validation seems to think the initial annotation is invalid because maybe they think the initial annotation incorrectly labeled something else? But they corrected to same values. So maybe they think the initial annotation is invalid because of some other reason (maybe they think the initial annotation's rationale missing). But the rule: \"If the validation judgment identifies a valid error in the initial annotation, prefer the validator's corrected values.\" Here validation says there is an error, but corrected values are same as initial. So no conflict. So we can choose either source. Probably \"validation_judgment\" because they explicitly corrected. But decision_source can be \"validation_judgment\". Or \"initial_annotation\". Both fine. Choose \"validation_judgment\" as they explicitly validated.\n\nThus final JSON:\n\n{\n\"final_present\": \"true\",\n\"final_direction\": \"C->P\",\n\"final_polarity_to_target\": \"attack\",\n\"confidence\": 0.93,\n\"decision_source\": \"validation_judgment\",\n\"reason\": \"Both the parent and child comments show a clear rebuttal: the child counters the parent's claim that low-wage work leads to nowhere by stating that experience leads to higher earnings and citizenship. This is an explicit attack from C to P.\",\n\"evidence\": \"Parent claims low-wage jobs lead to nowhere; child provides counter‑reason that wages increase with experience and leads to assets and citizenship.\"\n}\n\nMake sure fields match required: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nReturn only JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -427,8 +386,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.85,
-      "error_type": "incorrect_labeling",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal exists. The parent comment (P) claims that immigrants working for low wages ('Pennie's on the dollar') will 'get you nowhere in life.' The child comment (C) directly counters this claim by providing a counter-reason/alternative interpretation: while starting pay is low, gaining experience leads to higher earnings, asset acquisition (car/house), and eventual citizenship. This constitutes a substantive rebuttal of P's conclusion that such work leads to nowhere. Therefore, the relation is present, direction is C->P, and polarity is attack."
+      "error_type": "incorrect_labeling"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child provides a counter-argument to the parent's claim regarding the lack of economic advancement.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child's reply functions as a rebuttal to the parent's claim.\"\n}",
@@ -439,8 +397,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_149c16ff303b628aefe0",
-    "parent_text": "User_135  less than americans but for a new inmigrants is good money",
-    "child_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_149c16ff303b628aefe0",
@@ -464,9 +420,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment directly challenges the parent’s claim that wages are good for new immigrants by asserting that such wages are actually low (pennies on the dollar) and that legal immigration would avoid this situation. This provides a substantive counter‑claim, fulfilling the definition of an argument from rebuttal (attack) from C to P.",
-      "evidence": "Parent: \"less than americans but for a new inmigrants is good money\" (claims wages are good for new immigrants). Child: \"so you devalue our way of living... you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life\" (counter‑claim that wages are low and legal immigration is preferable)."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -483,14 +437,12 @@
       "output_source": "response",
       "thinking_chars": 4637
     },
-    "thinking_output": "We need to decide final values. Let's examine the comments.\n\nParent: \"User_135  less than americans but for a new inmigrants is good money\"\n\nInterpretation: The parent says something like \"less than Americans but for new immigrants is good money\". So they claim that wages (maybe) are less than Americans but for new immigrants it's good money.\n\nChild: \"User_134  so you devalue our way of living because it’s more convenient... How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nThe child says: \"so you devalue our way of living because it's more convenient for you?? How about come here legally the right way and you won't have to work for pennies on the dollar for a job that will get you nowhere in life.\"\n\nInterpretation: The child is responding to the parent's claim about immigrant wages being good money. The child says \"you devalue our way of living because it's more convenient for you??\" and suggests that if you come legally, you won't have to work for pennies on the dollar. This is a rebuttal? The child is challenging the parent's claim that it's good money for new immigrants, by saying that it's actually low wages (pennies on the dollar) and that they should come legally. The child is providing a counter-claim: that the wages are low and that the parent's statement devalues way of living. That seems like a rebuttal (attack). The child is providing a substantive counter-argument.\n\nThus there is a rebuttal relation from C to P. So final_present should be true, direction C->P, polarity attack.\n\nNow we need to see if any nuance: The child says \"so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nThe child is attacking the parent's viewpoint, providing a counter-claim that the wages are low and that legal immigration would avoid that. That's a substantive counter-claim. So yes, rebuttal.\n\nThus final_present true, direction C->P, polarity attack.\n\nNow we need to decide confidence. The evidence is clear. So maybe 0.95.\n\nDecision source: The validation judgment says present true, direction C->P, polarity attack. The initial annotation also says true, direction C->P, polarity attack. Both agree. The validation says is_valid false (meaning the validation says the initial annotation is invalid? Wait the validation judgment says \"is_valid\": false, \"corrected_present\": \"true\"... The validator says the initial annotation is invalid because it incorrectly marks the relation as absent? Actually the initial annotation says present true. The validator says \"The proposed annotation is invalid because it incorrectly marks the relation as absent when a clear rebuttal exists.\" That seems contradictory: initial annotation says present true, not absent. Maybe they mis-wrote. But they corrected to true anyway. So both agree.\n\nThus we can keep initial annotation as correct. Decision source could be \"initial_annotation\" or \"validation_judgment\". Since both are same, we can choose either. According to rule 7, if validation identifies error, prefer validator. But here validator says initial is invalid but then corrects to same values? Actually they say \"incorrectly marks the relation as absent\" but initial didn't mark absent. Might be a mistake. But we can still consider validation as providing corrected values (same). So we can set decision_source \"validation_judgment\" or \"initial_annotation\". Either is fine but must be consistent with rule: If validation judgment identifies a valid error, prefer validator. Here they claim error but corrected values match initial. However we can still choose validation_judgment as source.\n\nThus final JSON:\n\n{\n\"final_present\": \"true\",\n\"final_direction\": \"C->P\",\n\"final_polarity_to_target\": \"attack\",\n\"confidence\": 0.96,\n\"decision_source\": \"validation_judgment\",\n\"reason\": \"Both child and parent comments show that the child directly challenges the parent's claim about immigrant wages, providing a counter‑claim that wages are low and that legal immigration would avoid such conditions. This constitutes a clear rebuttal (attack) from C to P.\",\n\"evidence\": \"Parent: claims wages are good for new immigrants. Child: says you devalue our way of living, you will work for pennies on the dollar, urging legal immigration – a substantive counter‑argument.\"\n}\n\nMake sure fields match required: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nReturn only JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -503,8 +455,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.85,
-      "error_type": "incorrect_labeling",
-      "reason": "The proposed annotation is invalid because it incorrectly marks the relation as absent when a clear rebuttal exists. The child comment (C) directly challenges the parent's (P) claim about immigrant wages by countering with an argument that legal immigration leads to better outcomes, thereby attacking P's standpoint through a substantive counter-claim and alternative interpretation."
+      "error_type": "incorrect_labeling"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply challenges the parent's implication and provides a counter-argument.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply establishes a rebuttal relation by attacking the parent's logic.\"\n}",
@@ -515,8 +466,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_dedfad7319cf25e6e654",
-    "parent_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
-    "child_text": "User_135  less than americans but for a new inmigrants is good money",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_dedfad7319cf25e6e654",
@@ -535,9 +484,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.82,
-      "decision_source": "adjudicator_override",
-      "reason": "The child comment offers an alternative interpretation of the pay situation, implicitly challenging the parent’s claim that the group is taken advantage of and underpaid. This constitutes a substantive counter‑claim, satisfying the definition of an argument from rebuttal. The rebuttal flows from the child to the parent, and the polarity is attacking the parent’s assertion.",
-      "evidence": "Parent: \"they are taken advantage of and work harder for less pay...\" Child: \"less than americans but for a new inmigrants is good money\""
+      "decision_source": "adjudicator_override"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -554,14 +501,12 @@
       "output_source": "response",
       "thinking_chars": 3120
     },
-    "thinking_output": "We need to evaluate if the final decision should be as given. The initial annotation says present true, mixed polarity, direction C->P. Validation says false, none, none. We must decide based on definitions.\n\nParent: \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" So presumably about some group (maybe immigrants). Child: \"less than americans but for a new inmigrants is good money\". Child says that pay is less than Americans but for new immigrants it's good money. This is not directly rebutting the claim that they are taken advantage of and don't know their worth. It offers a perspective that the pay is good for new immigrants, which could be seen as a counter-argument that the pay is not necessarily exploitative? It could be interpreted as a rebuttal: The parent says they are taken advantage of, implying low pay is exploitative. Child says it's good money for new immigrants, implying it's not exploitative. That is a counter-claim. Does it constitute a rebuttal? The definition: \"substantive counter-claim, correction, counter-reason, objection, refutation, or alternative interpretation\". Child is offering an alternative interpretation: that the pay is good for new immigrants. That does challenge the parent's claim that they are taken advantage of. However, the child does not explicitly say \"they are not taken advantage of\". It just says \"less than americans but for a new immigrants is good money\". That could be read as a partial rebuttal: It suggests that while pay is lower than Americans, it's still good for new immigrants, implying perhaps they are not being taken advantage of. It's a subtle nuance.\n\nIs that enough to be considered a rebuttal? The validation says no, it's just comparative observation, not rebutting. The initial says yes. We need to decide.\n\nThe task says \"Mere disagreement, insult, ridicule, dismissal, or emotional reaction is not sufficient unless one comment gives a substantive counter-claim, correction, counter-reason, objection, refutation, or alternative interpretation against the other.\" Child provides alternative interpretation about pay being good for new immigrants. That is a substantive counter-claim to the notion that they are taken advantage of (i.e., low pay is exploitative). It could be considered a rebuttal.\n\nBut does the child directly address the claim \"they don’t know their own worth\"? Not really. It addresses the pay aspect. The parent says they work harder for less pay and are taken advantage of. Child says it's less than Americans but good for new immigrants. That is a counter-claim about the adequacy of pay. So yes, it's a rebuttal of the claim that they are underpaid.\n\nThus I think there is a rebuttal relation from child to parent (C->P). Polarity: attack? The child is challenging the parent's claim that they are taken advantage of. It's not supporting. So polarity \"attack\". Not mixed.\n\nThus final_present true, direction C->P, polarity attack.\n\nConfidence maybe 0.8.\n\nDecision source: adjudicator_override (since we override validation). Provide reason.\n\nLet's craft JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "true",
         "polarity_to_target": "mixed",
         "confidence": 0.85,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -574,8 +519,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label_assignment",
-      "reason": "The proposed annotation incorrectly labels the relation as 'true' with a 'mixed' polarity. The parent comment claims that a group is taken advantage of because they don't know their worth and work harder for less pay. The child comment states that while the pay is less than Americans, it is good money for new immigrants. This is not a rebuttal. It does not challenge, correct, or undermine the parent's claim about being taken advantage of or not knowing their worth. Instead, it offers a different perspective on the value of the pay relative to a specific group (new immigrants) compared to Americans. There is no substantive counter-claim, correction, counter-reason, objection, refutation, or alternative interpretation directed at the parent's reasoning or conclusion. The child comment is merely adding a comparative observation, not rebutting the parent's argument. Therefore, the relation should be 'false'."
+      "error_type": "incorrect_label_assignment"
     },
     "raw_outputs": {
       "stage1": "{\n  \"argument_from_rebuttal\": {\n    \"present\": \"true\",\n    \"polarity_to_target\": \"mixed\",\n    \"confidence\": 0.85,\n    \"rationale\": \"The reply acknowledges the lower pay but counters the claim of being taken advantage of by suggesting it is good money.\",\n    \"direction\": \"C->P\"\n  },\n  \"no_argument_scheme_relation\": false,\n  \"overall_note\": \"The reply provides a nuanced counter-argument to the parent's claim.\"\n}",
@@ -586,8 +530,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_3bee5245ccdd1e5d8ac1",
-    "parent_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
-    "child_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_3bee5245ccdd1e5d8ac1",
@@ -609,9 +551,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not provide a substantive counter‑claim, correction, or objection to the parent comment; it merely adds a related statement without rebutting the parent's claim.",
-      "evidence": "Parent: \"they are not 'taking' your jobs...\" Child: \"because they are taken advantage of and work harder for less pay...\" The child does not directly challenge or refute the parent's assertion."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -628,14 +568,12 @@
       "output_source": "response",
       "thinking_chars": 1574
     },
-    "thinking_output": "We need to evaluate if any rebuttal relation exists between parent and child.\n\nParent: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\"\n\nChild: \"⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\"\n\nInterpretation: Parent says immigrants (presumably) are not taking jobs, they do jobs Americans don't want. Child says \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" This seems to be a response that adds a reason or criticism? The child seems to be agreeing that they are taken advantage of? Actually child says \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" It seems to be a justification for something? The child is not directly rebutting the parent's claim; they are adding a statement about being taken advantage of and working harder for less pay. That could be seen as a counter-argument to the parent's claim that they are doing jobs Americans don't want, maybe implying they are exploited, but not directly refuting. It's more like elaboration or agreement? The child says \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" Could be a criticism of the situation, but not a rebuttal of the claim that they are not taking jobs. So no rebuttal.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -648,8 +586,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply provides an explanation or additional context rather than a rebuttal to the parent's claim.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
@@ -660,8 +597,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_4f21fd7f201026289bed",
-    "parent_text": "I remember when people were complaining about Mexicans crossing illegally and taking jobs away from Americans. Well now we can complain about everyone coming across illegally.",
-    "child_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_4f21fd7f201026289bed",
@@ -683,9 +618,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments show a clear rebuttal: the child directly challenges the parent's claim that immigrants are \"taking jobs\" by asserting they do jobs Americans don't want, constituting a substantive counter‑claim. This matches the validator's corrected annotation.",
-      "evidence": "Parent claim: \"Mexicans ... taking jobs away from Americans.\" Child reply: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\" – a direct counter‑argument attacking the parent's standpoint."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -702,14 +635,12 @@
       "output_source": "response",
       "thinking_chars": 2657
     },
-    "thinking_output": "We need to decide final values. Let's analyze.\n\nParent comment: \"I remember when people were complaining about Mexicans crossing illegally and taking jobs away from Americans. Well now we can complain about everyone coming across illegally.\"\n\nChild comment: \"they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different\"\n\nWe need to see if child is rebutting parent. Parent says: people complained about Mexicans crossing illegally and taking jobs away from Americans. Now we can complain about everyone crossing illegally. So parent is making a claim that earlier complaint was about Mexicans taking jobs; now complaint is about everyone crossing illegally. Child says: they are not taking your jobs. They are doing jobs that Americans don't want to do. It's different. This directly challenges the claim that Mexicans are taking jobs away from Americans. That's a rebuttal: child provides counter-claim that they are not taking jobs, they are doing jobs Americans don't want. That's a substantive counter-claim. So yes, there is a rebuttal relation from child to parent (C->P). Polarity: attack (child attacks parent's claim). So final_present true, direction C->P, polarity attack.\n\nNow we must consider validation judgment: says is_valid false (meaning initial annotation invalid) and corrected_present true, direction C->P, polarity attack. So validator says the annotation should be true. The initial annotation also had present true, direction C->P, polarity attack. Wait initial annotation: present true, polarity attack, direction C->P. So both initial and validator agree. The validation says is_valid false (meaning the initial annotation is invalid?) Actually validation judgment says is_valid false, corrected_present true etc. The reason says \"The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists.\" But the initial annotation labeled present true, not false. So maybe there is confusion: The validation says the proposed annotation is invalid because it incorrectly labels as false, but the initial annotation labeled true. Possibly the validation is referencing some other annotation? But we have to follow the rules: If validation judgment identifies a valid error, prefer validator's corrected values. Here validation says is_valid false, corrected_present true etc. So we should adopt corrected values.\n\nThus final_present true, direction C->P, polarity attack. Confidence? The validator gave confidence 0.95. We can adopt similar. Decision_source: validation_judgment (since they corrected). Provide reason.\n\nThus final JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -722,8 +653,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_labeling",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists. The child comment directly challenges the parent's claim that immigrants are 'taking jobs away from Americans' by providing a counter-claim: 'they are not taking your jobs. They are doing jobs that americans don't want to do.' This constitutes a substantive correction and counter-reason, establishing an argument from rebuttal where the child attacks the parent's standpoint."
+      "error_type": "incorrect_labeling"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply corrects the parent's implication about immigrants taking jobs with a counter-explanation.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The reply establishes a clear rebuttal relation.\"\n}",
@@ -734,8 +664,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_874392a472c0e74f4454",
-    "parent_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
-    "child_text": "User_135  at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then  become citizens too.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_874392a472c0e74f4454",
@@ -754,9 +682,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.92,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment presents a causal chain (low initial wages → gaining experience → higher earnings → buying assets → citizenship) that directly counters the parent’s claim that low wages lead to a dead‑end life. This constitutes an explicit causal‑consequence argument used to attack the parent’s statement, matching the validator’s correction.",
-      "evidence": "Parent: claims low‑wage work leads to nowhere. Child: describes a sequence where low wages are followed by experience, higher earnings, asset purchase, and citizenship, thereby refuting the parent’s consequence claim."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -773,14 +699,12 @@
       "output_source": "response",
       "thinking_chars": 2520
     },
-    "thinking_output": "We need to decide final values. Let's examine the comments.\n\nParent P: \"so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nInterpretation: The parent says: If you come legally, you won't have to work for low wages (Pennie's on the dollar) for a job that will get you nowhere. So they claim that working low wages leads to dead-end life.\n\nChild C: \"at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then become citizens too.\"\n\nInterpretation: The child says: At the beginning it's low money, but after gaining experience they earn more, buy car, house, become citizens. This is a counter-argument: low wages initially, but later leads to better outcomes.\n\nIs this a causal-consequence argument? The child is presenting a causal chain: low money -> gaining experience -> earn more -> buy car/house -> become citizen. This is used to attack the parent's claim that low wages leads to nowhere. So there is a causal claim.\n\nThe question: Does the child explicitly refer to cause/effect? The child says \"at the beginning is low money but after gaining experience they earn more\". That's a causal relation: gaining experience leads to higher earnings. So yes.\n\nThus there is a causal-consequence relation from child to parent (C->P). Polarity: attack (child attacks parent's claim). So present true.\n\nNow we must consider validation judgment: It says is_valid false (meaning the validation says the initial annotation is invalid) and corrected_present true etc. So validator says present true.\n\nWe need to decide final values. According to rules: If validation judgment identifies a valid error, prefer validator's corrected values. So we should adopt present true, direction C->P, polarity attack.\n\nBut we must ensure that the relation meets criteria: explicit or strongly inferable. The child's comment includes \"after gaining experience they earn more and start to buy car and even house and then become citizens too.\" That's a causal chain. It attacks the parent's claim that low wages leads to nowhere. So yes.\n\nThus final_present true, final_direction C->P, final_polarity_to_target attack.\n\nConfidence maybe 0.9.\n\nDecision source: validation_judgment (since validator corrected). Or adjudicator_override? The validator seems correct. So decision_source = \"validation_judgment\".\n\nProvide JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -793,8 +717,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.85,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear causal-consequence argument is present. The parent comment (P) claims that working for low wages ('Pennie's on the dollar') leads to a dead-end job ('get you nowhere in life'). The child comment (C) directly attacks this claim by presenting a counter-narrative of consequences: starting with low money leads to gaining experience, which causes higher earnings, buying assets (car/house), and eventually becoming citizens. This is a clear causal chain used to refute the parent's negative consequence claim. Therefore, 'present' should be 'true', direction 'C->P', and polarity 'attack'."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply uses a sequence of consequences to counter the parent's claim about negative outcomes.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The reply establishes a causal chain to rebut the parent's assertion.\"\n}",
@@ -805,8 +728,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_149c16ff303b628aefe0",
-    "parent_text": "User_135  less than americans but for a new inmigrants is good money",
-    "child_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_149c16ff303b628aefe0",
@@ -830,9 +751,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment does not contain an explicit or strongly inferable causal‑consequence claim that directly addresses the parent comment's economic comparison. It is a rhetorical attack about legal immigration rather than a cause‑effect argument, so the causal‑consequence relation is not present.",
-      "evidence": "Parent: 'less than americans but for a new inmigrants is good money'. Child: 'come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life' – no clear cause‑effect link to the parent’s claim."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -849,14 +768,12 @@
       "output_source": "response",
       "thinking_chars": 693
     },
-    "thinking_output": "We need to decide final values. The validator says present false, direction none, polarity none, and is_valid false (meaning initial annotation invalid). The validator's reasoning seems sound: child comment does not present explicit causal-consequence relation to parent claim. So final_present false, direction none, polarity none. Confidence maybe 0.95 as validator. Decision source validation_judgment.\n\nCheck rules: If final_present false, direction none, polarity none. Good.\n\nWe must output JSON with fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence (optional). Provide reason and evidence maybe.\n\nThus final answer as JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -869,8 +786,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label_assignment",
-      "reason": "The proposed annotation incorrectly labels the relation as 'true' for Argument from Causal Consequence. While the child comment (C) contains a conditional statement ('come here legally... and you won't have to work for Pennies'), this is a rhetorical attack and a general assertion about legal immigration benefits rather than a direct causal-consequence argument targeting the specific claim in the parent comment (P). The parent comment makes a comparative economic observation ('less than americans but for a new inmigrants is good money'). The child reply attacks the premise or tone of the parent comment and offers a counter-narrative about legal immigration, but it does not explicitly link a cause-effect chain to refute or support the specific causal claim in P. The relation is primarily an attack based on normative/legal grounds ('come here legally') rather than a structured argument from causal consequence regarding the economic comparison made in P. Therefore, the causal-consequence scheme is not clearly established between the two comments."
+      "error_type": "incorrect_label_assignment"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child identifies a negative consequence of the parent's logic using a causal 'because' structure.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child uses a causal consequence to attack the parent's claim.\"\n}",
@@ -881,8 +797,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_dedfad7319cf25e6e654",
-    "parent_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
-    "child_text": "User_135  less than americans but for a new inmigrants is good money",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_dedfad7319cf25e6e654",
@@ -901,9 +815,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the parent and child comments do not contain an explicit or strongly inferable causal‑consequence relation; the child merely comments on wage levels without linking cause and effect to the parent statement.",
-      "evidence": "Parent: \"they are taken advantage of and work harder for less pay...\" Child: \"less than americans but for a new inmigrants is good money\" – no causal claim connecting the two."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -920,14 +832,12 @@
       "output_source": "response",
       "thinking_chars": 664
     },
-    "thinking_output": "We need to decide final values. The initial annotation says present false, direction none, polarity none. Validation says is_valid true, corrected_present false, direction none, polarity none. Both agree that no causal relation. So final should be false, none, none. Confidence maybe 0.95 as validation. Decision source: validation_judgment (since validator correct). Provide reason and evidence fields. Ensure JSON matches required fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nWe must ensure compliance with rules: if final_present false, direction none, polarity none. Good.\n\nThus output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -940,8 +850,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The reply provides a comparative statement about wages rather than establishing a causal or consequential link to the parent.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence argument scheme is established.\"\n}",
@@ -952,8 +861,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_3bee5245ccdd1e5d8ac1",
-    "parent_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
-    "child_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_3bee5245ccdd1e5d8ac1",
@@ -975,9 +882,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "support",
       "confidence": 0.85,
-      "decision_source": "adjudicator_override",
-      "reason": "The child comment contains an explicit causal marker \"because\" linking the workers' exploitation and low pay to their situation, which directly addresses the parent comment's claim that they are doing jobs Americans don't want. This establishes a clear causal‑consequence relation from the child to the parent, used to support the parent's statement.",
-      "evidence": "Parent: \"they are doing jobs that americans don't want to do.\" Child: \"because they are taken advantage of and work harder for less pay...\""
+      "decision_source": "adjudicator_override"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -994,14 +899,12 @@
       "output_source": "response",
       "thinking_chars": 5272
     },
-    "thinking_output": "We need to evaluate if the validation judgment is correct. Let's examine the comments.\n\nParent: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\"\n\nChild: \"⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\"\n\nThe child uses \"because\" linking \"they are taken advantage of and work harder for less pay\" as reason for something? The phrase \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" The child seems to be responding to the parent, perhaps explaining why immigrants do those jobs: because they are taken advantage of and work harder for less pay, they don't know their worth. That is a causal explanation: they do those jobs because they are taken advantage of, etc. The parent says they are not taking jobs, they are doing jobs Americans don't want. The child says they do those jobs because they are taken advantage of and work harder for less pay. That is a causal relation from child's perspective: cause (being taken advantage of, low pay) leads to them doing those jobs. This is a causal relation that attacks the parent's claim? The parent claims they are not taking jobs, they are doing undesirable jobs. Child says they are taken advantage of and work harder for less pay, implying exploitation, maybe supporting the parent's claim that they are doing undesirable jobs? Actually the child's statement could be seen as supporting the parent's claim that they are doing jobs Americans don't want, by giving a reason (exploitation). But the child's comment is not directly attacking the parent's claim; it's providing a cause for why they do those jobs. That is a causal-consequence relation: the child's claim uses a causal explanation (because they are taken advantage of...). The direction is C->P (child uses causal relation to respond to parent). The presence: true? The child uses \"because\" which is a causal marker linking cause to the fact that they are taken advantage of and work harder for less pay. However, does it link to the parent's claim? The child's \"because\" clause explains why they are taken advantage of? Actually the child's sentence: \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" The \"because\" seems to be a justification for something earlier, maybe the child's statement \"User_134 because they are taken advantage of...\" The comment is a bit fragmented. The child is replying to user_134 (maybe the parent). The child says \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" The cause is \"they are taken advantage of and work harder for less pay\". The effect is maybe \"they don't know their own worth\". Or the cause is \"they don't know their own worth\" leading to being taken advantage of? Hard to parse.\n\nBut the key: does the child establish a causal relation with respect to the parent's claim? The parent says immigrants are not taking jobs, they are doing undesirable jobs. The child says they are taken advantage of and work harder for less pay because they don't know their worth. This is not directly linking to the parent's claim about job types. It's more about exploitation. There's a causal marker \"because\", but the cause/effect is internal to child's statement, not referencing the parent's claim. The child is not saying \"they do those jobs because they are taken advantage of\". Actually they could be implying that, but it's not explicit. The phrase \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" The \"because\" seems to be answering a question: maybe \"why are they doing those jobs?\" So there is a causal link to the parent's claim (they are doing jobs Americans don't want). The child says \"because they are taken advantage of...\" So that is a causal explanation for why they do those jobs. That qualifies as causal-consequence relation.\n\nThe validation judgment says no causal relation, just elaboration. But we need to decide final. According to guidelines, we need explicit or strongly inferable causal relation. The child uses \"because\". That's a causal marker. The cause is \"they are taken advantage of and work harder for less pay\". The effect is presumably \"they do those jobs\". The parent claim is about them doing those jobs. So the child is providing a cause for that. That seems a clear causal relation.\n\nThus final_present should be true. Direction C->P. Polarity: The child is attacking? The child is not attacking the parent's claim; they are providing an explanation that could be seen as supporting the parent's claim that they are doing undesirable jobs. However the child's tone may be critical of the workers (they don't know their worth). But the relation is not attacking the parent's claim; it's providing a cause. The polarity classification: \"support\" if the causal relation is used to support the target comment. The child is supporting the parent's claim that they are doing undesirable jobs by giving a cause. So polarity = support.\n\nConfidence maybe 0.85.\n\nDecision source: adjudicator_override (since we override validator). Provide reason.\n\nThus final JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.85,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -1014,8 +917,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label",
-      "reason": "The proposed annotation incorrectly labels the relation as 'true'. The parent comment argues that immigrants are not taking jobs but doing jobs Americans don't want to do. The child reply states that these workers are taken advantage of and work harder for less pay because they don't know their worth. While the child reply discusses a situation (being taken advantage of, low pay), it does not establish a clear causal or consequential link to the parent's claim about job-taking vs. job-doing. The child comment is more of an elaboration on the conditions of the workers mentioned in the parent comment, rather than using a cause-effect or consequence-outcome relation to support or attack the parent's argument. There is no explicit 'because', 'therefore', 'leads to', or similar causal/consequential marker linking the two statements in an argumentative scheme. The relation is topical but not causal-consequential."
+      "error_type": "incorrect_label"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.85,\n\"rationale\": \"The child reply uses 'because' to provide a causal explanation for the situation described in the parent comment.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The causal relation is established via the 'because' clause in the reply.\"\n}",
@@ -1026,8 +928,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_4f21fd7f201026289bed",
-    "parent_text": "I remember when people were complaining about Mexicans crossing illegally and taking jobs away from Americans. Well now we can complain about everyone coming across illegally.",
-    "child_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_4f21fd7f201026289bed",
@@ -1049,9 +949,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment refutes the parent's claim about immigrants 'taking' jobs by stating they perform jobs Americans don't want, which is a direct rebuttal rather than a causal or consequential argument. No cause-effect relationship is expressed, so the Argument from Causal Consequence scheme does not apply.",
-      "evidence": "Parent: complains about Mexicans crossing illegally and taking jobs. Child: says they are not taking jobs, they do jobs Americans don't want. No causal chain is presented."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1068,14 +966,12 @@
       "output_source": "response",
       "thinking_chars": 744
     },
-    "thinking_output": "We need to decide final values. The validator says present false, direction none, polarity none. The initial annotation says true, C->P, attack. According to rules, if validation identifies error, we prefer validator. The validator's reasoning seems correct: child says \"they are not taking your jobs, they are doing jobs Americans don't want\" which is a rebuttal, not causal. No cause-effect. So final_present false, direction none, polarity none. Confidence maybe 0.95 as validator. decision_source validation_judgment.\n\nWe must output JSON with fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence (maybe optional). Provide reason. Ensure matches schema.\n\nThus final answer as JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -1088,8 +984,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label_assignment",
-      "reason": "The proposed annotation incorrectly labels the relation as 'Argument from Causal Consequence'. The child comment (C) directly contradicts a premise in the parent comment (P) by stating that immigrants are not 'taking' jobs but rather doing jobs Americans don't want. This is a direct rebuttal or counter-claim regarding the nature of the labor market, not an argument based on causes, effects, consequences, outcomes, risks, benefits, or practical results. There is no causal chain (e.g., 'If X happens, then Y will result') established between the two comments. The relation is a direct disagreement/refutation, which falls under general argumentation but does not fit the specific 'Argument from Causal Consequence' scheme defined in the task. Therefore, the correct label for 'present' is 'false', direction is 'none', and polarity is 'none'."
+      "error_type": "incorrect_label_assignment"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply refutes the parent's claim about the consequence of immigration by presenting an alternative outcome.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The reply attacks the consequence stated in the parent comment.\"\n}",
@@ -1100,8 +995,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_874392a472c0e74f4454",
-    "parent_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
-    "child_text": "User_135  at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then  become citizens too.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_874392a472c0e74f4454",
@@ -1120,9 +1013,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that no explicit or strongly inferable analogy or comparison is present between the parent and child comments.",
-      "evidence": "The child comment merely describes a progression of earnings and citizenship without comparing it to another case or using an analogical structure."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1139,14 +1030,12 @@
       "output_source": "response",
       "thinking_chars": 1284
     },
-    "thinking_output": "We need to evaluate if any analogy/comparison relation exists between parent and child comments.\n\nParent: \"so you devalue our way of living because it’s more convenient for you?? How ... come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nChild: \"at the beggining is low money but after gaining experience they earn more and start to buy car and even house and then become citizens too.\"\n\nChild is basically saying that initially low money but after experience they earn more, buy car, house, become citizens. This is a response to parent maybe about immigration and work. Does child use analogy/comparison? Not really. It's just giving a narrative about progression. No explicit comparison between two cases. Not analogical.\n\nThus final_present false, direction none, polarity none. Confidence high.\n\nBoth initial and validation say false. So final decision source could be either. According to rule 7, if validation judgment identifies error, prefer validator. Here validator says correct. So we can use validation_judgment.\n\nThus output JSON as described. Ensure fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nProvide reason concise.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1159,8 +1048,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply describes a progression of economic and social status rather than using an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison relation is established.\"\n}",
@@ -1171,8 +1059,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_149c16ff303b628aefe0",
-    "parent_text": "User_135  less than americans but for a new inmigrants is good money",
-    "child_text": "User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_149c16ff303b628aefe0",
@@ -1196,9 +1082,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that no explicit or strongly inferable analogy or comparison is present between the parent and child comments.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1215,14 +1099,12 @@
       "output_source": "response",
       "thinking_chars": 1108
     },
-    "thinking_output": "We need to evaluate if any analogical/comparative relation exists between parent and child comments.\n\nParent: \"User_135  less than americans but for a new inmigrants is good money\". This seems to be about wages? Not clear.\n\nChild: \"User_134  so you devalue our way of living because it’s more convenient for you?? How about come here legally the right way and you won’t have to work for Pennie’s on the dollar for a job that will get you nowhere in life.\"\n\nChild is responding, accusing devaluing way of living, telling to come legally. No explicit analogy/comparison. No mention of \"like\", \"as\", \"similar to\", \"just as\", etc. So no analogical relation.\n\nThus final_present false, direction none, polarity none. Confidence high.\n\nBoth initial and validation say false. Validation is correct. Decision source could be \"validation_judgment\" as they validated. Or \"initial_annotation\". Both are same. According to rule 7, if validation identifies error, prefer validator. Here validator says correct. So either source is fine but we can choose \"validation_judgment\". Provide confidence maybe 0.96.\n\nReturn JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1235,8 +1117,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child's reply attacks the parent's claim without using an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison relation is established.\"\n}",
@@ -1247,8 +1128,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_dedfad7319cf25e6e654",
-    "parent_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
-    "child_text": "User_135  less than americans but for a new inmigrants is good money",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_dedfad7319cf25e6e654",
@@ -1267,9 +1146,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments discuss wages, but the child does not use an analogy, comparison, or contrast to respond to the parent. The relation is merely topical, not an analogical argument, so the annotation of no argument scheme relation is correct.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1286,14 +1163,12 @@
       "output_source": "response",
       "thinking_chars": 608
     },
-    "thinking_output": "We need to verify if any analogy/comparison present. Parent: \"because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\" Child: \"less than americans but for a new inmigrants is good money\". The child is basically stating that wages are less than Americans but good for new immigrants. No explicit analogy/comparison between the two comments. It's just a statement about wages. No analogical relation. So present false, direction none, polarity none. Validation says correct. So final decision: use validation_judgment. Confidence maybe 0.95 as given. Provide JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1306,8 +1181,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The reply uses a comparative statement to qualify the parent's claim but does not establish an argument-scheme relation.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
@@ -1318,8 +1192,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_3bee5245ccdd1e5d8ac1",
-    "parent_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
-    "child_text": "⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_3bee5245ccdd1e5d8ac1",
@@ -1341,9 +1213,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that no explicit or strongly inferable analogical or comparative relation exists between the parent and child comments.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1360,14 +1230,12 @@
       "output_source": "response",
       "thinking_chars": 702
     },
-    "thinking_output": "We need to verify if any analogy/comparison present. Parent: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\". Child: \"⁠User_134 because they are taken advantage of and work harder for less pay aka they don’t know their own worth.\"\n\nChild is responding, but not using analogy/comparison. It's just stating they are taken advantage of, work harder for less pay. No analogy. So present false. Direction none, polarity none. Both initial and validation say false. Validation is correct. So final present false, direction none, polarity none. Confidence maybe 0.95. decision_source validation_judgment. Provide reason. evidence maybe empty. Output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1380,8 +1248,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply provides a causal explanation for the parent's claim rather than using an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
@@ -1392,8 +1259,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_4f21fd7f201026289bed",
-    "parent_text": "I remember when people were complaining about Mexicans crossing illegally and taking jobs away from Americans. Well now we can complain about everyone coming across illegally.",
-    "child_text": "they are not \"taking\" your jobs. They are doing jobs that americans don't want to do. Its different",
     "metadata": {
       "discussion_id": "discussion_fc45f785e3",
       "source_pair_id": "causal_4f21fd7f201026289bed",
@@ -1415,9 +1280,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment directly refutes the parent's claim about job taking without using any analogical or comparative structure. It offers a counter‑argument rather than an analogy, so the argument‑from‑analogy/comparison relation is not present.",
-      "evidence": "Parent mentions Mexicans taking jobs; child says 'they are not taking your jobs... doing jobs Americans don't want to do', which is a rebuttal, not a comparison."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1434,14 +1297,12 @@
       "output_source": "response",
       "thinking_chars": 1145
     },
-    "thinking_output": "We need to evaluate if the final answer should be as given. Let's examine.\n\nParent: \"I remember when people were complaining about Mexicans crossing illegally and taking jobs away from Americans. Well now we can complain about everyone coming across illegally.\"\n\nChild: \"they are not 'taking' your jobs. They are doing jobs that americans don't want to do. Its different\"\n\nIs there an analogy/comparison? The child says \"they are not taking your jobs... doing jobs that americans don't want to do. It's different\". This is a rebuttal, not an analogy. No explicit comparison between two cases. So present false. Direction none, polarity none. The validation says false. The initial says true. According to rule 7, if validation identifies error, prefer validator. So final present false, direction none, polarity none. Confidence maybe 0.95 as validator gave. Decision source validation_judgment.\n\nThus the provided JSON matches. Need to ensure fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. The example includes reason and evidence. That's okay.\n\nThus final answer same as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -1454,8 +1315,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label_assignment",
-      "reason": "The proposed annotation incorrectly labels the relation as 'true' for argument from analogy or comparison. The child comment directly contradicts a claim in the parent comment ('they are not taking your jobs') and offers a counter-argument ('doing jobs Americans don't want to do'). This is a direct rebuttal or disagreement, not an analogy or comparison. While the parent mentions a past situation (Mexicans) and a current one (everyone), the child does not use this structure to draw an analogy; instead, it attacks the premise of job displacement directly. There is no explicit or strongly inferable analogical reasoning in the child's response to the parent."
+      "error_type": "incorrect_label_assignment"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child uses a contrast ('Its different') to attack the parent's comparison.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child establishes a contrast to the parent's comparison.\"\n}",

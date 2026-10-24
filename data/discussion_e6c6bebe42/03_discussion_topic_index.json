@@ -15,16 +15,8 @@
       "comment_25564c5e78"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the Middle-East",
-        "predicate": "invaded, waged wars, colonized and enslaved",
-        "object": "European countries"
-      },
-      "normalized": {
-        "subject": "the Middle-East",
-        "predicate": "invaded, waged wars, colonized and enslaved",
-        "object": "European countries"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -41,16 +33,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "a middle eastern country",
-        "predicate": "enslaved",
-        "object": "European country"
-      },
-      "normalized": {
-        "subject": "a middle eastern country",
-        "predicate": "enslaved",
-        "object": "European country"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -69,16 +53,8 @@
       "comment_25564c5e78"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the west",
-        "predicate": "supposed to be",
-        "object": "this great land of diversity? freedom of religion snd thought?"
-      },
-      "normalized": {
-        "subject": "the West",
-        "predicate": "is supposed to be",
-        "object": "a great land of diversity and freedom of religion and thought"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -95,16 +71,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "u",
-        "predicate": "are trying to change",
-        "object": "every single person who doesn't have these values"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "are trying to change",
-        "object": "every single person who does not have these values"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -119,16 +87,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I - and most normal people -",
-        "predicate": "want",
-        "object": "the West to remain white"
-      },
-      "normalized": {
-        "subject": "the speaker and most normal people",
-        "predicate": "want",
-        "object": "the West to remain white"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -143,16 +103,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the West to remain white",
-        "predicate": "is why",
-        "object": "the West is so great"
-      },
-      "normalized": {
-        "subject": "the West remaining white",
-        "predicate": "is why",
-        "object": "the West is great"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -165,16 +117,8 @@
       "comment_c6034638b5"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "diversity",
-        "predicate": "is ruining",
-        "object": "it"
-      },
-      "normalized": {
-        "subject": "diversity",
-        "predicate": "is ruining",
-        "object": "the West"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -187,16 +131,8 @@
       "comment_c6034638b5"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "we",
-        "predicate": "are importing",
-        "object": "the worst kind of people"
-      },
-      "normalized": {
-        "subject": "we",
-        "predicate": "are importing",
-        "object": "the worst kind of people"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -213,16 +149,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "u",
-        "predicate": "are trying to change",
-        "object": "every single person who doesn't have these values"
-      },
-      "normalized": {
-        "subject": "the addressee",
-        "predicate": "is trying to change",
-        "object": "every single person who doesn't have these values"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -237,16 +165,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Those words",
-        "predicate": "can mean",
-        "object": "something in a Country and something different in another"
-      },
-      "normalized": {
-        "subject": "Those words",
-        "predicate": "can mean",
-        "object": "something in a Country and something different in another"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -261,16 +181,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "if we want to just follow it as it is, without some interpretation",
-        "predicate": "we are trying to create",
-        "object": "a fairytale, not a reality"
-      },
-      "normalized": {
-        "subject": "we",
-        "predicate": "are trying to create",
-        "object": "a fairytale, not a reality"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -287,16 +199,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the West",
-        "predicate": "is",
-        "object": "great"
-      },
-      "normalized": {
-        "subject": "the West",
-        "predicate": "is",
-        "object": "great"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -309,16 +213,8 @@
       "comment_c6034638b5"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "The Europeans",
-        "predicate": "didn’t do to the indigenous",
-        "object": "[unspecified]"
-      },
-      "normalized": {
-        "subject": "the Europeans",
-        "predicate": "did not treat well",
-        "object": "the indigenous people"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -331,16 +227,8 @@
       "comment_c6034638b5"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "should be applied",
-        "object": "here too"
-      },
-      "normalized": {
-        "subject": "the principle of respecting people",
-        "predicate": "should be applied",
-        "object": "to the current situation regarding immigrants"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -352,16 +240,8 @@
       "comment_c6034638b5"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "immigrants",
-        "predicate": "are",
-        "object": "people not slaves"
-      },
-      "normalized": {
-        "subject": "immigrants",
-        "predicate": "are",
-        "object": "people and not slaves"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -380,16 +260,8 @@
       "comment_25564c5e78"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "The Europeans",
-        "predicate": "didn’t do to the indigenous",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "Europeans",
-        "predicate": "did not respect",
-        "object": "indigenous people"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -404,16 +276,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Norway",
-        "predicate": "colonised",
-        "object": "the Middle East"
-      },
-      "normalized": {
-        "subject": "Norway",
-        "predicate": "colonised",
-        "object": "the Middle East"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -428,16 +292,8 @@
       "comment_e3a7880eed"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "every single non European immigrant",
-        "predicate": "should be",
-        "object": "deported"
-      },
-      "normalized": {
-        "subject": "every non-European immigrant",
-        "predicate": "should be",
-        "object": "deported"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -456,16 +312,8 @@
       "comment_25564c5e78"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "live",
-        "object": "there"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "live",
-        "object": "western culture locations"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

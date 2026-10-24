@@ -9,16 +9,8 @@
       "comment_b0782f9ca2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "need to keep",
-        "object": "your hands and feet inside the ride at all times"
-      },
-      "normalized": {
-        "subject": "passengers",
-        "predicate": "need to keep",
-        "object": "hands and feet inside the ride at all times"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -31,16 +23,8 @@
       "comment_b0782f9ca2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "need to keep your hands and feet inside the ride at all times",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "need to keep hands and feet inside the ride at all times",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -53,16 +37,8 @@
       "comment_b0782f9ca2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "You",
-        "predicate": "definitely have to keep arms and what not inside",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "must keep arms and other parts inside",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -74,16 +50,8 @@
       "comment_b0782f9ca2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "this exact elevator",
-        "predicate": "is just as famous between natives as with you lot",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "this exact elevator",
-        "predicate": "is equally famous among natives and the other group",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -95,16 +63,8 @@
       "comment_b0782f9ca2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the users",
-        "predicate": "are mostly by politicians on a daily basis",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "the users",
-        "predicate": "are mostly politicians on a daily basis",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -116,16 +76,8 @@
       "comment_b0782f9ca2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "the users are mostly by politicians on a daily basis",
-        "predicate": "limits the room for errors",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "the fact that users are mostly politicians on a daily basis",
-        "predicate": "limits the room for errors",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -137,16 +89,8 @@
       "comment_b0782f9ca2"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "dont recall any serious accidents",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "the speaker",
-        "predicate": "does not recall any serious accidents",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

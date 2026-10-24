@@ -12,16 +12,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "people",
-        "predicate": "were complaining about",
-        "object": "Mexicans crossing illegally and taking jobs away from Americans"
-      },
-      "normalized": {
-        "subject": "people",
-        "predicate": "complained about",
-        "object": "Mexicans crossing illegally and taking jobs from Americans"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -37,16 +29,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "we",
-        "predicate": "can complain about",
-        "object": "everyone coming across illegally"
-      },
-      "normalized": {
-        "subject": "we",
-        "predicate": "can complain about",
-        "object": "everyone crossing illegally"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -62,16 +46,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "are not taking",
-        "object": "your jobs"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "are not taking",
-        "object": "Americans' jobs"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -86,16 +62,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "are doing",
-        "object": "jobs that americans don't want to do"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "do",
-        "object": "jobs that Americans do not want to do"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -111,16 +79,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "are not \"taking\" your jobs",
-        "object": "your jobs"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "are not taking",
-        "object": "American jobs"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -136,16 +96,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "are doing",
-        "object": "jobs that americans don't want to do"
-      },
-      "normalized": {
-        "subject": "They",
-        "predicate": "are doing",
-        "object": "jobs that Americans do not want to do"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -161,16 +113,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "are taken advantage of",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "are taken advantage of",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -185,16 +129,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "work harder for",
-        "object": "less pay"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "work harder for",
-        "object": "less pay"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -208,16 +144,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "don't know",
-        "object": "their own worth"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "do not know",
-        "object": "their own worth"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -233,16 +161,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "are taken advantage of and work harder for less pay",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "User_134",
-        "predicate": "are taken advantage of and work harder for less pay",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -258,16 +178,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "don't know",
-        "object": "their own worth"
-      },
-      "normalized": {
-        "subject": "User_134",
-        "predicate": "do not know",
-        "object": "their own worth"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -283,16 +195,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "pay for new immigrants",
-        "predicate": "is",
-        "object": "good money"
-      },
-      "normalized": {
-        "subject": "pay for new immigrants",
-        "predicate": "is",
-        "object": "good money"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -301,16 +205,8 @@
     "topic_id": "claim_13",
     "source_comment_ids": [],
     "topic_triple": {
-      "surface": {
-        "subject": "pay for new immigrants",
-        "predicate": "is less than",
-        "object": "pay for Americans"
-      },
-      "normalized": {
-        "subject": "pay for new immigrants",
-        "predicate": "is less than",
-        "object": "pay for Americans"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -326,16 +222,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "new inmigrants",
-        "predicate": "is good money",
-        "object": "less than americans"
-      },
-      "normalized": {
-        "subject": "new immigrants",
-        "predicate": "earn wages that are",
-        "object": "good money, though less than Americans earn"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -351,16 +239,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "devalue",
-        "object": "our way of living"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "devalue",
-        "object": "our way of living"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -376,16 +256,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "won’t have to work for Pennie’s on the dollar",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "will not have to work for pennies on the dollar",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -394,16 +266,8 @@
     "topic_id": "claim_17",
     "source_comment_ids": [],
     "topic_triple": {
-      "surface": {
-        "subject": "a job",
-        "predicate": "will get you nowhere in life",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "a job",
-        "predicate": "leads to no advancement in life",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -419,16 +283,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "devalue",
-        "object": "our way of living"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "devalue",
-        "object": "our way of living"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -444,16 +300,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "won't have to work for Pennie's on the dollar",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "will not have to work for pennies on the dollar",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -469,16 +317,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "at the beggining",
-        "predicate": "is",
-        "object": "low money"
-      },
-      "normalized": {
-        "subject": "wages at the beginning",
-        "predicate": "are",
-        "object": "low"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -493,16 +333,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "earn more",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "earn more",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -511,16 +343,8 @@
     "topic_id": "claim_22",
     "source_comment_ids": [],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "start to buy car and even house",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "buy cars and houses",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -534,16 +358,8 @@
       "comment_f2c423463d"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "become",
-        "object": "citizens"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "become",
-        "object": "citizens"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]
