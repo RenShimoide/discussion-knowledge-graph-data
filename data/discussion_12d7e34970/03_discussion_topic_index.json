@@ -4,277 +4,441 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
-      "comment_232d59d340"
+      "comment_e0d87fce9b"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "They",
+        "predicate": "passed up NINE COUNTRIES to invade ours",
+        "object": "ours"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "passed up nine countries to invade our country",
+        "object": "our country"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 1,
+        "span": "They passed up NINE COUNTRIES to invade ours"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
-      "comment_232d59d340"
+      "comment_e0d87fce9b"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "That",
+        "predicate": "is not seeking asylum, that is",
+        "object": "SHOPPING"
+      },
+      "normalized": {
+        "subject": "Their action",
+        "predicate": "is not seeking asylum but is",
+        "object": "shopping"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 1,
+        "span": "That's not seeking asylum, that's SHOPPING"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34"
+      "comment_9f3636b71d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't a invasion",
+        "object": "invasion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not an invasion",
+        "object": "invasion"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "It isn't a invasion"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91"
+      "comment_9f3636b71d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't a military entity",
+        "object": "military entity"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not a military entity",
+        "object": "military entity"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "They aren't a military entity"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_5",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
-      "comment_232d59d340"
+      "comment_9f3636b71d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't a",
+        "object": "invasion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not an",
+        "object": "invasion"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "It isn't a invasion"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_6",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
-      "comment_232d59d340"
+      "comment_9f3636b71d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't a",
+        "object": "military entity"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not a",
+        "object": "military entity"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "They aren't a military entity"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_7",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34"
+      "comment_2c667e9b1d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Most of them",
+        "predicate": "are",
+        "object": "single, military aged men"
+      },
+      "normalized": {
+        "subject": "Most of the migrants",
+        "predicate": "are",
+        "object": "single, military-aged men"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Most are single, military aged men"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_8",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91"
+      "comment_2c667e9b1d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      },
+      "normalized": {
+        "subject": "Biden",
+        "predicate": "traffics",
+        "object": "children"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Biden trafficks the children"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_9",
     "source_comment_ids": [
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91"
+      "comment_2c667e9b1d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      },
+      "normalized": {
+        "subject": "The trafficking of children",
+        "predicate": "is",
+        "object": "lucrative for both parties"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "it's pretty lucrative for both"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_10",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
-      "comment_232d59d340"
+      "comment_2c667e9b1d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Most",
+        "predicate": "are",
+        "object": "single, military aged men"
+      },
+      "normalized": {
+        "subject": "Most [people/migrants]",
+        "predicate": "are",
+        "object": "single, military aged men"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Most are single, military aged men"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_11",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
-      "comment_232d59d340"
+      "comment_2c667e9b1d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      },
+      "normalized": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Biden trafficks the children"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_12",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34"
+      "comment_2c667e9b1d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "it",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      },
+      "normalized": {
+        "subject": "the situation",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "it's pretty lucrative for both"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_13",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't being sent by anyone",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not being sent by anyone",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "They aren't being sent by anyone"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_14",
     "source_comment_ids": [
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "it",
+        "predicate": "is not",
+        "object": "a invasion"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "is not",
+        "object": "an invasion"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "no it's not a invasion"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_15",
     "source_comment_ids": [
-      "comment_2c667e9b1d",
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't",
+        "object": "mercenaries or soldiers"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not",
+        "object": "mercenaries or soldiers"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "They aren't mercenaries or soldiers"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_19",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
-      "comment_232d59d340"
+      "comment_2d457cf187"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "their border",
+        "predicate": "bums",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "their border",
+        "predicate": "is problematic",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 8,
+        "span": "their border bums"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_12d7e34970",
     "source_split": "Train",
     "topic_id": "claim_20",
     "source_comment_ids": [
-      "comment_e0d87fce9b",
-      "comment_9f3636b71d",
-      "comment_2c667e9b1d",
-      "comment_7077edfb91",
-      "comment_d583a55d34",
-      "comment_2d457cf187",
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "they",
+        "predicate": "work harder than",
+        "object": "you"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "work harder than",
+        "object": "you"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 9,
+        "span": "they work harder than you"
+      }
+    ]
   }
 ]

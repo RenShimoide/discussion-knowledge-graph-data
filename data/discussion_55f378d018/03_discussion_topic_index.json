@@ -4,61 +4,129 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_aad78bc374",
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "They",
+        "predicate": "can't afford",
+        "object": "a baby"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "cannot afford",
+        "object": "a baby"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "They can’t afford a baby"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_55f378d018",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_aad78bc374",
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "you people",
+        "predicate": "stole",
+        "object": "their wealth"
+      },
+      "normalized": {
+        "subject": "you people",
+        "predicate": "stole",
+        "object": "their wealth"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "you people stole their wealth"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_55f378d018",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_aad78bc374",
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "you people",
+        "predicate": "have been waging",
+        "object": "wars on them"
+      },
+      "normalized": {
+        "subject": "you people",
+        "predicate": "have been waging",
+        "object": "wars on them"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "have been waging wars on them"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_55f378d018",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_aad78bc374",
       "comment_d1197de6fb"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "just lucky to be born in the other side of the fence"
+      },
+      "normalized": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "lucky to be born on the other side of the fence"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "People like you are just lucky to be born in the other side of the fence"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_55f378d018",
     "source_split": "Train",
     "topic_id": "claim_5",
-    "source_comment_ids": [],
+    "source_comment_ids": [
+      "comment_d1197de6fb"
+    ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "just more of the same ignorance"
+      },
+      "normalized": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "more of the same ignorance"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "You are not special, just more of the same ignorance."
+      }
+    ]
   }
 ]

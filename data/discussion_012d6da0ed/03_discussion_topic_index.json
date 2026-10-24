@@ -4,187 +4,311 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_86640c342b"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "leaders in Staten Island",
+        "predicate": "have a backbone to do what they were elected to do FOR THE AMERICAN people",
+        "object": "FOR THE AMERICAN people"
+      },
+      "normalized": {
+        "subject": "leaders in Staten Island",
+        "predicate": "have the backbone to fulfill their elected duties for the American people",
+        "object": "the American people"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 1,
+        "span": "the leaders in Staten Island having a backbone to do what they were elected to do FOR THE AMERICAN people"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_4718a42ac6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "government",
+        "predicate": "interfering in",
+        "object": "our countries' politics"
+      },
+      "normalized": {
+        "subject": "the government",
+        "predicate": "interferes in",
+        "object": "the politics of other countries"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "STOP INTERFERING IN OUR COUNTRIES' POLITICS"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_4718a42ac6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "government stopping interference in politics",
+        "predicate": "will result in",
+        "object": "no migrants"
+      },
+      "normalized": {
+        "subject": "the government stopping interference in other countries' politics",
+        "predicate": "will result in",
+        "object": "no migrants"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "STOP INTERFERING IN OUR COUNTRIES' POLITICS, THEN YOU WONT HAVE MIGRANTS"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_4718a42ac6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "YOUR GOVERNMENT",
+        "predicate": "ALSO TO GET OUT OFF OUR COUNTRIES",
+        "object": "OUR COUNTRIES"
+      },
+      "normalized": {
+        "subject": "your government",
+        "predicate": "should leave",
+        "object": "our countries"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "ASK YOUR GOVERNMENT ALSO TO GET OUT OFF OUR COUNTRIES"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_5",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_4718a42ac6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "YOUR GOVERNMENT",
+        "predicate": "STOP INTERFERING IN",
+        "object": "OUR COUNTRIES' POLITICS"
+      },
+      "normalized": {
+        "subject": "your government",
+        "predicate": "should stop interfering in",
+        "object": "our countries' politics"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "STOP INTERFERING IN OUR COUNTRIES' POLITICS"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_6",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_4718a42ac6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "YOU",
+        "predicate": "WONT HAVE",
+        "object": "MIGRANTS"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "will not have",
+        "object": "migrants"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "THEN YOU WONT HAVE MIGRANTS"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_7",
     "source_comment_ids": [
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_bf435106a6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "never a bad time",
+        "predicate": "to revolt against",
+        "object": "your government"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "is never a bad time to revolt against",
+        "object": "your government"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "never a bad time to revolt against your government"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_8",
     "source_comment_ids": [
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_bf435106a6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "you",
+        "predicate": "need to do",
+        "object": "looking within"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "need to",
+        "object": "look within"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Maybe looking within is what you need to do"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_9",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
-      "comment_e36c871e7c"
+      "comment_654a08ae25"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "CORRUPT EXPATS",
+        "predicate": "COME TO OUR COUNTRIES WITH THE PROCEED OF THEIR CRIMES",
+        "object": "the proceed of their crimes"
+      },
+      "normalized": {
+        "subject": "corrupt expats",
+        "predicate": "come to our countries with the proceeds of their crimes",
+        "object": "the proceeds of their crimes"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "CORRUPT  EXPATS THAT COME TO OUR COUNTRIES WITH THE PROCEED OF THEIR CRIMES"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_10",
     "source_comment_ids": [
-      "comment_86640c342b",
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "The US “interfering” with your country",
+        "predicate": "is not the cause of",
+        "object": "migration"
+      },
+      "normalized": {
+        "subject": "US interference with your country",
+        "predicate": "is not the cause of",
+        "object": "migration"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "The US “interfering” with your country is not the cause of migration"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_11",
     "source_comment_ids": [
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "People",
+        "predicate": "come here to escape",
+        "object": "socialism and communist rule"
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "come here to escape",
+        "object": "socialism and communist rule"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "People come here to escape socialism and communist rule"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_012d6da0ed",
     "source_split": "Train",
     "topic_id": "claim_12",
     "source_comment_ids": [
-      "comment_4718a42ac6",
-      "comment_bf435106a6",
-      "comment_654a08ae25",
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "People",
+        "predicate": "come here for",
+        "object": "economic opportunities and freedom in general"
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "come here for",
+        "object": "economic opportunities and general freedom"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "Not only to have economic opportunities but freedom in general"
+      }
+    ]
   }
 ]

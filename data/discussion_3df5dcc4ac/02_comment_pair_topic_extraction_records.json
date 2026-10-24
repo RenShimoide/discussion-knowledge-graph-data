@@ -7,8 +7,16 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "the people of the USA",
+      "predicate": "thought voting for this would help them",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "the people of the USA",
+      "predicate": "thought voting for this would help them",
+      "object": ""
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -25,8 +33,16 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "didnt",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "the people of the USA",
+      "predicate": "did not vote for this",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -43,8 +59,16 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "were told",
+      "object": "thats how the voted went"
+    },
+    "normalized_triple": {
+      "subject": "the people of the USA",
+      "predicate": "were told",
+      "object": "that is how the vote went"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -61,8 +85,16 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "US citizen",
+      "predicate": "has no",
+      "object": "voting powers in usa"
+    },
+    "normalized_triple": {
+      "subject": "US citizens",
+      "predicate": "have no",
+      "object": "voting powers in the USA"
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -79,8 +111,16 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "didnt",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "we",
+      "predicate": "did not [do something]",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -97,8 +137,16 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "US citizen",
+      "predicate": "has no",
+      "object": "voting powers in usa"
+    },
+    "normalized_triple": {
+      "subject": "US citizen",
+      "predicate": "has no",
+      "object": "voting powers in usa"
+    },
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -115,8 +163,16 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "this",
+      "predicate": "is",
+      "object": "a Republican talking point"
+    },
+    "normalized_triple": {
+      "subject": "the previous claim",
+      "predicate": "is",
+      "object": "a Republican talking point"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -133,8 +189,16 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "have convinced",
+      "object": "us that voting for one part can help when both parties are in cahoots"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "have convinced",
+      "object": "us that voting for one part can help when both parties are in cahoots"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",

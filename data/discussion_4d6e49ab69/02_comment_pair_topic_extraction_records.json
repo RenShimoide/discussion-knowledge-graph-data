@@ -7,8 +7,16 @@
     "source_child_comment_id": "comment_7a33f00b7e",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Poland, Hungary, Czech republic",
+      "predicate": "used to be",
+      "object": "\"poor man\" of Europe"
+    },
+    "normalized_triple": {
+      "subject": "Poland, Hungary, and the Czech Republic",
+      "predicate": "were",
+      "object": "the poor countries of Europe"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -25,8 +33,16 @@
     "source_child_comment_id": "comment_7a33f00b7e",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Czechia",
+      "predicate": "had",
+      "object": "the biggest industry before WWII"
+    },
+    "normalized_triple": {
+      "subject": "Czechia",
+      "predicate": "had",
+      "object": "the largest industry before WWII"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -43,8 +59,16 @@
     "source_child_comment_id": "comment_7a33f00b7e",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Czechia",
+      "predicate": "had",
+      "object": "Skoda cars, bohemian glass, coal industry and etc"
+    },
+    "normalized_triple": {
+      "subject": "Czechia",
+      "predicate": "had",
+      "object": "Skoda cars, Bohemian glass, and a coal industry"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -61,8 +85,16 @@
     "source_child_comment_id": "comment_6e4ca3f7d8",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Hitler",
+      "predicate": "invaded",
+      "object": "Sudety in Czechia"
+    },
+    "normalized_triple": {
+      "subject": "Hitler",
+      "predicate": "invaded",
+      "object": "Sudetenland in Czechia"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -79,8 +111,16 @@
     "source_child_comment_id": "comment_6e4ca3f7d8",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Sudety in Czechia",
+      "predicate": "had",
+      "object": "the biggest industry"
+    },
+    "normalized_triple": {
+      "subject": "Sudetenland in Czechia",
+      "predicate": "had",
+      "object": "the biggest industry"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -97,8 +137,16 @@
     "source_child_comment_id": "comment_6e4ca3f7d8",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "the entity",
+      "predicate": "is not",
+      "object": "Czechoslovakia"
+    },
+    "normalized_triple": {
+      "subject": "the entity",
+      "predicate": "is not",
+      "object": "Czechoslovakia"
+    },
     "normalization_status": "uncertain",
     "polarity": "negated",
     "certainty": "certain",

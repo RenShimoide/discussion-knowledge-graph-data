@@ -7,8 +7,16 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "my mum who was married to an American and had two USKids, she applied for my “ residency”",
+      "predicate": "took",
+      "object": "years"
+    },
+    "normalized_triple": {
+      "subject": "the speaker's mother's application for residency",
+      "predicate": "took",
+      "object": "years"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -25,8 +33,16 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "was in a",
+      "object": "waiting list, for citizenship"
+    },
+    "normalized_triple": {
+      "subject": "the speaker",
+      "predicate": "was on a",
+      "object": "waiting list for citizenship"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -43,8 +59,16 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "make it sound like",
+      "object": "you would have rather crossed illegally"
+    },
+    "normalized_triple": {
+      "subject": "the speaker's description",
+      "predicate": "implies",
+      "object": "preferring to cross illegally"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -61,8 +85,16 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "my process",
+      "predicate": "took",
+      "object": "nearly 10 years"
+    },
+    "normalized_triple": {
+      "subject": "the speaker's process",
+      "predicate": "took",
+      "object": "nearly 10 years"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -79,8 +111,16 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "my mom was married to a resident",
+      "predicate": "is why",
+      "object": "it took longer"
+    },
+    "normalized_triple": {
+      "subject": "the speaker's mother's marriage to a resident",
+      "predicate": "caused",
+      "object": "a longer process"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -97,8 +137,16 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Those crossing illegally",
+      "predicate": "don't have",
+      "object": "that path"
+    },
+    "normalized_triple": {
+      "subject": "people crossing illegally",
+      "predicate": "do not have",
+      "object": "a path"
+    },
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -115,8 +163,16 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Depending on the country you come from",
+      "predicate": "sometimes there is no",
+      "object": "legal way"
+    },
+    "normalized_triple": {
+      "subject": "the country of origin",
+      "predicate": "sometimes lacks",
+      "object": "a legal way to enter"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -133,8 +189,16 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "love",
+      "object": "the US"
+    },
+    "normalized_triple": {
+      "subject": "User_222",
+      "predicate": "loves",
+      "object": "the US"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -151,8 +215,16 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "definitely not to live",
+      "object": "the US"
+    },
+    "normalized_triple": {
+      "subject": "User_222",
+      "predicate": "does not want to live in",
+      "object": "the US"
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -169,8 +241,16 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "it",
+      "predicate": "just sounded that way",
+      "object": "when you said you did it the correct way as opposed to these people"
+    },
+    "normalized_triple": {
+      "subject": "User_222's comment",
+      "predicate": "sounded like",
+      "object": "User_222 was doing it the correct way as opposed to these people"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -187,8 +267,16 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "people",
+      "predicate": "think",
+      "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
+    },
+    "normalized_triple": {
+      "subject": "some people",
+      "predicate": "think",
+      "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -205,8 +293,16 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "simply doesn't work",
+      "object": "that way"
+    },
+    "normalized_triple": {
+      "subject": "The process of migrating to the US the legal way and getting in line",
+      "predicate": "does not work",
+      "object": "that way"
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -223,8 +319,16 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "everyone in the world",
+      "predicate": "has the opportunity to migrate to the US the legal way and should just 'get in line'",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "everyone in the world",
+      "predicate": "has the opportunity to migrate to the US the legal way and should just 'get in line'",
+      "object": ""
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -241,8 +345,16 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "simply doesn't work",
+      "object": "that way"
+    },
+    "normalized_triple": {
+      "subject": "The process of migrating to the US the legal way and getting in line",
+      "predicate": "does not work",
+      "object": "that way"
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -259,8 +371,16 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "am thankful",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "User_222",
+      "predicate": "is thankful",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -277,8 +397,16 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "would probably be doing the same",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "User_222",
+      "predicate": "would probably be doing the same",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -295,8 +423,16 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Americans",
+      "predicate": "are angry",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "Americans",
+      "predicate": "are angry",
+      "object": ""
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
