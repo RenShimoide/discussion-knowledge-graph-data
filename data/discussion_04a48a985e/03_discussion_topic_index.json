@@ -1,0 +1,189 @@
+[
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "52% income tax",
+        "predicate": "is",
+        "object": "most likely the marginal tax"
+      },
+      "normalized": {
+        "subject": "52% income tax",
+        "predicate": "is",
+        "object": "the marginal tax"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "People with a high income",
+        "predicate": "pay",
+        "object": "52% over the amount their salaries excels the threshold"
+      },
+      "normalized": {
+        "subject": "People with a high income",
+        "predicate": "pay",
+        "object": "52% on income exceeding a certain threshold"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "TOTAL taxation of a Swedish income",
+        "predicate": "is more then",
+        "object": "60%"
+      },
+      "normalized": {
+        "subject": "Total taxation of Swedish income",
+        "predicate": "is more than",
+        "object": "60%"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't for",
+        "object": "an average income"
+      },
+      "normalized": {
+        "subject": "total taxation of Swedish income",
+        "predicate": "is not for",
+        "object": "an average income"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "tax the employer almost 100% of what he pays the worker per month",
+        "object": "almost 100% of what he pays the worker per month"
+      },
+      "normalized": {
+        "subject": "the employer",
+        "predicate": "is taxed almost 100% of what he pays the worker per month",
+        "object": "almost 100% of what he pays the worker per month"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Average income (about 500k crowns per year)",
+        "predicate": "is taxed with",
+        "object": "23% in Stockholm"
+      },
+      "normalized": {
+        "subject": "Average income (about 500k crowns per year)",
+        "predicate": "is taxed with",
+        "object": "23% in Stockholm"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is",
+        "object": "progressive and not the same for everyone"
+      },
+      "normalized": {
+        "subject": "the tax system",
+        "predicate": "is",
+        "object": "progressive and not the same for everyone"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "will not reach",
+        "object": "60% for average income"
+      },
+      "normalized": {
+        "subject": "the tax rate",
+        "predicate": "does not reach",
+        "object": "60% for average income"
+      }
+    }
+  }
+]

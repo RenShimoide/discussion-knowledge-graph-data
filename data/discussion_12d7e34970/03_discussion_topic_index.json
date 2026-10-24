@@ -1,0 +1,416 @@
+[
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "passed up NINE COUNTRIES to invade ours",
+        "object": "ours"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "passed up nine countries to invade our country",
+        "object": "our country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "That",
+        "predicate": "is not seeking asylum, that is",
+        "object": "SHOPPING"
+      },
+      "normalized": {
+        "subject": "Their action",
+        "predicate": "is not seeking asylum but is",
+        "object": "shopping"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't a invasion",
+        "object": "invasion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not an invasion",
+        "object": "invasion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't a military entity",
+        "object": "military entity"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not a military entity",
+        "object": "military entity"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't a",
+        "object": "invasion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not an",
+        "object": "invasion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't a",
+        "object": "military entity"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not a",
+        "object": "military entity"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Most of them",
+        "predicate": "are",
+        "object": "single, military aged men"
+      },
+      "normalized": {
+        "subject": "Most of the migrants",
+        "predicate": "are",
+        "object": "single, military-aged men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      },
+      "normalized": {
+        "subject": "Biden",
+        "predicate": "traffics",
+        "object": "children"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      },
+      "normalized": {
+        "subject": "The trafficking of children",
+        "predicate": "is",
+        "object": "lucrative for both parties"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Most",
+        "predicate": "are",
+        "object": "single, military aged men"
+      },
+      "normalized": {
+        "subject": "Most [people/migrants]",
+        "predicate": "are",
+        "object": "single, military aged men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      },
+      "normalized": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      },
+      "normalized": {
+        "subject": "the situation",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't being sent by anyone",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not being sent by anyone",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is not",
+        "object": "a invasion"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "is not",
+        "object": "an invasion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't",
+        "object": "mercenaries or soldiers"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not",
+        "object": "mercenaries or soldiers"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "their border",
+        "predicate": "bums",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "their border",
+        "predicate": "is problematic",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_20",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "work harder than",
+        "object": "you"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "work harder than",
+        "object": "you"
+      }
+    }
+  }
+]

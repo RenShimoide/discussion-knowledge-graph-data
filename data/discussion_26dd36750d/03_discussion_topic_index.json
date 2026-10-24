@@ -1,0 +1,136 @@
+[
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Elon",
+        "predicate": "is",
+        "object": "the man"
+      },
+      "normalized": {
+        "subject": "Elon",
+        "predicate": "is",
+        "object": "the man"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "someone",
+        "predicate": "has the guts to expose",
+        "object": "the US government failure"
+      },
+      "normalized": {
+        "subject": "someone",
+        "predicate": "has the guts to expose",
+        "object": "the US government failure"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "This",
+        "predicate": "isn't",
+        "object": "a failure"
+      },
+      "normalized": {
+        "subject": "the event",
+        "predicate": "is not",
+        "object": "a failure"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "was done",
+        "object": "on purpose"
+      },
+      "normalized": {
+        "subject": "the event",
+        "predicate": "was done",
+        "object": "on purpose"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is the reason for",
+        "object": "the situation implied by User_740's question"
+      },
+      "normalized": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is the reason for",
+        "object": "the phenomenon questioned by User_740"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is happening",
+        "object": "all across Europe"
+      },
+      "normalized": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is happening",
+        "object": "all across Europe"
+      }
+    }
+  }
+]

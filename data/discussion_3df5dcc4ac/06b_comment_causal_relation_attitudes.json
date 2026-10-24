@@ -1,0 +1,32 @@
+[
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "source_comment_id": "comment_d36e82563c",
+    "relation_id": "causal_97078744ae6d898c",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "source_comment_id": "comment_85cbef50e4",
+    "relation_id": "causal_0879a68b491a9edb",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "source_comment_id": "comment_85cbef50e4",
+    "relation_id": "causal_1ff4595ecbe2ca0a",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  }
+]

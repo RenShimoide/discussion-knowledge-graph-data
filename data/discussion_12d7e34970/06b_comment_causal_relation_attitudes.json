@@ -1,0 +1,172 @@
+[
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_9f3636b71d",
+    "relation_id": "causal_56cc74f06f869883",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.92
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_9f3636b71d",
+    "relation_id": "causal_ba1346717ee386d1",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_9f3636b71d",
+    "relation_id": "causal_8b20a5656830eb4a",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_2c667e9b1d",
+    "relation_id": "causal_ae725dde461ecdea",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_2c667e9b1d",
+    "relation_id": "causal_0addf5ce3a6ffc91",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_2c667e9b1d",
+    "relation_id": "causal_59089dc7362af0f1",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_2c667e9b1d",
+    "relation_id": "causal_fc498fa529b87763",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_56cc74f06f869883",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_29acdc3f871fdf3e",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_98af77ec513a5302",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_b77ddc3e1f427f32",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.97
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_549549d9723388c4",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_848541044ea3d917",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.97
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_742015db872abbe3",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.97
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_f21884488ecac70c",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.97
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_ba1346717ee386d1",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.97
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "source_comment_id": "comment_7077edfb91",
+    "relation_id": "causal_8b20a5656830eb4a",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.97
+  }
+]

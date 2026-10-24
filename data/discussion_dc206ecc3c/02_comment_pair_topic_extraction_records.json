@@ -1,0 +1,626 @@
+[
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_490b7999593dd55e076c",
+    "source_parent_comment_id": "comment_70718a3fa7",
+    "source_child_comment_id": "comment_0f1f11184c",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "there are processes to follow",
+      "predicate": "exists for",
+      "object": "Canada or the UK or US"
+    },
+    "normalized_triple": {
+      "subject": "Canada, the UK, and the US",
+      "predicate": "have",
+      "object": "processes to follow"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_490b7999593dd55e076c",
+    "source_parent_comment_id": "comment_70718a3fa7",
+    "source_child_comment_id": "comment_0f1f11184c",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "America",
+      "predicate": "put sanctions on",
+      "object": "the country"
+    },
+    "normalized_triple": {
+      "subject": "America",
+      "predicate": "put sanctions on",
+      "object": "the country"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_490b7999593dd55e076c",
+    "source_parent_comment_id": "comment_70718a3fa7",
+    "source_child_comment_id": "comment_0f1f11184c",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "America",
+      "predicate": "engaged in",
+      "object": "proxy war"
+    },
+    "normalized_triple": {
+      "subject": "America",
+      "predicate": "engaged in",
+      "object": "proxy war"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_490b7999593dd55e076c",
+    "source_parent_comment_id": "comment_70718a3fa7",
+    "source_child_comment_id": "comment_0f1f11184c",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "proxy war",
+      "predicate": "has end goal of",
+      "object": "installing a puppet government"
+    },
+    "normalized_triple": {
+      "subject": "the proxy war",
+      "predicate": "has the end goal of",
+      "object": "installing a puppet government"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "America",
+      "predicate": "put sanctions on",
+      "object": "the country"
+    },
+    "normalized_triple": {
+      "subject": "America",
+      "predicate": "put sanctions on",
+      "object": "the country"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "America",
+      "predicate": "engaged in",
+      "object": "proxy war"
+    },
+    "normalized_triple": {
+      "subject": "America",
+      "predicate": "engaged in",
+      "object": "proxy war"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "proxy war",
+      "predicate": "has end goal of",
+      "object": "installing a puppet government"
+    },
+    "normalized_triple": {
+      "subject": "proxy war",
+      "predicate": "has end goal of",
+      "object": "installing a puppet government"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "Venezuela",
+      "predicate": "has",
+      "object": "an Embassy in Washington"
+    },
+    "normalized_triple": {
+      "subject": "Venezuela",
+      "predicate": "has",
+      "object": "an Embassy in Washington"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "Embassy in Washington",
+      "predicate": "processes",
+      "object": "travel documents"
+    },
+    "normalized_triple": {
+      "subject": "Embassy in Washington",
+      "predicate": "processes",
+      "object": "travel documents"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "Embassy in Washington",
+      "predicate": "supports",
+      "object": "nationals in the US"
+    },
+    "normalized_triple": {
+      "subject": "Embassy in Washington",
+      "predicate": "supports",
+      "object": "nationals in the US"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_7",
+    "topic_id": "candidate_7",
+    "surface_triple": {
+      "subject": "They",
+      "predicate": "CAN",
+      "object": "leave"
+    },
+    "normalized_triple": {
+      "subject": "nationals",
+      "predicate": "can leave",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_986e85972543cec6631d",
+    "source_parent_comment_id": "comment_0f1f11184c",
+    "source_child_comment_id": "comment_dd0e392e9c",
+    "pair_claim_id": "candidate_8",
+    "topic_id": "candidate_8",
+    "surface_triple": {
+      "subject": "They",
+      "predicate": "don't want to",
+      "object": "leave"
+    },
+    "normalized_triple": {
+      "subject": "nationals",
+      "predicate": "do not want to leave",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_746bca6326d857803991",
+    "source_parent_comment_id": "comment_dd0e392e9c",
+    "source_child_comment_id": "comment_21e28e4134",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "Venezuela",
+      "predicate": "has",
+      "object": "an Embassy in Washington"
+    },
+    "normalized_triple": {
+      "subject": "Venezuela",
+      "predicate": "has",
+      "object": "an Embassy in Washington"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_746bca6326d857803991",
+    "source_parent_comment_id": "comment_dd0e392e9c",
+    "source_child_comment_id": "comment_21e28e4134",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "the embassy",
+      "predicate": "processes",
+      "object": "travel documents and supports nationals in the US"
+    },
+    "normalized_triple": {
+      "subject": "the embassy",
+      "predicate": "processes",
+      "object": "travel documents and supports nationals in the US"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_746bca6326d857803991",
+    "source_parent_comment_id": "comment_dd0e392e9c",
+    "source_child_comment_id": "comment_21e28e4134",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "They",
+      "predicate": "CAN leave",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "They",
+      "predicate": "can leave",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_746bca6326d857803991",
+    "source_parent_comment_id": "comment_dd0e392e9c",
+    "source_child_comment_id": "comment_21e28e4134",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "They",
+      "predicate": "don't want to",
+      "object": "leave"
+    },
+    "normalized_triple": {
+      "subject": "They",
+      "predicate": "do not want to leave",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_746bca6326d857803991",
+    "source_parent_comment_id": "comment_dd0e392e9c",
+    "source_child_comment_id": "comment_21e28e4134",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "That embassy",
+      "predicate": "has been closed",
+      "object": "for over 3 years"
+    },
+    "normalized_triple": {
+      "subject": "That embassy",
+      "predicate": "has been closed",
+      "object": "for over 3 years"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_746bca6326d857803991",
+    "source_parent_comment_id": "comment_dd0e392e9c",
+    "source_child_comment_id": "comment_21e28e4134",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "our [embassy] in Venezuela",
+      "predicate": "has been closed",
+      "object": "for over 3 years"
+    },
+    "normalized_triple": {
+      "subject": "the US embassy in Venezuela",
+      "predicate": "has been closed",
+      "object": "for over 3 years"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_a80e8a13600aaf9155b9",
+    "source_parent_comment_id": "comment_21e28e4134",
+    "source_child_comment_id": "comment_19b7655447",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "That embassy",
+      "predicate": "has been closed for",
+      "object": "over 3 years"
+    },
+    "normalized_triple": {
+      "subject": "That embassy",
+      "predicate": "has been closed for",
+      "object": "over 3 years"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_a80e8a13600aaf9155b9",
+    "source_parent_comment_id": "comment_21e28e4134",
+    "source_child_comment_id": "comment_19b7655447",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "our [embassy] in Venezuela",
+      "predicate": "is closed",
+      "object": "same as [that embassy]"
+    },
+    "normalized_triple": {
+      "subject": "our embassy in Venezuela",
+      "predicate": "is closed",
+      "object": "same as that embassy"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_a80e8a13600aaf9155b9",
+    "source_parent_comment_id": "comment_21e28e4134",
+    "source_child_comment_id": "comment_19b7655447",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "it",
+      "predicate": "is processed via",
+      "object": "the Swiss consulate or Embassy"
+    },
+    "normalized_triple": {
+      "subject": "it",
+      "predicate": "is processed via",
+      "object": "the Swiss consulate or Embassy"
+    },
+    "normalization_status": "uncertain",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_a80e8a13600aaf9155b9",
+    "source_parent_comment_id": "comment_21e28e4134",
+    "source_child_comment_id": "comment_19b7655447",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "don’t need",
+      "object": "an exit visa to leave the US"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "do not need",
+      "object": "an exit visa to leave the US"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_a80e8a13600aaf9155b9",
+    "source_parent_comment_id": "comment_21e28e4134",
+    "source_child_comment_id": "comment_19b7655447",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "could withdraw",
+      "object": "their application at any time"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "could withdraw",
+      "object": "their application at any time"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "pair_id": "causal_a80e8a13600aaf9155b9",
+    "source_parent_comment_id": "comment_21e28e4134",
+    "source_child_comment_id": "comment_19b7655447",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "nothing",
+      "predicate": "is forcing",
+      "object": "them to stay"
+    },
+    "normalized_triple": {
+      "subject": "nothing",
+      "predicate": "is forcing",
+      "object": "them to stay"
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

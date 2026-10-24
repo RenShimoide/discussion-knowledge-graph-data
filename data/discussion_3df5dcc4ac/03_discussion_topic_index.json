@@ -1,0 +1,156 @@
+[
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the people of the USA",
+        "predicate": "thought voting for this would help them",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the people of the USA",
+        "predicate": "thought voting for this would help them",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "didnt vote for this",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the people of the USA",
+        "predicate": "did not vote for this",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "were told",
+        "object": "thats how the voted went"
+      },
+      "normalized": {
+        "subject": "the people of the USA",
+        "predicate": "were told",
+        "object": "that is how the vote went"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US citizen",
+        "predicate": "has no",
+        "object": "voting powers in usa"
+      },
+      "normalized": {
+        "subject": "US citizens",
+        "predicate": "have no",
+        "object": "voting powers in the USA"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US citizen",
+        "predicate": "has no",
+        "object": "voting powers in usa"
+      },
+      "normalized": {
+        "subject": "US citizen",
+        "predicate": "has no",
+        "object": "voting powers in usa"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "this",
+        "predicate": "is",
+        "object": "a Republican talking point"
+      },
+      "normalized": {
+        "subject": "the previous claim",
+        "predicate": "is",
+        "object": "a Republican talking point"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "have convinced us that",
+        "object": "voting for one part can help when both parties are in cahoots"
+      },
+      "normalized": {
+        "subject": "Republicans",
+        "predicate": "have convinced people that",
+        "object": "voting for one party can help even if both parties are colluding"
+      }
+    }
+  }
+]

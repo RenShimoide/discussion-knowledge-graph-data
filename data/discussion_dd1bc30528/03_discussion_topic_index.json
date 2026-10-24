@@ -1,0 +1,205 @@
+[
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_155",
+        "predicate": "is desperate when he begins to like his own comments",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_155",
+        "predicate": "is desperate when liking his own comments",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_156",
+        "predicate": "has never once liked",
+        "object": "his own comments"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "has never liked",
+        "object": "his own comments"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_156",
+        "predicate": "does not create",
+        "object": "multiple accounts to agree with himself"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "does not create",
+        "object": "multiple accounts to agree with himself"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_155's delusional political conspiracy theories",
+        "predicate": "ended",
+        "object": "when User_155 attempted to label User_156"
+      },
+      "normalized": {
+        "subject": "User_155's delusional political conspiracy theories",
+        "predicate": "ended",
+        "object": "when User_155 attempted to label User_156"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "do not care for",
+        "object": "political parties"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "does not care for",
+        "object": "political parties"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "am not someone who is lead",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "is not someone who is led",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "make",
+        "object": "my own informed decisions"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "makes",
+        "object": "his own informed decisions"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "believe in",
+        "object": "the letter of the law"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "believes in",
+        "object": "the letter of the law"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_156",
+        "predicate": "does not believe in",
+        "object": "the president that happens to be in office at any given time"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "does not believe in",
+        "object": "the president that happens to be in office at any given time"
+      }
+    }
+  }
+]

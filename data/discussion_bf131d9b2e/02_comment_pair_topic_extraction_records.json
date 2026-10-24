@@ -1,0 +1,158 @@
+[
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "pair_id": "causal_ef5e449558f16d18f313",
+    "source_parent_comment_id": "comment_f94aebbe6b",
+    "source_child_comment_id": "comment_f8b9ca420e",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "Westerners",
+      "predicate": "should not have to",
+      "object": "drop their values or acclimate to immigrants worldview"
+    },
+    "normalized_triple": {
+      "subject": "Westerners",
+      "predicate": "should not have to drop their values or acclimate to immigrants worldview",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "pair_id": "causal_ef5e449558f16d18f313",
+    "source_parent_comment_id": "comment_f94aebbe6b",
+    "source_child_comment_id": "comment_f8b9ca420e",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "The people opening the borders around the world",
+      "predicate": "know this will",
+      "object": "create chaos and destroy Western countries"
+    },
+    "normalized_triple": {
+      "subject": "The people opening the borders around the world",
+      "predicate": "know that opening borders will create chaos and destroy Western countries",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "pair_id": "causal_ef5e449558f16d18f313",
+    "source_parent_comment_id": "comment_f94aebbe6b",
+    "source_child_comment_id": "comment_f8b9ca420e",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "Ukrainian refugees",
+      "predicate": "fit right in",
+      "object": "Poland"
+    },
+    "normalized_triple": {
+      "subject": "Ukrainian refugees",
+      "predicate": "fit right in",
+      "object": "Poland"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "pair_id": "causal_ef5e449558f16d18f313",
+    "source_parent_comment_id": "comment_f94aebbe6b",
+    "source_child_comment_id": "comment_f8b9ca420e",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "people",
+      "predicate": "share",
+      "object": "different values in society"
+    },
+    "normalized_triple": {
+      "subject": "people",
+      "predicate": "share",
+      "object": "different values in society"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "pair_id": "causal_ef5e449558f16d18f313",
+    "source_parent_comment_id": "comment_f94aebbe6b",
+    "source_child_comment_id": "comment_f8b9ca420e",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "sharing values",
+      "predicate": "does not depend on",
+      "object": "nationality"
+    },
+    "normalized_triple": {
+      "subject": "sharing values",
+      "predicate": "does not depend on",
+      "object": "nationality"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "pair_id": "causal_ef5e449558f16d18f313",
+    "source_parent_comment_id": "comment_f94aebbe6b",
+    "source_child_comment_id": "comment_f8b9ca420e",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "a person with Syrian background",
+      "predicate": "may have more values in common with",
+      "object": "you"
+    },
+    "normalized_triple": {
+      "subject": "a person with Syrian background",
+      "predicate": "may have more values in common with",
+      "object": "the listener"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

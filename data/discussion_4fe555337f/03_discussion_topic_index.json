@@ -1,0 +1,184 @@
+[
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "feel like",
+        "object": "Denmark is home"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "feel like",
+        "object": "Denmark is home"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "can't stop speaking",
+        "object": "your mother language"
+      },
+      "normalized": {
+        "subject": "You",
+        "predicate": "cannot stop speaking",
+        "object": "your mother language"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "can't stop speaking",
+        "object": "your mother language"
+      },
+      "normalized": {
+        "subject": "You",
+        "predicate": "cannot stop speaking",
+        "object": "your mother language"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "their language"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "the language of natives"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "translate",
+        "object": "what you just said"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "translate",
+        "object": "what you just said"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "their language"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "the native language"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "translate for them",
+        "object": "what you just said"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "translate",
+        "object": "what you just said"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "speaking in the language she's more comfortable with",
+        "predicate": "would be better",
+        "object": "to deliver the message in the best way possible"
+      },
+      "normalized": {
+        "subject": "speaking in the language she is more comfortable with",
+        "predicate": "is better for",
+        "object": "delivering the message effectively"
+      }
+    }
+  }
+]

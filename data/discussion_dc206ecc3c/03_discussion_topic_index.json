@@ -1,0 +1,446 @@
+[
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "America",
+        "predicate": "put sanctions on",
+        "object": "the country"
+      },
+      "normalized": {
+        "subject": "America",
+        "predicate": "put sanctions on",
+        "object": "the country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "America",
+        "predicate": "engaged in",
+        "object": "proxy war"
+      },
+      "normalized": {
+        "subject": "America",
+        "predicate": "engaged in",
+        "object": "proxy war"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "proxy war",
+        "predicate": "has end goal of",
+        "object": "installing a puppet government"
+      },
+      "normalized": {
+        "subject": "proxy war",
+        "predicate": "has end goal of",
+        "object": "installing a puppet government"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Venezuela",
+        "predicate": "has",
+        "object": "an Embassy in Washington"
+      },
+      "normalized": {
+        "subject": "Venezuela",
+        "predicate": "has",
+        "object": "an Embassy in Washington"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Embassy in Washington",
+        "predicate": "processes",
+        "object": "travel documents"
+      },
+      "normalized": {
+        "subject": "Embassy in Washington",
+        "predicate": "processes",
+        "object": "travel documents"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Embassy in Washington",
+        "predicate": "supports",
+        "object": "nationals in the US"
+      },
+      "normalized": {
+        "subject": "Embassy in Washington",
+        "predicate": "supports",
+        "object": "nationals in the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "CAN",
+        "object": "leave"
+      },
+      "normalized": {
+        "subject": "nationals",
+        "predicate": "can leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "don't want to",
+        "object": "leave"
+      },
+      "normalized": {
+        "subject": "nationals",
+        "predicate": "do not want to leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the embassy",
+        "predicate": "processes",
+        "object": "travel documents and supports nationals in the US"
+      },
+      "normalized": {
+        "subject": "the embassy",
+        "predicate": "processes",
+        "object": "travel documents and supports nationals in the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "CAN leave",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "Venezuelan nationals in the US",
+        "predicate": "can leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "don't want to",
+        "object": "leave"
+      },
+      "normalized": {
+        "subject": "Venezuelan nationals in the US",
+        "predicate": "do not want to leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "That embassy",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      },
+      "normalized": {
+        "subject": "That embassy",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "our [embassy] in Venezuela",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      },
+      "normalized": {
+        "subject": "the US embassy in Venezuela",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "That embassy",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      },
+      "normalized": {
+        "subject": "That embassy",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_16",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "our embassy in Venezuela",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      },
+      "normalized": {
+        "subject": "our embassy in Venezuela",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is processed via",
+        "object": "the Swiss consulate or Embassy"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "is processed via",
+        "object": "the Swiss consulate or Embassy"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_18",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "don’t need",
+        "object": "an exit visa to leave the US"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "do not need",
+        "object": "an exit visa to leave the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "could withdraw",
+        "object": "their application at any time"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "could withdraw",
+        "object": "their application at any time"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_20",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "them",
+        "predicate": "are not forced to stay",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "them",
+        "predicate": "are not forced to stay",
+        "object": ""
+      }
+    }
+  }
+]
