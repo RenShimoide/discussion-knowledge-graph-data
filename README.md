@@ -11,7 +11,7 @@ The proposed representation contains two layers:
 
 ## Interactive demonstrations
 
-Open **[[`index.html`](index.html)](https://renshimoide.github.io/discussion-knowledge-graph-data/)** to explore 10 examples using the **Discussion Knowledge Graph Explorer**. The linked HTML pages provide interactive views of the CDG and TAG.
+Open **(https://renshimoide.github.io/discussion-knowledge-graph-data/)** to explore 10 examples using the **Discussion Knowledge Graph Explorer**. The linked HTML pages provide interactive views of the CDG and TAG.
 
 ## Data
 
