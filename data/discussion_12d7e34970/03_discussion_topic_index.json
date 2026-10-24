@@ -13,16 +13,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "passed up NINE COUNTRIES to invade ours",
-        "object": "ours"
-      },
-      "normalized": {
-        "subject": "They",
-        "predicate": "passed up nine countries to invade our country",
-        "object": "our country"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -39,16 +31,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "That",
-        "predicate": "is not seeking asylum, that is",
-        "object": "SHOPPING"
-      },
-      "normalized": {
-        "subject": "Their action",
-        "predicate": "is not seeking asylum but is",
-        "object": "shopping"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -63,16 +47,8 @@
       "comment_d583a55d34"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "isn't a invasion",
-        "object": "invasion"
-      },
-      "normalized": {
-        "subject": "It",
-        "predicate": "is not an invasion",
-        "object": "invasion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -86,16 +62,8 @@
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "aren't a military entity",
-        "object": "military entity"
-      },
-      "normalized": {
-        "subject": "They",
-        "predicate": "are not a military entity",
-        "object": "military entity"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -112,16 +80,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "isn't a",
-        "object": "invasion"
-      },
-      "normalized": {
-        "subject": "It",
-        "predicate": "is not an",
-        "object": "invasion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -138,16 +98,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "aren't a",
-        "object": "military entity"
-      },
-      "normalized": {
-        "subject": "They",
-        "predicate": "are not a",
-        "object": "military entity"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -162,16 +114,8 @@
       "comment_d583a55d34"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Most of them",
-        "predicate": "are",
-        "object": "single, military aged men"
-      },
-      "normalized": {
-        "subject": "Most of the migrants",
-        "predicate": "are",
-        "object": "single, military-aged men"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -185,16 +129,8 @@
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Biden",
-        "predicate": "trafficks",
-        "object": "the children"
-      },
-      "normalized": {
-        "subject": "Biden",
-        "predicate": "traffics",
-        "object": "children"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -207,16 +143,8 @@
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "is",
-        "object": "pretty lucrative for both"
-      },
-      "normalized": {
-        "subject": "The trafficking of children",
-        "predicate": "is",
-        "object": "lucrative for both parties"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -233,16 +161,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Most",
-        "predicate": "are",
-        "object": "single, military aged men"
-      },
-      "normalized": {
-        "subject": "Most [people/migrants]",
-        "predicate": "are",
-        "object": "single, military aged men"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -259,16 +179,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Biden",
-        "predicate": "trafficks",
-        "object": "the children"
-      },
-      "normalized": {
-        "subject": "Biden",
-        "predicate": "trafficks",
-        "object": "the children"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -283,16 +195,8 @@
       "comment_d583a55d34"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "is",
-        "object": "pretty lucrative for both"
-      },
-      "normalized": {
-        "subject": "the situation",
-        "predicate": "is",
-        "object": "pretty lucrative for both"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -306,16 +210,8 @@
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "aren't being sent by anyone",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "They",
-        "predicate": "are not being sent by anyone",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -328,16 +224,8 @@
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "is not",
-        "object": "a invasion"
-      },
-      "normalized": {
-        "subject": "it",
-        "predicate": "is not",
-        "object": "an invasion"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -349,16 +237,8 @@
       "comment_7077edfb91"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "They",
-        "predicate": "aren't",
-        "object": "mercenaries or soldiers"
-      },
-      "normalized": {
-        "subject": "They",
-        "predicate": "are not",
-        "object": "mercenaries or soldiers"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -375,16 +255,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "their border",
-        "predicate": "bums",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "their border",
-        "predicate": "is problematic",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -401,16 +273,8 @@
       "comment_232d59d340"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "work harder than",
-        "object": "you"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "work harder than",
-        "object": "you"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

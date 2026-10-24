@@ -9,16 +9,8 @@
       "comment_6e4ca3f7d8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Poland, Hungary, Czech republic",
-        "predicate": "used to be",
-        "object": "\"poor man\" of Europe"
-      },
-      "normalized": {
-        "subject": "Poland, Hungary, and the Czech Republic",
-        "predicate": "were",
-        "object": "the poor countries of Europe"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -31,16 +23,8 @@
       "comment_6e4ca3f7d8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Czechia",
-        "predicate": "had",
-        "object": "the biggest industry before WWII"
-      },
-      "normalized": {
-        "subject": "Czechia",
-        "predicate": "had",
-        "object": "the largest industry before WWII"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -53,16 +37,8 @@
       "comment_6e4ca3f7d8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Czechia",
-        "predicate": "had",
-        "object": "Skoda cars, bohemian glass, coal industry and etc"
-      },
-      "normalized": {
-        "subject": "Czechia",
-        "predicate": "had",
-        "object": "Skoda cars, Bohemian glass, and a coal industry"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -75,16 +51,8 @@
       "comment_6e4ca3f7d8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Hitler",
-        "predicate": "invaded",
-        "object": "Sudety in Czechia"
-      },
-      "normalized": {
-        "subject": "Hitler",
-        "predicate": "invaded",
-        "object": "Sudetenland in Czechia"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -97,16 +65,8 @@
       "comment_6e4ca3f7d8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Sudety in Czechia",
-        "predicate": "had",
-        "object": "the biggest industry"
-      },
-      "normalized": {
-        "subject": "Sudetenland in Czechia",
-        "predicate": "had",
-        "object": "the biggest industry"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -119,16 +79,8 @@
       "comment_6e4ca3f7d8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Sudety",
-        "predicate": "is not part of",
-        "object": "Czechoslovakia"
-      },
-      "normalized": {
-        "subject": "Sudetenland",
-        "predicate": "is not part of",
-        "object": "Czechoslovakia"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

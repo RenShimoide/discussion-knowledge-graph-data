@@ -11,16 +11,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "my mum who was married to an American and had two USKids, she applied for my “ residency”",
-        "predicate": "took",
-        "object": "years"
-      },
-      "normalized": {
-        "subject": "the speaker's mother's application for residency",
-        "predicate": "took",
-        "object": "years"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -35,16 +27,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "was in a",
-        "object": "waiting list, for citizenship"
-      },
-      "normalized": {
-        "subject": "the speaker",
-        "predicate": "was on a",
-        "object": "waiting list for citizenship"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -59,16 +43,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "make it sound like",
-        "object": "you would have rather crossed illegally"
-      },
-      "normalized": {
-        "subject": "the speaker's description",
-        "predicate": "implies",
-        "object": "preferring to cross illegally"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -83,16 +59,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "my process",
-        "predicate": "took",
-        "object": "nearly 10 years"
-      },
-      "normalized": {
-        "subject": "the speaker's process",
-        "predicate": "took",
-        "object": "nearly 10 years"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -107,16 +75,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "my mom was married to a resident",
-        "predicate": "is why",
-        "object": "it took longer"
-      },
-      "normalized": {
-        "subject": "the speaker's mother's marriage to a resident",
-        "predicate": "caused",
-        "object": "a longer process"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -128,16 +88,8 @@
       "comment_962bbe1853"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Those crossing illegally",
-        "predicate": "don't have",
-        "object": "that path"
-      },
-      "normalized": {
-        "subject": "people crossing illegally",
-        "predicate": "do not have",
-        "object": "a path"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -149,16 +101,8 @@
       "comment_962bbe1853"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Depending on the country you come from",
-        "predicate": "sometimes there is no",
-        "object": "legal way"
-      },
-      "normalized": {
-        "subject": "the country of origin",
-        "predicate": "sometimes lacks",
-        "object": "a legal way to enter"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -173,16 +117,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "love",
-        "object": "the US"
-      },
-      "normalized": {
-        "subject": "User_222",
-        "predicate": "loves",
-        "object": "the US"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -197,16 +133,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "definitely not to live",
-        "object": "the US"
-      },
-      "normalized": {
-        "subject": "User_222",
-        "predicate": "does not want to live in",
-        "object": "the US"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -221,16 +149,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "just sounded that way",
-        "object": "when you said you did it the correct way as opposed to these people"
-      },
-      "normalized": {
-        "subject": "User_222's comment",
-        "predicate": "sounded like",
-        "object": "User_222 was doing it the correct way as opposed to these people"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -245,16 +165,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "people",
-        "predicate": "think",
-        "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
-      },
-      "normalized": {
-        "subject": "some people",
-        "predicate": "think",
-        "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -269,16 +181,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "simply doesn't work",
-        "object": "that way"
-      },
-      "normalized": {
-        "subject": "The process of migrating to the US the legal way and getting in line",
-        "predicate": "does not work",
-        "object": "that way"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -293,16 +197,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "am thankful",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "User_222",
-        "predicate": "is thankful",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -317,16 +213,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "I",
-        "predicate": "would probably be doing the same",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "User_222",
-        "predicate": "would probably be doing the same",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -341,16 +229,8 @@
       "comment_b3281bee98"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Americans",
-        "predicate": "are angry",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "Americans",
-        "predicate": "are angry",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -359,16 +239,8 @@
     "topic_id": "claim_17",
     "source_comment_ids": [],
     "topic_triple": {
-      "surface": {
-        "subject": "The belief that everyone has the opportunity to migrate legally and should get in line",
-        "predicate": "is incorrect / does not work that way",
-        "object": ""
-      },
-      "normalized": {
-        "subject": "The belief that everyone has the opportunity to migrate legally and should get in line",
-        "predicate": "does not work that way",
-        "object": ""
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

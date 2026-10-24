@@ -7,16 +7,8 @@
     "source_child_comment_id": "comment_be565af08f",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "52% income tax",
-      "predicate": "is",
-      "object": "most likely the marginal tax"
-    },
-    "normalized_triple": {
-      "subject": "52% income tax",
-      "predicate": "is",
-      "object": "the marginal tax"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -33,16 +25,8 @@
     "source_child_comment_id": "comment_be565af08f",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "People with a high income",
-      "predicate": "pay",
-      "object": "52% over the amount their salaries excels the threshold"
-    },
-    "normalized_triple": {
-      "subject": "People with a high income",
-      "predicate": "pay",
-      "object": "52% on income exceeding a certain threshold"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -59,16 +43,8 @@
     "source_child_comment_id": "comment_be565af08f",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "TOTAL taxation of a Swedish income",
-      "predicate": "is more then",
-      "object": "60%"
-    },
-    "normalized_triple": {
-      "subject": "Total taxation of Swedish income",
-      "predicate": "is more than",
-      "object": "60%"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -85,16 +61,8 @@
     "source_child_comment_id": "comment_fa5d2af3b5",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "TOTAL taxation of a Swedish income",
-      "predicate": "is more then",
-      "object": "60%"
-    },
-    "normalized_triple": {
-      "subject": "total taxation of Swedish income",
-      "predicate": "is more than",
-      "object": "60%"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -111,16 +79,8 @@
     "source_child_comment_id": "comment_fa5d2af3b5",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "isn't for",
-      "object": "an average income"
-    },
-    "normalized_triple": {
-      "subject": "total taxation of Swedish income",
-      "predicate": "is not for",
-      "object": "an average income"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -137,16 +97,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "tax the employer almost 100% of what he pays the worker per month",
-      "object": "almost 100% of what he pays the worker per month"
-    },
-    "normalized_triple": {
-      "subject": "the employer",
-      "predicate": "is taxed almost 100% of what he pays the worker per month",
-      "object": "almost 100% of what he pays the worker per month"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -163,16 +115,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Average income (about 500k crowns per year)",
-      "predicate": "is taxed with",
-      "object": "23% in Stockholm"
-    },
-    "normalized_triple": {
-      "subject": "Average income (about 500k crowns per year)",
-      "predicate": "is taxed with",
-      "object": "23% in Stockholm"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -189,16 +133,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is",
-      "object": "progressive and not the same for everyone"
-    },
-    "normalized_triple": {
-      "subject": "the tax system",
-      "predicate": "is",
-      "object": "progressive and not the same for everyone"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -215,16 +151,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "will not reach",
-      "object": "60% for average income"
-    },
-    "normalized_triple": {
-      "subject": "the tax rate",
-      "predicate": "will not reach",
-      "object": "60% for average income"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",

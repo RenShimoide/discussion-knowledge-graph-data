@@ -11,16 +11,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "leaders in Staten Island",
-        "predicate": "have a backbone to do what they were elected to do FOR THE AMERICAN people",
-        "object": "FOR THE AMERICAN people"
-      },
-      "normalized": {
-        "subject": "leaders in Staten Island",
-        "predicate": "have the backbone to fulfill their elected duties for the American people",
-        "object": "the American people"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -35,16 +27,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "government",
-        "predicate": "interfering in",
-        "object": "our countries' politics"
-      },
-      "normalized": {
-        "subject": "the government",
-        "predicate": "interferes in",
-        "object": "the politics of other countries"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -59,16 +43,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "government stopping interference in politics",
-        "predicate": "will result in",
-        "object": "no migrants"
-      },
-      "normalized": {
-        "subject": "the government stopping interference in other countries' politics",
-        "predicate": "will result in",
-        "object": "no migrants"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -83,16 +59,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "YOUR GOVERNMENT",
-        "predicate": "ALSO TO GET OUT OFF OUR COUNTRIES",
-        "object": "OUR COUNTRIES"
-      },
-      "normalized": {
-        "subject": "your government",
-        "predicate": "should leave",
-        "object": "our countries"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -107,16 +75,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "YOUR GOVERNMENT",
-        "predicate": "STOP INTERFERING IN",
-        "object": "OUR COUNTRIES' POLITICS"
-      },
-      "normalized": {
-        "subject": "your government",
-        "predicate": "should stop interfering in",
-        "object": "our countries' politics"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -131,16 +91,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "YOU",
-        "predicate": "WONT HAVE",
-        "object": "MIGRANTS"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "will not have",
-        "object": "migrants"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -154,16 +106,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "never a bad time",
-        "predicate": "to revolt against",
-        "object": "your government"
-      },
-      "normalized": {
-        "subject": "it",
-        "predicate": "is never a bad time to revolt against",
-        "object": "your government"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -177,16 +121,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "need to do",
-        "object": "looking within"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "need to",
-        "object": "look within"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -201,16 +137,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "CORRUPT EXPATS",
-        "predicate": "COME TO OUR COUNTRIES WITH THE PROCEED OF THEIR CRIMES",
-        "object": "the proceed of their crimes"
-      },
-      "normalized": {
-        "subject": "corrupt expats",
-        "predicate": "come to our countries with the proceeds of their crimes",
-        "object": "the proceeds of their crimes"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -225,16 +153,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "The US “interfering” with your country",
-        "predicate": "is not the cause of",
-        "object": "migration"
-      },
-      "normalized": {
-        "subject": "US interference with your country",
-        "predicate": "is not the cause of",
-        "object": "migration"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -248,16 +168,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "People",
-        "predicate": "come here to escape",
-        "object": "socialism and communist rule"
-      },
-      "normalized": {
-        "subject": "people",
-        "predicate": "come here to escape",
-        "object": "socialism and communist rule"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -271,16 +183,8 @@
       "comment_e36c871e7c"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "People",
-        "predicate": "come here for",
-        "object": "economic opportunities and freedom in general"
-      },
-      "normalized": {
-        "subject": "people",
-        "predicate": "come here for",
-        "object": "economic opportunities and general freedom"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

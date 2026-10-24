@@ -2,8 +2,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_8db20f2affb09792c29b",
-    "parent_text": "All EU countries needs to look at Poland and do exactly that in regards to immigration",
-    "child_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_8db20f2affb09792c29b",
@@ -24,9 +22,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not provide an explicit or strongly inferable supportive justification for the parent comment; the relation is weak and indirect, so the appropriate label is false with no direction or polarity.",
-      "evidence": "Parent: \"All EU countries needs to look at Poland and do exactly that in regards to immigration\". Child: \"Poland, Hungary, Czech republic used to be \\\"poor man\\\" of Europe !\" – the child merely states a historical fact without directly supporting or justifying the parent's claim."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -43,14 +39,12 @@
       "output_source": "response",
       "thinking_chars": 2320
     },
-    "thinking_output": "We need to evaluate if any supportive justification relation exists between parent and child.\n\nParent: \"All EU countries needs to look at Poland and do exactly that in regards to immigration\"\n\nChild: \"Poland, Hungary, Czech republic used to be \"poor man\" of Europe !\"\n\nChild is stating that Poland, Hungary, Czech Republic used to be \"poor man\" of Europe. This is a claim about economic status, perhaps implying that they shouldn't be used as model for immigration? The parent says EU countries should look at Poland and do exactly that regarding immigration. Child says Poland, Hungary, Czech used to be poor. This could be a counter-argument: implying that Poland's immigration policies are not a good model because they were poor? But does child provide justification? It provides a statement that they used to be poor, which could be used as a reason to argue against the parent's claim. However, does it directly support or attack? The child is not explicitly stating \"therefore you shouldn't look at Poland\". It's just a statement. The relation is not explicit supportive justification; it's more of a counterpoint but not a clear justification. The task requires explicit or strongly inferable supportive justification. The child does not give a reason why the parent's claim is wrong; just a statement of fact. Could be considered a justification for rejecting the parent's claim (i.e., \"they used to be poor, so they are not a good model\"). But it's not explicit; it's implied. The guidelines say we should not infer supportive justification from broad world knowledge alone. The child is providing a claim that could be used as justification, but it's not directly linked to the parent's claim. The parent says \"look at Poland and do exactly that regarding immigration\". Child says \"Poland, Hungary, Czech used to be poor\". That could be interpreted as a reason why Poland's approach is not admirable. However, the child does not explicitly say \"therefore you shouldn't look at Poland\". The relation is weak. According to rule 10, if evidence is ambiguous, weak, indirect, choose false. So final_present false.\n\nBoth initial and validation say false. So final values: present false, direction none, polarity none. Confidence maybe 0.95 as validation. decision_source validation_judgment.\n\nThus output as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -63,8 +57,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The reply provides historical economic context but does not offer a reason or justification for the parent's immigration claim.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
@@ -75,8 +68,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_b68f2c55cfa573c10ed9",
-    "parent_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
-    "child_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_b68f2c55cfa573c10ed9",
@@ -99,9 +90,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the child comment provides specific historical evidence to refute the parent’s claim, constituting a clear supportive‑justification attack. The validation judgment correctly identifies this relation and its direction/polarity.",
-      "evidence": "Child supplies evidence (Hitler’s invasion of Sudety, pre‑WWII industry, Skoda cars, Bohemian glass, coal) to attack the parent’s statement that Czech Republic was a \"poor man\" of Europe."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -118,14 +107,12 @@
       "output_source": "response",
       "thinking_chars": 2355
     },
-    "thinking_output": "We need to evaluate the pair.\n\nParent: \"Poland, Hungary, Czech republic used to be \"poor man\" of Europe !\"\n\nChild: \"@User_151 learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry ... You don't know anything, so keep quiet then\"\n\nChild attacks parent claim that Czech Republic was \"poor man\" by saying it had biggest industry before WWII, giving evidence (Hitler invaded Sudety because of industry). That's a supportive justification (evidence) used to attack the claim. So relation present, direction C->P, polarity attack.\n\nThus final_present true, direction C->P, polarity attack.\n\nNow we must consider validation judgment: they say corrected_present true, direction C->P, polarity attack. They claim initial annotation incorrectly labeled false? Actually initial annotation had present true, direction C->P, polarity attack. So both initial and validation say true. Wait initial annotation: present true, polarity attack, direction C->P. Validation says corrected_present true, direction C->P, polarity attack. So both agree. Validation says is_valid false (meaning initial annotation invalid?) but they claim corrected values same as initial. Actually initial annotation had present true, direction C->P, polarity attack. So they are same. So maybe they think initial annotation was wrong? But they say \"incorrect_annotation\" error type. But they propose same values? Let's double-check: initial annotation: present \"true\", polarity \"attack\", direction \"C->P\". Validation: corrected_present \"true\", corrected_direction \"C->P\", corrected_polarity \"attack\". So they are identical. So validation says initial annotation is invalid but corrected values same? Possibly a mistake. But we must follow rule: If validation judgment identifies a valid error, prefer validator. Here validation says is_valid false, meaning they think initial annotation is invalid. But they provide corrected values identical. So final should be those corrected values.\n\nThus final_present true, final_direction C->P, final_polarity_to_target attack.\n\nConfidence maybe 0.95 as given.\n\nDecision_source: validation_judgment (since they corrected). Or adjudicator_override? According to rule 7: If validation judgment identifies a valid error, prefer validator's corrected values. So decision_source = \"validation_judgment\".\n\nNow produce JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -138,8 +125,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_annotation",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear supportive-justification relation exists. The child comment (C) directly attacks the parent comment's (P) claim that Poland, Hungary, and Czech Republic were 'poor men of Europe' by providing specific historical evidence (Hitler's invasion of Sudety due to its strong industry, Skoda cars, Bohemian glass, coal industry). This constitutes an argument from supportive justification where C uses evidence to attack P's standpoint. The direction is C->P as the child provides the justificatory attack on the parent's claim."
+      "error_type": "incorrect_annotation"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child provides industrial evidence to attack the parent's claim about the Czech Republic's economic status.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child uses evidence to refute the parent's assertion.\"\n}",
@@ -150,8 +136,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_538b5914096fd474bb3e",
-    "parent_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
-    "child_text": "@User_152  sorry, not Czechoslovakia !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_538b5914096fd474bb3e",
@@ -170,9 +154,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments do not contain an explicit or strongly inferable supportive justification; the child merely corrects a term without providing reasons or evidence.",
-      "evidence": "Parent claims about Hitler invading Sudety; child replies 'sorry, not Czechoslovakia!' which is a brief correction, not a justification."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -189,14 +171,12 @@
       "output_source": "response",
       "thinking_chars": 2166
     },
-    "thinking_output": "We need to evaluate if the final answer is correct. The task: determine supportive justification relation between parent and child comment.\n\nParent: \"@User_151 learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry ... You don't know anything, so keep quiet then\"\n\nChild: \"@User_152 sorry, not Czechoslovakia !\"\n\nInterpretation: The child says \"sorry, not Czechoslovakia!\" Possibly correcting the parent who said \"Czechia\"? Actually parent says \"Sudety in Czechia\". Child says \"sorry, not Czechoslovakia!\" Might be a correction that the region was part of Czechoslovakia, not Czechia? The child is not providing justification for the parent's claim; it's a brief correction. No supportive justification.\n\nThus present false, direction none, polarity none. Both initial and validation say false. So final should be false, none, none. Decision source could be validation_judgment (since both agree). Confidence maybe 0.95.\n\nThe provided final JSON matches that. Need to ensure format matches required fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. The reason and evidence optional? The spec didn't mention reason/evidence fields in final output, but they may be allowed? The instruction: \"Return only one valid JSON object. Do not include Markdown, code fences, or any text outside the JSON.\" It didn't restrict extra fields, but typical output expects only the required fields. However earlier examples include reason/evidence? Not given. Safer to include only required fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source. The extra fields may be okay but could be considered invalid. The prompt says \"Output Format: Return only one valid JSON object.\" It doesn't restrict fields, but earlier tasks often require only those fields. To be safe, include only required fields.\n\nThus final answer:\n\n{\n\"final_present\": \"false\",\n\"final_direction\": \"none\",\n\"final_polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"decision_source\": \"validation_judgment\"\n}\n\nWe can optionally include reason but might be okay. I'll output minimal.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -209,8 +189,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a factual correction of a name, not a provision of reasons or evidence.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
@@ -221,8 +200,6 @@
   {
     "scheme": "afsj",
     "pair_id": "causal_12dbf51ab6fccd54dc2f",
-    "parent_text": "@User_152  sorry, not Czechoslovakia !",
-    "child_text": "@User_151  what are you sorry about???",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_12dbf51ab6fccd54dc2f",
@@ -241,9 +218,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments are unrelated in terms of providing reasons, evidence, or explanations. The child merely asks a question about the parent's apology, without offering any justification or support, and does not address the parent's statement directly. Therefore, no supportive‑justification relation is present.",
-      "evidence": "Parent: \"sorry, not Czechoslovakia !\" – an apology/correction. Child: \"what are you sorry about???\" – a question asking for clarification, not providing justification."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -260,14 +235,12 @@
       "output_source": "response",
       "thinking_chars": 933
     },
-    "thinking_output": "We need to verify if any supportive justification relation exists. Parent comment: \"@User_152  sorry, not Czechoslovakia !\" Child: \"@User_151  what are you sorry about???\"\n\nParent is replying to User_152, saying \"sorry, not Czechoslovakia!\" Possibly correcting something. Child is replying to User_151, asking \"what are you sorry about???\". The child is not directly replying to parent; it's a reply to a different user (User_151). The child comment is not addressing the parent comment; it's a separate thread. There's no supportive justification. So present false, direction none, polarity none. Validation says correct. So final values as given. Need confidence maybe 0.95. Decision source validation_judgment. Provide reason and evidence maybe. The output JSON must include fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. The example includes those. Provide final.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_supportive_justification": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -280,8 +253,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child's reply is a question seeking clarification rather than providing justification for the parent's statement.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
@@ -292,8 +264,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_8db20f2affb09792c29b",
-    "parent_text": "All EU countries needs to look at Poland and do exactly that in regards to immigration",
-    "child_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_8db20f2affb09792c29b",
@@ -314,9 +284,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not provide an explicit or strongly inferable rebuttal to the parent comment's claim about immigration policy; it merely mentions past economic status, which is not a substantive counter-claim.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -333,14 +301,12 @@
       "output_source": "response",
       "thinking_chars": 1551
     },
-    "thinking_output": "We need to evaluate if there is a rebuttal relation between parent and child.\n\nParent: \"All EU countries needs to look at Poland and do exactly that in regards to immigration\"\n\nChild: \"Poland, Hungary, Czech republic used to be \"poor man\" of Europe !\"\n\nChild seems to be a statement that Poland, Hungary, Czech Republic used to be \"poor man\" of Europe. This could be a counter-argument to the parent's claim that EU countries should look at Poland and do exactly that regarding immigration. The child is perhaps implying that Poland is not a good model because it used to be poor? But does it directly rebut? The child says they used to be \"poor man\" of Europe, maybe implying they are not a good example. That's a kind of challenge to the parent's suggestion. However, is it a substantive counter-claim? The parent says \"All EU countries needs to look at Poland and do exactly that in regards to immigration\". The child says \"Poland, Hungary, Czech republic used to be 'poor man' of Europe!\" This is not directly refuting the immigration policy suggestion; it's more a statement about economic status. It could be interpreted as a criticism: \"Poland used to be poor, so maybe not a good model.\" But it's not explicit that it's a rebuttal to the immigration claim. It's more a comment about past poverty, not directly addressing immigration. So likely no clear rebuttal.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide reason.\n\nThus output JSON as per format.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -353,8 +319,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The child comment provides historical context without presenting a counter-claim or rebuttal to the parent's suggestion.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
@@ -365,8 +330,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_b68f2c55cfa573c10ed9",
-    "parent_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
-    "child_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_b68f2c55cfa573c10ed9",
@@ -389,9 +352,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment directly challenges the parent’s claim that Poland, Hungary, and the Czech Republic were \"poor men of Europe\" by providing counter‑evidence about Czech industrial strength before WWII, constituting a substantive rebuttal with attack polarity from child to parent.",
-      "evidence": "Parent: \"Poland, Hungary, Czech republic used to be 'poor man' of Europe !\" Child: \"Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII...\""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -408,14 +369,12 @@
       "output_source": "response",
       "thinking_chars": 2708
     },
-    "thinking_output": "We need to decide final values. Let's analyze.\n\nParent comment: \"Poland, Hungary, Czech republic used to be 'poor man' of Europe !\" This is a claim that these countries used to be poor.\n\nChild comment: \"@User_151 learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then\"\n\nThe child is responding to presumably a previous comment (maybe the parent). The child says \"learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII... You don't know anything, so keep quiet then\". This is a rebuttal: they challenge the claim that Czech Republic was \"poor man of Europe\" by stating it had big industry before WWII. That's a substantive counter-claim. So there is a rebuttal relation from child to parent, attack polarity.\n\nThus final_present should be \"true\". Direction C->P. Polarity attack.\n\nNow we must consider validation judgment: It says is_valid false (meaning the validation judgment says the initial annotation is invalid) and corrected_present true, direction C->P, polarity attack. So validation says the annotation should be true. The initial annotation also says present true, direction C->P, polarity attack. Wait initial annotation says present true, direction C->P, polarity attack. So both initial and validation agree on true. But validation says the initial annotation is invalid because it incorrectly labels the relation as 'false'—but that seems contradictory: initial annotation says true. The validation's reason says \"incorrectly labels the relation as 'false'\". That seems a mistake in the validation description. However we must follow the rules: If validation judgment identifies a valid error, prefer validator's corrected values. Here validation says corrected_present true etc. So we should adopt those.\n\nThus final_present true, direction C->P, polarity attack.\n\nConfidence? The validation confidence 0.95. We can set confidence maybe 0.95.\n\nDecision source: validation_judgment (since we follow validator's corrected values). Or adjudicator_override? The validator seems correct. So decision_source = \"validation_judgment\".\n\nNow ensure format: final_present \"true\", final_direction \"C->P\", final_polarity_to_target \"attack\". confidence numeric.\n\nProvide reason and evidence optional but not required? The schema includes reason and evidence fields? The example output includes them. The instruction says return only one valid JSON object. It didn't specify required fields beyond those final fields. But we can include reason and evidence as optional. Safer to include them.\n\nThus output JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -428,8 +387,7 @@
       "corrected_polarity_to_target": "attack",
       "corrected_no_argument_scheme_relation": false,
       "confidence": 0.95,
-      "error_type": "incorrect_labeling",
-      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists. The child comment directly challenges the parent's claim that Poland, Hungary, and Czech Republic were 'poor men of Europe' by providing specific counter-evidence (Czechia's industrial strength pre-WWII) to refute the characterization. This constitutes a substantive counter-claim/correction against the parent's assertion, establishing an argument from rebuttal with attack polarity from child to parent."
+      "error_type": "incorrect_labeling"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply challenges the parent's claim by providing counter-evidence regarding the industrial capacity of Czechia.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply functions as a substantive rebuttal to the parent's claim.\"\n}",
@@ -440,8 +398,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_538b5914096fd474bb3e",
-    "parent_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
-    "child_text": "@User_152  sorry, not Czechoslovakia !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_538b5914096fd474bb3e",
@@ -460,9 +416,7 @@
       "final_direction": "C->P",
       "final_polarity_to_target": "attack",
       "confidence": 0.92,
-      "decision_source": "adjudicator_override",
-      "reason": "The child comment directly corrects the parent’s factual statement by stating \"not Czechoslovakia,\" which constitutes a substantive counter‑claim and correction. This is an explicit rebuttal relation from the child to the parent, thus the relation is present, the direction is C->P, and the polarity is an attack on the parent’s claim.",
-      "evidence": "Parent claims Hitler invaded Sudety in \"Czechia\"; child replies \"sorry, not Czechoslovakia!\" – a clear factual correction that challenges the parent’s statement."
+      "decision_source": "adjudicator_override"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -479,14 +433,12 @@
       "output_source": "response",
       "thinking_chars": 1692
     },
-    "thinking_output": "We need to evaluate if there is a rebuttal relation between parent and child.\n\nParent comment: \"@User_151 learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then\"\n\nChild comment: \"@User_152 sorry, not Czechoslovakia !\"\n\nInterpretation: Parent is telling User_151 to learn facts, says Hitler invaded Sudety in Czechia (actually Sudetenland was part of Czechoslovakia). Child says \"sorry, not Czechoslovakia!\" So child is correcting the parent: the parent said \"Czechia\" but the correct term is \"Czechoslovakia\". That's a correction, a rebuttal. The child is providing a counter-claim (correction) to the parent's statement about geography. So there is a rebuttal relation from child to parent (C->P). The child is correcting the parent's factual error. That qualifies as \"Argument from Rebuttal\": \"countering, correcting\". So present should be true.\n\nBut the initial annotation and validation say false. We must decide final values based on task definition and our analysis. The validation says it's valid because no explicit rebuttal. However, child says \"sorry, not Czechoslovakia!\" That's a direct correction. That is a substantive counter-claim. So I think the correct final should be present true, direction C->P, polarity attack (since child is attacking the parent's claim). The child is correcting, which is a form of attack (rejecting the claim). So polarity \"attack\". Confidence maybe 0.9.\n\nWe must follow final decision rules: If we override both, decision_source = \"adjudicator_override\". Provide reason and evidence.\n\nThus final JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -499,8 +451,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply addresses a different user and does not provide a substantive rebuttal to the parent's claim.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
@@ -511,8 +462,6 @@
   {
     "scheme": "afr",
     "pair_id": "causal_12dbf51ab6fccd54dc2f",
-    "parent_text": "@User_152  sorry, not Czechoslovakia !",
-    "child_text": "@User_151  what are you sorry about???",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_12dbf51ab6fccd54dc2f",
@@ -531,9 +480,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not provide a substantive counter‑claim, correction, or objection to the parent comment; it merely asks for clarification, which does not meet the criteria for an argument from rebuttal.",
-      "evidence": "Parent: \"sorry, not Czechoslovakia !\"; Child: \"what are you sorry about???\" – the child asks a question rather than presenting a rebuttal."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -550,14 +497,12 @@
       "output_source": "response",
       "thinking_chars": 1334
     },
-    "thinking_output": "We need to verify if any rebuttal relation exists. Parent comment: \"@User_152  sorry, not Czechoslovakia !\" Child: \"@User_151  what are you sorry about???\"\n\nParent is replying to User_152, apologizing, saying \"not Czechoslovakia\". Child is replying to User_151, asking \"what are you sorry about???\". The child is not directly addressing the parent comment; it's addressing a different user (User_151). The child comment is not a rebuttal to the parent; it's a question about why the parent is apologizing. Could be considered a challenge: \"what are you sorry about?\" That's a request for clarification, maybe a mild challenge, but does it constitute a rebuttal? The child is asking for clarification, not providing a counter-claim. According to definition, rebuttal requires substantive counter-claim, correction, counter-reason, objection, refutation, or alternative interpretation. Asking \"what are you sorry about?\" is a request for clarification, not a substantive objection. So no rebuttal.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.\n\nCheck guidelines: If final_present false, direction none, polarity none. Provide confidence maybe 0.95 as per validation. Provide reason and evidence optional but okay.\n\nThus output as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_rebuttal": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -570,8 +515,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child's reply is an inquiry for clarification rather than a rebuttal or counter-claim.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
@@ -582,8 +526,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_8db20f2affb09792c29b",
-    "parent_text": "All EU countries needs to look at Poland and do exactly that in regards to immigration",
-    "child_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_8db20f2affb09792c29b",
@@ -604,9 +546,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments do not contain an explicit or strongly inferable causal or consequential claim linking them; the child merely remarks on past economic status, which does not constitute a cause-effect relation with the parent's immigration suggestion.",
-      "evidence": "Parent: \"All EU countries needs to look at Poland and do exactly that in regards to immigration\". Child: \"Poland, Hungary, Czech republic used to be \\\"poor man\\\" of Europe !\" – no causal language or implication of cause/effect between the statements."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -623,14 +563,12 @@
       "output_source": "response",
       "thinking_chars": 1252
     },
-    "thinking_output": "We need to verify if any causal-consequence relation exists between parent and child.\n\nParent: \"All EU countries needs to look at Poland and do exactly that in regards to immigration\"\n\nChild: \"Poland, Hungary, Czech republic used to be \"poor man\" of Europe !\"\n\nChild is stating that Poland, Hungary, Czech Republic used to be \"poor man\" of Europe. This is a statement about past economic status, not a causal claim. The parent says EU countries should look at Poland and do exactly that regarding immigration. The child says those countries used to be poor. There's no causal relation: child not saying that being poor leads to immigration policy, nor parent referencing cause. So no causal-consequence relation.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.\n\nCheck guidelines: need confidence number. Use 0.95 as given.\n\nProvide reason and evidence fields? The example includes reason and evidence fields. The output format says return only one valid JSON object. The example includes fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. We should include those.\n\nThus final answer as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -643,8 +581,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply provides historical context but does not explicitly state a cause or consequence related to the parent's claim.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation is clearly established.\"\n}",
@@ -655,8 +592,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_b68f2c55cfa573c10ed9",
-    "parent_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
-    "child_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_b68f2c55cfa573c10ed9",
@@ -679,9 +614,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment refutes the parent’s statement with historical facts about Czech industry, which is an evidence‑based rebuttal, not a causal or consequential claim. No cause‑effect, risk, benefit, or practical outcome relationship is expressed between the comments, so the argument‑from‑causal‑consequence label is inappropriate.",
-      "evidence": "Parent: claims the countries were historically poor. Child: counters by stating Czechia had a large industry before WWII, attacking the factual claim without invoking any causal relationship."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -698,14 +631,12 @@
       "output_source": "response",
       "thinking_chars": 912
     },
-    "thinking_output": "We need to evaluate if the validation judgment is correct. Parent comment: \"Poland, Hungary, Czech republic used to be 'poor man' of Europe !\" Child comment: \"learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then\". The child is attacking the parent's claim that these countries used to be poor, by providing historical fact that Czechia had big industry before WWII. This is not a causal-consequence argument; it's a factual rebuttal. No cause-effect relation. So final_present false, direction none, polarity none. Confidence high. Decision source validation_judgment. Provide JSON accordingly. Ensure fields match required: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence (optional). Provide as per format.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -718,8 +649,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label_assignment",
-      "reason": "The proposed annotation incorrectly labels the relation as 'Argument from Causal Consequence'. The child comment attacks the parent's factual claim by providing counter-evidence (Czechia had a strong industry before WWII), but this is an argument from evidence/fact-checking, not a causal-consequence relation. There is no explicit or strongly inferable cause-effect, consequence, risk, benefit, or practical outcome linking the two comments. The child comment does not argue that X causes Y or leads to Z; it simply refutes a factual assertion with historical facts. Therefore, the correct label for 'present' is 'false', direction is 'none', polarity is 'none', and 'no_argument_scheme_relation' is true."
+      "error_type": "incorrect_label_assignment"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child uses a causal explanation regarding industry and invasion to attack the parent's claim.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child's reply uses a causal relation to attack the parent's statement.\"\n}",
@@ -730,8 +660,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_538b5914096fd474bb3e",
-    "parent_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
-    "child_text": "@User_152  sorry, not Czechoslovakia !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_538b5914096fd474bb3e",
@@ -750,9 +678,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments are merely factual statements and a correction; there is no explicit or strongly inferable causal or consequential relationship.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -769,14 +695,12 @@
       "output_source": "response",
       "thinking_chars": 1365
     },
-    "thinking_output": "We need to verify if any causal-consequence relation exists between parent and child.\n\nParent comment: \"learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then\"\n\nChild comment: \"@User_152 sorry, not Czechoslovakia !\"\n\nChild is correcting the parent: parent says \"Sudety in Czechia\". Child says \"sorry, not Czechoslovakia!\" Actually Sudetenland was part of Czechoslovakia, not Czechia. So child is correcting a factual error. No causal relation. So present false, direction none, polarity none. Both initial and validation say false. So final should be false, none, none. Decision source could be validation_judgment (since both agree, but we can choose either). According to rule 7, if validation judgment identifies error, prefer validator. Here validator says correct. So decision_source = validation_judgment.\n\nConfidence maybe 0.95 as given. Provide reason and evidence optional but not required? The format includes reason and evidence fields? The example includes them. The spec says output only JSON object with final values. It didn't specify required fields beyond those. But earlier examples include reason and evidence. Safer to include them as they are in example. Provide reason.\n\nThus final JSON as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -789,8 +713,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a factual correction and does not establish a causal or consequential link.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation exists between the comments.\"\n}",
@@ -801,8 +724,6 @@
   {
     "scheme": "afcc",
     "pair_id": "causal_12dbf51ab6fccd54dc2f",
-    "parent_text": "@User_152  sorry, not Czechoslovakia !",
-    "child_text": "@User_151  what are you sorry about???",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_12dbf51ab6fccd54dc2f",
@@ -821,9 +742,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments are a brief exchange without any explicit or inferable cause-effect statement. The child merely asks for clarification, and no causal or consequential argument is present.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -840,14 +759,12 @@
       "output_source": "response",
       "thinking_chars": 630
     },
-    "thinking_output": "We need to verify if any causal-consequence relation exists. Parent comment: \"@User_152  sorry, not Czechoslovakia !\" Child: \"@User_151  what are you sorry about???\"\n\nParent says sorry, not Czechoslovakia. Child asks what are you sorry about. No causal relation. So present false, direction none, polarity none. Both initial and validation say false. Validation is correct. So final values as given. Confidence maybe 0.95. Decision source validation_judgment. Provide JSON. Ensure fields match required: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. Provide reason. Good.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_causal_consequence": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 1.0,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -860,8 +777,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 1.0,\n\"rationale\": \"The interaction is a clarification request and does not establish any causal or consequential relation.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence argument scheme is established.\"\n}",
@@ -872,8 +788,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_8db20f2affb09792c29b",
-    "parent_text": "All EU countries needs to look at Poland and do exactly that in regards to immigration",
-    "child_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_8db20f2affb09792c29b",
@@ -894,9 +808,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the initial annotation and the validation judgment correctly identify that the comments do not contain an explicit or strongly inferable analogical or comparative relation; the child merely mentions the historical economic status of the countries, which is not an analogy to the parent's claim.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -913,14 +825,12 @@
       "output_source": "response",
       "thinking_chars": 607
     },
-    "thinking_output": "We need to verify if any analogy/comparison exists. Parent: \"All EU countries needs to look at Poland and do exactly that in regards to immigration\". Child: \"Poland, Hungary, Czech republic used to be 'poor man' of Europe !\" The child is stating that those countries used to be poor, perhaps implying they shouldn't be model. Not an explicit analogy/comparison between the two comments. It's more a counterpoint, but not using analogy. So present false. Direction none, polarity none. Validation says correct. So final as given. Need confidence maybe 0.95. Decision source validation_judgment. Provide JSON.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -933,8 +843,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply provides historical context about the mentioned countries without establishing an analogical or comparative relation.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
@@ -945,8 +854,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_b68f2c55cfa573c10ed9",
-    "parent_text": "Poland, Hungary, Czech republic used to be \"poor man\" of Europe !",
-    "child_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_b68f2c55cfa573c10ed9",
@@ -969,9 +876,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "The child comment refutes the parent's claim with factual evidence, not by using an analogy, comparison, or contrast. No analogical structure is present, so the relation is absent.",
-      "evidence": "Parent states Czech Republic was a 'poor man' of Europe; child lists industrial assets (Skoda, glass, coal) to argue otherwise, without drawing a comparative or analogical link."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -988,14 +893,12 @@
       "output_source": "response",
       "thinking_chars": 2052
     },
-    "thinking_output": "We need to evaluate if the final decision should be as given. Let's examine.\n\nParent: \"Poland, Hungary, Czech republic used to be 'poor man' of Europe !\" So claim that these countries used to be poor.\n\nChild: \"@User_151 learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then\"\n\nChild is attacking parent by providing facts that Czechia had big industry before WWII, implying it wasn't poor. This is a factual counterargument, not an analogy/comparison. No analogical structure like \"just as X is Y, so Z is Y\". It's not comparing to another case. So no analogy.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since validator correctly identified error). The initial annotation was wrong.\n\nThus final JSON as given is appropriate. Need to ensure fields match required: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. The example includes reason and evidence optional? The spec didn't mention reason/evidence fields, but they are allowed? The output format says \"Return only one valid JSON object.\" Not specify fields beyond those. In prior examples, they included reason/evidence. Probably okay.\n\nBut ensure fields exactly as required: final_present, final_direction, final_polarity_to_target, confidence, decision_source. Additional fields may be okay but not required. Safer to include only required fields. The instruction: \"Output Format Return only one valid JSON object. Do not include Markdown, code fences, or any text outside the JSON.\" It didn't forbid extra fields, but typical evaluation expects only those fields. Safer to include only required fields.\n\nThus output:\n\n{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\"\n}\n\nNo reason/evidence. Let's output that.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "true",
         "polarity_to_target": "attack",
         "confidence": 0.9,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "C->P"
       },
       "no_argument_scheme_relation": false,
@@ -1008,8 +911,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "incorrect_label_assignment",
-      "reason": "The child comment directly refutes the parent's factual claim about Czechia being a 'poor man' of Europe by citing specific industrial examples (Skoda cars, Bohemian glass, coal industry). This is a direct counter-argument based on evidence/facts, not an analogy or comparison. The child does not draw a parallel to another case, use a hypothetical comparison, or employ an analogical structure to support or attack the parent. It simply states facts to contradict the premise. Therefore, no argument from analogy or comparison is present."
+      "error_type": "incorrect_label_assignment"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child uses the industrial strength of Czechia as a counter-example to attack the parent's claim.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply uses a counter-example to refute the parent's generalization.\"\n}",
@@ -1020,8 +922,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_538b5914096fd474bb3e",
-    "parent_text": "@User_151  learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry before WWII. Skoda cars, bohemian glass, coal industry and etc... You don't know anything, so keep quiet then",
-    "child_text": "@User_152  sorry, not Czechoslovakia !",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_538b5914096fd474bb3e",
@@ -1040,9 +940,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.96,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments are a factual correction and criticism, without any explicit or strongly inferable analogy, comparison, or contrast. The child merely points out a mistake about the country's name, which does not constitute an analogical relation.",
-      "evidence": "Parent mentions Hitler invading Sudety in Czechia; child replies \"sorry, not Czechoslovakia!\" – a correction, not a comparison."
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1059,14 +957,12 @@
       "output_source": "response",
       "thinking_chars": 826
     },
-    "thinking_output": "We need to evaluate if any analogy/comparison relation exists between parent and child.\n\nParent: \"@User_151 learn your facts first!!! Why Hitler invaded Sudety in Czechia? It had the biggest industry ... You don't know anything, so keep quiet then\"\n\nChild: \"@User_152 sorry, not Czechoslovakia !\"\n\nChild seems to correct a factual error: parent said \"Czechia\" maybe they meant \"Czechoslovakia\"? The child says \"sorry, not Czechoslovakia!\" That's a correction, not an analogy/comparison. No analogical relation.\n\nThus final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.\n\nCheck guidelines: final_present false => direction none, polarity none. Provide confidence maybe 0.96. Provide reason and evidence optional but okay.\n\nReturn JSON only.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1079,8 +975,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a factual correction regarding a name, not an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
@@ -1091,8 +986,6 @@
   {
     "scheme": "afac",
     "pair_id": "causal_12dbf51ab6fccd54dc2f",
-    "parent_text": "@User_152  sorry, not Czechoslovakia !",
-    "child_text": "@User_151  what are you sorry about???",
     "metadata": {
       "discussion_id": "discussion_4d6e49ab69",
       "source_pair_id": "causal_12dbf51ab6fccd54dc2f",
@@ -1111,9 +1004,7 @@
       "final_direction": "none",
       "final_polarity_to_target": "none",
       "confidence": 0.95,
-      "decision_source": "validation_judgment",
-      "reason": "Both the parent and child comments are simple exchanges without any explicit or strongly inferable analogy, comparison, or contrast. The child asks a clarification question unrelated to the parent's statement, so no analogical relation is present.",
-      "evidence": ""
+      "decision_source": "validation_judgment"
     },
     "runtime": {
       "model": "gpt-oss:120b-mac",
@@ -1130,14 +1021,12 @@
       "output_source": "response",
       "thinking_chars": 986
     },
-    "thinking_output": "We need to verify if any analogy/comparison exists. Parent comment: \"@User_152  sorry, not Czechoslovakia !\" Child: \"@User_151  what are you sorry about???\"\n\nParent is replying to User_152, saying \"sorry, not Czechoslovakia!\" Possibly referencing a previous comment about Czechoslovakia. Child is replying to User_151, asking what are you sorry about? The child is not addressing the parent comment; it's addressing a different user (User_151). Actually child comment is addressed to User_151, not to the parent comment (User_152). So no analogical relation. So final_present false, direction none, polarity none. Validation says correct. So final decision: use validation_judgment. Confidence maybe 0.95 as given. Provide JSON.\n\nCheck guidelines: need fields final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. Provide reason and evidence maybe optional but include. Provide evidence maybe empty string.\n\nThus final answer as given.",
     "status": "ok",
     "stage1_v3": {
       "argument_from_analogy_or_comparison": {
         "present": "false",
         "polarity_to_target": "none",
         "confidence": 0.95,
-        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
         "direction": "none"
       },
       "no_argument_scheme_relation": true,
@@ -1150,8 +1039,7 @@
       "corrected_polarity_to_target": "none",
       "corrected_no_argument_scheme_relation": true,
       "confidence": 0.95,
-      "error_type": "none",
-      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+      "error_type": "none"
     },
     "raw_outputs": {
       "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The comments consist of a correction and a follow-up question without any comparative or analogical reasoning.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",

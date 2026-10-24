@@ -11,16 +11,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "52% income tax",
-        "predicate": "is",
-        "object": "most likely the marginal tax"
-      },
-      "normalized": {
-        "subject": "52% income tax",
-        "predicate": "is",
-        "object": "the marginal tax"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -35,16 +27,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "People with a high income",
-        "predicate": "pay",
-        "object": "52% over the amount their salaries excels the threshold"
-      },
-      "normalized": {
-        "subject": "People with a high income",
-        "predicate": "pay",
-        "object": "52% on income exceeding a certain threshold"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -58,16 +42,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "TOTAL taxation of a Swedish income",
-        "predicate": "is more then",
-        "object": "60%"
-      },
-      "normalized": {
-        "subject": "Total taxation of Swedish income",
-        "predicate": "is more than",
-        "object": "60%"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -82,16 +58,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "It",
-        "predicate": "isn't for",
-        "object": "an average income"
-      },
-      "normalized": {
-        "subject": "total taxation of Swedish income",
-        "predicate": "is not for",
-        "object": "an average income"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -106,16 +74,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "tax the employer almost 100% of what he pays the worker per month",
-        "object": "almost 100% of what he pays the worker per month"
-      },
-      "normalized": {
-        "subject": "the employer",
-        "predicate": "is taxed almost 100% of what he pays the worker per month",
-        "object": "almost 100% of what he pays the worker per month"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -130,16 +90,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Average income (about 500k crowns per year)",
-        "predicate": "is taxed with",
-        "object": "23% in Stockholm"
-      },
-      "normalized": {
-        "subject": "Average income (about 500k crowns per year)",
-        "predicate": "is taxed with",
-        "object": "23% in Stockholm"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -153,16 +105,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "is",
-        "object": "progressive and not the same for everyone"
-      },
-      "normalized": {
-        "subject": "the tax system",
-        "predicate": "is",
-        "object": "progressive and not the same for everyone"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -174,16 +118,8 @@
       "comment_8460756176"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "will not reach",
-        "object": "60% for average income"
-      },
-      "normalized": {
-        "subject": "the tax rate",
-        "predicate": "does not reach",
-        "object": "60% for average income"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

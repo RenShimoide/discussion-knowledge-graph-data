@@ -10,16 +10,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "they",
-        "predicate": "feel like",
-        "object": "Denmark is home"
-      },
-      "normalized": {
-        "subject": "they",
-        "predicate": "feel like",
-        "object": "Denmark is home"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -33,16 +25,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "You",
-        "predicate": "can't stop speaking",
-        "object": "your mother language"
-      },
-      "normalized": {
-        "subject": "You",
-        "predicate": "cannot stop speaking",
-        "object": "your mother language"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -56,16 +40,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "You",
-        "predicate": "can't stop speaking",
-        "object": "your mother language"
-      },
-      "normalized": {
-        "subject": "You",
-        "predicate": "cannot stop speaking",
-        "object": "your mother language"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -79,16 +55,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "speak",
-        "object": "their language"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "speak",
-        "object": "the language of natives"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -101,16 +69,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "translate",
-        "object": "what you just said"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "translate",
-        "object": "what you just said"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -124,16 +84,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "speak",
-        "object": "their language"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "speak",
-        "object": "the native language"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -147,16 +99,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "you",
-        "predicate": "translate for them",
-        "object": "what you just said"
-      },
-      "normalized": {
-        "subject": "you",
-        "predicate": "translate",
-        "object": "what you just said"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -169,16 +113,8 @@
       "comment_72ee55acc4"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "speaking in the language she's more comfortable with",
-        "predicate": "would be better",
-        "object": "to deliver the message in the best way possible"
-      },
-      "normalized": {
-        "subject": "speaking in the language she is more comfortable with",
-        "predicate": "is better for",
-        "object": "delivering the message effectively"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]

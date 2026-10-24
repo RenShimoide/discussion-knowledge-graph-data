@@ -7,16 +7,8 @@
     "source_child_comment_id": "comment_4718a42ac6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "leaders in Staten Island",
-      "predicate": "have a backbone to do what they were elected to do FOR THE AMERICAN people",
-      "object": "FOR THE AMERICAN people"
-    },
-    "normalized_triple": {
-      "subject": "leaders in Staten Island",
-      "predicate": "have the backbone to fulfill their elected duties for the American people",
-      "object": "the American people"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -33,16 +25,8 @@
     "source_child_comment_id": "comment_4718a42ac6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "government",
-      "predicate": "interfering in",
-      "object": "our countries' politics"
-    },
-    "normalized_triple": {
-      "subject": "the government",
-      "predicate": "interferes in",
-      "object": "the politics of other countries"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -59,16 +43,8 @@
     "source_child_comment_id": "comment_4718a42ac6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "government stopping interference in politics",
-      "predicate": "will result in",
-      "object": "no migrants"
-    },
-    "normalized_triple": {
-      "subject": "the government stopping interference in other countries' politics",
-      "predicate": "will result in",
-      "object": "no migrants"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -85,16 +61,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "YOUR GOVERNMENT",
-      "predicate": "ALSO TO GET OUT OFF OUR COUNTRIES",
-      "object": "OUR COUNTRIES"
-    },
-    "normalized_triple": {
-      "subject": "your government",
-      "predicate": "should leave",
-      "object": "our countries"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -111,16 +79,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "YOUR GOVERNMENT",
-      "predicate": "STOP INTERFERING IN",
-      "object": "OUR COUNTRIES' POLITICS"
-    },
-    "normalized_triple": {
-      "subject": "your government",
-      "predicate": "should stop interfering in",
-      "object": "our countries' politics"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -137,16 +97,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "YOU",
-      "predicate": "WONT HAVE",
-      "object": "MIGRANTS"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "will not have",
-      "object": "migrants"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -163,16 +115,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "never a bad time",
-      "predicate": "to revolt against",
-      "object": "your government"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "is never a bad time to revolt against",
-      "object": "your government"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -189,16 +133,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "need to do",
-      "object": "looking within"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "need to",
-      "object": "look within"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -215,16 +151,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "YOUR GOVERNMENT",
-      "predicate": "DOES NOT INTERFERE AND BACK UP THE CORRUPT EXPATS",
-      "object": "CORRUPT EXPATS"
-    },
-    "normalized_triple": {
-      "subject": "your government",
-      "predicate": "does not interfere with and back up",
-      "object": "corrupt expats"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -241,16 +169,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "CORRUPT EXPATS",
-      "predicate": "COME TO OUR COUNTRIES WITH THE PROCEED OF THEIR CRIMES",
-      "object": "the proceed of their crimes"
-    },
-    "normalized_triple": {
-      "subject": "corrupt expats",
-      "predicate": "come to our countries with the proceeds of their crimes",
-      "object": "the proceeds of their crimes"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -267,16 +187,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "The US “interfering” with your country",
-      "predicate": "is not the cause of",
-      "object": "migration"
-    },
-    "normalized_triple": {
-      "subject": "US interference with your country",
-      "predicate": "is not the cause of",
-      "object": "migration"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -293,16 +205,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "People",
-      "predicate": "come here to escape",
-      "object": "socialism and communist rule"
-    },
-    "normalized_triple": {
-      "subject": "people",
-      "predicate": "come here to escape",
-      "object": "socialism and communist rule"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -319,16 +223,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "People",
-      "predicate": "come here for",
-      "object": "economic opportunities and freedom in general"
-    },
-    "normalized_triple": {
-      "subject": "people",
-      "predicate": "come here for",
-      "object": "economic opportunities and general freedom"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",

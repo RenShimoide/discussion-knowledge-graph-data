@@ -10,16 +10,8 @@
       "comment_497a275ec8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "Elon",
-        "predicate": "is",
-        "object": "the man"
-      },
-      "normalized": {
-        "subject": "Elon",
-        "predicate": "is",
-        "object": "the man"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -33,16 +25,8 @@
       "comment_497a275ec8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "someone",
-        "predicate": "has the guts to expose",
-        "object": "the US government failure"
-      },
-      "normalized": {
-        "subject": "someone",
-        "predicate": "has the guts to expose",
-        "object": "the US government failure"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -54,16 +38,8 @@
       "comment_917b6950de"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "This",
-        "predicate": "isn't",
-        "object": "a failure"
-      },
-      "normalized": {
-        "subject": "the event",
-        "predicate": "is not",
-        "object": "a failure"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -75,16 +51,8 @@
       "comment_917b6950de"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "it",
-        "predicate": "was done",
-        "object": "on purpose"
-      },
-      "normalized": {
-        "subject": "the event",
-        "predicate": "was done",
-        "object": "on purpose"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -98,16 +66,8 @@
       "comment_497a275ec8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "population replacement, cheap labor, and easy reliable voters",
-        "predicate": "is the reason for",
-        "object": "the situation implied by User_740's question"
-      },
-      "normalized": {
-        "subject": "population replacement, cheap labor, and easy reliable voters",
-        "predicate": "is the reason for",
-        "object": "the phenomenon questioned by User_740"
-      }
+      "surface": {},
+      "normalized": {}
     }
   },
   {
@@ -121,16 +81,8 @@
       "comment_497a275ec8"
     ],
     "topic_triple": {
-      "surface": {
-        "subject": "population replacement, cheap labor, and easy reliable voters",
-        "predicate": "is happening",
-        "object": "all across Europe"
-      },
-      "normalized": {
-        "subject": "population replacement, cheap labor, and easy reliable voters",
-        "predicate": "is happening",
-        "object": "all across Europe"
-      }
+      "surface": {},
+      "normalized": {}
     }
   }
 ]
