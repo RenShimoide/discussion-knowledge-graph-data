@@ -1,0 +1,6538 @@
+[
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "leaders in Staten Island",
+        "predicate": "have a backbone to do what they were elected to do FOR THE AMERICAN people",
+        "object": "FOR THE AMERICAN people"
+      },
+      "normalized": {
+        "subject": "leaders in Staten Island",
+        "predicate": "have the backbone to fulfill their elected duties for the American people",
+        "object": "the American people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "government",
+        "predicate": "interfering in",
+        "object": "our countries' politics"
+      },
+      "normalized": {
+        "subject": "the government",
+        "predicate": "interferes in",
+        "object": "the politics of other countries"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "government stopping interference in politics",
+        "predicate": "will result in",
+        "object": "no migrants"
+      },
+      "normalized": {
+        "subject": "the government stopping interference in other countries' politics",
+        "predicate": "will result in",
+        "object": "no migrants"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "YOUR GOVERNMENT",
+        "predicate": "ALSO TO GET OUT OFF OUR COUNTRIES",
+        "object": "OUR COUNTRIES"
+      },
+      "normalized": {
+        "subject": "your government",
+        "predicate": "should leave",
+        "object": "our countries"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "YOUR GOVERNMENT",
+        "predicate": "STOP INTERFERING IN",
+        "object": "OUR COUNTRIES' POLITICS"
+      },
+      "normalized": {
+        "subject": "your government",
+        "predicate": "should stop interfering in",
+        "object": "our countries' politics"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "YOU",
+        "predicate": "WONT HAVE",
+        "object": "MIGRANTS"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "will not have",
+        "object": "migrants"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "never a bad time",
+        "predicate": "to revolt against",
+        "object": "your government"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "is never a bad time to revolt against",
+        "object": "your government"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "need to do",
+        "object": "looking within"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "need to",
+        "object": "look within"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "CORRUPT EXPATS",
+        "predicate": "COME TO OUR COUNTRIES WITH THE PROCEED OF THEIR CRIMES",
+        "object": "the proceed of their crimes"
+      },
+      "normalized": {
+        "subject": "corrupt expats",
+        "predicate": "come to our countries with the proceeds of their crimes",
+        "object": "the proceeds of their crimes"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_86640c342b",
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The US “interfering” with your country",
+        "predicate": "is not the cause of",
+        "object": "migration"
+      },
+      "normalized": {
+        "subject": "US interference with your country",
+        "predicate": "is not the cause of",
+        "object": "migration"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "People",
+        "predicate": "come here to escape",
+        "object": "socialism and communist rule"
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "come here to escape",
+        "object": "socialism and communist rule"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_4718a42ac6",
+      "comment_bf435106a6",
+      "comment_654a08ae25",
+      "comment_e36c871e7c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "People",
+        "predicate": "come here for",
+        "object": "economic opportunities and freedom in general"
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "come here for",
+        "object": "economic opportunities and general freedom"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "my mum who was married to an American and had two USKids, she applied for my “ residency”",
+        "predicate": "took",
+        "object": "years"
+      },
+      "normalized": {
+        "subject": "the speaker's mother's application for residency",
+        "predicate": "took",
+        "object": "years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "was in a",
+        "object": "waiting list, for citizenship"
+      },
+      "normalized": {
+        "subject": "the speaker",
+        "predicate": "was on a",
+        "object": "waiting list for citizenship"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "make it sound like",
+        "object": "you would have rather crossed illegally"
+      },
+      "normalized": {
+        "subject": "the speaker's description",
+        "predicate": "implies",
+        "object": "preferring to cross illegally"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "my process",
+        "predicate": "took",
+        "object": "nearly 10 years"
+      },
+      "normalized": {
+        "subject": "the speaker's process",
+        "predicate": "took",
+        "object": "nearly 10 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "my mom was married to a resident",
+        "predicate": "is why",
+        "object": "it took longer"
+      },
+      "normalized": {
+        "subject": "the speaker's mother's marriage to a resident",
+        "predicate": "caused",
+        "object": "a longer process"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Those crossing illegally",
+        "predicate": "don't have",
+        "object": "that path"
+      },
+      "normalized": {
+        "subject": "people crossing illegally",
+        "predicate": "do not have",
+        "object": "a path"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Depending on the country you come from",
+        "predicate": "sometimes there is no",
+        "object": "legal way"
+      },
+      "normalized": {
+        "subject": "the country of origin",
+        "predicate": "sometimes lacks",
+        "object": "a legal way to enter"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "love",
+        "object": "the US"
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "loves",
+        "object": "the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "definitely not to live",
+        "object": "the US"
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "does not want to live in",
+        "object": "the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "just sounded that way",
+        "object": "when you said you did it the correct way as opposed to these people"
+      },
+      "normalized": {
+        "subject": "User_222's comment",
+        "predicate": "sounded like",
+        "object": "User_222 was doing it the correct way as opposed to these people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people",
+        "predicate": "think",
+        "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
+      },
+      "normalized": {
+        "subject": "some people",
+        "predicate": "think",
+        "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "simply doesn't work",
+        "object": "that way"
+      },
+      "normalized": {
+        "subject": "The process of migrating to the US the legal way and getting in line",
+        "predicate": "does not work",
+        "object": "that way"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "am thankful",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "is thankful",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "would probably be doing the same",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "would probably be doing the same",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_16",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Americans",
+        "predicate": "are angry",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "Americans",
+        "predicate": "are angry",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "The belief that everyone has the opportunity to migrate legally and should get in line",
+        "predicate": "is incorrect / does not work that way",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "The belief that everyone has the opportunity to migrate legally and should get in line",
+        "predicate": "does not work that way",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "52% income tax",
+        "predicate": "is",
+        "object": "most likely the marginal tax"
+      },
+      "normalized": {
+        "subject": "52% income tax",
+        "predicate": "is",
+        "object": "the marginal tax"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "People with a high income",
+        "predicate": "pay",
+        "object": "52% over the amount their salaries excels the threshold"
+      },
+      "normalized": {
+        "subject": "People with a high income",
+        "predicate": "pay",
+        "object": "52% on income exceeding a certain threshold"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "TOTAL taxation of a Swedish income",
+        "predicate": "is more then",
+        "object": "60%"
+      },
+      "normalized": {
+        "subject": "Total taxation of Swedish income",
+        "predicate": "is more than",
+        "object": "60%"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't for",
+        "object": "an average income"
+      },
+      "normalized": {
+        "subject": "total taxation of Swedish income",
+        "predicate": "is not for",
+        "object": "an average income"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "tax the employer almost 100% of what he pays the worker per month",
+        "object": "almost 100% of what he pays the worker per month"
+      },
+      "normalized": {
+        "subject": "the employer",
+        "predicate": "is taxed almost 100% of what he pays the worker per month",
+        "object": "almost 100% of what he pays the worker per month"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_fa5d2af3b5",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Average income (about 500k crowns per year)",
+        "predicate": "is taxed with",
+        "object": "23% in Stockholm"
+      },
+      "normalized": {
+        "subject": "Average income (about 500k crowns per year)",
+        "predicate": "is taxed with",
+        "object": "23% in Stockholm"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_fcdc38678f",
+      "comment_be565af08f",
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is",
+        "object": "progressive and not the same for everyone"
+      },
+      "normalized": {
+        "subject": "the tax system",
+        "predicate": "is",
+        "object": "progressive and not the same for everyone"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_87e2475c32",
+      "comment_8460756176"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "will not reach",
+        "object": "60% for average income"
+      },
+      "normalized": {
+        "subject": "the tax rate",
+        "predicate": "does not reach",
+        "object": "60% for average income"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d",
+      "comment_5b4757483f",
+      "comment_b0df5cb476"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "non-arian sub-human animal from outside of Europe lands"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "non-Aryan sub-human animal from outside European lands"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d",
+      "comment_5b4757483f",
+      "comment_b0df5cb476"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "a Caucasian character, a white British man"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "a Caucasian character, a white British man"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d",
+      "comment_5b4757483f",
+      "comment_b0df5cb476"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is depicted as",
+        "object": "a hunk with very pale skin, blue eyes and long blond hair"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is depicted as",
+        "object": "a hunk with very pale skin, blue eyes and long blond hair"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "the ideal Arian"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "the ideal Aryan"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "was raised by",
+        "object": "apes in the jungle"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "was raised by",
+        "object": "apes in the jungle"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is not from",
+        "object": "Europe"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is not from",
+        "object": "Europe"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d",
+      "comment_5b4757483f",
+      "comment_b0df5cb476"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "apes",
+        "predicate": "aren't qualified enough to pass over",
+        "object": "civilized values"
+      },
+      "normalized": {
+        "subject": "apes",
+        "predicate": "are not qualified enough to pass over",
+        "object": "civilized values"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d",
+      "comment_5b4757483f",
+      "comment_b0df5cb476"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "was white, and that's why he end up being",
+        "object": "heir to the great estate"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "ended up being heir to the great estate because he was white",
+        "object": "the great estate"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_885adc7b53",
+      "comment_e2f2d8d35d",
+      "comment_5b4757483f",
+      "comment_b0df5cb476"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Your grammar and spelling",
+        "predicate": "show you haven't gone through",
+        "object": "the education system in Europe"
+      },
+      "normalized": {
+        "subject": "User_217's grammar and spelling",
+        "predicate": "indicate that User_217 has not undergone",
+        "object": "the European education system"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "passed up NINE COUNTRIES to invade ours",
+        "object": "ours"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "passed up nine countries to invade our country",
+        "object": "our country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "That",
+        "predicate": "is not seeking asylum, that is",
+        "object": "SHOPPING"
+      },
+      "normalized": {
+        "subject": "Their action",
+        "predicate": "is not seeking asylum but is",
+        "object": "shopping"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't a invasion",
+        "object": "invasion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not an invasion",
+        "object": "invasion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't a military entity",
+        "object": "military entity"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not a military entity",
+        "object": "military entity"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "isn't a",
+        "object": "invasion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not an",
+        "object": "invasion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't a",
+        "object": "military entity"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not a",
+        "object": "military entity"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Most of them",
+        "predicate": "are",
+        "object": "single, military aged men"
+      },
+      "normalized": {
+        "subject": "Most of the migrants",
+        "predicate": "are",
+        "object": "single, military-aged men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      },
+      "normalized": {
+        "subject": "Biden",
+        "predicate": "traffics",
+        "object": "children"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      },
+      "normalized": {
+        "subject": "The trafficking of children",
+        "predicate": "is",
+        "object": "lucrative for both parties"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Most",
+        "predicate": "are",
+        "object": "single, military aged men"
+      },
+      "normalized": {
+        "subject": "Most [people/migrants]",
+        "predicate": "are",
+        "object": "single, military aged men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      },
+      "normalized": {
+        "subject": "Biden",
+        "predicate": "trafficks",
+        "object": "the children"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      },
+      "normalized": {
+        "subject": "the situation",
+        "predicate": "is",
+        "object": "pretty lucrative for both"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't being sent by anyone",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not being sent by anyone",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is not",
+        "object": "a invasion"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "is not",
+        "object": "an invasion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_2c667e9b1d",
+      "comment_7077edfb91"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "aren't",
+        "object": "mercenaries or soldiers"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are not",
+        "object": "mercenaries or soldiers"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "their border",
+        "predicate": "bums",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "their border",
+        "predicate": "is problematic",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "topic_id": "claim_20",
+    "source_comment_ids": [
+      "comment_e0d87fce9b",
+      "comment_9f3636b71d",
+      "comment_2c667e9b1d",
+      "comment_7077edfb91",
+      "comment_d583a55d34",
+      "comment_2d457cf187",
+      "comment_232d59d340"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "work harder than",
+        "object": "you"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "work harder than",
+        "object": "you"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Elon",
+        "predicate": "is",
+        "object": "the man"
+      },
+      "normalized": {
+        "subject": "Elon",
+        "predicate": "is",
+        "object": "the man"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "someone",
+        "predicate": "has the guts to expose",
+        "object": "the US government failure"
+      },
+      "normalized": {
+        "subject": "someone",
+        "predicate": "has the guts to expose",
+        "object": "the US government failure"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "This",
+        "predicate": "isn't",
+        "object": "a failure"
+      },
+      "normalized": {
+        "subject": "the event",
+        "predicate": "is not",
+        "object": "a failure"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "was done",
+        "object": "on purpose"
+      },
+      "normalized": {
+        "subject": "the event",
+        "predicate": "was done",
+        "object": "on purpose"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is the reason for",
+        "object": "the situation implied by User_740's question"
+      },
+      "normalized": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is the reason for",
+        "object": "the phenomenon questioned by User_740"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_4acb8c9b23",
+      "comment_917b6950de",
+      "comment_15f0f02e53",
+      "comment_497a275ec8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is happening",
+        "object": "all across Europe"
+      },
+      "normalized": {
+        "subject": "population replacement, cheap labor, and easy reliable voters",
+        "predicate": "is happening",
+        "object": "all across Europe"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the people",
+        "predicate": "got exactly what they voted for",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the people",
+        "predicate": "got exactly what they voted for",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      },
+      "normalized": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the UK",
+        "predicate": "has",
+        "object": "same problems"
+      },
+      "normalized": {
+        "subject": "the UK",
+        "predicate": "has",
+        "object": "same problems"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      },
+      "normalized": {
+        "subject": "UK voters",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "got",
+        "object": "1.2 million immigrants"
+      },
+      "normalized": {
+        "subject": "the UK",
+        "predicate": "received",
+        "object": "1.2 million immigrants"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      },
+      "normalized": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      },
+      "normalized": {
+        "subject": "the UK public",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you guys",
+        "predicate": "did",
+        "object": "vote for this"
+      },
+      "normalized": {
+        "subject": "the people addressed by the child comment",
+        "predicate": "voted for",
+        "object": "this"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_527430f3b9",
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the cancer of feminism",
+        "predicate": "came to",
+        "object": "the stage"
+      },
+      "normalized": {
+        "subject": "feminism",
+        "predicate": "emerged as a dominant force",
+        "object": "in society"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_74609bd636",
+      "comment_d08982e567"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "allowed",
+        "object": "the cancer of feminism"
+      },
+      "normalized": {
+        "subject": "the people addressed by the child comment",
+        "predicate": "allowed",
+        "object": "feminism to emerge"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "asylees",
+        "predicate": "probably feel the same way -- so wrong that this situation is their best option",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "asylees",
+        "predicate": "probably feel",
+        "object": "this situation is their best option is wrong"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "your view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "your view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "have been gaslit into believing",
+        "object": "allowing this is compassionate"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "have been gaslit into believing",
+        "object": "allowing this is compassionate"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "have no idea what they are getting themselves into",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "asylees/refugees",
+        "predicate": "lack knowledge of the consequences of leaving their homes",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "have no idea of what is happening to them",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the other user",
+        "predicate": "lacks knowledge of the situation regarding asylees",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "your view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "User_762's view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "allowing this",
+        "predicate": "is",
+        "object": "compassionate"
+      },
+      "normalized": {
+        "subject": "allowing this",
+        "predicate": "is",
+        "object": "compassionate"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "have no idea what they are getting themselves into",
+        "object": "when they leave their homes and become the product of the cartels"
+      },
+      "normalized": {
+        "subject": "People leaving their homes",
+        "predicate": "do not know the consequences of becoming the product of the cartels",
+        "object": "becoming the product of the cartels"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is not",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "User_762's view",
+        "predicate": "is not",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "completely and total naivete/subversion"
+      },
+      "normalized": {
+        "subject": "User_762's view",
+        "predicate": "is",
+        "object": "complete and total naivete/subversion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is not",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "completely and total naivete/subversion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "complete and total naivete/subversion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "con artists",
+        "predicate": "play on",
+        "object": "naive compassionate people"
+      },
+      "normalized": {
+        "subject": "con artists",
+        "predicate": "play on",
+        "object": "naive compassionate people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the people of the USA",
+        "predicate": "thought voting for this would help them",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the people of the USA",
+        "predicate": "thought voting for this would help them",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "didnt vote for this",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the people of the USA",
+        "predicate": "did not vote for this",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "were told",
+        "object": "thats how the voted went"
+      },
+      "normalized": {
+        "subject": "the people of the USA",
+        "predicate": "were told",
+        "object": "that is how the vote went"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US citizen",
+        "predicate": "has no",
+        "object": "voting powers in usa"
+      },
+      "normalized": {
+        "subject": "US citizens",
+        "predicate": "have no",
+        "object": "voting powers in the USA"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US citizen",
+        "predicate": "has no",
+        "object": "voting powers in usa"
+      },
+      "normalized": {
+        "subject": "US citizen",
+        "predicate": "has no",
+        "object": "voting powers in usa"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "this",
+        "predicate": "is",
+        "object": "a Republican talking point"
+      },
+      "normalized": {
+        "subject": "the previous claim",
+        "predicate": "is",
+        "object": "a Republican talking point"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_173da122bc",
+      "comment_d36e82563c",
+      "comment_85cbef50e4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "have convinced us that",
+        "object": "voting for one part can help when both parties are in cahoots"
+      },
+      "normalized": {
+        "subject": "Republicans",
+        "predicate": "have convinced people that",
+        "object": "voting for one party can help even if both parties are colluding"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4d6e49ab69",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_70ce2aedcb",
+      "comment_7a33f00b7e",
+      "comment_6e4ca3f7d8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Poland, Hungary, Czech republic",
+        "predicate": "used to be",
+        "object": "\"poor man\" of Europe"
+      },
+      "normalized": {
+        "subject": "Poland, Hungary, and the Czech Republic",
+        "predicate": "were",
+        "object": "the poor countries of Europe"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4d6e49ab69",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_70ce2aedcb",
+      "comment_7a33f00b7e",
+      "comment_6e4ca3f7d8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Czechia",
+        "predicate": "had",
+        "object": "the biggest industry before WWII"
+      },
+      "normalized": {
+        "subject": "Czechia",
+        "predicate": "had",
+        "object": "the largest industry before WWII"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4d6e49ab69",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_70ce2aedcb",
+      "comment_7a33f00b7e",
+      "comment_6e4ca3f7d8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Czechia",
+        "predicate": "had",
+        "object": "Skoda cars, bohemian glass, coal industry and etc"
+      },
+      "normalized": {
+        "subject": "Czechia",
+        "predicate": "had",
+        "object": "Skoda cars, Bohemian glass, and a coal industry"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4d6e49ab69",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_70ce2aedcb",
+      "comment_7a33f00b7e",
+      "comment_6e4ca3f7d8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Hitler",
+        "predicate": "invaded",
+        "object": "Sudety in Czechia"
+      },
+      "normalized": {
+        "subject": "Hitler",
+        "predicate": "invaded",
+        "object": "Sudetenland in Czechia"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4d6e49ab69",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_70ce2aedcb",
+      "comment_7a33f00b7e",
+      "comment_6e4ca3f7d8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Sudety in Czechia",
+        "predicate": "had",
+        "object": "the biggest industry"
+      },
+      "normalized": {
+        "subject": "Sudetenland in Czechia",
+        "predicate": "had",
+        "object": "the biggest industry"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4d6e49ab69",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_70ce2aedcb",
+      "comment_7a33f00b7e",
+      "comment_6e4ca3f7d8"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Sudety",
+        "predicate": "is not part of",
+        "object": "Czechoslovakia"
+      },
+      "normalized": {
+        "subject": "Sudetenland",
+        "predicate": "is not part of",
+        "object": "Czechoslovakia"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "feel like",
+        "object": "Denmark is home"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "feel like",
+        "object": "Denmark is home"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "can't stop speaking",
+        "object": "your mother language"
+      },
+      "normalized": {
+        "subject": "You",
+        "predicate": "cannot stop speaking",
+        "object": "your mother language"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "can't stop speaking",
+        "object": "your mother language"
+      },
+      "normalized": {
+        "subject": "You",
+        "predicate": "cannot stop speaking",
+        "object": "your mother language"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "their language"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "the language of natives"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "translate",
+        "object": "what you just said"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "translate",
+        "object": "what you just said"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "their language"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "speak",
+        "object": "the native language"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_002ef13f72",
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "translate for them",
+        "object": "what you just said"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "translate",
+        "object": "what you just said"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_c7dd3061b2",
+      "comment_5e7d8f9d8c",
+      "comment_72ee55acc4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "speaking in the language she's more comfortable with",
+        "predicate": "would be better",
+        "object": "to deliver the message in the best way possible"
+      },
+      "normalized": {
+        "subject": "speaking in the language she is more comfortable with",
+        "predicate": "is better for",
+        "object": "delivering the message effectively"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_55f378d018",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_aad78bc374",
+      "comment_d1197de6fb"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "can't afford",
+        "object": "a baby"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "cannot afford",
+        "object": "a baby"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_55f378d018",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_aad78bc374",
+      "comment_d1197de6fb"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you people",
+        "predicate": "stole",
+        "object": "their wealth"
+      },
+      "normalized": {
+        "subject": "you people",
+        "predicate": "stole",
+        "object": "their wealth"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_55f378d018",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_aad78bc374",
+      "comment_d1197de6fb"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you people",
+        "predicate": "have been waging",
+        "object": "wars on them"
+      },
+      "normalized": {
+        "subject": "you people",
+        "predicate": "have been waging",
+        "object": "wars on them"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_55f378d018",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_aad78bc374",
+      "comment_d1197de6fb"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "just lucky to be born in the other side of the fence"
+      },
+      "normalized": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "lucky to be born on the other side of the fence"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_55f378d018",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "just more of the same ignorance"
+      },
+      "normalized": {
+        "subject": "People like you",
+        "predicate": "are",
+        "object": "more of the same ignorance"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Elon",
+        "predicate": "is",
+        "object": "a Billionaire"
+      },
+      "normalized": {
+        "subject": "Elon",
+        "predicate": "is",
+        "object": "a billionaire"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "is trying to make a stand for",
+        "object": "our country"
+      },
+      "normalized": {
+        "subject": "Elon",
+        "predicate": "is trying to make a stand for",
+        "object": "our country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "could be",
+        "object": "off on a yacht"
+      },
+      "normalized": {
+        "subject": "Elon",
+        "predicate": "could be",
+        "object": "off on a yacht"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "can improve on",
+        "object": "a lot going on there"
+      },
+      "normalized": {
+        "subject": "Elon",
+        "predicate": "can improve on",
+        "object": "issues in South Africa"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "helping",
+        "object": "South Africa"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "can help",
+        "object": "South Africa"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "can improve on",
+        "object": "South Africa"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "can improve",
+        "object": "South Africa"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "South Africa",
+        "predicate": "is",
+        "object": "dead"
+      },
+      "normalized": {
+        "subject": "South Africa",
+        "predicate": "is",
+        "object": "dead"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "nothing he can do",
+        "predicate": "for",
+        "object": "South Africa"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "can do nothing for",
+        "object": "South Africa"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_1d3b607a54",
+      "comment_7679f45438"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "saving South Africa",
+        "predicate": "is like",
+        "object": "saving North Korea"
+      },
+      "normalized": {
+        "subject": "saving South Africa",
+        "predicate": "is like",
+        "object": "saving North Korea"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_1d3b607a54",
+      "comment_7679f45438"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "would likely be shot in the chest",
+        "object": "on the first day of arrival"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "would likely be shot in the chest",
+        "object": "on the first day of arrival"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_1d3b607a54",
+      "comment_7679f45438"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "America",
+        "predicate": "should be kept from",
+        "object": "suffering the same fate"
+      },
+      "normalized": {
+        "subject": "America",
+        "predicate": "should be kept from",
+        "object": "suffering the same fate"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "USA",
+        "predicate": "is dying",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "USA",
+        "predicate": "is dying",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "immigrants",
+        "predicate": "cause",
+        "object": "USA is dying"
+      },
+      "normalized": {
+        "subject": "immigrants",
+        "predicate": "cause",
+        "object": "USA is dying"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US",
+        "predicate": "is not dying",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "US",
+        "predicate": "is not dying",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "US",
+        "predicate": "is",
+        "object": "growing"
+      },
+      "normalized": {
+        "subject": "US",
+        "predicate": "is",
+        "object": "growing"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "topic_id": "claim_18",
+    "source_comment_ids": [
+      "comment_07811cd076",
+      "comment_1d3b607a54",
+      "comment_7679f45438",
+      "comment_d4ed030971",
+      "comment_bcf8c032d2",
+      "comment_3017363d17"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_772",
+        "predicate": "demands proof of",
+        "object": "USA is dying because of immigrants"
+      },
+      "normalized": {
+        "subject": "User_772",
+        "predicate": "demands proof of",
+        "object": "USA is dying because of immigrants"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people",
+        "predicate": "are allowed to come to your country and blatantly flout the rules with no consequences",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "are allowed to enter countries and violate rules without consequences",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are facing consequences",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "people in the video",
+        "predicate": "are facing consequences",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for refugee status",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for refugee status",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the courts",
+        "predicate": "will evaluate their case and either accept or deport them",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the courts",
+        "predicate": "will evaluate their case and either accept or deport them",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are facing",
+        "object": "consequences"
+      },
+      "normalized": {
+        "subject": "the people in the video",
+        "predicate": "are facing",
+        "object": "consequences"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for",
+        "object": "refugee status"
+      },
+      "normalized": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for",
+        "object": "refugee status"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the courts",
+        "predicate": "will evaluate",
+        "object": "their case"
+      },
+      "normalized": {
+        "subject": "the courts",
+        "predicate": "will evaluate",
+        "object": "the case of the people in the video"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the courts",
+        "predicate": "will either accept or deport",
+        "object": "them"
+      },
+      "normalized": {
+        "subject": "the courts",
+        "predicate": "will either accept or deport",
+        "object": "the people in the video"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "China",
+        "predicate": "doesn't accept",
+        "object": "them back"
+      },
+      "normalized": {
+        "subject": "China",
+        "predicate": "does not accept",
+        "object": "the people in the video back"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is almost guaranteed",
+        "object": "they will stay"
+      },
+      "normalized": {
+        "subject": "the people in the video",
+        "predicate": "are almost guaranteed to stay",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "shows",
+        "object": "a level of contempt for the rules and values of that country"
+      },
+      "normalized": {
+        "subject": "entering a country illegally",
+        "predicate": "shows",
+        "object": "a level of contempt for the rules and values of that country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "makes it less likely",
+        "object": "they're the type of people to follow the rules of the land whilst here"
+      },
+      "normalized": {
+        "subject": "entering a country illegally",
+        "predicate": "makes it less likely",
+        "object": "they will follow the rules of the land while present"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "without borders",
+        "predicate": "you have",
+        "object": "no country"
+      },
+      "normalized": {
+        "subject": "absence of borders",
+        "predicate": "results in",
+        "object": "non-existence of a country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_46f0ea6556",
+      "comment_b2893e0fa2",
+      "comment_98e94b0ef6",
+      "comment_a35318e37a",
+      "comment_13d877ca20"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "poses a threat to",
+        "object": "the agricultural industry via introduced pests and diseases"
+      },
+      "normalized": {
+        "subject": "illegal entry",
+        "predicate": "threatens",
+        "object": "agricultural industry through pests and diseases"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "poses a threat via",
+        "object": "spies, saboteurs, and terrorists"
+      },
+      "normalized": {
+        "subject": "illegal entry",
+        "predicate": "threatens via",
+        "object": "spies, saboteurs, and terrorists"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "a beautiful country",
+        "predicate": "being trashed",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "a beautiful country",
+        "predicate": "is being trashed",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "NATO",
+        "predicate": "take part in",
+        "object": "the wars"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "takes part in",
+        "object": "wars"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "NATO taking part in wars",
+        "predicate": "causes",
+        "object": "refugees"
+      },
+      "normalized": {
+        "subject": "NATO participation in wars",
+        "predicate": "causes",
+        "object": "refugee crisis"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "take part in the wars",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "takes part in wars",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "NATO",
+        "predicate": "is",
+        "object": "an aggressor"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is",
+        "object": "an aggressor"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is",
+        "object": "a defence pact"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is",
+        "object": "a defence pact"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Nato",
+        "predicate": "isn't an",
+        "object": "aggressor"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is not",
+        "object": "an aggressor"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is a",
+        "object": "defence pact"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is a",
+        "object": "defense pact"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "they went to",
+        "object": "syria ,Afghanistan , Libya"
+      },
+      "normalized": {
+        "subject": "The USA and European countries",
+        "predicate": "went to",
+        "object": "Syria, Afghanistan, and Libya"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "started",
+        "object": "all these problem"
+      },
+      "normalized": {
+        "subject": "The USA and European countries",
+        "predicate": "started",
+        "object": "all these problems"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "went to",
+        "object": "syria ,Afghanistan , Libya"
+      },
+      "normalized": {
+        "subject": "USA and European countries",
+        "predicate": "went to",
+        "object": "Syria, Afghanistan, and Libya"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "started",
+        "object": "all these problem"
+      },
+      "normalized": {
+        "subject": "USA and European countries",
+        "predicate": "started",
+        "object": "all these problems"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Nato",
+        "predicate": "not run by",
+        "object": "dictatorships or religious nut cases"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is not run by",
+        "object": "dictatorships or religious extremists"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "european",
+        "predicate": "are complaining why",
+        "object": "all those refugee in europe"
+      },
+      "normalized": {
+        "subject": "Europeans",
+        "predicate": "are complaining about the presence of",
+        "object": "refugees in Europe"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "will always come",
+        "object": "anyway"
+      },
+      "normalized": {
+        "subject": "refugees",
+        "predicate": "will always arrive",
+        "object": "anyway"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_16",
+    "source_comment_ids": [
+      "comment_6b5b586c12",
+      "comment_26f07429dd",
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_adce9e92c0",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "a huge percent",
+        "predicate": "are",
+        "object": "bogus refugees"
+      },
+      "normalized": {
+        "subject": "a large percentage of refugees",
+        "predicate": "are",
+        "object": "bogus refugees"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [
+      "comment_7db671bc48",
+      "comment_4126fe24c6",
+      "comment_f5d14c14eb",
+      "comment_e337f8dab6"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Albanian etc etc",
+        "predicate": "not escaping",
+        "object": "war"
+      },
+      "normalized": {
+        "subject": "Albanians and others",
+        "predicate": "are not escaping",
+        "object": "war"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "topic_id": "claim_18",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "many [refugees]",
+        "predicate": "passing through",
+        "object": "endless safe countries"
+      },
+      "normalized": {
+        "subject": "many refugees",
+        "predicate": "pass through",
+        "object": "safe countries"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "there",
+        "predicate": "is",
+        "object": "so much unrest"
+      },
+      "normalized": {
+        "subject": "there",
+        "predicate": "is",
+        "object": "much unrest"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the Mexican president",
+        "predicate": "was holding them at the border",
+        "object": "them"
+      },
+      "normalized": {
+        "subject": "the Mexican president",
+        "predicate": "was holding them at the border",
+        "object": "them"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Mr.biden",
+        "predicate": "said to let them in",
+        "object": "them"
+      },
+      "normalized": {
+        "subject": "Mr. Biden",
+        "predicate": "said to let them in",
+        "object": "them"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "became",
+        "object": "our problem"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "became",
+        "object": "our problem"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Chinese",
+        "predicate": "won't take them back",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "China",
+        "predicate": "will not take them back",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "know theyre gaming the system",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "know they are gaming the system",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "A vote for Trump",
+        "predicate": "will send them all back",
+        "object": "them all"
+      },
+      "normalized": {
+        "subject": "A vote for Trump",
+        "predicate": "will send them all back",
+        "object": "them all"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "A vote for Trump",
+        "predicate": "will send",
+        "object": "them all back"
+      },
+      "normalized": {
+        "subject": "A vote for Trump",
+        "predicate": "will send",
+        "object": "them all back"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "is running",
+        "object": "this business"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "is running",
+        "object": "this business"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "am not fooled by",
+        "object": "anything Biden or China does"
+      },
+      "normalized": {
+        "subject": "I",
+        "predicate": "am not fooled by",
+        "object": "anything Biden or China does"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "feel like I am fighting",
+        "object": "by myself"
+      },
+      "normalized": {
+        "subject": "I",
+        "predicate": "feel like I am fighting",
+        "object": "by myself"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "All EU countries",
+        "predicate": "needs to look at",
+        "object": "Poland and do exactly that in regards to immigration"
+      },
+      "normalized": {
+        "subject": "All EU countries",
+        "predicate": "should follow the Polish model regarding immigration",
+        "object": "immigration policy"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Poland",
+        "predicate": "is",
+        "object": "so poor"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "is",
+        "object": "poor"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "most poles",
+        "predicate": "immigrate to",
+        "object": "other european countries"
+      },
+      "normalized": {
+        "subject": "most Poles",
+        "predicate": "immigrate to",
+        "object": "other European countries"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "poland",
+        "predicate": "is",
+        "object": "a poor country"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "is",
+        "object": "a poor country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "has",
+        "object": "one of the lowest GDP per capita and HDI in EU"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "has",
+        "object": "one of the lowest GDP per capita and HDI in EU"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "can be compared to",
+        "object": "Turkey not Germany or France"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "can be compared to",
+        "object": "Turkey rather than Germany or France"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "women",
+        "predicate": "fix",
+        "object": "houses all the time in America"
+      },
+      "normalized": {
+        "subject": "women",
+        "predicate": "fix",
+        "object": "houses in America"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "some of the best kindergarten teachers",
+        "predicate": "are",
+        "object": "men"
+      },
+      "normalized": {
+        "subject": "some of the best kindergarten teachers",
+        "predicate": "are",
+        "object": "men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "builders",
+        "predicate": "are",
+        "object": "disproportionately men"
+      },
+      "normalized": {
+        "subject": "builders",
+        "predicate": "are",
+        "object": "disproportionately men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "kindergarten teachers",
+        "predicate": "are",
+        "object": "disproportionately women"
+      },
+      "normalized": {
+        "subject": "kindergarten teachers",
+        "predicate": "are",
+        "object": "disproportionately women"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "gender disparities in professions",
+        "predicate": "are caused by",
+        "object": "brain function differences"
+      },
+      "normalized": {
+        "subject": "gender disparities in professions",
+        "predicate": "are caused by",
+        "object": "brain function differences"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "men and women",
+        "predicate": "are not",
+        "object": "the same"
+      },
+      "normalized": {
+        "subject": "men and women",
+        "predicate": "are not",
+        "object": "the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "most builders",
+        "predicate": "are",
+        "object": "men"
+      },
+      "normalized": {
+        "subject": "most builders",
+        "predicate": "are",
+        "object": "men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "most kindergarden teachers",
+        "predicate": "are",
+        "object": "women"
+      },
+      "normalized": {
+        "subject": "most kindergarten teachers",
+        "predicate": "are",
+        "object": "women"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "are",
+        "object": "different"
+      },
+      "normalized": {
+        "subject": "men and women",
+        "predicate": "are",
+        "object": "different"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Men and women",
+        "predicate": "are",
+        "object": "the same"
+      },
+      "normalized": {
+        "subject": "Men and women",
+        "predicate": "are",
+        "object": "the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Men and Woman",
+        "predicate": "are not",
+        "object": "the same"
+      },
+      "normalized": {
+        "subject": "Men and women",
+        "predicate": "are not",
+        "object": "the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "scientists and physiologists",
+        "predicate": "state that",
+        "object": "men and women are not the same"
+      },
+      "normalized": {
+        "subject": "scientists and physiologists",
+        "predicate": "state that",
+        "object": "men and women are not the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "men and women",
+        "predicate": "have",
+        "object": "huge differences"
+      },
+      "normalized": {
+        "subject": "men and women",
+        "predicate": "have",
+        "object": "huge differences"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_f94aebbe6b",
+      "comment_f8b9ca420e"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Westerners",
+        "predicate": "should not have to",
+        "object": "drop their values or acclimate to immigrants worldview"
+      },
+      "normalized": {
+        "subject": "Westerners",
+        "predicate": "should not have to drop their values or acclimate to immigrants worldview",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_f94aebbe6b",
+      "comment_f8b9ca420e"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The people opening the borders around the world",
+        "predicate": "know this will",
+        "object": "create chaos and destroy Western countries"
+      },
+      "normalized": {
+        "subject": "The people opening the borders around the world",
+        "predicate": "know that opening borders will create chaos and destroy Western countries",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_f94aebbe6b",
+      "comment_f8b9ca420e"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Ukrainian refugees",
+        "predicate": "fit right in",
+        "object": "Poland"
+      },
+      "normalized": {
+        "subject": "Ukrainian refugees",
+        "predicate": "fit right in",
+        "object": "Poland"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_f94aebbe6b",
+      "comment_f8b9ca420e"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people",
+        "predicate": "share",
+        "object": "different values in society"
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "share",
+        "object": "different values in society"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_f94aebbe6b",
+      "comment_f8b9ca420e"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "sharing values",
+        "predicate": "does not depend on",
+        "object": "nationality"
+      },
+      "normalized": {
+        "subject": "sharing values",
+        "predicate": "does not depend on",
+        "object": "nationality"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_f94aebbe6b",
+      "comment_f8b9ca420e"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "a person with Syrian background",
+        "predicate": "may have more values in common with",
+        "object": "you"
+      },
+      "normalized": {
+        "subject": "a person with Syrian background",
+        "predicate": "may have more values in common with",
+        "object": "the listener"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "America",
+        "predicate": "put sanctions on",
+        "object": "the country"
+      },
+      "normalized": {
+        "subject": "America",
+        "predicate": "put sanctions on",
+        "object": "the country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "America",
+        "predicate": "engaged in",
+        "object": "proxy war"
+      },
+      "normalized": {
+        "subject": "America",
+        "predicate": "engaged in",
+        "object": "proxy war"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "proxy war",
+        "predicate": "has end goal of",
+        "object": "installing a puppet government"
+      },
+      "normalized": {
+        "subject": "proxy war",
+        "predicate": "has end goal of",
+        "object": "installing a puppet government"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Venezuela",
+        "predicate": "has",
+        "object": "an Embassy in Washington"
+      },
+      "normalized": {
+        "subject": "Venezuela",
+        "predicate": "has",
+        "object": "an Embassy in Washington"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Embassy in Washington",
+        "predicate": "processes",
+        "object": "travel documents"
+      },
+      "normalized": {
+        "subject": "Embassy in Washington",
+        "predicate": "processes",
+        "object": "travel documents"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Embassy in Washington",
+        "predicate": "supports",
+        "object": "nationals in the US"
+      },
+      "normalized": {
+        "subject": "Embassy in Washington",
+        "predicate": "supports",
+        "object": "nationals in the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "CAN",
+        "object": "leave"
+      },
+      "normalized": {
+        "subject": "nationals",
+        "predicate": "can leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "don't want to",
+        "object": "leave"
+      },
+      "normalized": {
+        "subject": "nationals",
+        "predicate": "do not want to leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the embassy",
+        "predicate": "processes",
+        "object": "travel documents and supports nationals in the US"
+      },
+      "normalized": {
+        "subject": "the embassy",
+        "predicate": "processes",
+        "object": "travel documents and supports nationals in the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "CAN leave",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "Venezuelan nationals in the US",
+        "predicate": "can leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "don't want to",
+        "object": "leave"
+      },
+      "normalized": {
+        "subject": "Venezuelan nationals in the US",
+        "predicate": "do not want to leave",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "That embassy",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      },
+      "normalized": {
+        "subject": "That embassy",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "our [embassy] in Venezuela",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      },
+      "normalized": {
+        "subject": "the US embassy in Venezuela",
+        "predicate": "has been closed",
+        "object": "for over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "That embassy",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      },
+      "normalized": {
+        "subject": "That embassy",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_16",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "our embassy in Venezuela",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      },
+      "normalized": {
+        "subject": "our embassy in Venezuela",
+        "predicate": "has been closed for",
+        "object": "over 3 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "is processed via",
+        "object": "the Swiss consulate or Embassy"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "is processed via",
+        "object": "the Swiss consulate or Embassy"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_18",
+    "source_comment_ids": [
+      "comment_70718a3fa7",
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "don’t need",
+        "object": "an exit visa to leave the US"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "do not need",
+        "object": "an exit visa to leave the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "could withdraw",
+        "object": "their application at any time"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "could withdraw",
+        "object": "their application at any time"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "topic_id": "claim_20",
+    "source_comment_ids": [
+      "comment_0f1f11184c",
+      "comment_dd0e392e9c",
+      "comment_21e28e4134",
+      "comment_19b7655447"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "them",
+        "predicate": "are not forced to stay",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "them",
+        "predicate": "are not forced to stay",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_155",
+        "predicate": "is desperate when he begins to like his own comments",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_155",
+        "predicate": "is desperate when liking his own comments",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_156",
+        "predicate": "has never once liked",
+        "object": "his own comments"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "has never liked",
+        "object": "his own comments"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_156",
+        "predicate": "does not create",
+        "object": "multiple accounts to agree with himself"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "does not create",
+        "object": "multiple accounts to agree with himself"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_155's delusional political conspiracy theories",
+        "predicate": "ended",
+        "object": "when User_155 attempted to label User_156"
+      },
+      "normalized": {
+        "subject": "User_155's delusional political conspiracy theories",
+        "predicate": "ended",
+        "object": "when User_155 attempted to label User_156"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "do not care for",
+        "object": "political parties"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "does not care for",
+        "object": "political parties"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "am not someone who is lead",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "is not someone who is led",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_006c4fbf6f",
+      "comment_cccda8c9ab",
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "make",
+        "object": "my own informed decisions"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "makes",
+        "object": "his own informed decisions"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "believe in",
+        "object": "the letter of the law"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "believes in",
+        "object": "the letter of the law"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_c61bab51b1",
+      "comment_c994fa79d4"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "User_156",
+        "predicate": "does not believe in",
+        "object": "the president that happens to be in office at any given time"
+      },
+      "normalized": {
+        "subject": "User_156",
+        "predicate": "does not believe in",
+        "object": "the president that happens to be in office at any given time"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the Middle-East",
+        "predicate": "invaded, waged wars, colonized and enslaved",
+        "object": "European countries"
+      },
+      "normalized": {
+        "subject": "the Middle-East",
+        "predicate": "invaded, waged wars, colonized and enslaved",
+        "object": "European countries"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "a middle eastern country",
+        "predicate": "enslaved",
+        "object": "European country"
+      },
+      "normalized": {
+        "subject": "a middle eastern country",
+        "predicate": "enslaved",
+        "object": "European country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the west",
+        "predicate": "supposed to be",
+        "object": "this great land of diversity? freedom of religion snd thought?"
+      },
+      "normalized": {
+        "subject": "the West",
+        "predicate": "is supposed to be",
+        "object": "a great land of diversity and freedom of religion and thought"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "u",
+        "predicate": "are trying to change",
+        "object": "every single person who doesn't have these values"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "are trying to change",
+        "object": "every single person who does not have these values"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I - and most normal people -",
+        "predicate": "want",
+        "object": "the West to remain white"
+      },
+      "normalized": {
+        "subject": "the speaker and most normal people",
+        "predicate": "want",
+        "object": "the West to remain white"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the West to remain white",
+        "predicate": "is why",
+        "object": "the West is so great"
+      },
+      "normalized": {
+        "subject": "the West remaining white",
+        "predicate": "is why",
+        "object": "the West is great"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "diversity",
+        "predicate": "is ruining",
+        "object": "it"
+      },
+      "normalized": {
+        "subject": "diversity",
+        "predicate": "is ruining",
+        "object": "the West"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "are importing",
+        "object": "the worst kind of people"
+      },
+      "normalized": {
+        "subject": "we",
+        "predicate": "are importing",
+        "object": "the worst kind of people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "u",
+        "predicate": "are trying to change",
+        "object": "every single person who doesn't have these values"
+      },
+      "normalized": {
+        "subject": "the addressee",
+        "predicate": "is trying to change",
+        "object": "every single person who doesn't have these values"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Those words",
+        "predicate": "can mean",
+        "object": "something in a Country and something different in another"
+      },
+      "normalized": {
+        "subject": "Those words",
+        "predicate": "can mean",
+        "object": "something in a Country and something different in another"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "if we want to just follow it as it is, without some interpretation",
+        "predicate": "we are trying to create",
+        "object": "a fairytale, not a reality"
+      },
+      "normalized": {
+        "subject": "we",
+        "predicate": "are trying to create",
+        "object": "a fairytale, not a reality"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the West",
+        "predicate": "is",
+        "object": "great"
+      },
+      "normalized": {
+        "subject": "the West",
+        "predicate": "is",
+        "object": "great"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The Europeans",
+        "predicate": "didn’t do to the indigenous",
+        "object": "[unspecified]"
+      },
+      "normalized": {
+        "subject": "the Europeans",
+        "predicate": "did not treat well",
+        "object": "the indigenous people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_18",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "should be applied",
+        "object": "here too"
+      },
+      "normalized": {
+        "subject": "the principle of respecting people",
+        "predicate": "should be applied",
+        "object": "to the current situation regarding immigrants"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "immigrants",
+        "predicate": "are",
+        "object": "people not slaves"
+      },
+      "normalized": {
+        "subject": "immigrants",
+        "predicate": "are",
+        "object": "people and not slaves"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_20",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The Europeans",
+        "predicate": "didn’t do to the indigenous",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "Europeans",
+        "predicate": "did not respect",
+        "object": "indigenous people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_22",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Norway",
+        "predicate": "colonised",
+        "object": "the Middle East"
+      },
+      "normalized": {
+        "subject": "Norway",
+        "predicate": "colonised",
+        "object": "the Middle East"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_23",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "every single non European immigrant",
+        "predicate": "should be",
+        "object": "deported"
+      },
+      "normalized": {
+        "subject": "every non-European immigrant",
+        "predicate": "should be",
+        "object": "deported"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_24",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "live",
+        "object": "there"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "live",
+        "object": "western culture locations"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_8e0ce103d7",
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "need to keep",
+        "object": "your hands and feet inside the ride at all times"
+      },
+      "normalized": {
+        "subject": "passengers",
+        "predicate": "need to keep",
+        "object": "hands and feet inside the ride at all times"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_8e0ce103d7",
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "need to keep your hands and feet inside the ride at all times",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "need to keep hands and feet inside the ride at all times",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_8e0ce103d7",
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "definitely have to keep arms and what not inside",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "must keep arms and other parts inside",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "this exact elevator",
+        "predicate": "is just as famous between natives as with you lot",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "this exact elevator",
+        "predicate": "is equally famous among natives and the other group",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the users",
+        "predicate": "are mostly by politicians on a daily basis",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the users",
+        "predicate": "are mostly politicians on a daily basis",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the users are mostly by politicians on a daily basis",
+        "predicate": "limits the room for errors",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the fact that users are mostly politicians on a daily basis",
+        "predicate": "limits the room for errors",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "dont recall any serious accidents",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the speaker",
+        "predicate": "does not recall any serious accidents",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people",
+        "predicate": "were complaining about",
+        "object": "Mexicans crossing illegally and taking jobs away from Americans"
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "complained about",
+        "object": "Mexicans crossing illegally and taking jobs from Americans"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "can complain about",
+        "object": "everyone coming across illegally"
+      },
+      "normalized": {
+        "subject": "we",
+        "predicate": "can complain about",
+        "object": "everyone crossing illegally"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are not taking",
+        "object": "your jobs"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "are not taking",
+        "object": "Americans' jobs"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are doing",
+        "object": "jobs that americans don't want to do"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "do",
+        "object": "jobs that Americans do not want to do"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are not \"taking\" your jobs",
+        "object": "your jobs"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "are not taking",
+        "object": "American jobs"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "are doing",
+        "object": "jobs that americans don't want to do"
+      },
+      "normalized": {
+        "subject": "They",
+        "predicate": "are doing",
+        "object": "jobs that Americans do not want to do"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are taken advantage of",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "are taken advantage of",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "work harder for",
+        "object": "less pay"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "work harder for",
+        "object": "less pay"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "don't know",
+        "object": "their own worth"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "do not know",
+        "object": "their own worth"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "are taken advantage of and work harder for less pay",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_134",
+        "predicate": "are taken advantage of and work harder for less pay",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "don't know",
+        "object": "their own worth"
+      },
+      "normalized": {
+        "subject": "User_134",
+        "predicate": "do not know",
+        "object": "their own worth"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "pay for new immigrants",
+        "predicate": "is",
+        "object": "good money"
+      },
+      "normalized": {
+        "subject": "pay for new immigrants",
+        "predicate": "is",
+        "object": "good money"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "pay for new immigrants",
+        "predicate": "is less than",
+        "object": "pay for Americans"
+      },
+      "normalized": {
+        "subject": "pay for new immigrants",
+        "predicate": "is less than",
+        "object": "pay for Americans"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "new inmigrants",
+        "predicate": "is good money",
+        "object": "less than americans"
+      },
+      "normalized": {
+        "subject": "new immigrants",
+        "predicate": "earn wages that are",
+        "object": "good money, though less than Americans earn"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "devalue",
+        "object": "our way of living"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "devalue",
+        "object": "our way of living"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_16",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "won’t have to work for Pennie’s on the dollar",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "will not have to work for pennies on the dollar",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "a job",
+        "predicate": "will get you nowhere in life",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "a job",
+        "predicate": "leads to no advancement in life",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_18",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "devalue",
+        "object": "our way of living"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "devalue",
+        "object": "our way of living"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "won't have to work for Pennie's on the dollar",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "will not have to work for pennies on the dollar",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_20",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_9b9bc4f308",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "at the beggining",
+        "predicate": "is",
+        "object": "low money"
+      },
+      "normalized": {
+        "subject": "wages at the beginning",
+        "predicate": "are",
+        "object": "low"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_21",
+    "source_comment_ids": [
+      "comment_b875ba5a60",
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "earn more",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "earn more",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_22",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "start to buy car and even house",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "buy cars and houses",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "topic_id": "claim_23",
+    "source_comment_ids": [
+      "comment_088f1f933a",
+      "comment_1bef1a17cd",
+      "comment_1b329974e8",
+      "comment_f2c423463d"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "become",
+        "object": "citizens"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "become",
+        "object": "citizens"
+      }
+    }
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "source_discussion_id": "discussion_012d6da0ed",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 12,
+    "positive_relations": 4,
+    "linked_topics": 4,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "comments": 6,
+    "c2_topics": 16,
+    "positive_relations": 2,
+    "linked_topics": 9,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_04a48a985e",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 8,
+    "positive_relations": 3,
+    "linked_topics": 6,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_113a9d085e",
+    "source_split": "Train",
+    "comments": 11,
+    "c2_topics": 9,
+    "positive_relations": 2,
+    "linked_topics": 6,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_12d7e34970",
+    "source_split": "Train",
+    "comments": 9,
+    "c2_topics": 17,
+    "positive_relations": 11,
+    "linked_topics": 11,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_26dd36750d",
+    "source_split": "Train",
+    "comments": 6,
+    "c2_topics": 6,
+    "positive_relations": 1,
+    "linked_topics": 6,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 10,
+    "positive_relations": 2,
+    "linked_topics": 4,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 13,
+    "positive_relations": 2,
+    "linked_topics": 9,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_3df5dcc4ac",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 7,
+    "positive_relations": 3,
+    "linked_topics": 5,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_4d6e49ab69",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 6,
+    "positive_relations": 2,
+    "linked_topics": 4,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_4fe555337f",
+    "source_split": "Train",
+    "comments": 7,
+    "c2_topics": 8,
+    "positive_relations": 0,
+    "linked_topics": 4,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_55f378d018",
+    "source_split": "Train",
+    "comments": 7,
+    "c2_topics": 5,
+    "positive_relations": 2,
+    "linked_topics": 3,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "comments": 7,
+    "c2_topics": 16,
+    "positive_relations": 1,
+    "linked_topics": 10,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_724d10c51a",
+    "source_split": "Train",
+    "comments": 6,
+    "c2_topics": 15,
+    "positive_relations": 9,
+    "linked_topics": 11,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_75143635f9",
+    "source_split": "Train",
+    "comments": 7,
+    "c2_topics": 18,
+    "positive_relations": 7,
+    "linked_topics": 13,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "comments": 6,
+    "c2_topics": 4,
+    "positive_relations": 1,
+    "linked_topics": 2,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "comments": 8,
+    "c2_topics": 9,
+    "positive_relations": 3,
+    "linked_topics": 5,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "comments": 7,
+    "c2_topics": 6,
+    "positive_relations": 2,
+    "linked_topics": 4,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "comments": 7,
+    "c2_topics": 13,
+    "positive_relations": 21,
+    "linked_topics": 10,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_bf131d9b2e",
+    "source_split": "Train",
+    "comments": 8,
+    "c2_topics": 6,
+    "positive_relations": 2,
+    "linked_topics": 3,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_dc206ecc3c",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 19,
+    "positive_relations": 3,
+    "linked_topics": 11,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_dd1bc30528",
+    "source_split": "Train",
+    "comments": 5,
+    "c2_topics": 9,
+    "positive_relations": 6,
+    "linked_topics": 5,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "comments": 22,
+    "c2_topics": 19,
+    "positive_relations": 6,
+    "linked_topics": 11,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "comments": 6,
+    "c2_topics": 7,
+    "positive_relations": 1,
+    "linked_topics": 2,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "comments": 6,
+    "c2_topics": 23,
+    "positive_relations": 3,
+    "linked_topics": 7,
+    "complete_downstream": true,
+    "all_asr_stages_on_topic_pairs": true
+  }
+]
