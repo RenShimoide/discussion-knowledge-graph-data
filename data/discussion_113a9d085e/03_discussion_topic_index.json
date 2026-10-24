@@ -4,125 +4,233 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_885adc7b53",
-      "comment_e2f2d8d35d",
-      "comment_5b4757483f",
-      "comment_b0df5cb476"
+      "comment_885adc7b53"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "non-arian sub-human animal from outside of Europe lands"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "non-Aryan sub-human animal from outside European lands"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "Tarzan is non-arian sub-human animal from outside of Europe lands"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_885adc7b53",
-      "comment_e2f2d8d35d",
-      "comment_5b4757483f",
-      "comment_b0df5cb476"
+      "comment_e2f2d8d35d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "a Caucasian character, a white British man"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "a Caucasian character, a white British man"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Tarzan is a Caucasian character, a white British man"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_885adc7b53",
-      "comment_e2f2d8d35d",
-      "comment_5b4757483f",
-      "comment_b0df5cb476"
+      "comment_e2f2d8d35d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is depicted as",
+        "object": "a hunk with very pale skin, blue eyes and long blond hair"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is depicted as",
+        "object": "a hunk with very pale skin, blue eyes and long blond hair"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "It is often depicted as a hunk with very pale skin, blue eyes and long blond hair"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_885adc7b53",
       "comment_e2f2d8d35d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "the ideal Arian"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is",
+        "object": "the ideal Aryan"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "the ideal Arian, actually"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_5",
     "source_comment_ids": [
-      "comment_885adc7b53",
       "comment_e2f2d8d35d"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "was raised by",
+        "object": "apes in the jungle"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "was raised by",
+        "object": "apes in the jungle"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "he was raised by apes in the jungle"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_6",
-    "source_comment_ids": [],
+    "source_comment_ids": [
+      "comment_e2f2d8d35d"
+    ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Tarzan",
+        "predicate": "is not from",
+        "object": "Europe"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "is not from",
+        "object": "Europe"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Not in Europe, no."
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_7",
     "source_comment_ids": [
-      "comment_885adc7b53",
-      "comment_e2f2d8d35d",
-      "comment_5b4757483f",
-      "comment_b0df5cb476"
+      "comment_5b4757483f"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "apes",
+        "predicate": "aren't qualified enough to pass over",
+        "object": "civilized values"
+      },
+      "normalized": {
+        "subject": "apes",
+        "predicate": "are not qualified enough to pass over",
+        "object": "civilized values"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "apes aren't qualified enough to pass over civilized values"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_8",
     "source_comment_ids": [
-      "comment_885adc7b53",
-      "comment_e2f2d8d35d",
-      "comment_5b4757483f",
-      "comment_b0df5cb476"
+      "comment_5b4757483f"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "he",
+        "predicate": "was white, and that's why he end up being",
+        "object": "heir to the great estate"
+      },
+      "normalized": {
+        "subject": "Tarzan",
+        "predicate": "ended up being heir to the great estate because he was white",
+        "object": "the great estate"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "Fortunately, he was white, and that's why he end up being heir to the great estate"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_113a9d085e",
     "source_split": "Train",
     "topic_id": "claim_9",
     "source_comment_ids": [
-      "comment_885adc7b53",
-      "comment_e2f2d8d35d",
-      "comment_5b4757483f",
       "comment_b0df5cb476"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Your grammar and spelling",
+        "predicate": "show you haven't gone through",
+        "object": "the education system in Europe"
+      },
+      "normalized": {
+        "subject": "User_217's grammar and spelling",
+        "predicate": "indicate that User_217 has not undergone",
+        "object": "the European education system"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "Your grammar and spelling show you haven't gone through the education system in Europe"
+      }
+    ]
   }
 ]

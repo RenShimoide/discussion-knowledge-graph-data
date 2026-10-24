@@ -7,8 +7,16 @@
     "source_child_comment_id": "comment_05bb7ce8b8",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Chinese",
+      "predicate": "won't take them back",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "China",
+      "predicate": "will not take them back",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -25,8 +33,16 @@
     "source_child_comment_id": "comment_05bb7ce8b8",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "know theyre gaming the system",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "know they are gaming the system",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -43,8 +59,16 @@
     "source_child_comment_id": "comment_05bb7ce8b8",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "A vote for Trump",
+      "predicate": "will send them all back",
+      "object": "them all"
+    },
+    "normalized_triple": {
+      "subject": "A vote for Trump",
+      "predicate": "will send them all back",
+      "object": "them all"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -61,8 +85,16 @@
     "source_child_comment_id": "comment_0f1ea57229",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "A vote for Trump",
+      "predicate": "will send",
+      "object": "them all back"
+    },
+    "normalized_triple": {
+      "subject": "A vote for Trump",
+      "predicate": "will send",
+      "object": "them all back"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -79,8 +111,16 @@
     "source_child_comment_id": "comment_0f1ea57229",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "is running",
+      "object": "this business"
+    },
+    "normalized_triple": {
+      "subject": "he",
+      "predicate": "is running",
+      "object": "this business"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -97,8 +137,16 @@
     "source_child_comment_id": "comment_0f1ea57229",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "could be using it to gain",
+      "object": "political advantage"
+    },
+    "normalized_triple": {
+      "subject": "he",
+      "predicate": "could be using it to gain",
+      "object": "political advantage"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -115,8 +163,16 @@
     "source_child_comment_id": "comment_c4fe4b225a",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "could be using it to gain",
+      "object": "political advantage"
+    },
+    "normalized_triple": {
+      "subject": "he",
+      "predicate": "could be using it to gain",
+      "object": "political advantage"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -133,8 +189,16 @@
     "source_child_comment_id": "comment_c4fe4b225a",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "am not fooled by",
+      "object": "anything Biden or China does"
+    },
+    "normalized_triple": {
+      "subject": "I",
+      "predicate": "am not fooled by",
+      "object": "anything Biden or China does"
+    },
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -151,8 +215,16 @@
     "source_child_comment_id": "comment_c4fe4b225a",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "feel like I am fighting",
+      "object": "by myself"
+    },
+    "normalized_triple": {
+      "subject": "I",
+      "predicate": "feel like I am fighting",
+      "object": "by myself"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",

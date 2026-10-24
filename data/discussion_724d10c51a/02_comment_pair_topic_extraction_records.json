@@ -7,8 +7,16 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "people",
+      "predicate": "are allowed to come to your country and blatantly flout the rules with no consequences",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "people",
+      "predicate": "are allowed to enter countries and violate rules without consequences",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -25,8 +33,16 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "are facing consequences",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "people in the video",
+      "predicate": "are facing consequences",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -43,8 +59,16 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "The people in this video",
+      "predicate": "are legally applying for refugee status",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "The people in this video",
+      "predicate": "are legally applying for refugee status",
+      "object": ""
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -61,8 +85,16 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "the courts",
+      "predicate": "will evaluate their case and either accept or deport them",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "the courts",
+      "predicate": "will evaluate their case and either accept or deport them",
+      "object": ""
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -79,8 +111,16 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "are facing",
+      "object": "consequences"
+    },
+    "normalized_triple": {
+      "subject": "the people in the video",
+      "predicate": "are facing",
+      "object": "consequences"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -97,8 +137,16 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "The people in this video",
+      "predicate": "are legally applying for",
+      "object": "refugee status"
+    },
+    "normalized_triple": {
+      "subject": "The people in this video",
+      "predicate": "are legally applying for",
+      "object": "refugee status"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -115,8 +163,16 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "the courts",
+      "predicate": "will evaluate",
+      "object": "their case"
+    },
+    "normalized_triple": {
+      "subject": "the courts",
+      "predicate": "will evaluate",
+      "object": "the case of the people in the video"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -133,8 +189,16 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "the courts",
+      "predicate": "will either accept or deport",
+      "object": "them"
+    },
+    "normalized_triple": {
+      "subject": "the courts",
+      "predicate": "will either accept or deport",
+      "object": "the people in the video"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -151,8 +215,16 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "China",
+      "predicate": "doesn't accept",
+      "object": "them back"
+    },
+    "normalized_triple": {
+      "subject": "China",
+      "predicate": "does not accept",
+      "object": "the people in the video back"
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -169,8 +241,16 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "it",
+      "predicate": "is almost guaranteed",
+      "object": "they will stay"
+    },
+    "normalized_triple": {
+      "subject": "the people in the video",
+      "predicate": "are almost guaranteed to stay",
+      "object": ""
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -187,8 +267,16 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "entering a country illegally",
+      "predicate": "shows",
+      "object": "a level of contempt for the rules and values of that country"
+    },
+    "normalized_triple": {
+      "subject": "entering a country illegally",
+      "predicate": "shows",
+      "object": "a level of contempt for the rules and values of that country"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -205,8 +293,16 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "entering a country illegally",
+      "predicate": "makes it less likely",
+      "object": "they're the type of people to follow the rules of the land whilst here"
+    },
+    "normalized_triple": {
+      "subject": "entering a country illegally",
+      "predicate": "makes it less likely",
+      "object": "they will follow the rules of the land while present"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -223,8 +319,16 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "without borders",
+      "predicate": "you have",
+      "object": "no country"
+    },
+    "normalized_triple": {
+      "subject": "without borders",
+      "predicate": "results in",
+      "object": "no country"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -241,8 +345,16 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "entering a country illegally",
+      "predicate": "threatens",
+      "object": "the agricultural industry with introduced pests and deseases, spy's, saboteurs, terrorists etc."
+    },
+    "normalized_triple": {
+      "subject": "entering a country illegally",
+      "predicate": "threatens",
+      "object": "the agricultural industry with introduced pests, diseases, spies, saboteurs, and terrorists"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",

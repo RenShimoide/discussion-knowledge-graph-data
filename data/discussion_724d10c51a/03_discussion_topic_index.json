@@ -4,227 +4,389 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_46f0ea6556"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "people",
+        "predicate": "are allowed to come to your country and blatantly flout the rules with no consequences",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "are allowed to enter countries and violate rules without consequences",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 1,
+        "span": "people are allowed to come to your country and blatantly flout the rules with no consequences"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_b2893e0fa2"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "they",
+        "predicate": "are facing consequences",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "people in the video",
+        "predicate": "are facing consequences",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "they are facing consequences"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_b2893e0fa2"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for refugee status",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for refugee status",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "The people in this video are legally applying for refugee status"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_b2893e0fa2"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "the courts",
+        "predicate": "will evaluate their case and either accept or deport them",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the courts",
+        "predicate": "will evaluate their case and either accept or deport them",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "the courts will evaluate their case and either accept or deport them"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_5",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_b2893e0fa2"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "they",
+        "predicate": "are facing",
+        "object": "consequences"
+      },
+      "normalized": {
+        "subject": "the people in the video",
+        "predicate": "are facing",
+        "object": "consequences"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "they are facing consequences"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_6",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_b2893e0fa2"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for",
+        "object": "refugee status"
+      },
+      "normalized": {
+        "subject": "The people in this video",
+        "predicate": "are legally applying for",
+        "object": "refugee status"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "The people in this video are legally applying for refugee status"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_7",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_b2893e0fa2"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "the courts",
+        "predicate": "will evaluate",
+        "object": "their case"
+      },
+      "normalized": {
+        "subject": "the courts",
+        "predicate": "will evaluate",
+        "object": "the case of the people in the video"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "the courts will evaluate their case"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_8",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
-      "comment_13d877ca20"
+      "comment_b2893e0fa2"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "the courts",
+        "predicate": "will either accept or deport",
+        "object": "them"
+      },
+      "normalized": {
+        "subject": "the courts",
+        "predicate": "will either accept or deport",
+        "object": "the people in the video"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "either accept or deport them"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_9",
     "source_comment_ids": [
-      "comment_b2893e0fa2",
       "comment_98e94b0ef6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "China",
+        "predicate": "doesn't accept",
+        "object": "them back"
+      },
+      "normalized": {
+        "subject": "China",
+        "predicate": "does not accept",
+        "object": "the people in the video back"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "China doesn't accept them back"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_10",
     "source_comment_ids": [
-      "comment_b2893e0fa2",
       "comment_98e94b0ef6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "it",
+        "predicate": "is almost guaranteed",
+        "object": "they will stay"
+      },
+      "normalized": {
+        "subject": "the people in the video",
+        "predicate": "are almost guaranteed to stay",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "it's almost guaranteed they will stay"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_11",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "shows",
+        "object": "a level of contempt for the rules and values of that country"
+      },
+      "normalized": {
+        "subject": "entering a country illegally",
+        "predicate": "shows",
+        "object": "a level of contempt for the rules and values of that country"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "entering a country illegally shows a level of contempt for the rules and values of that country from the outset"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_12",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "makes it less likely",
+        "object": "they're the type of people to follow the rules of the land whilst here"
+      },
+      "normalized": {
+        "subject": "entering a country illegally",
+        "predicate": "makes it less likely",
+        "object": "they will follow the rules of the land while present"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "Making it less likely they're the type of people to follow the rules of the land whilst here also"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_13",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "without borders",
+        "predicate": "you have",
+        "object": "no country"
+      },
+      "normalized": {
+        "subject": "absence of borders",
+        "predicate": "results in",
+        "object": "non-existence of a country"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "without borders you have no country !"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_14",
     "source_comment_ids": [
-      "comment_46f0ea6556",
-      "comment_b2893e0fa2",
-      "comment_98e94b0ef6",
-      "comment_a35318e37a",
       "comment_13d877ca20"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "poses a threat to",
+        "object": "the agricultural industry via introduced pests and diseases"
+      },
+      "normalized": {
+        "subject": "illegal entry",
+        "predicate": "threatens",
+        "object": "agricultural industry through pests and diseases"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "the threat to the agricultural industry with introduced pests and deseases"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_724d10c51a",
     "source_split": "Train",
     "topic_id": "claim_15",
-    "source_comment_ids": [],
+    "source_comment_ids": [
+      "comment_13d877ca20"
+    ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "entering a country illegally",
+        "predicate": "poses a threat via",
+        "object": "spies, saboteurs, and terrorists"
+      },
+      "normalized": {
+        "subject": "illegal entry",
+        "predicate": "threatens via",
+        "object": "spies, saboteurs, and terrorists"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "spy's, saboteurs, terrorists etc."
+      }
+    ]
   }
 ]

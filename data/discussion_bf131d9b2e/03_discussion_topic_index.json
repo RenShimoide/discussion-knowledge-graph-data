@@ -4,77 +4,155 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_f94aebbe6b",
-      "comment_f8b9ca420e"
+      "comment_f94aebbe6b"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Westerners",
+        "predicate": "should not have to",
+        "object": "drop their values or acclimate to immigrants worldview"
+      },
+      "normalized": {
+        "subject": "Westerners",
+        "predicate": "should not have to drop their values or acclimate to immigrants worldview",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "Westerners should not have to drop their values or acclimate to immigrants worldview"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_bf131d9b2e",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_f94aebbe6b",
-      "comment_f8b9ca420e"
+      "comment_f94aebbe6b"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "The people opening the borders around the world",
+        "predicate": "know this will",
+        "object": "create chaos and destroy Western countries"
+      },
+      "normalized": {
+        "subject": "The people opening the borders around the world",
+        "predicate": "know that opening borders will create chaos and destroy Western countries",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "The people opening the borders around the world know this will create chaos and destroy Western countries"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_bf131d9b2e",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_f94aebbe6b",
-      "comment_f8b9ca420e"
+      "comment_f94aebbe6b"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Ukrainian refugees",
+        "predicate": "fit right in",
+        "object": "Poland"
+      },
+      "normalized": {
+        "subject": "Ukrainian refugees",
+        "predicate": "fit right in",
+        "object": "Poland"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "there was a influx of Ukrainian refugees and they fit right in"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_bf131d9b2e",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_f94aebbe6b",
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "people",
+        "predicate": "share",
+        "object": "different values in society"
+      },
+      "normalized": {
+        "subject": "people",
+        "predicate": "share",
+        "object": "different values in society"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 8,
+        "span": "people share different values in society"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_bf131d9b2e",
     "source_split": "Train",
     "topic_id": "claim_5",
     "source_comment_ids": [
-      "comment_f94aebbe6b",
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "sharing values",
+        "predicate": "does not depend on",
+        "object": "nationality"
+      },
+      "normalized": {
+        "subject": "sharing values",
+        "predicate": "does not depend on",
+        "object": "nationality"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 8,
+        "span": "it doesn't depend on your nationality"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_bf131d9b2e",
     "source_split": "Train",
     "topic_id": "claim_6",
     "source_comment_ids": [
-      "comment_f94aebbe6b",
       "comment_f8b9ca420e"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "a person with Syrian background",
+        "predicate": "may have more values in common with",
+        "object": "you"
+      },
+      "normalized": {
+        "subject": "a person with Syrian background",
+        "predicate": "may have more values in common with",
+        "object": "the listener"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 8,
+        "span": "a person with Syrian background may have more values in common with you"
+      }
+    ]
   }
 ]

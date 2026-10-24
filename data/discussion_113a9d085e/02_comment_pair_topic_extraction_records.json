@@ -7,8 +7,16 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Tarzan",
+      "predicate": "is",
+      "object": "non-arian sub-human animal from outside of Europe lands"
+    },
+    "normalized_triple": {
+      "subject": "Tarzan",
+      "predicate": "is",
+      "object": "non-Aryan sub-human animal from outside European lands"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -25,8 +33,16 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Tarzan",
+      "predicate": "is",
+      "object": "a Caucasian character, a white British man"
+    },
+    "normalized_triple": {
+      "subject": "Tarzan",
+      "predicate": "is",
+      "object": "a Caucasian character, a white British man"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -43,8 +59,16 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Tarzan",
+      "predicate": "is depicted as",
+      "object": "a hunk with very pale skin, blue eyes and long blond hair"
+    },
+    "normalized_triple": {
+      "subject": "Tarzan",
+      "predicate": "is depicted as",
+      "object": "a hunk with very pale skin, blue eyes and long blond hair"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -61,8 +85,16 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Tarzan",
+      "predicate": "is",
+      "object": "the ideal Arian"
+    },
+    "normalized_triple": {
+      "subject": "Tarzan",
+      "predicate": "is",
+      "object": "the ideal Aryan"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -79,8 +111,16 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Tarzan",
+      "predicate": "was raised by",
+      "object": "apes in the jungle"
+    },
+    "normalized_triple": {
+      "subject": "Tarzan",
+      "predicate": "was raised by",
+      "object": "apes in the jungle"
+    },
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -97,8 +137,16 @@
     "source_child_comment_id": "comment_b0df5cb476",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "apes",
+      "predicate": "aren't qualified enough to pass over",
+      "object": "civilized values"
+    },
+    "normalized_triple": {
+      "subject": "apes",
+      "predicate": "are not qualified enough to pass over",
+      "object": "civilized values"
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -115,8 +163,16 @@
     "source_child_comment_id": "comment_b0df5cb476",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "was white, and that's why he end up being",
+      "object": "heir to the great estate"
+    },
+    "normalized_triple": {
+      "subject": "Tarzan",
+      "predicate": "ended up being heir to the great estate because he was white",
+      "object": "the great estate"
+    },
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -133,8 +189,16 @@
     "source_child_comment_id": "comment_b0df5cb476",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {},
-    "normalized_triple": {},
+    "surface_triple": {
+      "subject": "Your grammar and spelling",
+      "predicate": "show you haven't gone through",
+      "object": "the education system in Europe"
+    },
+    "normalized_triple": {
+      "subject": "User_217's grammar and spelling",
+      "predicate": "show that User_217 has not gone through",
+      "object": "the education system in Europe"
+    },
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",

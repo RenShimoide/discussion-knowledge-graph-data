@@ -4,138 +4,259 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
-      "comment_d08982e567"
+      "comment_527430f3b9"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "the people",
+        "predicate": "got exactly what they voted for",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the people",
+        "predicate": "got exactly what they voted for",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 1,
+        "span": "the people got exactly what they voted for"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
-      "comment_d08982e567"
+      "comment_74609bd636"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      },
+      "normalized": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "Nobody voted for this"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
-      "comment_d08982e567"
+      "comment_74609bd636"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "the UK",
+        "predicate": "has",
+        "object": "same problems"
+      },
+      "normalized": {
+        "subject": "the UK",
+        "predicate": "has",
+        "object": "same problems"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "Same problems here in the UK"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
-      "comment_d08982e567"
+      "comment_74609bd636"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "we",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      },
+      "normalized": {
+        "subject": "UK voters",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "we voted for immigration to be cut to 10,000 per year"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_5",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
-      "comment_d08982e567"
+      "comment_74609bd636"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "we",
+        "predicate": "got",
+        "object": "1.2 million immigrants"
+      },
+      "normalized": {
+        "subject": "the UK",
+        "predicate": "received",
+        "object": "1.2 million immigrants"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "last year we got 1.2 million"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_6",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
-      "comment_d08982e567"
+      "comment_74609bd636"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      },
+      "normalized": {
+        "subject": "Nobody",
+        "predicate": "voted for",
+        "object": "this"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "Nobody voted for this"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_7",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
-      "comment_d08982e567"
+      "comment_74609bd636"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "we",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      },
+      "normalized": {
+        "subject": "the UK public",
+        "predicate": "voted for",
+        "object": "immigration to be cut to 10,000 per year"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "we voted for immigration to be cut to 10,000 per year"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_9",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "you guys",
+        "predicate": "did",
+        "object": "vote for this"
+      },
+      "normalized": {
+        "subject": "the people addressed by the child comment",
+        "predicate": "voted for",
+        "object": "this"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "you guys did"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_10",
     "source_comment_ids": [
-      "comment_527430f3b9",
-      "comment_74609bd636",
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "the cancer of feminism",
+        "predicate": "came to",
+        "object": "the stage"
+      },
+      "normalized": {
+        "subject": "feminism",
+        "predicate": "emerged as a dominant force",
+        "object": "in society"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "The second the cancer of feminism came to the stage"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_28152f13f1",
     "source_split": "Train",
     "topic_id": "claim_11",
     "source_comment_ids": [
-      "comment_74609bd636",
       "comment_d08982e567"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "you",
+        "predicate": "allowed",
+        "object": "the cancer of feminism"
+      },
+      "normalized": {
+        "subject": "the people addressed by the child comment",
+        "predicate": "allowed",
+        "object": "feminism to emerge"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "and you allowed it"
+      }
+    ]
   }
 ]

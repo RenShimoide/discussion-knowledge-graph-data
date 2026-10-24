@@ -4,309 +4,467 @@
     "source_split": "Train",
     "topic_id": "claim_1",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_6b5b586c12"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "a beautiful country",
+        "predicate": "being trashed",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "a beautiful country",
+        "predicate": "is being trashed",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 1,
+        "span": "a beautiful country being trashed"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_2",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_26f07429dd"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "NATO",
+        "predicate": "take part in",
+        "object": "the wars"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "takes part in",
+        "object": "wars"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "blame nato they take part in the wars"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_3",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_26f07429dd"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "NATO taking part in wars",
+        "predicate": "causes",
+        "object": "refugees"
+      },
+      "normalized": {
+        "subject": "NATO participation in wars",
+        "predicate": "causes",
+        "object": "refugee crisis"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "blame nato they take part in the wars so deal with all the refugee you all started"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_4",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_26f07429dd"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "they",
+        "predicate": "take part in the wars",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "takes part in wars",
+        "object": ""
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 2,
+        "span": "they take part in the wars"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_5",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_7db671bc48"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "NATO",
+        "predicate": "is",
+        "object": "an aggressor"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is",
+        "object": "an aggressor"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Nato isn't an aggressor"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_6",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_7db671bc48"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "it",
+        "predicate": "is",
+        "object": "a defence pact"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is",
+        "object": "a defence pact"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "it's a defence pact"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_7",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_7db671bc48"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Nato",
+        "predicate": "isn't an",
+        "object": "aggressor"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is not",
+        "object": "an aggressor"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "Nato isn't an aggressor"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_8",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_7db671bc48"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "it",
+        "predicate": "is a",
+        "object": "defence pact"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is a",
+        "object": "defense pact"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 3,
+        "span": "it's a defence pact"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_9",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_4126fe24c6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "they went to",
+        "object": "syria ,Afghanistan , Libya"
+      },
+      "normalized": {
+        "subject": "The USA and European countries",
+        "predicate": "went to",
+        "object": "Syria, Afghanistan, and Libya"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "Usa and european countries they went to syria ,Afghanistan , Libya"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_10",
     "source_comment_ids": [
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_4126fe24c6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "started",
+        "object": "all these problem"
+      },
+      "normalized": {
+        "subject": "The USA and European countries",
+        "predicate": "started",
+        "object": "all these problems"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "started all these problem"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_11",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_4126fe24c6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "went to",
+        "object": "syria ,Afghanistan , Libya"
+      },
+      "normalized": {
+        "subject": "USA and European countries",
+        "predicate": "went to",
+        "object": "Syria, Afghanistan, and Libya"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "Usa and european countries they went to syria ,Afghanistan , Libya"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_12",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_4126fe24c6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Usa and european countries",
+        "predicate": "started",
+        "object": "all these problem"
+      },
+      "normalized": {
+        "subject": "USA and European countries",
+        "predicate": "started",
+        "object": "all these problems"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 4,
+        "span": "started all these problem"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_13",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_adce9e92c0"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Nato",
+        "predicate": "not run by",
+        "object": "dictatorships or religious nut cases"
+      },
+      "normalized": {
+        "subject": "NATO",
+        "predicate": "is not run by",
+        "object": "dictatorships or religious extremists"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 5,
+        "span": "Nato not run by dictatorships or religious nut cases"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_14",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
-      "comment_e337f8dab6"
+      "comment_f5d14c14eb"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "european",
+        "predicate": "are complaining why",
+        "object": "all those refugee in europe"
+      },
+      "normalized": {
+        "subject": "Europeans",
+        "predicate": "are complaining about the presence of",
+        "object": "refugees in Europe"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 6,
+        "span": "european are complaining why are all those refugee in europe"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_15",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "they",
+        "predicate": "will always come",
+        "object": "anyway"
+      },
+      "normalized": {
+        "subject": "refugees",
+        "predicate": "will always arrive",
+        "object": "anyway"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 7,
+        "span": "they'll always come anyway"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_16",
     "source_comment_ids": [
-      "comment_6b5b586c12",
-      "comment_26f07429dd",
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_adce9e92c0",
-      "comment_f5d14c14eb",
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "a huge percent",
+        "predicate": "are",
+        "object": "bogus refugees"
+      },
+      "normalized": {
+        "subject": "a large percentage of refugees",
+        "predicate": "are",
+        "object": "bogus refugees"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 7,
+        "span": "a huge percent are bogus refugees"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_17",
     "source_comment_ids": [
-      "comment_7db671bc48",
-      "comment_4126fe24c6",
-      "comment_f5d14c14eb",
       "comment_e337f8dab6"
     ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "Albanian etc etc",
+        "predicate": "not escaping",
+        "object": "war"
+      },
+      "normalized": {
+        "subject": "Albanians and others",
+        "predicate": "are not escaping",
+        "object": "war"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 7,
+        "span": "Albanian etc etc.not escaping war"
+      }
+    ]
   },
   {
     "source_discussion_id": "discussion_75143635f9",
     "source_split": "Train",
     "topic_id": "claim_18",
-    "source_comment_ids": [],
+    "source_comment_ids": [
+      "comment_e337f8dab6"
+    ],
     "topic_triple": {
-      "surface": {},
-      "normalized": {}
-    }
+      "surface": {
+        "subject": "many [refugees]",
+        "predicate": "passing through",
+        "object": "endless safe countries"
+      },
+      "normalized": {
+        "subject": "many refugees",
+        "predicate": "pass through",
+        "object": "safe countries"
+      }
+    },
+    "source_spans": [
+      {
+        "comment_number": 7,
+        "span": "many passing through endless safe countries"
+      }
+    ]
   }
 ]
