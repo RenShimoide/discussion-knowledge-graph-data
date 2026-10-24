@@ -1,0 +1,310 @@
+[
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "women",
+        "predicate": "fix",
+        "object": "houses all the time in America"
+      },
+      "normalized": {
+        "subject": "women",
+        "predicate": "fix",
+        "object": "houses in America"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "some of the best kindergarten teachers",
+        "predicate": "are",
+        "object": "men"
+      },
+      "normalized": {
+        "subject": "some of the best kindergarten teachers",
+        "predicate": "are",
+        "object": "men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "builders",
+        "predicate": "are",
+        "object": "disproportionately men"
+      },
+      "normalized": {
+        "subject": "builders",
+        "predicate": "are",
+        "object": "disproportionately men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "kindergarten teachers",
+        "predicate": "are",
+        "object": "disproportionately women"
+      },
+      "normalized": {
+        "subject": "kindergarten teachers",
+        "predicate": "are",
+        "object": "disproportionately women"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "gender disparities in professions",
+        "predicate": "are caused by",
+        "object": "brain function differences"
+      },
+      "normalized": {
+        "subject": "gender disparities in professions",
+        "predicate": "are caused by",
+        "object": "brain function differences"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "men and women",
+        "predicate": "are not",
+        "object": "the same"
+      },
+      "normalized": {
+        "subject": "men and women",
+        "predicate": "are not",
+        "object": "the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "most builders",
+        "predicate": "are",
+        "object": "men"
+      },
+      "normalized": {
+        "subject": "most builders",
+        "predicate": "are",
+        "object": "men"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "most kindergarden teachers",
+        "predicate": "are",
+        "object": "women"
+      },
+      "normalized": {
+        "subject": "most kindergarten teachers",
+        "predicate": "are",
+        "object": "women"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "are",
+        "object": "different"
+      },
+      "normalized": {
+        "subject": "men and women",
+        "predicate": "are",
+        "object": "different"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Men and women",
+        "predicate": "are",
+        "object": "the same"
+      },
+      "normalized": {
+        "subject": "Men and women",
+        "predicate": "are",
+        "object": "the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_8c34771d27",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Men and Woman",
+        "predicate": "are not",
+        "object": "the same"
+      },
+      "normalized": {
+        "subject": "Men and women",
+        "predicate": "are not",
+        "object": "the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "scientists and physiologists",
+        "predicate": "state that",
+        "object": "men and women are not the same"
+      },
+      "normalized": {
+        "subject": "scientists and physiologists",
+        "predicate": "state that",
+        "object": "men and women are not the same"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_aefa1f21af",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_41e4334eb2",
+      "comment_1c34bbd117",
+      "comment_aea12b5464",
+      "comment_f1cbef3ae7"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "men and women",
+        "predicate": "have",
+        "object": "huge differences"
+      },
+      "normalized": {
+        "subject": "men and women",
+        "predicate": "have",
+        "object": "huge differences"
+      }
+    }
+  }
+]

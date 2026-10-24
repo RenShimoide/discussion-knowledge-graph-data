@@ -1,0 +1,626 @@
+[
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_a7ede691f2847f87cc19",
+    "source_parent_comment_id": "comment_ea438eae61",
+    "source_child_comment_id": "comment_a3965077f6",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "the Middle-East",
+      "predicate": "invaded, waged wars, colonized and enslaved",
+      "object": "European countries"
+    },
+    "normalized_triple": {
+      "subject": "the Middle-East",
+      "predicate": "invaded, waged wars, colonized and enslaved",
+      "object": "European countries"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_a7ede691f2847f87cc19",
+    "source_parent_comment_id": "comment_ea438eae61",
+    "source_child_comment_id": "comment_a3965077f6",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "a middle eastern country",
+      "predicate": "enslaved",
+      "object": "European country"
+    },
+    "normalized_triple": {
+      "subject": "a middle eastern country",
+      "predicate": "enslaved",
+      "object": "European country"
+    },
+    "normalization_status": "normalized",
+    "polarity": "unclear",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_251e9ed5c4e35655a439",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_6ad8af4be1",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "the west",
+      "predicate": "supposed to be",
+      "object": "this great land of diversity? freedom of religion snd thought?"
+    },
+    "normalized_triple": {
+      "subject": "the West",
+      "predicate": "is supposed to be",
+      "object": "a great land of diversity and freedom of religion and thought"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_251e9ed5c4e35655a439",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_6ad8af4be1",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "u",
+      "predicate": "are trying to change",
+      "object": "every single person who doesn't have these values"
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "are trying to change",
+      "object": "every single person who does not have these values"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_251e9ed5c4e35655a439",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_6ad8af4be1",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "I - and most normal people -",
+      "predicate": "want",
+      "object": "the West to remain white"
+    },
+    "normalized_triple": {
+      "subject": "the speaker and most normal people",
+      "predicate": "want",
+      "object": "the West to remain white"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_251e9ed5c4e35655a439",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_6ad8af4be1",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "the West to remain white",
+      "predicate": "is why",
+      "object": "the West is so great"
+    },
+    "normalized_triple": {
+      "subject": "the West remaining white",
+      "predicate": "is why",
+      "object": "the West is great"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_251e9ed5c4e35655a439",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_6ad8af4be1",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "diversity",
+      "predicate": "is ruining",
+      "object": "it"
+    },
+    "normalized_triple": {
+      "subject": "diversity",
+      "predicate": "is ruining",
+      "object": "the West"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_251e9ed5c4e35655a439",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_6ad8af4be1",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "are importing",
+      "object": "the worst kind of people"
+    },
+    "normalized_triple": {
+      "subject": "we",
+      "predicate": "are importing",
+      "object": "the worst kind of people"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_c4684eee8bb7d5423fff",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_4010b21bb7",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "the west",
+      "predicate": "is supposed to be",
+      "object": "this great land of diversity? freedom of religion snd thought?"
+    },
+    "normalized_triple": {
+      "subject": "the west",
+      "predicate": "is supposed to be",
+      "object": "a great land of diversity and freedom of religion and thought"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_c4684eee8bb7d5423fff",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_4010b21bb7",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "u",
+      "predicate": "are trying to change",
+      "object": "every single person who doesn't have these values"
+    },
+    "normalized_triple": {
+      "subject": "the west",
+      "predicate": "is trying to change",
+      "object": "every single person who doesn't have these values"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_c4684eee8bb7d5423fff",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_4010b21bb7",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "Those words",
+      "predicate": "can mean",
+      "object": "something in a Country and something different in another"
+    },
+    "normalized_triple": {
+      "subject": "Those words",
+      "predicate": "can mean",
+      "object": "something in a Country and something different in another"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_c4684eee8bb7d5423fff",
+    "source_parent_comment_id": "comment_5bee8bc8fa",
+    "source_child_comment_id": "comment_4010b21bb7",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "if we want to just follow it as it is, without some interpretation",
+      "predicate": "we are trying to create",
+      "object": "a fairytale, not a reality"
+    },
+    "normalized_triple": {
+      "subject": "we",
+      "predicate": "are trying to create",
+      "object": "a fairytale, not a reality"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_f3f70fa7e0bbe8fe6f10",
+    "source_parent_comment_id": "comment_6ad8af4be1",
+    "source_child_comment_id": "comment_c6034638b5",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "I - and most normal people -",
+      "predicate": "want",
+      "object": "the West to remain white"
+    },
+    "normalized_triple": {
+      "subject": "the speaker and most normal people",
+      "predicate": "want",
+      "object": "the West to remain white"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_f3f70fa7e0bbe8fe6f10",
+    "source_parent_comment_id": "comment_6ad8af4be1",
+    "source_child_comment_id": "comment_c6034638b5",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "the West",
+      "predicate": "is",
+      "object": "great"
+    },
+    "normalized_triple": {
+      "subject": "the West",
+      "predicate": "is",
+      "object": "great"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_f3f70fa7e0bbe8fe6f10",
+    "source_parent_comment_id": "comment_6ad8af4be1",
+    "source_child_comment_id": "comment_c6034638b5",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "diversity",
+      "predicate": "is ruining",
+      "object": "it"
+    },
+    "normalized_triple": {
+      "subject": "diversity",
+      "predicate": "is ruining",
+      "object": "the West"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_f3f70fa7e0bbe8fe6f10",
+    "source_parent_comment_id": "comment_6ad8af4be1",
+    "source_child_comment_id": "comment_c6034638b5",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "are importing",
+      "object": "the worst kind of people"
+    },
+    "normalized_triple": {
+      "subject": "we",
+      "predicate": "are importing",
+      "object": "the worst kind of people"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_f3f70fa7e0bbe8fe6f10",
+    "source_parent_comment_id": "comment_6ad8af4be1",
+    "source_child_comment_id": "comment_c6034638b5",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "The Europeans",
+      "predicate": "did not do",
+      "object": "to the indigenous"
+    },
+    "normalized_triple": {
+      "subject": "the Europeans",
+      "predicate": "did not do [unspecified action]",
+      "object": "the indigenous"
+    },
+    "normalization_status": "uncertain",
+    "polarity": "negated",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_f3f70fa7e0bbe8fe6f10",
+    "source_parent_comment_id": "comment_6ad8af4be1",
+    "source_child_comment_id": "comment_c6034638b5",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "it",
+      "predicate": "should be applied",
+      "object": "here"
+    },
+    "normalized_triple": {
+      "subject": "the treatment of indigenous people",
+      "predicate": "should be applied",
+      "object": "to the current situation"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_f3f70fa7e0bbe8fe6f10",
+    "source_parent_comment_id": "comment_6ad8af4be1",
+    "source_child_comment_id": "comment_c6034638b5",
+    "pair_claim_id": "candidate_7",
+    "topic_id": "candidate_7",
+    "surface_triple": {
+      "subject": "immigrants",
+      "predicate": "are",
+      "object": "people not slaves"
+    },
+    "normalized_triple": {
+      "subject": "immigrants",
+      "predicate": "are",
+      "object": "people and not slaves"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_446055c2efe489dba279",
+    "source_parent_comment_id": "comment_c6034638b5",
+    "source_child_comment_id": "comment_e3a7880eed",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "The Europeans",
+      "predicate": "didn’t do to the indigenous",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "Europeans",
+      "predicate": "did not respect",
+      "object": "indigenous people"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_446055c2efe489dba279",
+    "source_parent_comment_id": "comment_c6034638b5",
+    "source_child_comment_id": "comment_e3a7880eed",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "immigrants",
+      "predicate": "are",
+      "object": "people not slaves"
+    },
+    "normalized_triple": {
+      "subject": "immigrants",
+      "predicate": "are",
+      "object": "people and not slaves"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_446055c2efe489dba279",
+    "source_parent_comment_id": "comment_c6034638b5",
+    "source_child_comment_id": "comment_e3a7880eed",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "Norway",
+      "predicate": "colonised",
+      "object": "the Middle East"
+    },
+    "normalized_triple": {
+      "subject": "Norway",
+      "predicate": "colonised",
+      "object": "the Middle East"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_446055c2efe489dba279",
+    "source_parent_comment_id": "comment_c6034638b5",
+    "source_child_comment_id": "comment_e3a7880eed",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "every single non European immigrant",
+      "predicate": "should be",
+      "object": "deported"
+    },
+    "normalized_triple": {
+      "subject": "every non-European immigrant",
+      "predicate": "should be",
+      "object": "deported"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "pair_id": "causal_c14b6d3dad8ce1811118",
+    "source_parent_comment_id": "comment_d09847e8c1",
+    "source_child_comment_id": "comment_25564c5e78",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "live",
+      "object": "there"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "live",
+      "object": "western culture locations"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b-Mac",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

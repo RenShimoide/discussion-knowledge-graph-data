@@ -1,0 +1,210 @@
+[
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_851c5958ff444c3baf58",
+    "source_parent_comment_id": "comment_8e0ce103d7",
+    "source_child_comment_id": "comment_e32d0889ab",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "was not disappointed",
+      "object": "reactions on the elevator"
+    },
+    "normalized_triple": {
+      "subject": "the author",
+      "predicate": "was not disappointed by",
+      "object": "reactions on the elevator"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_851c5958ff444c3baf58",
+    "source_parent_comment_id": "comment_8e0ce103d7",
+    "source_child_comment_id": "comment_e32d0889ab",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "need to keep",
+      "object": "your hands and feet inside the ride at all times"
+    },
+    "normalized_triple": {
+      "subject": "passengers",
+      "predicate": "need to keep",
+      "object": "hands and feet inside the ride at all times"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_71b746fe28115a5afbdf",
+    "source_parent_comment_id": "comment_e32d0889ab",
+    "source_child_comment_id": "comment_b0782f9ca2",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "need to keep your hands and feet inside the ride at all times",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "need to keep hands and feet inside the ride at all times",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_71b746fe28115a5afbdf",
+    "source_parent_comment_id": "comment_e32d0889ab",
+    "source_child_comment_id": "comment_b0782f9ca2",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "You",
+      "predicate": "definitely have to keep arms and what not inside",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "must keep arms and other parts inside",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_71b746fe28115a5afbdf",
+    "source_parent_comment_id": "comment_e32d0889ab",
+    "source_child_comment_id": "comment_b0782f9ca2",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "this exact elevator",
+      "predicate": "is just as famous between natives as with you lot",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "this exact elevator",
+      "predicate": "is equally famous among natives and the other group",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_71b746fe28115a5afbdf",
+    "source_parent_comment_id": "comment_e32d0889ab",
+    "source_child_comment_id": "comment_b0782f9ca2",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "the users",
+      "predicate": "are mostly by politicians on a daily basis",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "the users",
+      "predicate": "are mostly politicians on a daily basis",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_71b746fe28115a5afbdf",
+    "source_parent_comment_id": "comment_e32d0889ab",
+    "source_child_comment_id": "comment_b0782f9ca2",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "the users are mostly by politicians on a daily basis",
+      "predicate": "limits the room for errors",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "the fact that users are mostly politicians on a daily basis",
+      "predicate": "limits the room for errors",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "pair_id": "causal_71b746fe28115a5afbdf",
+    "source_parent_comment_id": "comment_e32d0889ab",
+    "source_child_comment_id": "comment_b0782f9ca2",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "I",
+      "predicate": "dont recall any serious accidents",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "the speaker",
+      "predicate": "does not recall any serious accidents",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

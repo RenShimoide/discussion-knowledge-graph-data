@@ -1,0 +1,86 @@
+[
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "there",
+        "predicate": "is",
+        "object": "so much unrest"
+      },
+      "normalized": {
+        "subject": "there",
+        "predicate": "is",
+        "object": "much unrest"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the Mexican president",
+        "predicate": "was holding them at the border",
+        "object": "them"
+      },
+      "normalized": {
+        "subject": "the Mexican president",
+        "predicate": "was holding them at the border",
+        "object": "them"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Mr.biden",
+        "predicate": "said to let them in",
+        "object": "them"
+      },
+      "normalized": {
+        "subject": "Mr. Biden",
+        "predicate": "said to let them in",
+        "object": "them"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_774b0bf239",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e209cf8f42",
+      "comment_842f8a03e5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "became",
+        "object": "our problem"
+      },
+      "normalized": {
+        "subject": "it",
+        "predicate": "became",
+        "object": "our problem"
+      }
+    }
+  }
+]

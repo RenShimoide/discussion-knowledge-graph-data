@@ -1,0 +1,152 @@
+[
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_8e0ce103d7",
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "need to keep",
+        "object": "your hands and feet inside the ride at all times"
+      },
+      "normalized": {
+        "subject": "passengers",
+        "predicate": "need to keep",
+        "object": "hands and feet inside the ride at all times"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_8e0ce103d7",
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "need to keep your hands and feet inside the ride at all times",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "need to keep hands and feet inside the ride at all times",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_8e0ce103d7",
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "You",
+        "predicate": "definitely have to keep arms and what not inside",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "must keep arms and other parts inside",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "this exact elevator",
+        "predicate": "is just as famous between natives as with you lot",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "this exact elevator",
+        "predicate": "is equally famous among natives and the other group",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the users",
+        "predicate": "are mostly by politicians on a daily basis",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the users",
+        "predicate": "are mostly politicians on a daily basis",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the users are mostly by politicians on a daily basis",
+        "predicate": "limits the room for errors",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the fact that users are mostly politicians on a daily basis",
+        "predicate": "limits the room for errors",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_ef2c0e7450",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_e32d0889ab",
+      "comment_b0782f9ca2"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "dont recall any serious accidents",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the speaker",
+        "predicate": "does not recall any serious accidents",
+        "object": ""
+      }
+    }
+  }
+]

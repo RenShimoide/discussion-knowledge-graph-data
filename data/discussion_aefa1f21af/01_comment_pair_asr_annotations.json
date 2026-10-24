@@ -1,0 +1,1754 @@
+[
+  {
+    "scheme": "afsj",
+    "pair_id": "causal_2d39ad4e771360ae2f8d",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  are we different though? I don't think there's a great deal different between men and women's brains. Given equal opportunity women have thrived in previous male lead professions, there are more female medical students now than there ever was. There are also lots of lovely men teaching and nurturing children. \nEven when you're marking nameless exam papers you can barely tell which is written by a male or female. Everyone focuses on the differences but everyone is more alike than they think.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_2d39ad4e771360ae2f8d",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_5c2670fb19",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not provide a reason, evidence, explanation, or justification for the parent comment, nor does the parent comment justify the child. Therefore, no supportive-justification relation is present.",
+      "evidence": "Parent: \"O kay then.\" (no claim). Child: a discussion about gender differences, unrelated to the parent’s minimal acknowledgment."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "supportive_justification_stage3_v3",
+      "timestamp": "2026-10-15T23:55:34+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 720
+    },
+    "thinking_output": "We need to verify if any supportive justification relation exists between parent comment \"@User_409 O kay then.\" and child comment which is a long statement about gender differences. Parent comment is just \"O kay then.\" (maybe \"Okay then.\") That's a minimal acknowledgement. Child comment is a response to something else, not to the parent. Does child provide justification to parent? Parent says \"O kay then.\" No claim to justify. Child is not justifying that statement. So no supportive justification. So final_present false, direction none, polarity none. Validation says false, correct. So final decision matches validation. Use decision_source validation_judgment. Confidence maybe 0.95 as validation. Provide JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_supportive_justification": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 1.0,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 1.0,\n\"rationale\": \"The parent comment lacks a claim that the child reply justifies or attacks.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established between the comments.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the initial annotation and the validation judgment correctly identify that the child comment does not provide a reason, evidence, explanation, or justification for the parent comment, nor does the parent comment justify the child. Therefore, no supportive-justification relation is present.\",\n  \"evidence\": \"Parent: \\\"O kay then.\\\" (no claim). Child: a discussion about gender differences, unrelated to the parent’s minimal acknowledgment.\"\n}"
+    }
+  },
+  {
+    "scheme": "afsj",
+    "pair_id": "causal_92328773fa7d70d30d06",
+    "parent_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "child_text": "@User_409  O kay then.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_92328773fa7d70d30d06",
+      "parent_id": "comment_8c34771d27",
+      "child_id": "comment_2f545b91fe",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "initial_annotation",
+      "reason": "Both the parent and child comments do not contain any reason, evidence, explanation, clarification, or justification linking them; the child merely says \"O kay then,\" which is not a supportive-justification relation.",
+      "evidence": "Parent comment critiques a previous comment; child comment is a brief, non‑justificatory reply."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "supportive_justification_stage3_v3",
+      "timestamp": "2026-10-15T23:55:43+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 2207
+    },
+    "thinking_output": "We need to verify if the final answer should be as given. Let's analyze.\n\nParent comment: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nChild comment: \"@User_409 O kay then.\"\n\nThe child says \"O kay then.\" That's basically a dismissive or neutral response, maybe sarcasm? It doesn't provide any reason, evidence, explanation, clarification, or justification for the parent comment. It's just a short reply, possibly indicating acceptance or dismissal. No supportive justification.\n\nThus the relation is not present. So final_present false, direction none, polarity none. Confidence high.\n\nBoth initial annotation and validation say false. Validation says is_valid true, corrected_present false. So final should follow validation. Decision source could be validation_judgment (since they agree but validation is considered). Could also be initial_annotation, but rule says if validation identifies error, prefer validator. Here validator says it's correct. Both are correct. Which source to choose? Could be either. The guidelines: \"If the initial annotation is valid according to the validation judgment, prefer the initial annotation unless the adjudicator finds a clear textual or schema error.\" So we could keep initial_annotation. But both are same. Decision source could be \"initial_annotation\" because it's valid. However the validation judgment also says it's correct. The adjudicator can choose either but must specify source. The initial annotation is correct, so decision_source \"initial_annotation\" is acceptable. But the provided answer uses validation_judgment. That's also acceptable? The rule says prefer initial unless adjudicator finds error. Since no error, we should keep initial. So decision_source should be \"initial_annotation\". Let's see if any nuance: The initial annotation includes \"no_argument_scheme_relation\": true. That's consistent. So final should be same as initial. So decision_source \"initial_annotation\". Confidence maybe 0.95.\n\nThus final JSON should reflect that.\n\nAlso include reason and evidence fields. Provide reason.\n\nLet's craft final answer.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_supportive_justification": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a dismissive acknowledgment and does not provide any justification or evidence.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"initial_annotation\",\n  \"reason\": \"Both the parent and child comments do not contain any reason, evidence, explanation, clarification, or justification linking them; the child merely says \\\"O kay then,\\\" which is not a supportive-justification relation.\",\n  \"evidence\": \"Parent comment critiques a previous comment; child comment is a brief, non‑justificatory reply.\"\n}"
+    }
+  },
+  {
+    "scheme": "afsj",
+    "pair_id": "causal_51c77cea57de83bc4d3b",
+    "parent_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "child_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_51c77cea57de83bc4d3b",
+      "parent_id": "comment_1c34bbd117",
+      "child_id": "comment_8c34771d27",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 0.0,
+      "child_stance": 1,
+      "techniques": [
+        "Doubt",
+        "Name_Calling,Labeling"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.96,
+      "decision_source": "validation_judgment",
+      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not provide a reason, evidence, explanation, or justification for the parent comment; it merely agrees and remarks on relevance, which does not meet the supportive-justification criteria.",
+      "evidence": "Parent states a claim about gender differences; child replies with \"Of course we're different\" (agreement) and adds that this is not the point of the video, offering no supporting reason or justification for the parent’s claim."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "supportive_justification_stage3_v3",
+      "timestamp": "2026-10-15T23:55:52+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1804
+    },
+    "thinking_output": "We need to evaluate if the final decision should be as given. The task: Determine if there is supportive justification relation between parent and child comment.\n\nParent: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nChild: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nInterpretation: Child says \"Of course we're different. That's not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nDoes child provide justification for parent? Parent says men and women are different, referencing brain functions. Child says \"Of course we're different.\" That's agreement, but also says \"That's not the point of the video.\" So child is not providing a reason supporting the claim; it's just agreeing that we are different, but also says it's not the point. That is not a supportive justification; it's more a comment that acknowledges difference but says it's irrelevant. So no supportive justification relation.\n\nThus final_present false, direction none, polarity none. Confidence high.\n\nBoth initial and validation say false. Validation is correct. So decision_source could be validation_judgment (or initial_annotation). According to rule 7, if validation identifies error, prefer validator. Here validator says correct. So we can keep validation as source. Provide final JSON.\n\nMake sure fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nWe need to include reason and evidence maybe optional but okay.\n\nThus output as given.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_supportive_justification": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply addresses the relevance of the parent's claim but does not provide justification or evidence.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.96,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the initial annotation and the validation judgment correctly identify that the child comment does not provide a reason, evidence, explanation, or justification for the parent comment; it merely agrees and remarks on relevance, which does not meet the supportive-justification criteria.\",\n  \"evidence\": \"Parent states a claim about gender differences; child replies with \\\"Of course we're different\\\" (agreement) and adds that this is not the point of the video, offering no supporting reason or justification for the parent’s claim.\"\n}"
+    }
+  },
+  {
+    "scheme": "afsj",
+    "pair_id": "causal_293f1daa3b2eac56cad4",
+    "parent_text": "Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.",
+    "child_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_293f1daa3b2eac56cad4",
+      "parent_id": "comment_41e4334eb2",
+      "child_id": "comment_1c34bbd117",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 0,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "true",
+      "final_direction": "C->P",
+      "final_polarity_to_target": "attack",
+      "confidence": 0.92,
+      "decision_source": "validation_judgment",
+      "reason": "The child comment directly attacks the parent comment's claims by providing statistical evidence and an explanatory appeal to brain differences, which constitutes a clear supportive-justification (attack) relation from C to P.",
+      "evidence": "Parent: claims women fix houses all the time and some best kindergarten teachers are men. Child: counters with 'most builders are men and most kindergarten teachers are women' and adds explanation about brain function, providing reasons/evidence to refute the parent's statement."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "supportive_justification_stage3_v3",
+      "timestamp": "2026-10-15T23:56:02+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 2137
+    },
+    "thinking_output": "We need to evaluate the task. Parent comment: \"Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.\"\n\nChild comment: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nWe need to decide if there is an argument from supportive justification relation. The child is providing reasons/evidence to attack the parent's claim. The parent claims women fix houses all the time, and some best kindergarten teachers are men. Child says that's disproportionate, most builders are men and most kindergarten teachers are women, it's how our brain functions, men and women are different. This is providing evidence (statistics) and explanation to counter the parent's claim. That seems like a supportive justification (attack) relation: child uses justification to attack parent.\n\nThe initial annotation says present true, polarity attack, direction C->P. Validation says same (present true, direction C->P, polarity attack) and says initial annotation is invalid because it incorrectly marks relation as absent? Wait initial annotation says present true. The validation says \"incorrect_annotation\" because it incorrectly marks the relation as absent when a clear supportive-justification relation exists. But the initial annotation didn't mark absent; maybe they mis-wrote. Anyway both say present true.\n\nWe must decide final values. According to rules, if validation judgment identifies a valid error, prefer validator's corrected values. Here validation says corrected_present true, direction C->P, polarity attack. So we should adopt that.\n\nBut we must ensure that the relation indeed meets definition: child provides reasons/evidence to attack parent claim. Yes.\n\nThus final_present true, final_direction C->P, final_polarity_to_target attack. Confidence maybe 0.9.\n\nDecision source: validation_judgment (since they corrected). Or adjudicator_override? The validation is correct. So decision_source = \"validation_judgment\".\n\nProvide JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_supportive_justification": {
+        "present": "true",
+        "polarity_to_target": "attack",
+        "confidence": 0.85,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "C->P"
+      },
+      "no_argument_scheme_relation": false,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": false,
+      "corrected_present": "true",
+      "corrected_direction": "C->P",
+      "corrected_polarity_to_target": "attack",
+      "corrected_no_argument_scheme_relation": false,
+      "confidence": 0.85,
+      "error_type": "incorrect_annotation",
+      "reason": "The proposed annotation is invalid because it incorrectly marks the relation as absent when a clear supportive-justification relation exists. The child comment (C) directly responds to the parent comment (P) by providing reasons and evidence to attack P's claim. P claims that women fix houses all the time and some of the best kindergarten teachers are men, implying gender roles are not fixed or significant. C counters this by stating that builders are mostly men and kindergarten teachers are mostly women, arguing that this disproportion is due to how our brains function and that men and women are different. This constitutes a clear attack using justification (reasons/evidence about brain function and statistical disparity) against P's standpoint. Therefore, the relation is present, direction is C->P, polarity is attack, and no_argument_scheme_relation should be false."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.85,\n\"rationale\": \"The child reply provides an explanation (brain function) to attack the significance of the parent's claims.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply uses a justification to attack the implication of the parent comment.\"\n}",
+      "stage2": "{\n\"is_valid\": false,\n\"corrected_present\": \"true\",\n\"corrected_direction\": \"C->P\",\n\"corrected_polarity_to_target\": \"attack\",\n\"corrected_no_argument_scheme_relation\": false,\n\"confidence\": 0.85,\n\"error_type\": \"incorrect_annotation\",\n\"reason\": \"The proposed annotation is invalid because it incorrectly marks the relation as absent when a clear supportive-justification relation exists. The child comment (C) directly responds to the parent comment (P) by providing reasons and evidence to attack P's claim. P claims that women fix houses all the time and some of the best kindergarten teachers are men, implying gender roles are not fixed or significant. C counters this by stating that builders are mostly men and kindergarten teachers are mostly women, arguing that this disproportion is due to how our brains function and that men and women are different. This constitutes a clear attack using justification (reasons/evidence about brain function and statistical disparity) against P's standpoint. Therefore, the relation is present, direction is C->P, polarity is attack, and no_argument_scheme_relation should be false.\"\n}",
+      "stage3": "{\n  \"final_present\": \"true\",\n  \"final_direction\": \"C->P\",\n  \"final_polarity_to_target\": \"attack\",\n  \"confidence\": 0.92,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"The child comment directly attacks the parent comment's claims by providing statistical evidence and an explanatory appeal to brain differences, which constitutes a clear supportive-justification (attack) relation from C to P.\",\n  \"evidence\": \"Parent: claims women fix houses all the time and some best kindergarten teachers are men. Child: counters with 'most builders are men and most kindergarten teachers are women' and adds explanation about brain function, providing reasons/evidence to refute the parent's statement.\"\n}"
+    }
+  },
+  {
+    "scheme": "afsj",
+    "pair_id": "causal_4ebf79c26c04970c5c5a",
+    "parent_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "child_text": "@User_410  Men and Woman are  not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_4ebf79c26c04970c5c5a",
+      "parent_id": "comment_aea12b5464",
+      "child_id": "comment_f1cbef3ae7",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Loaded_Language",
+        "Appeal_to_Authority",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "true",
+      "final_direction": "C->P",
+      "final_polarity_to_target": "attack",
+      "confidence": 0.96,
+      "decision_source": "validation_judgment",
+      "reason": "The child comment directly attacks the parent comment's claim that men and women are the same by invoking scientists and physiological differences as evidence, which is a clear provision of justification used to refute the parent’s standpoint. This satisfies the definition of an argument from supportive justification.",
+      "evidence": "C states \"scientist and physiologists will tell you that men and women are not the same, there are huge differences\" as a reason against P's assertion."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "supportive_justification_stage3_v3",
+      "timestamp": "2026-10-15T23:56:16+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 3434
+    },
+    "thinking_output": "We need to evaluate whether there is an argument from supportive justification relation between P and C.\n\nParent comment: \"@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.\"\n\nChild comment: \"@User_410  Men and Woman are  not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.\"\n\nWe need to see if C provides reasons/evidence to support or attack P. C says \"Men and Woman are not the same... scientists will tell you... huge differences... but if you want to believe they're the same, nothing can stop you apart from reason and logic.\" This is an attack on P's claim that men and women are the same, providing justification (scientists, differences). That seems to be a supportive justification (providing evidence) used to attack P. So the relation is present, direction C->P, polarity attack.\n\nThe initial annotation says present true, direction C->P, polarity attack. Validation says same, also true. Both agree. The adjudicator must decide if this is indeed a supportive justification relation per definition. The definition: \"providing reasons, evidence, explanation, clarification, or justification that supports or strengthens the target comment's claim, standpoint, or reasoning.\" Here C is providing reasons to reject P's claim. That's still a supportive justification relation (justification used to attack). The definition includes \"to support, attack, reject, or otherwise respond to the parent comment.\" So yes.\n\nThus final_present true, direction C->P, polarity attack. Confidence high.\n\nDecision source: either initial_annotation or validation_judgment. Both agree. Validation says is_valid false? Wait validation judgment says \"is_valid\": false meaning the validation judged the initial annotation as invalid? Actually the validation judgment says is_valid false, but then corrected_present true etc. It says \"The proposed annotation is correct.\" That's contradictory. The field \"is_valid\": false maybe indicates the validation considered the initial annotation invalid? But they then corrected to same values. The reason says \"The proposed annotation is correct.\" So maybe they flagged is_valid false erroneously. Regardless, we need to follow rule: If validation judgment identifies a valid error, prefer validator. If both are correct, we can choose either source. The validation judgment provides corrected values identical to initial. So we can set decision_source \"validation_judgment\" (since they provided explicit corrected values). Or \"initial_annotation\". Either is fine. Choose validation_judgment.\n\nThus final JSON:\n\n{\n\"final_present\": \"true\",\n\"final_direction\": \"C->P\",\n\"final_polarity_to_target\": \"attack\",\n\"confidence\": 0.96,\n\"decision_source\": \"validation_judgment\",\n\"reason\": \"Child comment attacks parent claim by providing scientific justification, constituting an argument from supportive justification.\",\n\"evidence\": \"C cites scientists and physiological differences as reasons against P's statement that men and women are the same.\"\n}\n\nMake sure fields match required names: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nReturn JSON only.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_supportive_justification": {
+        "present": "true",
+        "polarity_to_target": "attack",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "C->P"
+      },
+      "no_argument_scheme_relation": false,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": false,
+      "corrected_present": "true",
+      "corrected_direction": "C->P",
+      "corrected_polarity_to_target": "attack",
+      "corrected_no_argument_scheme_relation": false,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is correct. The child comment (C) directly attacks the parent comment's (P) claim that 'Men and women are the same' by providing a justification/reason: 'scientist and physiologists will tell you that men and women are not the same, there are huge differences'. This constitutes an argument from supportive justification where C uses evidence/reasoning to attack P's standpoint. The direction is C->P because C provides the justification against P's claim. The polarity is attack because C rejects P's assertion."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply provides scientific and physiological differences as a justification to attack the parent's claim.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply uses scientific evidence to attack the parent's claim.\"\n}",
+      "stage2": "{\n\"is_valid\": false,\n\"corrected_present\": \"true\",\n\"corrected_direction\": \"C->P\",\n\"corrected_polarity_to_target\": \"attack\",\n\"corrected_no_argument_scheme_relation\": false,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is correct. The child comment (C) directly attacks the parent comment's (P) claim that 'Men and women are the same' by providing a justification/reason: 'scientist and physiologists will tell you that men and women are not the same, there are huge differences'. This constitutes an argument from supportive justification where C uses evidence/reasoning to attack P's standpoint. The direction is C->P because C provides the justification against P's claim. The polarity is attack because C rejects P's assertion.\"\n}",
+      "stage3": "{\n  \"final_present\": \"true\",\n  \"final_direction\": \"C->P\",\n  \"final_polarity_to_target\": \"attack\",\n  \"confidence\": 0.96,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"The child comment directly attacks the parent comment's claim that men and women are the same by invoking scientists and physiological differences as evidence, which is a clear provision of justification used to refute the parent’s standpoint. This satisfies the definition of an argument from supportive justification.\",\n  \"evidence\": \"C states \\\"scientist and physiologists will tell you that men and women are not the same, there are huge differences\\\" as a reason against P's assertion.\"\n}"
+    }
+  },
+  {
+    "scheme": "afsj",
+    "pair_id": "causal_fc05ca17c2c734592dae",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_fc05ca17c2c734592dae",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_aea12b5464",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent comment ('O kay then.') and the child comment ('Just because most men are builders...') are unrelated; the child does not provide a reason, evidence, or explanation supporting or attacking the parent, nor does the parent contain a claim that the child justifies. Therefore no supportive‑justification relation is present.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "supportive_justification_stage3_v3",
+      "timestamp": "2026-10-15T23:56:22+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 692
+    },
+    "thinking_output": "We need to verify if any supportive justification relation exists between parent and child.\n\nParent comment: \"@User_409 O kay then.\" Very short, basically \"Okay then.\" No claim, no argument. Child comment: \"@User_408 Just because most men are ...\". The child is addressing a different user (User_408) and making a statement about gender equality. It does not respond to the parent comment. There's no supportive justification relation. So final_present false, direction none, polarity none. Validation says correct. So final decision matches validation. Provide JSON with confidence maybe 0.95. decision_source validation_judgment. Provide reason. evidence maybe empty. Ensure format matches.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_supportive_justification": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_supportive_justification\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The parent comment lacks a claim that the child reply justifies or attacks.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No supportive-justification relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a supportive or justificatory relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent comment ('O kay then.') and the child comment ('Just because most men are builders...') are unrelated; the child does not provide a reason, evidence, or explanation supporting or attacking the parent, nor does the parent contain a claim that the child justifies. Therefore no supportive‑justification relation is present.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afr",
+    "pair_id": "causal_2d39ad4e771360ae2f8d",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  are we different though? I don't think there's a great deal different between men and women's brains. Given equal opportunity women have thrived in previous male lead professions, there are more female medical students now than there ever was. There are also lots of lovely men teaching and nurturing children. \nEven when you're marking nameless exam papers you can barely tell which is written by a male or female. Everyone focuses on the differences but everyone is more alike than they think.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_2d39ad4e771360ae2f8d",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_5c2670fb19",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not rebut, challenge, or counter the parent comment; it introduces a new topic without addressing the parent’s brief statement.",
+      "evidence": "Parent comment is a minimal acknowledgment ('Okay then'), while the child comment discusses gender differences in brains and professions, with no reference to or rebuttal of the parent comment."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "rebuttal_stage3_v3",
+      "timestamp": "2026-10-15T23:56:30+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 605
+    },
+    "thinking_output": "We need to verify if any rebuttal relation exists. Parent comment: \"@User_409  O kay then.\" Very short, basically \"Okay then.\" Child comment: addresses @User_408, not the parent. It says \"are we different though? I don't think there's a great deal different between men and women's brains...\" It's not rebutting the parent comment. It's a new statement, not a rebuttal. So no rebuttal relation. Both initial and validation say false. So final should be false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree but validation is explicit). Provide JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_rebuttal": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The parent comment lacks a substantive claim or argument to be rebutted.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the initial annotation and the validation judgment correctly identify that the child comment does not rebut, challenge, or counter the parent comment; it introduces a new topic without addressing the parent’s brief statement.\",\n  \"evidence\": \"Parent comment is a minimal acknowledgment ('Okay then'), while the child comment discusses gender differences in brains and professions, with no reference to or rebuttal of the parent comment.\"\n}"
+    }
+  },
+  {
+    "scheme": "afr",
+    "pair_id": "causal_92328773fa7d70d30d06",
+    "parent_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "child_text": "@User_409  O kay then.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_92328773fa7d70d30d06",
+      "parent_id": "comment_8c34771d27",
+      "child_id": "comment_2f545b91fe",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent and child comments do not contain a substantive counter‑claim, correction, or objection; the child’s brief \"O kay then\" is merely dismissive and does not constitute a rebuttal relation.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "rebuttal_stage3_v3",
+      "timestamp": "2026-10-15T23:56:36+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1000
+    },
+    "thinking_output": "We need to verify if any rebuttal relation exists. Parent says: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nChild: \"@User_409 O kay then.\"\n\nChild is replying to parent? Actually child mentions @User_409, not the parent. The child says \"O kay then.\" That's just a dismissive or sarcastic comment, not a substantive counter-claim. No rebuttal. So present false, direction none, polarity none. Both initial and validation say false. According to rules, choose validation if it's correct. Both agree. Decision source could be either initial_annotation or validation_judgment. Since validation judgment is valid and matches, we can use validation_judgment. Confidence maybe 0.95 as given. Provide reason. Provide evidence maybe empty. Output JSON.\n\nCheck format: fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nYes.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_rebuttal": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply is a dismissive acknowledgment and lacks a substantive counter-claim or rebuttal.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent and child comments do not contain a substantive counter‑claim, correction, or objection; the child’s brief \\\"O kay then\\\" is merely dismissive and does not constitute a rebuttal relation.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afr",
+    "pair_id": "causal_51c77cea57de83bc4d3b",
+    "parent_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "child_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_51c77cea57de83bc4d3b",
+      "parent_id": "comment_1c34bbd117",
+      "child_id": "comment_8c34771d27",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 0.0,
+      "child_stance": 1,
+      "techniques": [
+        "Doubt",
+        "Name_Calling,Labeling"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "true",
+      "final_direction": "C->P",
+      "final_polarity_to_target": "attack",
+      "confidence": 0.82,
+      "decision_source": "adjudicator_override",
+      "reason": "The child comment explicitly challenges the relevance of the parent’s claim by stating “That’s not the point of the video,” which constitutes a substantive objection and counter‑interpretation, meeting the definition of a rebuttal. The direction is from child to parent, and the polarity is attacking the parent’s relevance claim.",
+      "evidence": "Parent asserts gender differences as a fact. Child replies “Of course we’re different. That’s not the point of the video,” directly rejecting the parent’s point as irrelevant, thus providing a counter‑claim."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 1536,
+      "format": "json_schema",
+      "prompt_version": "rebuttal_stage3_v3",
+      "timestamp": "2026-10-15T23:57:04+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 3918
+    },
+    "thinking_output": "We need to evaluate if any rebuttal relation exists between parent and child comment.\n\nParent: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nChild: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nChild addresses parent: says \"Of course we're different. That's not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nIs this a rebuttal? The child is challenging the relevance of the parent's comment to the video, implying the parent's comment is off-topic or misapplied. The child says \"That's not the point of the video.\" That is a rebuttal: they are rejecting the relevance of the parent's claim. They also say \"It sounds like your comment was taken from a political debate on transgenderism or something.\" That's a critique, perhaps mocking.\n\nThe definition: rebuttal includes rejecting, challenging, correcting, countering. The child is challenging the parent's claim that \"men and women are different\" as being relevant to the video. They say \"Of course we're different\" (agree) but then \"That's not the point of the video.\" So they are not directly rebutting the claim that men and women are different; they are rebutting the relevance. That still counts as a rebuttal relation? The child is providing a counter-interpretation: the parent's comment is off-topic. That's a substantive counter-claim about the relevance. It seems like a rebuttal.\n\nBut the task says \"Mere disagreement, insult, ridicule, dismissal, or emotional reaction is not sufficient unless one comment gives a substantive counter-claim, correction, counter-reason, objection, refutation, or alternative interpretation against the other.\" The child does give an objection: \"That's not the point of the video.\" That's an objection to the relevance. That's a substantive counter-claim about the purpose. So likely qualifies as rebuttal.\n\nThus final_present should be true, direction C->P (child rebutting parent). Polarity: attack (they are rejecting the relevance). So \"attack\". Confidence maybe 0.85.\n\nBut we must consider validation judgment says false. However we can override if we think it's rebuttal. The validation says \"The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation.\" We need to decide if that is correct. Let's examine more.\n\nParent says \"most builders are men and most kindergarten teachers are women... it's how our brain functions... men and women are not the same.\" Child says \"Of course we're different. That's not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nThe child acknowledges difference but says it's not the point. The child is not directly refuting the claim that men and women are different; they are refuting the relevance. The definition includes \"counter-interpretation\" etc. That seems like a rebuttal.\n\nIs it \"substantive\"? The child says \"That's not the point of the video.\" That's a claim about the purpose. It's a counter-claim. So yes.\n\nThus we should set final_present true.\n\nBut we must consider if the child is just dismissing as off-topic, which could be considered a rebuttal. The task says \"Mere ... dismissal ... is not sufficient unless one comment gives a substantive counter-claim, correction, ...\". The child does give a substantive claim: \"That's not the point of the video.\" That's a claim about relevance. So qualifies.\n\nThus final_present true, direction C->P, polarity attack.\n\nConfidence maybe 0.8.\n\nDecision source: adjudicator_override because we disagree with validation.\n\nProvide reason and evidence.\n\nLet's craft JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_rebuttal": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.9,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The reply dismisses the parent's relevance to the video without providing a substantive counter-argument or objection.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"The reply is a dismissal of relevance rather than a substantive rebuttal.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"true\",\n  \"final_direction\": \"C->P\",\n  \"final_polarity_to_target\": \"attack\",\n  \"confidence\": 0.82,\n  \"decision_source\": \"adjudicator_override\",\n  \"reason\": \"The child comment explicitly challenges the relevance of the parent’s claim by stating “That’s not the point of the video,” which constitutes a substantive objection and counter‑interpretation, meeting the definition of a rebuttal. The direction is from child to parent, and the polarity is attacking the parent’s relevance claim.\",\n  \"evidence\": \"Parent asserts gender differences as a fact. Child replies “Of course we’re different. That’s not the point of the video,” directly rejecting the parent’s point as irrelevant, thus providing a counter‑claim.\"\n}"
+    }
+  },
+  {
+    "scheme": "afr",
+    "pair_id": "causal_293f1daa3b2eac56cad4",
+    "parent_text": "Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.",
+    "child_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_293f1daa3b2eac56cad4",
+      "parent_id": "comment_41e4334eb2",
+      "child_id": "comment_1c34bbd117",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 0,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "true",
+      "final_direction": "C->P",
+      "final_polarity_to_target": "attack",
+      "confidence": 0.96,
+      "decision_source": "initial_annotation",
+      "reason": "The child comment directly counters the parent’s claim about gender distribution in house‑fixing and kindergarten teaching, providing a substantive counter‑claim that most builders are men and most kindergarten teachers are women. This constitutes a clear rebuttal relation from C to P with an attack polarity.",
+      "evidence": "Parent: \"women fix houses all the time... some of the best kindergarten teachers are men.\" Child: \"most builders are men and most kindergarten teachers are women...\""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "rebuttal_stage3_v3",
+      "timestamp": "2026-10-15T23:57:17+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 2788
+    },
+    "thinking_output": "We need to decide final values. Let's analyze.\n\nParent comment: \"Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.\"\n\nChild comment: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nWe need to see if child is rebutting parent. Parent claims women fix houses all the time (i.e., women are common in house fixing) and some best kindergarten teachers are men. Child says those are very disproportionate, most builders are men and most kindergarten teachers are women, it's how our brain functions, etc. This is a direct counter-claim: child says the distribution is opposite, i.e., women are not common in building, men are not common in kindergarten teaching. That's a rebuttal, attacking the parent's claim. So there is a rebuttal relation from C to P, with attack polarity.\n\nThus final_present should be \"true\". Direction C->P. Polarity attack.\n\nNow we need to consider if any nuance: The child says \"most builders are men and most kindergarten teachers are women\". That's a factual claim that contradicts parent. That's a substantive counter-claim. So yes.\n\nThus final_present true.\n\nNow we need to decide confidence. The evidence is clear. So maybe 0.95.\n\nDecision source: The validation judgment says present true, direction C->P, polarity attack. The initial annotation also says true, direction C->P, polarity attack. Both agree. Validation says initial annotation invalid because incorrectly labels relation as false? Wait the validation says \"The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists.\" But the initial annotation actually says present true. The validation text seems mismatched: It says \"incorrectly labels the relation as 'false'\" but the initial annotation says true. Possibly a mistake. But both initial and validation agree on true. So we can keep either. According to rule 7, if validation identifies error, prefer validator. But here validator says error but actually both are same. The validator's reasoning says they think initial was false, but initial is true. So maybe the validator misread. However we need to decide final based on textual evidence. Both say true. So we can choose \"initial_annotation\" or \"validation_judgment\". Since both are consistent, we can pick either. The decision source should be \"initial_annotation\" if we think it's correct. Or \"validation_judgment\" if we think validator is correct. Both are same. Choose \"initial_annotation\" maybe.\n\nBut we must ensure final_present true, direction C->P, polarity attack, confidence high.\n\nThus output JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_rebuttal": {
+        "present": "true",
+        "polarity_to_target": "attack",
+        "confidence": 0.9,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "C->P"
+      },
+      "no_argument_scheme_relation": false,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": false,
+      "corrected_present": "true",
+      "corrected_direction": "C->P",
+      "corrected_polarity_to_target": "attack",
+      "corrected_no_argument_scheme_relation": false,
+      "confidence": 0.85,
+      "error_type": "incorrect_labeling",
+      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists. The parent comment (P) claims that women fix houses all the time and some of the best kindergarten teachers are men, implying gender roles in these professions are not strictly divided. The child comment (C) directly counters this by stating that builders are mostly men and kindergarten teachers are mostly women, arguing that this disparity is due to biological differences ('how our brain functions'). This constitutes a substantive counter-claim and correction against P's assertion, establishing a clear rebuttal relation from C to P with an attack polarity."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child counters the parent's examples by asserting that such instances are statistically disproportionate.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child provides a substantive counter-claim to the parent's assertion.\"\n}",
+      "stage2": "{\n\"is_valid\": false,\n\"corrected_present\": \"true\",\n\"corrected_direction\": \"C->P\",\n\"corrected_polarity_to_target\": \"attack\",\n\"corrected_no_argument_scheme_relation\": false,\n\"confidence\": 0.85,\n\"error_type\": \"incorrect_labeling\",\n\"reason\": \"The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists. The parent comment (P) claims that women fix houses all the time and some of the best kindergarten teachers are men, implying gender roles in these professions are not strictly divided. The child comment (C) directly counters this by stating that builders are mostly men and kindergarten teachers are mostly women, arguing that this disparity is due to biological differences ('how our brain functions'). This constitutes a substantive counter-claim and correction against P's assertion, establishing a clear rebuttal relation from C to P with an attack polarity.\"\n}",
+      "stage3": "{\n  \"final_present\": \"true\",\n  \"final_direction\": \"C->P\",\n  \"final_polarity_to_target\": \"attack\",\n  \"confidence\": 0.96,\n  \"decision_source\": \"initial_annotation\",\n  \"reason\": \"The child comment directly counters the parent’s claim about gender distribution in house‑fixing and kindergarten teaching, providing a substantive counter‑claim that most builders are men and most kindergarten teachers are women. This constitutes a clear rebuttal relation from C to P with an attack polarity.\",\n  \"evidence\": \"Parent: \\\"women fix houses all the time... some of the best kindergarten teachers are men.\\\" Child: \\\"most builders are men and most kindergarten teachers are women...\\\"\"\n}"
+    }
+  },
+  {
+    "scheme": "afr",
+    "pair_id": "causal_4ebf79c26c04970c5c5a",
+    "parent_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "child_text": "@User_410  Men and Woman are  not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_4ebf79c26c04970c5c5a",
+      "parent_id": "comment_aea12b5464",
+      "child_id": "comment_f1cbef3ae7",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Loaded_Language",
+        "Appeal_to_Authority",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "true",
+      "final_direction": "C->P",
+      "final_polarity_to_target": "attack",
+      "confidence": 0.98,
+      "decision_source": "initial_annotation",
+      "reason": "The child comment directly challenges the parent comment's claim that \"Men and women are the same\" by asserting the opposite and invoking scientific authority. This constitutes a clear substantive counter‑claim, satisfying the definition of an Argument from Rebuttal with attack polarity flowing from child to parent.",
+      "evidence": "Parent: \"Men and women are the same...\" Child: \"Men and Woman are not the same... scientist and physiologists will tell you that men and women are not the same...\""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "rebuttal_stage3_v3",
+      "timestamp": "2026-10-15T23:57:28+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1992
+    },
+    "thinking_output": "We need to decide final values. Let's examine the comments.\n\nParent: \"@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.\"\n\nChild: \"@User_410  Men and Woman are  not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.\"\n\nThe child says men and women are not the same, counters the parent's claim that they are the same, referencing scientists. This is a clear rebuttal: child attacks parent's claim. So according to definition, this is an Argument from Rebuttal, present true, direction C->P, polarity attack.\n\nThe initial annotation says present true, direction C->P, polarity attack. That's correct.\n\nThe validation judgment says is_valid false (meaning initial annotation invalid) but then corrected_present true, direction C->P, polarity attack. So validator says initial annotation was wrong (maybe they thought it labeled false) but corrected to true. However the initial annotation already had true. The validation says \"incorrect_labeling\" because it incorrectly labels the relation as 'false' when a clear rebuttal exists. But the initial annotation actually labeled true. So validator's claim seems mistaken. The validation says is_valid false, but they think the initial annotation incorrectly labeled false. But the initial annotation labeled true. So validation is wrong.\n\nThus we should keep initial annotation as correct. According to rule 7: If validation identifies a valid error, prefer validator. But here validator's error claim is not valid; they misread. So we should keep initial annotation.\n\nThus final_present true, direction C->P, polarity attack. Confidence high, maybe 0.98.\n\nDecision source: initial_annotation (since it's correct). Provide reason.\n\nLet's craft JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_rebuttal": {
+        "present": "true",
+        "polarity_to_target": "attack",
+        "confidence": 1.0,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "C->P"
+      },
+      "no_argument_scheme_relation": false,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": false,
+      "corrected_present": "true",
+      "corrected_direction": "C->P",
+      "corrected_polarity_to_target": "attack",
+      "corrected_no_argument_scheme_relation": false,
+      "confidence": 0.95,
+      "error_type": "incorrect_labeling",
+      "reason": "The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists. The child comment directly challenges the parent's claim that 'Men and women are the same' by asserting 'Men and Woman are not the same' and providing counter-reasoning based on scientific and physiological differences. This constitutes a substantive counter-claim and objection, fulfilling the criteria for an Argument from Rebuttal with attack polarity flowing from child to parent."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 1.0,\n\"rationale\": \"The child reply directly counters the parent's claim of sameness with a counter-claim regarding biological differences.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply provides a substantive counter-claim to the parent's assertion.\"\n}",
+      "stage2": "{\n\"is_valid\": false,\n\"corrected_present\": \"true\",\n\"corrected_direction\": \"C->P\",\n\"corrected_polarity_to_target\": \"attack\",\n\"corrected_no_argument_scheme_relation\": false,\n\"confidence\": 0.95,\n\"error_type\": \"incorrect_labeling\",\n\"reason\": \"The proposed annotation is invalid because it incorrectly labels the relation as 'false' when a clear rebuttal relation exists. The child comment directly challenges the parent's claim that 'Men and women are the same' by asserting 'Men and Woman are not the same' and providing counter-reasoning based on scientific and physiological differences. This constitutes a substantive counter-claim and objection, fulfilling the criteria for an Argument from Rebuttal with attack polarity flowing from child to parent.\"\n}",
+      "stage3": "{\n  \"final_present\": \"true\",\n  \"final_direction\": \"C->P\",\n  \"final_polarity_to_target\": \"attack\",\n  \"confidence\": 0.98,\n  \"decision_source\": \"initial_annotation\",\n  \"reason\": \"The child comment directly challenges the parent comment's claim that \\\"Men and women are the same\\\" by asserting the opposite and invoking scientific authority. This constitutes a clear substantive counter‑claim, satisfying the definition of an Argument from Rebuttal with attack polarity flowing from child to parent.\",\n  \"evidence\": \"Parent: \\\"Men and women are the same...\\\" Child: \\\"Men and Woman are not the same... scientist and physiologists will tell you that men and women are not the same...\\\"\"\n}"
+    }
+  },
+  {
+    "scheme": "afr",
+    "pair_id": "causal_fc05ca17c2c734592dae",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_fc05ca17c2c734592dae",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_aea12b5464",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent comment and child comment lack a substantive counter‑claim or correction; the child does not rebut any claim made by the parent, so no rebuttal relation is present.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "rebuttal_stage3_v3",
+      "timestamp": "2026-10-15T23:57:34+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1040
+    },
+    "thinking_output": "We need to verify if any rebuttal relation exists. Parent comment: \"@User_409 O kay then.\" That's basically a short acknowledgement, maybe \"Okay then\". Child comment: \"@User_408 Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.\"\n\nThe child is responding to parent? The parent is just \"O kay then.\" Not a claim. Child is making a statement about gender equality. There's no rebuttal to the parent's comment because parent didn't assert anything to rebut. It's not a direct counter. So no rebuttal relation. So final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide reason. The output JSON must match format. Ensure fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence (maybe optional). Provide as per example. Use confidence maybe 0.95. Provide reason. Provide evidence maybe empty string. Let's output.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_rebuttal": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_rebuttal\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The parent comment lacks a substantive claim or reasoning that can be rebutted.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No rebuttal relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a rebuttal-based relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent comment and child comment lack a substantive counter‑claim or correction; the child does not rebut any claim made by the parent, so no rebuttal relation is present.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afcc",
+    "pair_id": "causal_2d39ad4e771360ae2f8d",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  are we different though? I don't think there's a great deal different between men and women's brains. Given equal opportunity women have thrived in previous male lead professions, there are more female medical students now than there ever was. There are also lots of lovely men teaching and nurturing children. \nEven when you're marking nameless exam papers you can barely tell which is written by a male or female. Everyone focuses on the differences but everyone is more alike than they think.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_2d39ad4e771360ae2f8d",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_5c2670fb19",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent comment and child comment do not contain any explicit or strongly inferable causal or consequential claim linking them; the child comment discusses gender differences independently of the parent’s brief acknowledgment.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "causal_stage3_v3",
+      "timestamp": "2026-10-15T23:57:43+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 673
+    },
+    "thinking_output": "We need to evaluate if any causal-consequence relation exists between parent comment \"@User_409 O kay then.\" and child comment which is a long statement about gender differences. Parent comment is just \"O kay then.\" (maybe \"Okay then.\") Very minimal. Child comment does not refer to parent comment's content; it's a separate statement about gender differences. No causal relation. So final_present false, direction none, polarity none. Validation says correct. So final decision matches validation. Provide JSON with fields as per spec. Need confidence maybe 0.95 as validation. decision_source validation_judgment. Provide reason and evidence optional. Provide final JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_causal_consequence": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 1.0,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 1.0,\n\"rationale\": \"The parent comment contains no claim or consequence to which the child's argument can relate.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation is established between the comments.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent comment and child comment do not contain any explicit or strongly inferable causal or consequential claim linking them; the child comment discusses gender differences independently of the parent’s brief acknowledgment.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afcc",
+    "pair_id": "causal_92328773fa7d70d30d06",
+    "parent_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "child_text": "@User_409  O kay then.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_92328773fa7d70d30d06",
+      "parent_id": "comment_8c34771d27",
+      "child_id": "comment_2f545b91fe",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent and child comments do not contain any explicit or strongly inferable causal or consequential relationship; the child merely replies with \"O kay then,\" which is not a causal statement.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "causal_stage3_v3",
+      "timestamp": "2026-10-15T23:57:49+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1132
+    },
+    "thinking_output": "We need to evaluate if the final answer should be as given. Let's examine the comments.\n\nParent: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nChild: \"@User_409 O kay then.\"\n\nThe child says \"O kay then.\" That's just a dismissive or sarcastic response, not causal. No causal relation. So present false, direction none, polarity none. Both initial and validation say false. Validation is correct. So final should be false, none, none. Confidence maybe high. Decision source could be validation_judgment (since both agree, but we can choose either). According to rule 7, if validation identifies error, prefer validator. Here validator says correct. So we can use either. But decision_source could be \"validation_judgment\" as they validated. That's fine.\n\nNeed to output JSON with fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nMake sure reason aligns. Provide evidence maybe empty string.\n\nThus final answer matches given. Ensure format correct.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_causal_consequence": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a simple acknowledgment and does not establish any causal or consequential link.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent and child comments do not contain any explicit or strongly inferable causal or consequential relationship; the child merely replies with \\\"O kay then,\\\" which is not a causal statement.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afcc",
+    "pair_id": "causal_51c77cea57de83bc4d3b",
+    "parent_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "child_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_51c77cea57de83bc4d3b",
+      "parent_id": "comment_1c34bbd117",
+      "child_id": "comment_8c34771d27",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 0.0,
+      "child_stance": 1,
+      "techniques": [
+        "Doubt",
+        "Name_Calling,Labeling"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.96,
+      "decision_source": "initial_annotation",
+      "reason": "Both the parent and child comments do not contain an explicit or strongly inferable causal or consequential claim linking them; the child merely agrees on difference and critiques relevance, which is not a causal-consequence relation.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "causal_stage3_v3",
+      "timestamp": "2026-10-15T23:57:58+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1901
+    },
+    "thinking_output": "We need to evaluate if any causal-consequence relation exists between parent and child comments.\n\nParent: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nChild: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nThe child says \"Of course we're different. That's not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nIs there a causal-consequence relation? The child is responding, but not stating cause-effect. It says \"Of course we're different\" (agreeing with difference) but not giving cause-effect. It says \"That's not the point of the video.\" Not causal. So no causal-consequence.\n\nThus final_present false, direction none, polarity none. Confidence high.\n\nBoth initial and validation say false. Validation is correct. Decision source could be \"validation_judgment\" as per rule 7 (if validator correctly identifies error). No error. Both agree. Could also be \"initial_annotation\". But we need to choose one. Since both are same, either is fine. The guidelines: If initial annotation is valid according to validation judgment, prefer initial annotation unless adjudicator finds a clear error. Both are same. Could choose \"initial_annotation\". But the validation judgment is also valid. The decision source could be either. Usually we follow rule 7: If validation identifies a valid error, prefer validator. Here no error. So we can keep initial. But either is acceptable. Let's pick \"initial_annotation\" as it's already correct. However the example answer used validation_judgment. Both fine. I'll output with decision_source \"initial_annotation\". Provide confidence maybe 0.96.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_causal_consequence": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply addresses the relevance of the parent's comment rather than establishing a causal or consequential link.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation is established between the comments.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.96,\n  \"decision_source\": \"initial_annotation\",\n  \"reason\": \"Both the parent and child comments do not contain an explicit or strongly inferable causal or consequential claim linking them; the child merely agrees on difference and critiques relevance, which is not a causal-consequence relation.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afcc",
+    "pair_id": "causal_293f1daa3b2eac56cad4",
+    "parent_text": "Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.",
+    "child_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_293f1daa3b2eac56cad4",
+      "parent_id": "comment_41e4334eb2",
+      "child_id": "comment_1c34bbd117",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 0,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "true",
+      "final_direction": "C->P",
+      "final_polarity_to_target": "attack",
+      "confidence": 0.85,
+      "decision_source": "initial_annotation",
+      "reason": "The child comment attacks the parent’s claim by offering a causal explanation ('it’s how our brain functions') for the observed gender distribution in building and teaching. This establishes a clear cause‑effect relation used to rebut the parent, fitting the Argument from Causal Consequence scheme with direction from child to parent and an attacking polarity.",
+      "evidence": "Parent: claims women fix houses, men are kindergarten teachers. Child: counters by stating the distribution is disproportionate and attributes it to brain function differences, i.e., a cause (brain differences) leading to the effect (gendered occupational distribution)."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "causal_stage3_v3",
+      "timestamp": "2026-10-15T23:58:12+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 3357
+    },
+    "thinking_output": "We need to evaluate if the final answer should be as given. Let's examine.\n\nParent comment: \"Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.\"\n\nChild comment: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nWe need to see if there is an argument from causal consequence relation. The child says \"it's how our brain functions, we are different, men and women are not the same.\" That's an appeal to biology, but does it assert a causal relation? It says the disproportionate distribution is because of brain function differences. That is a causal claim: brain function differences cause the observed distribution. However, the relation is between the claim about distribution (P) and the child's explanation (C). The child is attacking P's claim by stating that the observed distribution is due to brain differences. That is a causal claim linking brain differences (cause) to distribution (effect). The question: does that count as \"Argument from Causal Consequence\"? The definition: \"This label is present when one comment relates to the other by referring to causes, effects, consequences, outcomes, risks, benefits, or practical results.\" The child uses cause (brain function) to explain the effect (distribution). So yes, there is a causal relation. The child is using a causal explanation to attack P's claim. So the relation is C->P (child uses causal claim to attack parent). The presence is true.\n\nBut the validator says it's not causal-consequence, it's just generalization. Let's examine: The child says \"most builders are men and most kindergarten teachers are women, it's how our brain functions\". That is a claim that brain function causes the distribution. That's a causal claim. So I think the relation is present.\n\nWe must decide final values. According to rules, we must weigh initial annotation (true, C->P, attack) vs validation (false). Which is correct? The validator says not causal. I think there is a causal claim. The child says \"it's how our brain functions\" implying cause. That is a causal explanation. So I think the initial annotation is correct.\n\nBut we need to be careful: The child is not explicitly stating a cause-effect relation between the two comments; they are just stating that the observed distribution is due to brain differences. The parent comment says \"women fix houses all the time... some of the best kindergarten teachers are men.\" The child says \"those are very disproportionate, most builders are men... it's how our brain functions\". The child is providing a cause (brain function) for the observed distribution (builders are men). That is a causal claim about the world, not necessarily about the parent comment's claim. However, the child uses that causal claim to argue that the parent's claim is false (i.e., the distribution is not as the parent says). So there is a causal relation linking cause (brain differences) to effect (distribution). That qualifies as argument from causal consequence.\n\nThus final_present true, direction C->P, polarity attack.\n\nConfidence maybe 0.85.\n\nDecision source: initial_annotation (since we think it's correct). Provide reason.\n\nLet's craft final JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_causal_consequence": {
+        "present": "true",
+        "polarity_to_target": "attack",
+        "confidence": 0.9,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "C->P"
+      },
+      "no_argument_scheme_relation": false,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": false,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "incorrect_label_assignment",
+      "reason": "The proposed annotation incorrectly labels the relation as 'true' for Argument from Causal Consequence. The parent comment (P) makes claims about women fixing houses and men being kindergarten teachers, citing HGTV as evidence. The child comment (C) counters by stating that these roles are disproportionate due to biological differences ('how our brain functions'). While C attacks P's claim, it does so by appealing to statistical norms and biological determinism, not by establishing a causal-consequence relation (e.g., cause-effect, risk-benefit, practical outcome). The argument in C is based on generalization and appeal to nature/biology, not causality. Therefore, the causal-consequence scheme is not present."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child uses a causal explanation regarding brain function to attack the implication of the parent's examples.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child uses a causal claim to counter the parent's examples.\"\n}",
+      "stage2": "{\n\"is_valid\": false,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"incorrect_label_assignment\",\n\"reason\": \"The proposed annotation incorrectly labels the relation as 'true' for Argument from Causal Consequence. The parent comment (P) makes claims about women fixing houses and men being kindergarten teachers, citing HGTV as evidence. The child comment (C) counters by stating that these roles are disproportionate due to biological differences ('how our brain functions'). While C attacks P's claim, it does so by appealing to statistical norms and biological determinism, not by establishing a causal-consequence relation (e.g., cause-effect, risk-benefit, practical outcome). The argument in C is based on generalization and appeal to nature/biology, not causality. Therefore, the causal-consequence scheme is not present.\"\n}",
+      "stage3": "{\n  \"final_present\": \"true\",\n  \"final_direction\": \"C->P\",\n  \"final_polarity_to_target\": \"attack\",\n  \"confidence\": 0.85,\n  \"decision_source\": \"initial_annotation\",\n  \"reason\": \"The child comment attacks the parent’s claim by offering a causal explanation ('it’s how our brain functions') for the observed gender distribution in building and teaching. This establishes a clear cause‑effect relation used to rebut the parent, fitting the Argument from Causal Consequence scheme with direction from child to parent and an attacking polarity.\",\n  \"evidence\": \"Parent: claims women fix houses, men are kindergarten teachers. Child: counters by stating the distribution is disproportionate and attributes it to brain function differences, i.e., a cause (brain differences) leading to the effect (gendered occupational distribution).\"\n}"
+    }
+  },
+  {
+    "scheme": "afcc",
+    "pair_id": "causal_4ebf79c26c04970c5c5a",
+    "parent_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "child_text": "@User_410  Men and Woman are  not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_4ebf79c26c04970c5c5a",
+      "parent_id": "comment_aea12b5464",
+      "child_id": "comment_f1cbef3ae7",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Loaded_Language",
+        "Appeal_to_Authority",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.96,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent and child comments only discuss gender similarity and differences without any explicit or strongly inferable cause‑effect, consequence, or practical outcome relation; therefore no causal‑consequence argument scheme is present.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "causal_stage3_v3",
+      "timestamp": "2026-10-15T23:58:21+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1681
+    },
+    "thinking_output": "We need to evaluate if any causal-consequence relation exists between parent and child comments.\n\nParent: \"Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.\"\n\nChild: \"Men and Woman are not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.\"\n\nThe child is disagreeing, stating men and women are not the same, referencing scientists. No causal or consequential claim. It's just a claim of difference, not cause-effect. No mention of consequences of believing they are same, except \"nothing can stop you apart from reason and logic\" which is not a causal consequence relation; it's more about reasoning. Could be interpreted as \"if you want to believe they're the same, nothing can stop you apart from reason and logic.\" That's not a cause-effect; it's stating that reason and logic are the only thing that can stop you. Not a causal claim about the parent comment. So no causal-consequence.\n\nThus final_present false, direction none, polarity none. Confidence high.\n\nBoth initial and validation say false. So decision source could be either. According to rule 7, if validation judgment identifies a valid error, prefer validator. Here validator says it's valid. So we can choose either. Use validation_judgment as source.\n\nReturn JSON as per format. Ensure fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nProvide reason concise.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_causal_consequence": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply disputes the parent's claim using appeals to authority and logic rather than causal consequences.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence argument scheme is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.96,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent and child comments only discuss gender similarity and differences without any explicit or strongly inferable cause‑effect, consequence, or practical outcome relation; therefore no causal‑consequence argument scheme is present.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afcc",
+    "pair_id": "causal_fc05ca17c2c734592dae",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_fc05ca17c2c734592dae",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_aea12b5464",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent and child comments lack any explicit or strongly inferable causal or consequential claim linking them; the child comment merely states a gender equality argument unrelated to the parent’s brief acknowledgment.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "causal_stage3_v3",
+      "timestamp": "2026-10-15T23:58:27+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 951
+    },
+    "thinking_output": "We need to verify if any causal-consequence relation exists between parent and child comments.\n\nParent comment: \"@User_409  O kay then.\" Very short, basically \"Okay then.\" No causal claim.\n\nChild comment: \"@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.\"\n\nChild is responding to something else (maybe previous comment). It does not refer to parent comment's content. No causal relation. So present false, direction none, polarity none. Both initial and validation say false. Validation is correct. So final values as given.\n\nConfidence maybe 0.95. Decision source validation_judgment.\n\nWe need to output JSON with fields: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence.\n\nMake sure matches format. Provide reason and evidence maybe empty string.\n\nThus final answer same as provided.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_causal_consequence": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_causal_consequence\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The parent comment is a dismissive remark and the reply does not establish any causal or consequential link.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No causal-consequence relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish a causal or consequential relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent and child comments lack any explicit or strongly inferable causal or consequential claim linking them; the child comment merely states a gender equality argument unrelated to the parent’s brief acknowledgment.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afac",
+    "pair_id": "causal_2d39ad4e771360ae2f8d",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  are we different though? I don't think there's a great deal different between men and women's brains. Given equal opportunity women have thrived in previous male lead professions, there are more female medical students now than there ever was. There are also lots of lovely men teaching and nurturing children. \nEven when you're marking nameless exam papers you can barely tell which is written by a male or female. Everyone focuses on the differences but everyone is more alike than they think.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_2d39ad4e771360ae2f8d",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_5c2670fb19",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the initial annotation and the validation judgment correctly identify that there is no explicit or strongly inferable analogical or comparative relation between the brief parent comment and the longer child comment.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "analogy_or_comparison_stage3_v3",
+      "timestamp": "2026-10-15T23:58:37+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 670
+    },
+    "thinking_output": "We need to verify if any analogy/comparison exists between parent and child. Parent comment: \"@User_409  O kay then.\" Very short, basically \"Okay then.\" Child comment: a long statement about gender differences, arguing that men and women's brains are not that different, etc. There's no explicit analogy or comparison referencing the parent comment. The child is not comparing anything to the parent. The parent is just a short acknowledgement. So no analogy. Both initial and validation say false. So final should be false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree but validation is explicit). Provide JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_analogy_or_comparison": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The parent comment is a non-substantive remark and does not provide a basis for an analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison relation exists between the comments.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the initial annotation and the validation judgment correctly identify that there is no explicit or strongly inferable analogical or comparative relation between the brief parent comment and the longer child comment.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afac",
+    "pair_id": "causal_92328773fa7d70d30d06",
+    "parent_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "child_text": "@User_409  O kay then.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_92328773fa7d70d30d06",
+      "parent_id": "comment_8c34771d27",
+      "child_id": "comment_2f545b91fe",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the parent and child comments lack any explicit or strongly inferable analogy or comparison; the child merely replies with \"O kay then,\" which does not constitute an analogical relation.",
+      "evidence": ""
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "analogy_or_comparison_stage3_v3",
+      "timestamp": "2026-10-15T23:58:42+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 753
+    },
+    "thinking_output": "We need to verify if any analogy/comparison exists. Parent comment: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nChild comment: \"@User_409 O kay then.\"\n\nChild says \"O kay then.\" That's just a dismissive response, no analogy. No analogical relation. So present false, direction none, polarity none. Validation says correct. So final values as given. Need confidence maybe 0.95. Decision source validation_judgment. Provide JSON. Ensure fields match required: final_present, final_direction, final_polarity_to_target, confidence, decision_source, reason, evidence. Provide reason concise. Evidence maybe empty string. Provide final.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_analogy_or_comparison": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The child reply is a simple acknowledgment and does not establish any analogical or comparative relation.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison relation is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the parent and child comments lack any explicit or strongly inferable analogy or comparison; the child merely replies with \\\"O kay then,\\\" which does not constitute an analogical relation.\",\n  \"evidence\": \"\"\n}"
+    }
+  },
+  {
+    "scheme": "afac",
+    "pair_id": "causal_51c77cea57de83bc4d3b",
+    "parent_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "child_text": "@User_408  Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_51c77cea57de83bc4d3b",
+      "parent_id": "comment_1c34bbd117",
+      "child_id": "comment_8c34771d27",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 0.0,
+      "child_stance": 1,
+      "techniques": [
+        "Doubt",
+        "Name_Calling,Labeling"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment does not contain an explicit or strongly inferable analogy or comparison to the parent comment; it merely acknowledges a difference without using a comparative argument.",
+      "evidence": "Parent discusses gender differences in occupations; child replies \"Of course we're different\" and critiques relevance to the video, without presenting an analogy, comparison, or contrast."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "analogy_or_comparison_stage3_v3",
+      "timestamp": "2026-10-15T23:58:48+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 1065
+    },
+    "thinking_output": "We need to evaluate if any analogical/comparative relation exists between parent and child comments.\n\nParent: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nChild: \"@User_408 Of course we're different. Thats not the point of the video. It sounds like your comment was taken from a political debate on transgenderism or something.\"\n\nChild says \"Of course we're different.\" That's acknowledging difference, but not making an analogy/comparison. It's just agreeing that men and women are different, but not using an analogy to another case. No explicit comparison.\n\nThus no analogical relation. So final_present false, direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree). Provide JSON.\n\nCheck guidelines: If final_present false, direction none, polarity none. Provide confidence maybe 0.95 as per validation. Provide reason and evidence optional but okay.\n\nThus final answer as JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_analogy_or_comparison": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.9,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.9,\n\"rationale\": \"The child's comparison of the comment to a political debate is a characterization of style, not an analogical argument.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the initial annotation and the validation judgment correctly identify that the child comment does not contain an explicit or strongly inferable analogy or comparison to the parent comment; it merely acknowledges a difference without using a comparative argument.\",\n  \"evidence\": \"Parent discusses gender differences in occupations; child replies \\\"Of course we're different\\\" and critiques relevance to the video, without presenting an analogy, comparison, or contrast.\"\n}"
+    }
+  },
+  {
+    "scheme": "afac",
+    "pair_id": "causal_293f1daa3b2eac56cad4",
+    "parent_text": "Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.",
+    "child_text": "Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_293f1daa3b2eac56cad4",
+      "parent_id": "comment_41e4334eb2",
+      "child_id": "comment_1c34bbd117",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 0,
+      "techniques": [
+        "Slogans/Thought-terminating_Cliches",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "true",
+      "final_direction": "C->P",
+      "final_polarity_to_target": "attack",
+      "confidence": 0.86,
+      "decision_source": "adjudicator_override",
+      "reason": "The child comment directly attacks the parent’s claim by presenting a counterexample-based comparison: it contrasts the parent’s specific examples (women fixing houses, men as kindergarten teachers) with broader statistical trends (most builders are men, most kindergarten teachers are women). This constitutes an explicit comparative argument, fitting the definition of an Argument from Analogy or Comparison. Therefore the initial annotation is correct and the validator’s correction is not justified.",
+      "evidence": "Parent provides specific gender-role examples; child responds with broader statistical contrast, explicitly stating the examples are \"very disproportionate\" and presenting opposite majority trends, which is a counterexample-based comparison used to attack the parent’s claim."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 1536,
+      "format": "json_schema",
+      "prompt_version": "analogy_or_comparison_stage3_v3",
+      "timestamp": "2026-10-15T23:59:19+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 4582
+    },
+    "thinking_output": "We need to evaluate if the final answer should be as given. Let's verify.\n\nTask: Determine if there is an argument from analogy or comparison between parent and child.\n\nParent: \"Here in America, women fix houses all the time. They've clearly never seen HGTV. And some of the best kindergarten teachers are men.\"\n\nChild: \"Those are very disproportionate, most builders are men and most kindergarden teachers are women, it's how our brain functions, we are different, men and women are not the same.\"\n\nThe child is rebutting with statistical claim, not using analogy. No explicit comparison? The child says \"most builders are men and most kindergarten teachers are women\". That's a comparison of frequencies, but is that an analogy? The child is not using an analogy to illustrate a point; they are providing counter-statistics. The definition says analogy/comparison includes \"contrast, similar case, parallel case, hypothetical comparison, example-based comparison, or counterexample-based comparison.\" Could the child's statement be considered a \"counterexample-based comparison\"? The parent gives examples: women fix houses, men are kindergarten teachers. Child says those are disproportionate, most builders are men, most teachers are women. That's a counterexample to the examples given. Is that considered a \"counterexample-based comparison\"? The definition: \"counterexample-based comparison\" could be using a counterexample to compare. The child is providing a counterexample to the parent's claim, but is that an analogical relation? The parent gave examples; child says those examples are not representative. That is a counterexample, but does it count as an analogy/comparison argument scheme? The schema \"Argument from Analogy or Comparison\" includes using a comparison to support/attack. Counterexample is a type of comparison: you compare the claim's examples to broader data. The child is comparing the specific examples to the general distribution. That could be considered a comparative argument: \"Your examples are not typical; generally, the opposite is true.\" That seems like a comparison.\n\nBut the validation says it's not analogy/comparison, it's a direct rebuttal using statistical generalization, not an analogy. The question: is that correct per the definition? The definition includes \"counterexample-based comparison\". The child's comment provides a counterexample to the parent's claim: \"most builders are men\" is a counterexample to \"women fix houses all the time\". That's a comparative claim: they compare the specific case to the general case. That might be considered a comparison.\n\nHowever, the child does not explicitly say \"just as ...\". They just state facts. The schema may still apply: they are using a comparison (statistical) to attack. The definition says \"Mere topical similarity or parallel examples are not sufficient unless one comment explicitly or strongly implies an analogy or comparison in relation to the other.\" The child says \"Those are very disproportionate, most builders are men and most kindergarten teachers are women\". This is a direct statement that the examples are disproportionate, i.e., they compare the examples to the typical distribution. That is an explicit comparison: \"most builders are men\" vs \"women fix houses all the time\". So there is a comparative relation.\n\nThus maybe the correct label should be present = true, direction C->P, polarity attack. The validator says false. Which is correct? Need to decide based on guidelines.\n\nThe guidelines: \"Argument from Analogy or Comparison\" includes \"counterexample-based comparison\". The child is providing a counterexample to the parent's examples. That seems to fit.\n\nBut is the child using the counterexample as a comparison? They say \"Those are very disproportionate, most builders are men...\". That's a claim that the examples are not representative. That's a comparative argument: they compare the specific examples to the general case. So yes.\n\nThus the initial annotation (true, attack, C->P) may be correct. The validator says it's not analogy. But the guidelines say counterexample counts. So we should likely keep initial annotation.\n\nWe need to decide final values. According to rule 7, if validation identifies a valid error, prefer validator. But we must evaluate if validator's correction is correct. If we think validator is wrong, we override.\n\nThus we need to produce final JSON with present true, direction C->P, polarity attack, confidence maybe 0.85, decision_source \"adjudicator_override\" (since we override both). Provide reason.\n\nLet's craft.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_analogy_or_comparison": {
+        "present": "true",
+        "polarity_to_target": "attack",
+        "confidence": 0.9,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "C->P"
+      },
+      "no_argument_scheme_relation": false,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": false,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "incorrect_label_assignment",
+      "reason": "The proposed annotation incorrectly labels the relation as 'true' for argument from analogy or comparison. The parent comment (P) provides examples of women fixing houses and men being kindergarten teachers to challenge a generalization about gender roles. The child comment (C) responds by arguing that these examples are disproportionate because most builders are men and most teachers are women, asserting that men and women are different. This is a direct rebuttal using statistical/generalization counter-arguments, not an analogy or comparison. C does not use an analogous case, hypothetical comparison, or parallel scenario to support or attack P; it directly addresses the claims in P with opposing generalizations about gender differences. Therefore, no analogical or comparative argument scheme is established."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"true\",\n\"polarity_to_target\": \"attack\",\n\"confidence\": 0.9,\n\"rationale\": \"The child reply uses a comparison of proportions to attack the implication of the parent's examples.\",\n\"direction\": \"C->P\"\n},\n\"no_argument_scheme_relation\": false,\n\"overall_note\": \"The child reply establishes a comparative relation to refute the parent's claim.\"\n}",
+      "stage2": "{\n\"is_valid\": false,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"incorrect_label_assignment\",\n\"reason\": \"The proposed annotation incorrectly labels the relation as 'true' for argument from analogy or comparison. The parent comment (P) provides examples of women fixing houses and men being kindergarten teachers to challenge a generalization about gender roles. The child comment (C) responds by arguing that these examples are disproportionate because most builders are men and most teachers are women, asserting that men and women are different. This is a direct rebuttal using statistical/generalization counter-arguments, not an analogy or comparison. C does not use an analogous case, hypothetical comparison, or parallel scenario to support or attack P; it directly addresses the claims in P with opposing generalizations about gender differences. Therefore, no analogical or comparative argument scheme is established.\"\n}",
+      "stage3": "{\n  \"final_present\": \"true\",\n  \"final_direction\": \"C->P\",\n  \"final_polarity_to_target\": \"attack\",\n  \"confidence\": 0.86,\n  \"decision_source\": \"adjudicator_override\",\n  \"reason\": \"The child comment directly attacks the parent’s claim by presenting a counterexample-based comparison: it contrasts the parent’s specific examples (women fixing houses, men as kindergarten teachers) with broader statistical trends (most builders are men, most kindergarten teachers are women). This constitutes an explicit comparative argument, fitting the definition of an Argument from Analogy or Comparison. Therefore the initial annotation is correct and the validator’s correction is not justified.\",\n  \"evidence\": \"Parent provides specific gender-role examples; child responds with broader statistical contrast, explicitly stating the examples are \\\"very disproportionate\\\" and presenting opposite majority trends, which is a counterexample-based comparison used to attack the parent’s claim.\"\n}"
+    }
+  },
+  {
+    "scheme": "afac",
+    "pair_id": "causal_4ebf79c26c04970c5c5a",
+    "parent_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "child_text": "@User_410  Men and Woman are  not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_4ebf79c26c04970c5c5a",
+      "parent_id": "comment_aea12b5464",
+      "child_id": "comment_f1cbef3ae7",
+      "split": "test",
+      "divisiveness_score": -1.0,
+      "relation_label": "disagreement",
+      "quality_label": "destructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": [
+        "Loaded_Language",
+        "Appeal_to_Authority",
+        "Doubt"
+      ]
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.96,
+      "decision_source": "validation_judgment",
+      "reason": "Both the initial annotation and the validation judgment correctly identify that the child comment directly contradicts the parent’s claim about gender equality without using any analogy, comparison, or contrast. The exchange is a factual disagreement, not an analogical argument.",
+      "evidence": "Parent asserts gender equality in work; child asserts biological differences, no analogical or comparative language is present."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "analogy_or_comparison_stage3_v3",
+      "timestamp": "2026-10-15T23:59:25+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 924
+    },
+    "thinking_output": "We need to verify if any analogy/comparison present. Parent says \"Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.\" Child says \"Men and Woman are not the same, you're talking emotionally, scientist and physiologists will tell you that men and women are not the same, there are huge differences, but if you want to believe they're the same, nothing can stop you apart from reason and logic.\"\n\nChild is directly contradicting, not using analogy. No comparison to another case. So present false. Direction none, polarity none. Confidence high. Decision source: validation_judgment (since both agree but validation is explicit). Provide JSON.\n\nCheck guidelines: final_present false => direction none, polarity none. Provide confidence. Provide reason and evidence optional. Provide decision_source.\n\nThus final answer as given.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_analogy_or_comparison": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 0.95,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation. The parent comment makes a claim about gender equality in professions, and the child reply directly contradicts this by asserting biological/physiological differences between men and women. This is a direct disagreement based on factual claims (or perceived facts) rather than an analogy, comparison, contrast, similar case, parallel case, hypothetical comparison, example-based comparison, or counterexample-based comparison. The child comment attacks the parent's premise using what it presents as scientific evidence, not by drawing an analogy to another situation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 0.95,\n\"rationale\": \"The reply is a direct contradiction of the parent's claim rather than an argument from analogy or comparison.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation. The parent comment makes a claim about gender equality in professions, and the child reply directly contradicts this by asserting biological/physiological differences between men and women. This is a direct disagreement based on factual claims (or perceived facts) rather than an analogy, comparison, contrast, similar case, parallel case, hypothetical comparison, example-based comparison, or counterexample-based comparison. The child comment attacks the parent's premise using what it presents as scientific evidence, not by drawing an analogy to another situation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.96,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"Both the initial annotation and the validation judgment correctly identify that the child comment directly contradicts the parent’s claim about gender equality without using any analogy, comparison, or contrast. The exchange is a factual disagreement, not an analogical argument.\",\n  \"evidence\": \"Parent asserts gender equality in work; child asserts biological differences, no analogical or comparative language is present.\"\n}"
+    }
+  },
+  {
+    "scheme": "afac",
+    "pair_id": "causal_fc05ca17c2c734592dae",
+    "parent_text": "@User_409  O kay then.",
+    "child_text": "@User_408  Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.",
+    "metadata": {
+      "discussion_id": "discussion_aefa1f21af",
+      "source_pair_id": "causal_fc05ca17c2c734592dae",
+      "parent_id": "comment_2f545b91fe",
+      "child_id": "comment_aea12b5464",
+      "split": "test",
+      "divisiveness_score": 1.0,
+      "relation_label": "disagreement",
+      "quality_label": "constructive",
+      "parent_stance": 1.0,
+      "child_stance": 1,
+      "techniques": []
+    },
+    "stage3_v3": {
+      "final_present": "false",
+      "final_direction": "none",
+      "final_polarity_to_target": "none",
+      "confidence": 0.95,
+      "decision_source": "validation_judgment",
+      "reason": "The child comment makes a gender equality statement that does not reference or compare to the parent comment, which is merely an acknowledgement. No analogical or comparative relation is established between the two comments.",
+      "evidence": "Parent: \"O kay then.\" (no substantive claim). Child: \"Just because most men are builders doesn't mean women can't be builders...\" (no link to parent)."
+    },
+    "runtime": {
+      "model": "gpt-oss:120b-mac",
+      "temperature": 0.0,
+      "num_predict": 768,
+      "format": "json_schema",
+      "prompt_version": "analogy_or_comparison_stage3_v3",
+      "timestamp": "2026-10-15T23:59:32+09:00",
+      "parse_method": "json",
+      "schema_valid": true,
+      "schema_message": "ok",
+      "done_reason": "stop",
+      "endpoint": "/api/chat",
+      "output_source": "response",
+      "thinking_chars": 914
+    },
+    "thinking_output": "We need to verify if any analogy/comparison exists. Parent comment: \"@User_409 O kay then.\" That's just a short acknowledgement. Child comment: \"@User_408 Just because most men are builders doesn't mean women can't be builders. Men and women are the same and men and women can work as whatever they want.\"\n\nThe child is making a statement about gender equality, referencing \"most men are builders\" and \"women can't be builders\". That's a comparison between men and women roles. But does it relate to the parent comment? Parent comment is just \"O kay then.\" No content to compare. The child is not using analogy to respond to parent; it's just a statement unrelated to parent. So no analogical relation between them. So final_present false, direction none, polarity none. Validation says correct. So final answer as given. Need confidence maybe 0.95 as validation. Decision source validation_judgment. Provide JSON.",
+    "status": "ok",
+    "stage1_v3": {
+      "argument_from_analogy_or_comparison": {
+        "present": "false",
+        "polarity_to_target": "none",
+        "confidence": 1.0,
+        "rationale": "Rationale omitted due to repetitive/incomplete model output.",
+        "direction": "none"
+      },
+      "no_argument_scheme_relation": true,
+      "overall_note": "Structured labels recovered; rationale truncated by model output."
+    },
+    "stage2_v3": {
+      "is_valid": true,
+      "corrected_present": "false",
+      "corrected_direction": "none",
+      "corrected_polarity_to_target": "none",
+      "corrected_no_argument_scheme_relation": true,
+      "confidence": 0.95,
+      "error_type": "none",
+      "reason": "The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation."
+    },
+    "raw_outputs": {
+      "stage1": "{\n\"argument_from_analogy_or_comparison\": {\n\"present\": \"false\",\n\"polarity_to_target\": \"none\",\n\"confidence\": 1.0,\n\"rationale\": \"The parent comment is a simple acknowledgment and does not establish any analogical or comparative relation.\",\n\"direction\": \"none\"\n},\n\"no_argument_scheme_relation\": true,\n\"overall_note\": \"No analogy-or-comparison argument scheme is established.\"\n}",
+      "stage2": "{\n\"is_valid\": true,\n\"corrected_present\": \"false\",\n\"corrected_direction\": \"none\",\n\"corrected_polarity_to_target\": \"none\",\n\"corrected_no_argument_scheme_relation\": true,\n\"confidence\": 0.95,\n\"error_type\": \"none\",\n\"reason\": \"The proposed annotation is valid because the comments do not explicitly or strongly establish an analogical or comparative relation.\"\n}",
+      "stage3": "{\n  \"final_present\": \"false\",\n  \"final_direction\": \"none\",\n  \"final_polarity_to_target\": \"none\",\n  \"confidence\": 0.95,\n  \"decision_source\": \"validation_judgment\",\n  \"reason\": \"The child comment makes a gender equality statement that does not reference or compare to the parent comment, which is merely an acknowledgement. No analogical or comparative relation is established between the two comments.\",\n  \"evidence\": \"Parent: \\\"O kay then.\\\" (no substantive claim). Child: \\\"Just because most men are builders doesn't mean women can't be builders...\\\" (no link to parent).\"\n}"
+    }
+  }
+]

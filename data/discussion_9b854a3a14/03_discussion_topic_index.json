@@ -1,0 +1,140 @@
+[
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "All EU countries",
+        "predicate": "needs to look at",
+        "object": "Poland and do exactly that in regards to immigration"
+      },
+      "normalized": {
+        "subject": "All EU countries",
+        "predicate": "should follow the Polish model regarding immigration",
+        "object": "immigration policy"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Poland",
+        "predicate": "is",
+        "object": "so poor"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "is",
+        "object": "poor"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "most poles",
+        "predicate": "immigrate to",
+        "object": "other european countries"
+      },
+      "normalized": {
+        "subject": "most Poles",
+        "predicate": "immigrate to",
+        "object": "other European countries"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "poland",
+        "predicate": "is",
+        "object": "a poor country"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "is",
+        "object": "a poor country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "has",
+        "object": "one of the lowest GDP per capita and HDI in EU"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "has",
+        "object": "one of the lowest GDP per capita and HDI in EU"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_e53658cb90",
+      "comment_40d9c19a20",
+      "comment_0a3ff25f94",
+      "comment_7a70160b36"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "can be compared to",
+        "object": "Turkey not Germany or France"
+      },
+      "normalized": {
+        "subject": "Poland",
+        "predicate": "can be compared to",
+        "object": "Turkey rather than Germany or France"
+      }
+    }
+  }
+]

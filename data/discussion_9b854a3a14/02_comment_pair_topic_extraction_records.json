@@ -1,0 +1,158 @@
+[
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "pair_id": "causal_54981b7c155c79ae8f5c",
+    "source_parent_comment_id": "comment_e53658cb90",
+    "source_child_comment_id": "comment_40d9c19a20",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "All EU countries",
+      "predicate": "needs to look at",
+      "object": "Poland and do exactly that in regards to immigration"
+    },
+    "normalized_triple": {
+      "subject": "All EU countries",
+      "predicate": "should follow the Polish model regarding immigration",
+      "object": "immigration policy"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "pair_id": "causal_54981b7c155c79ae8f5c",
+    "source_parent_comment_id": "comment_e53658cb90",
+    "source_child_comment_id": "comment_40d9c19a20",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "Poland",
+      "predicate": "is",
+      "object": "so poor"
+    },
+    "normalized_triple": {
+      "subject": "Poland",
+      "predicate": "is",
+      "object": "poor"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "pair_id": "causal_54981b7c155c79ae8f5c",
+    "source_parent_comment_id": "comment_e53658cb90",
+    "source_child_comment_id": "comment_40d9c19a20",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "most poles",
+      "predicate": "immigrate to",
+      "object": "other european countries"
+    },
+    "normalized_triple": {
+      "subject": "most Poles",
+      "predicate": "immigrate to",
+      "object": "other European countries"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "pair_id": "causal_b653b62a80af7efa311f",
+    "source_parent_comment_id": "comment_0a3ff25f94",
+    "source_child_comment_id": "comment_7a70160b36",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "poland",
+      "predicate": "is",
+      "object": "a poor country"
+    },
+    "normalized_triple": {
+      "subject": "Poland",
+      "predicate": "is",
+      "object": "a poor country"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "pair_id": "causal_b653b62a80af7efa311f",
+    "source_parent_comment_id": "comment_0a3ff25f94",
+    "source_child_comment_id": "comment_7a70160b36",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "has",
+      "object": "one of the lowest GDP per capita and HDI in EU"
+    },
+    "normalized_triple": {
+      "subject": "Poland",
+      "predicate": "has",
+      "object": "one of the lowest GDP per capita and HDI in EU"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_9b854a3a14",
+    "source_split": "Train",
+    "pair_id": "causal_b653b62a80af7efa311f",
+    "source_parent_comment_id": "comment_0a3ff25f94",
+    "source_child_comment_id": "comment_7a70160b36",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "can be compared to",
+      "object": "Turkey not Germany or France"
+    },
+    "normalized_triple": {
+      "subject": "Poland",
+      "predicate": "can be compared to",
+      "object": "Turkey rather than Germany or France"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

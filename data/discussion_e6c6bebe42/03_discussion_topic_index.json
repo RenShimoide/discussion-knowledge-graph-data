@@ -1,0 +1,471 @@
+[
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the Middle-East",
+        "predicate": "invaded, waged wars, colonized and enslaved",
+        "object": "European countries"
+      },
+      "normalized": {
+        "subject": "the Middle-East",
+        "predicate": "invaded, waged wars, colonized and enslaved",
+        "object": "European countries"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "a middle eastern country",
+        "predicate": "enslaved",
+        "object": "European country"
+      },
+      "normalized": {
+        "subject": "a middle eastern country",
+        "predicate": "enslaved",
+        "object": "European country"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the west",
+        "predicate": "supposed to be",
+        "object": "this great land of diversity? freedom of religion snd thought?"
+      },
+      "normalized": {
+        "subject": "the West",
+        "predicate": "is supposed to be",
+        "object": "a great land of diversity and freedom of religion and thought"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "u",
+        "predicate": "are trying to change",
+        "object": "every single person who doesn't have these values"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "are trying to change",
+        "object": "every single person who does not have these values"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I - and most normal people -",
+        "predicate": "want",
+        "object": "the West to remain white"
+      },
+      "normalized": {
+        "subject": "the speaker and most normal people",
+        "predicate": "want",
+        "object": "the West to remain white"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the West to remain white",
+        "predicate": "is why",
+        "object": "the West is so great"
+      },
+      "normalized": {
+        "subject": "the West remaining white",
+        "predicate": "is why",
+        "object": "the West is great"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "diversity",
+        "predicate": "is ruining",
+        "object": "it"
+      },
+      "normalized": {
+        "subject": "diversity",
+        "predicate": "is ruining",
+        "object": "the West"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "we",
+        "predicate": "are importing",
+        "object": "the worst kind of people"
+      },
+      "normalized": {
+        "subject": "we",
+        "predicate": "are importing",
+        "object": "the worst kind of people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "u",
+        "predicate": "are trying to change",
+        "object": "every single person who doesn't have these values"
+      },
+      "normalized": {
+        "subject": "the addressee",
+        "predicate": "is trying to change",
+        "object": "every single person who doesn't have these values"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Those words",
+        "predicate": "can mean",
+        "object": "something in a Country and something different in another"
+      },
+      "normalized": {
+        "subject": "Those words",
+        "predicate": "can mean",
+        "object": "something in a Country and something different in another"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "if we want to just follow it as it is, without some interpretation",
+        "predicate": "we are trying to create",
+        "object": "a fairytale, not a reality"
+      },
+      "normalized": {
+        "subject": "we",
+        "predicate": "are trying to create",
+        "object": "a fairytale, not a reality"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "the West",
+        "predicate": "is",
+        "object": "great"
+      },
+      "normalized": {
+        "subject": "the West",
+        "predicate": "is",
+        "object": "great"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The Europeans",
+        "predicate": "didn’t do to the indigenous",
+        "object": "[unspecified]"
+      },
+      "normalized": {
+        "subject": "the Europeans",
+        "predicate": "did not treat well",
+        "object": "the indigenous people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_18",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "should be applied",
+        "object": "here too"
+      },
+      "normalized": {
+        "subject": "the principle of respecting people",
+        "predicate": "should be applied",
+        "object": "to the current situation regarding immigrants"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_19",
+    "source_comment_ids": [
+      "comment_6ad8af4be1",
+      "comment_c6034638b5"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "immigrants",
+        "predicate": "are",
+        "object": "people not slaves"
+      },
+      "normalized": {
+        "subject": "immigrants",
+        "predicate": "are",
+        "object": "people and not slaves"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_20",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "The Europeans",
+        "predicate": "didn’t do to the indigenous",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "Europeans",
+        "predicate": "did not respect",
+        "object": "indigenous people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_22",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Norway",
+        "predicate": "colonised",
+        "object": "the Middle East"
+      },
+      "normalized": {
+        "subject": "Norway",
+        "predicate": "colonised",
+        "object": "the Middle East"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_23",
+    "source_comment_ids": [
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "every single non European immigrant",
+        "predicate": "should be",
+        "object": "deported"
+      },
+      "normalized": {
+        "subject": "every non-European immigrant",
+        "predicate": "should be",
+        "object": "deported"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_e6c6bebe42",
+    "source_split": "Train",
+    "topic_id": "claim_24",
+    "source_comment_ids": [
+      "comment_ea438eae61",
+      "comment_a3965077f6",
+      "comment_5bee8bc8fa",
+      "comment_6ad8af4be1",
+      "comment_4010b21bb7",
+      "comment_c6034638b5",
+      "comment_e3a7880eed",
+      "comment_d09847e8c1",
+      "comment_25564c5e78"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "live",
+        "object": "there"
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "live",
+        "object": "western culture locations"
+      }
+    }
+  }
+]

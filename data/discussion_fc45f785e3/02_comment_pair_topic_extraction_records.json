@@ -1,0 +1,522 @@
+[
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_4f21fd7f201026289bed",
+    "source_parent_comment_id": "comment_b875ba5a60",
+    "source_child_comment_id": "comment_088f1f933a",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "people",
+      "predicate": "were complaining about",
+      "object": "Mexicans crossing illegally and taking jobs away from Americans"
+    },
+    "normalized_triple": {
+      "subject": "people",
+      "predicate": "complained about",
+      "object": "Mexicans crossing illegally and taking jobs from Americans"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_4f21fd7f201026289bed",
+    "source_parent_comment_id": "comment_b875ba5a60",
+    "source_child_comment_id": "comment_088f1f933a",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "can complain about",
+      "object": "everyone coming across illegally"
+    },
+    "normalized_triple": {
+      "subject": "we",
+      "predicate": "can complain about",
+      "object": "everyone crossing illegally"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_4f21fd7f201026289bed",
+    "source_parent_comment_id": "comment_b875ba5a60",
+    "source_child_comment_id": "comment_088f1f933a",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "are not taking",
+      "object": "your jobs"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "are not taking",
+      "object": "Americans' jobs"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_4f21fd7f201026289bed",
+    "source_parent_comment_id": "comment_b875ba5a60",
+    "source_child_comment_id": "comment_088f1f933a",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "are doing",
+      "object": "jobs that americans don't want to do"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "do",
+      "object": "jobs that Americans do not want to do"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_3bee5245ccdd1e5d8ac1",
+    "source_parent_comment_id": "comment_088f1f933a",
+    "source_child_comment_id": "comment_1bef1a17cd",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "are not \"taking\" your jobs",
+      "object": "your jobs"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "are not taking",
+      "object": "American jobs"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_3bee5245ccdd1e5d8ac1",
+    "source_parent_comment_id": "comment_088f1f933a",
+    "source_child_comment_id": "comment_1bef1a17cd",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "They",
+      "predicate": "are doing",
+      "object": "jobs that americans don't want to do"
+    },
+    "normalized_triple": {
+      "subject": "They",
+      "predicate": "are doing",
+      "object": "jobs that Americans do not want to do"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_3bee5245ccdd1e5d8ac1",
+    "source_parent_comment_id": "comment_088f1f933a",
+    "source_child_comment_id": "comment_1bef1a17cd",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "are taken advantage of",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "are taken advantage of",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_3bee5245ccdd1e5d8ac1",
+    "source_parent_comment_id": "comment_088f1f933a",
+    "source_child_comment_id": "comment_1bef1a17cd",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "work harder for",
+      "object": "less pay"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "work harder for",
+      "object": "less pay"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_3bee5245ccdd1e5d8ac1",
+    "source_parent_comment_id": "comment_088f1f933a",
+    "source_child_comment_id": "comment_1bef1a17cd",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "don't know",
+      "object": "their own worth"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "do not know",
+      "object": "their own worth"
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_dedfad7319cf25e6e654",
+    "source_parent_comment_id": "comment_1bef1a17cd",
+    "source_child_comment_id": "comment_9b9bc4f308",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "are taken advantage of and work harder for less pay",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "User_134",
+      "predicate": "are taken advantage of and work harder for less pay",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_dedfad7319cf25e6e654",
+    "source_parent_comment_id": "comment_1bef1a17cd",
+    "source_child_comment_id": "comment_9b9bc4f308",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "don't know",
+      "object": "their own worth"
+    },
+    "normalized_triple": {
+      "subject": "User_134",
+      "predicate": "do not know",
+      "object": "their own worth"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_dedfad7319cf25e6e654",
+    "source_parent_comment_id": "comment_1bef1a17cd",
+    "source_child_comment_id": "comment_9b9bc4f308",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "money",
+      "predicate": "is",
+      "object": "good money for a new inmigrants"
+    },
+    "normalized_triple": {
+      "subject": "money",
+      "predicate": "is",
+      "object": "good for new immigrants"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_149c16ff303b628aefe0",
+    "source_parent_comment_id": "comment_9b9bc4f308",
+    "source_child_comment_id": "comment_1b329974e8",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "new inmigrants",
+      "predicate": "is good money",
+      "object": "less than americans"
+    },
+    "normalized_triple": {
+      "subject": "new immigrants",
+      "predicate": "earn",
+      "object": "less than Americans"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_149c16ff303b628aefe0",
+    "source_parent_comment_id": "comment_9b9bc4f308",
+    "source_child_comment_id": "comment_1b329974e8",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "devalue",
+      "object": "our way of living"
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "devalue",
+      "object": "our way of living"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_149c16ff303b628aefe0",
+    "source_parent_comment_id": "comment_9b9bc4f308",
+    "source_child_comment_id": "comment_1b329974e8",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "won’t have to work for Pennie’s on the dollar",
+      "object": "a job that will get you nowhere in life"
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "won’t have to work for pennies on the dollar",
+      "object": "a job that will get you nowhere in life"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_874392a472c0e74f4454",
+    "source_parent_comment_id": "comment_1b329974e8",
+    "source_child_comment_id": "comment_f2c423463d",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "devalue",
+      "object": "our way of living"
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "devalue",
+      "object": "our way of living"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_874392a472c0e74f4454",
+    "source_parent_comment_id": "comment_1b329974e8",
+    "source_child_comment_id": "comment_f2c423463d",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "coming here legally the right way",
+      "predicate": "won’t have to work for Pennie’s on the dollar",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "coming here legally the right way",
+      "predicate": "prevents working for pennies on the dollar",
+      "object": ""
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_874392a472c0e74f4454",
+    "source_parent_comment_id": "comment_1b329974e8",
+    "source_child_comment_id": "comment_f2c423463d",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "at the beggining",
+      "predicate": "is",
+      "object": "low money"
+    },
+    "normalized_triple": {
+      "subject": "wages at the beginning",
+      "predicate": "are",
+      "object": "low"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_874392a472c0e74f4454",
+    "source_parent_comment_id": "comment_1b329974e8",
+    "source_child_comment_id": "comment_f2c423463d",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "earn more and start to buy car and even house",
+      "object": "after gaining experience"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "earn more and buy cars and houses",
+      "object": "after gaining experience"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_fc45f785e3",
+    "source_split": "Train",
+    "pair_id": "causal_874392a472c0e74f4454",
+    "source_parent_comment_id": "comment_1b329974e8",
+    "source_child_comment_id": "comment_f2c423463d",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "they",
+      "predicate": "become",
+      "object": "citizens"
+    },
+    "normalized_triple": {
+      "subject": "they",
+      "predicate": "become",
+      "object": "citizens"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

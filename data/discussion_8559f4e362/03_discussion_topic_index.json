@@ -1,0 +1,209 @@
+[
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Chinese",
+        "predicate": "won't take them back",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "China",
+        "predicate": "will not take them back",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "they",
+        "predicate": "know theyre gaming the system",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "they",
+        "predicate": "know they are gaming the system",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "A vote for Trump",
+        "predicate": "will send them all back",
+        "object": "them all"
+      },
+      "normalized": {
+        "subject": "A vote for Trump",
+        "predicate": "will send them all back",
+        "object": "them all"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "A vote for Trump",
+        "predicate": "will send",
+        "object": "them all back"
+      },
+      "normalized": {
+        "subject": "A vote for Trump",
+        "predicate": "will send",
+        "object": "them all back"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "is running",
+        "object": "this business"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "is running",
+        "object": "this business"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      },
+      "normalized": {
+        "subject": "he",
+        "predicate": "could be using it to gain",
+        "object": "political advantage"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "am not fooled by",
+        "object": "anything Biden or China does"
+      },
+      "normalized": {
+        "subject": "I",
+        "predicate": "am not fooled by",
+        "object": "anything Biden or China does"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_8559f4e362",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_c8acc684a8",
+      "comment_05bb7ce8b8",
+      "comment_0f1ea57229",
+      "comment_c4fe4b225a"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "feel like I am fighting",
+        "object": "by myself"
+      },
+      "normalized": {
+        "subject": "I",
+        "predicate": "feel like I am fighting",
+        "object": "by myself"
+      }
+    }
+  }
+]
