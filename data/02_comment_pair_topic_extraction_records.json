@@ -7,16 +7,8 @@
     "source_child_comment_id": "comment_4718a42ac6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "leaders in Staten Island",
-      "predicate": "have a backbone to do what they were elected to do FOR THE AMERICAN people",
-      "object": "FOR THE AMERICAN people"
-    },
-    "normalized_triple": {
-      "subject": "leaders in Staten Island",
-      "predicate": "have the backbone to fulfill their elected duties for the American people",
-      "object": "the American people"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -33,16 +25,8 @@
     "source_child_comment_id": "comment_4718a42ac6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "government",
-      "predicate": "interfering in",
-      "object": "our countries' politics"
-    },
-    "normalized_triple": {
-      "subject": "the government",
-      "predicate": "interferes in",
-      "object": "the politics of other countries"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -59,16 +43,8 @@
     "source_child_comment_id": "comment_4718a42ac6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "government stopping interference in politics",
-      "predicate": "will result in",
-      "object": "no migrants"
-    },
-    "normalized_triple": {
-      "subject": "the government stopping interference in other countries' politics",
-      "predicate": "will result in",
-      "object": "no migrants"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -85,16 +61,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "YOUR GOVERNMENT",
-      "predicate": "ALSO TO GET OUT OFF OUR COUNTRIES",
-      "object": "OUR COUNTRIES"
-    },
-    "normalized_triple": {
-      "subject": "your government",
-      "predicate": "should leave",
-      "object": "our countries"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -111,16 +79,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "YOUR GOVERNMENT",
-      "predicate": "STOP INTERFERING IN",
-      "object": "OUR COUNTRIES' POLITICS"
-    },
-    "normalized_triple": {
-      "subject": "your government",
-      "predicate": "should stop interfering in",
-      "object": "our countries' politics"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -137,16 +97,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "YOU",
-      "predicate": "WONT HAVE",
-      "object": "MIGRANTS"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "will not have",
-      "object": "migrants"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -163,16 +115,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "never a bad time",
-      "predicate": "to revolt against",
-      "object": "your government"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "is never a bad time to revolt against",
-      "object": "your government"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -189,16 +133,8 @@
     "source_child_comment_id": "comment_bf435106a6",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "need to do",
-      "object": "looking within"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "need to",
-      "object": "look within"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -215,16 +151,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "YOUR GOVERNMENT",
-      "predicate": "DOES NOT INTERFERE AND BACK UP THE CORRUPT EXPATS",
-      "object": "CORRUPT EXPATS"
-    },
-    "normalized_triple": {
-      "subject": "your government",
-      "predicate": "does not interfere with and back up",
-      "object": "corrupt expats"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -241,16 +169,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "CORRUPT EXPATS",
-      "predicate": "COME TO OUR COUNTRIES WITH THE PROCEED OF THEIR CRIMES",
-      "object": "the proceed of their crimes"
-    },
-    "normalized_triple": {
-      "subject": "corrupt expats",
-      "predicate": "come to our countries with the proceeds of their crimes",
-      "object": "the proceeds of their crimes"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -267,16 +187,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "The US “interfering” with your country",
-      "predicate": "is not the cause of",
-      "object": "migration"
-    },
-    "normalized_triple": {
-      "subject": "US interference with your country",
-      "predicate": "is not the cause of",
-      "object": "migration"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -293,16 +205,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "People",
-      "predicate": "come here to escape",
-      "object": "socialism and communist rule"
-    },
-    "normalized_triple": {
-      "subject": "people",
-      "predicate": "come here to escape",
-      "object": "socialism and communist rule"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -319,16 +223,8 @@
     "source_child_comment_id": "comment_e36c871e7c",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "People",
-      "predicate": "come here for",
-      "object": "economic opportunities and freedom in general"
-    },
-    "normalized_triple": {
-      "subject": "people",
-      "predicate": "come here for",
-      "object": "economic opportunities and general freedom"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -345,16 +241,8 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "my mum who was married to an American and had two USKids, she applied for my “ residency”",
-      "predicate": "took",
-      "object": "years"
-    },
-    "normalized_triple": {
-      "subject": "the speaker's mother's application for residency",
-      "predicate": "took",
-      "object": "years"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -371,16 +259,8 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "was in a",
-      "object": "waiting list, for citizenship"
-    },
-    "normalized_triple": {
-      "subject": "the speaker",
-      "predicate": "was on a",
-      "object": "waiting list for citizenship"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -397,16 +277,8 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "make it sound like",
-      "object": "you would have rather crossed illegally"
-    },
-    "normalized_triple": {
-      "subject": "the speaker's description",
-      "predicate": "implies",
-      "object": "preferring to cross illegally"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -423,16 +295,8 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "my process",
-      "predicate": "took",
-      "object": "nearly 10 years"
-    },
-    "normalized_triple": {
-      "subject": "the speaker's process",
-      "predicate": "took",
-      "object": "nearly 10 years"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -449,16 +313,8 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "my mom was married to a resident",
-      "predicate": "is why",
-      "object": "it took longer"
-    },
-    "normalized_triple": {
-      "subject": "the speaker's mother's marriage to a resident",
-      "predicate": "caused",
-      "object": "a longer process"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -475,16 +331,8 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "Those crossing illegally",
-      "predicate": "don't have",
-      "object": "that path"
-    },
-    "normalized_triple": {
-      "subject": "people crossing illegally",
-      "predicate": "do not have",
-      "object": "a path"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -501,16 +349,8 @@
     "source_child_comment_id": "comment_962bbe1853",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "Depending on the country you come from",
-      "predicate": "sometimes there is no",
-      "object": "legal way"
-    },
-    "normalized_triple": {
-      "subject": "the country of origin",
-      "predicate": "sometimes lacks",
-      "object": "a legal way to enter"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -527,16 +367,8 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "love",
-      "object": "the US"
-    },
-    "normalized_triple": {
-      "subject": "User_222",
-      "predicate": "loves",
-      "object": "the US"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -553,16 +385,8 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "definitely not to live",
-      "object": "the US"
-    },
-    "normalized_triple": {
-      "subject": "User_222",
-      "predicate": "does not want to live in",
-      "object": "the US"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -579,16 +403,8 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "just sounded that way",
-      "object": "when you said you did it the correct way as opposed to these people"
-    },
-    "normalized_triple": {
-      "subject": "User_222's comment",
-      "predicate": "sounded like",
-      "object": "User_222 was doing it the correct way as opposed to these people"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -605,16 +421,8 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "people",
-      "predicate": "think",
-      "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
-    },
-    "normalized_triple": {
-      "subject": "some people",
-      "predicate": "think",
-      "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -631,16 +439,8 @@
     "source_child_comment_id": "comment_4544120d98",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "simply doesn't work",
-      "object": "that way"
-    },
-    "normalized_triple": {
-      "subject": "The process of migrating to the US the legal way and getting in line",
-      "predicate": "does not work",
-      "object": "that way"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -657,16 +457,8 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "everyone in the world",
-      "predicate": "has the opportunity to migrate to the US the legal way and should just 'get in line'",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "everyone in the world",
-      "predicate": "has the opportunity to migrate to the US the legal way and should just 'get in line'",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -683,16 +475,8 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "simply doesn't work",
-      "object": "that way"
-    },
-    "normalized_triple": {
-      "subject": "The process of migrating to the US the legal way and getting in line",
-      "predicate": "does not work",
-      "object": "that way"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -709,16 +493,8 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "am thankful",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "User_222",
-      "predicate": "is thankful",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -735,16 +511,8 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "would probably be doing the same",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "User_222",
-      "predicate": "would probably be doing the same",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -761,16 +529,8 @@
     "source_child_comment_id": "comment_b3281bee98",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "Americans",
-      "predicate": "are angry",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "Americans",
-      "predicate": "are angry",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -787,16 +547,8 @@
     "source_child_comment_id": "comment_be565af08f",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "52% income tax",
-      "predicate": "is",
-      "object": "most likely the marginal tax"
-    },
-    "normalized_triple": {
-      "subject": "52% income tax",
-      "predicate": "is",
-      "object": "the marginal tax"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -813,16 +565,8 @@
     "source_child_comment_id": "comment_be565af08f",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "People with a high income",
-      "predicate": "pay",
-      "object": "52% over the amount their salaries excels the threshold"
-    },
-    "normalized_triple": {
-      "subject": "People with a high income",
-      "predicate": "pay",
-      "object": "52% on income exceeding a certain threshold"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -839,16 +583,8 @@
     "source_child_comment_id": "comment_be565af08f",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "TOTAL taxation of a Swedish income",
-      "predicate": "is more then",
-      "object": "60%"
-    },
-    "normalized_triple": {
-      "subject": "Total taxation of Swedish income",
-      "predicate": "is more than",
-      "object": "60%"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -865,16 +601,8 @@
     "source_child_comment_id": "comment_fa5d2af3b5",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "TOTAL taxation of a Swedish income",
-      "predicate": "is more then",
-      "object": "60%"
-    },
-    "normalized_triple": {
-      "subject": "total taxation of Swedish income",
-      "predicate": "is more than",
-      "object": "60%"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -891,16 +619,8 @@
     "source_child_comment_id": "comment_fa5d2af3b5",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "isn't for",
-      "object": "an average income"
-    },
-    "normalized_triple": {
-      "subject": "total taxation of Swedish income",
-      "predicate": "is not for",
-      "object": "an average income"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -917,16 +637,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "tax the employer almost 100% of what he pays the worker per month",
-      "object": "almost 100% of what he pays the worker per month"
-    },
-    "normalized_triple": {
-      "subject": "the employer",
-      "predicate": "is taxed almost 100% of what he pays the worker per month",
-      "object": "almost 100% of what he pays the worker per month"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -943,16 +655,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Average income (about 500k crowns per year)",
-      "predicate": "is taxed with",
-      "object": "23% in Stockholm"
-    },
-    "normalized_triple": {
-      "subject": "Average income (about 500k crowns per year)",
-      "predicate": "is taxed with",
-      "object": "23% in Stockholm"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -969,16 +673,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is",
-      "object": "progressive and not the same for everyone"
-    },
-    "normalized_triple": {
-      "subject": "the tax system",
-      "predicate": "is",
-      "object": "progressive and not the same for everyone"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -995,16 +691,8 @@
     "source_child_comment_id": "comment_8460756176",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "will not reach",
-      "object": "60% for average income"
-    },
-    "normalized_triple": {
-      "subject": "the tax rate",
-      "predicate": "will not reach",
-      "object": "60% for average income"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1021,16 +709,8 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Tarzan",
-      "predicate": "is",
-      "object": "non-arian sub-human animal from outside of Europe lands"
-    },
-    "normalized_triple": {
-      "subject": "Tarzan",
-      "predicate": "is",
-      "object": "non-Aryan sub-human animal from outside European lands"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -1047,16 +727,8 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Tarzan",
-      "predicate": "is",
-      "object": "a Caucasian character, a white British man"
-    },
-    "normalized_triple": {
-      "subject": "Tarzan",
-      "predicate": "is",
-      "object": "a Caucasian character, a white British man"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1073,16 +745,8 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Tarzan",
-      "predicate": "is depicted as",
-      "object": "a hunk with very pale skin, blue eyes and long blond hair"
-    },
-    "normalized_triple": {
-      "subject": "Tarzan",
-      "predicate": "is depicted as",
-      "object": "a hunk with very pale skin, blue eyes and long blond hair"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1099,16 +763,8 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Tarzan",
-      "predicate": "is",
-      "object": "the ideal Arian"
-    },
-    "normalized_triple": {
-      "subject": "Tarzan",
-      "predicate": "is",
-      "object": "the ideal Aryan"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1125,16 +781,8 @@
     "source_child_comment_id": "comment_e2f2d8d35d",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "Tarzan",
-      "predicate": "was raised by",
-      "object": "apes in the jungle"
-    },
-    "normalized_triple": {
-      "subject": "Tarzan",
-      "predicate": "was raised by",
-      "object": "apes in the jungle"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1151,16 +799,8 @@
     "source_child_comment_id": "comment_b0df5cb476",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "apes",
-      "predicate": "aren't qualified enough to pass over",
-      "object": "civilized values"
-    },
-    "normalized_triple": {
-      "subject": "apes",
-      "predicate": "are not qualified enough to pass over",
-      "object": "civilized values"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1177,16 +817,8 @@
     "source_child_comment_id": "comment_b0df5cb476",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "was white, and that's why he end up being",
-      "object": "heir to the great estate"
-    },
-    "normalized_triple": {
-      "subject": "Tarzan",
-      "predicate": "ended up being heir to the great estate because he was white",
-      "object": "the great estate"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1203,16 +835,8 @@
     "source_child_comment_id": "comment_b0df5cb476",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Your grammar and spelling",
-      "predicate": "show you haven't gone through",
-      "object": "the education system in Europe"
-    },
-    "normalized_triple": {
-      "subject": "User_217's grammar and spelling",
-      "predicate": "show that User_217 has not gone through",
-      "object": "the education system in Europe"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1229,16 +853,8 @@
     "source_child_comment_id": "comment_9f3636b71d",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "passed up NINE COUNTRIES to invade ours",
-      "object": "ours"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "passed up nine countries to invade our country",
-      "object": "our country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1255,16 +871,8 @@
     "source_child_comment_id": "comment_9f3636b71d",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "That's not seeking asylum, that's SHOPPING",
-      "predicate": "is",
-      "object": "SHOPPING"
-    },
-    "normalized_triple": {
-      "subject": "Their actions",
-      "predicate": "are not seeking asylum but are shopping",
-      "object": "shopping"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1281,16 +889,8 @@
     "source_child_comment_id": "comment_9f3636b71d",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "isn't a invasion",
-      "object": "invasion"
-    },
-    "normalized_triple": {
-      "subject": "It",
-      "predicate": "is not an invasion",
-      "object": "invasion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1307,16 +907,8 @@
     "source_child_comment_id": "comment_9f3636b71d",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "aren't a military entity",
-      "object": "military entity"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "are not a military entity",
-      "object": "military entity"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1333,16 +925,8 @@
     "source_child_comment_id": "comment_2c667e9b1d",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "isn't a",
-      "object": "invasion"
-    },
-    "normalized_triple": {
-      "subject": "It",
-      "predicate": "is not an",
-      "object": "invasion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1359,16 +943,8 @@
     "source_child_comment_id": "comment_2c667e9b1d",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "aren't a",
-      "object": "military entity"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "are not a",
-      "object": "military entity"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1385,16 +961,8 @@
     "source_child_comment_id": "comment_2c667e9b1d",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Most",
-      "predicate": "are",
-      "object": "single, military aged men"
-    },
-    "normalized_triple": {
-      "subject": "Most",
-      "predicate": "are",
-      "object": "single, military aged men"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1411,16 +979,8 @@
     "source_child_comment_id": "comment_2c667e9b1d",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Biden",
-      "predicate": "trafficks",
-      "object": "the children"
-    },
-    "normalized_triple": {
-      "subject": "Biden",
-      "predicate": "traffics",
-      "object": "children"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1437,16 +997,8 @@
     "source_child_comment_id": "comment_2c667e9b1d",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is",
-      "object": "pretty lucrative for both"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "is",
-      "object": "pretty lucrative for both"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1463,16 +1015,8 @@
     "source_child_comment_id": "comment_7077edfb91",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Most",
-      "predicate": "are",
-      "object": "single, military aged men"
-    },
-    "normalized_triple": {
-      "subject": "Most [people/migrants]",
-      "predicate": "are",
-      "object": "single, military aged men"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1489,16 +1033,8 @@
     "source_child_comment_id": "comment_7077edfb91",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Biden",
-      "predicate": "trafficks",
-      "object": "the children"
-    },
-    "normalized_triple": {
-      "subject": "Biden",
-      "predicate": "trafficks",
-      "object": "the children"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1515,16 +1051,8 @@
     "source_child_comment_id": "comment_7077edfb91",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is",
-      "object": "pretty lucrative for both"
-    },
-    "normalized_triple": {
-      "subject": "the situation",
-      "predicate": "is",
-      "object": "pretty lucrative for both"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1541,16 +1069,8 @@
     "source_child_comment_id": "comment_7077edfb91",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "aren't being sent by anyone",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "are not being sent by anyone",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1567,16 +1087,8 @@
     "source_child_comment_id": "comment_7077edfb91",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is not",
-      "object": "a invasion"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "is not",
-      "object": "an invasion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1593,16 +1105,8 @@
     "source_child_comment_id": "comment_7077edfb91",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "aren't",
-      "object": "mercenaries or soldiers"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "are not",
-      "object": "mercenaries or soldiers"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1619,16 +1123,8 @@
     "source_child_comment_id": "comment_d583a55d34",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "aren't being sent by anyone",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "are not being sent by anyone",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1645,16 +1141,8 @@
     "source_child_comment_id": "comment_d583a55d34",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is not",
-      "object": "a invasion"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "is not",
-      "object": "an invasion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1671,16 +1159,8 @@
     "source_child_comment_id": "comment_d583a55d34",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "aren't",
-      "object": "mercenaries or soldiers"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "are not",
-      "object": "mercenaries or soldiers"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1697,16 +1177,8 @@
     "source_child_comment_id": "comment_232d59d340",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "their border",
-      "predicate": "bums",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "their border",
-      "predicate": "is poorly managed",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1723,16 +1195,8 @@
     "source_child_comment_id": "comment_232d59d340",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "work harder than",
-      "object": "you"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "work harder than",
-      "object": "you"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1749,16 +1213,8 @@
     "source_child_comment_id": "comment_917b6950de",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Elon",
-      "predicate": "is",
-      "object": "the man"
-    },
-    "normalized_triple": {
-      "subject": "Elon",
-      "predicate": "is",
-      "object": "the man"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1775,16 +1231,8 @@
     "source_child_comment_id": "comment_917b6950de",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "someone",
-      "predicate": "has the guts to expose",
-      "object": "the US government failure"
-    },
-    "normalized_triple": {
-      "subject": "someone",
-      "predicate": "has the guts to expose",
-      "object": "the US government failure"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1801,16 +1249,8 @@
     "source_child_comment_id": "comment_917b6950de",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "was",
-      "object": "US government failure"
-    },
-    "normalized_triple": {
-      "subject": "the US government failure",
-      "predicate": "was",
-      "object": "the US government failure"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -1827,16 +1267,8 @@
     "source_child_comment_id": "comment_917b6950de",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "was done",
-      "object": "on purpose"
-    },
-    "normalized_triple": {
-      "subject": "the US government failure",
-      "predicate": "was done",
-      "object": "on purpose"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1853,16 +1285,8 @@
     "source_child_comment_id": "comment_497a275ec8",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "population replacement, cheap labor, and easy reliable voters",
-      "predicate": "is why",
-      "object": "the real question"
-    },
-    "normalized_triple": {
-      "subject": "population replacement, cheap labor, and easy reliable voters",
-      "predicate": "is the reason for",
-      "object": "the real question"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1879,16 +1303,8 @@
     "source_child_comment_id": "comment_497a275ec8",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "population replacement, cheap labor, and easy reliable voters",
-      "predicate": "is happening",
-      "object": "all across Europe"
-    },
-    "normalized_triple": {
-      "subject": "population replacement, cheap labor, and easy reliable voters",
-      "predicate": "is happening",
-      "object": "all across Europe"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1905,16 +1321,8 @@
     "source_child_comment_id": "comment_74609bd636",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "the people",
-      "predicate": "got exactly what they voted for",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "the people",
-      "predicate": "got exactly what they voted for",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1931,16 +1339,8 @@
     "source_child_comment_id": "comment_74609bd636",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Nobody",
-      "predicate": "voted for",
-      "object": "this"
-    },
-    "normalized_triple": {
-      "subject": "Nobody",
-      "predicate": "voted for",
-      "object": "this"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -1957,16 +1357,8 @@
     "source_child_comment_id": "comment_74609bd636",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "the UK",
-      "predicate": "has",
-      "object": "same problems"
-    },
-    "normalized_triple": {
-      "subject": "the UK",
-      "predicate": "has",
-      "object": "same problems"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -1983,16 +1375,8 @@
     "source_child_comment_id": "comment_74609bd636",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "voted for",
-      "object": "immigration to be cut to 10,000 per year"
-    },
-    "normalized_triple": {
-      "subject": "the UK voters",
-      "predicate": "voted for",
-      "object": "immigration to be cut to 10,000 per year"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2009,16 +1393,8 @@
     "source_child_comment_id": "comment_74609bd636",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "last year",
-      "predicate": "we got",
-      "object": "1.2 million"
-    },
-    "normalized_triple": {
-      "subject": "the UK",
-      "predicate": "received 1.2 million immigrants",
-      "object": "1.2 million"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2035,16 +1411,8 @@
     "source_child_comment_id": "comment_d08982e567",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Nobody",
-      "predicate": "voted for",
-      "object": "this"
-    },
-    "normalized_triple": {
-      "subject": "Nobody",
-      "predicate": "voted for",
-      "object": "this"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2061,16 +1429,8 @@
     "source_child_comment_id": "comment_d08982e567",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "voted for",
-      "object": "immigration to be cut to 10,000 per year"
-    },
-    "normalized_triple": {
-      "subject": "the UK",
-      "predicate": "voted for",
-      "object": "immigration to be cut to 10,000 per year"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2087,16 +1447,8 @@
     "source_child_comment_id": "comment_d08982e567",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "last year",
-      "predicate": "we got",
-      "object": "1.2 million"
-    },
-    "normalized_triple": {
-      "subject": "the UK",
-      "predicate": "received",
-      "object": "1.2 million immigrants"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2113,16 +1465,8 @@
     "source_child_comment_id": "comment_d08982e567",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "you guys",
-      "predicate": "did",
-      "object": "vote for this"
-    },
-    "normalized_triple": {
-      "subject": "the people in the UK",
-      "predicate": "voted for",
-      "object": "this"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2139,16 +1483,8 @@
     "source_child_comment_id": "comment_d08982e567",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "the cancer of feminism",
-      "predicate": "came to",
-      "object": "the stage"
-    },
-    "normalized_triple": {
-      "subject": "feminism",
-      "predicate": "arrived at",
-      "object": "the stage"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2165,16 +1501,8 @@
     "source_child_comment_id": "comment_d08982e567",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "allowed",
-      "object": "the cancer of feminism"
-    },
-    "normalized_triple": {
-      "subject": "the people",
-      "predicate": "allowed",
-      "object": "feminism"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2191,16 +1519,8 @@
     "source_child_comment_id": "comment_f9a914503a",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "asylees",
-      "predicate": "probably feel the same way -- so wrong that this situation is their best option",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "asylees",
-      "predicate": "probably feel",
-      "object": "this situation is their best option is wrong"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -2217,16 +1537,8 @@
     "source_child_comment_id": "comment_f9a914503a",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "your view of this situation",
-      "predicate": "is grounded in",
-      "object": "compassion"
-    },
-    "normalized_triple": {
-      "subject": "your view of this[the] situation",
-      "predicate": "is grounded in",
-      "object": "compassion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2243,16 +1555,8 @@
     "source_child_comment_id": "comment_f9a914503a",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "have been gaslit into believing",
-      "object": "allowing this is compassionate"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "have been gaslit into believing",
-      "object": "allowing this is compassionate"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2269,16 +1573,8 @@
     "source_child_comment_id": "comment_f9a914503a",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "have no idea what they're getting themselves into",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "have no idea what they are getting themselves into",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -2295,16 +1591,8 @@
     "source_child_comment_id": "comment_f9a914503a",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "have no idea of what's happening to them",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "have no idea of what is happening to them",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -2321,16 +1609,8 @@
     "source_child_comment_id": "comment_e72b1be8ea",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "your view of this situation",
-      "predicate": "is grounded in",
-      "object": "compassion"
-    },
-    "normalized_triple": {
-      "subject": "User_762's view of this situation",
-      "predicate": "is grounded in",
-      "object": "compassion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2347,16 +1627,8 @@
     "source_child_comment_id": "comment_e72b1be8ea",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "allowing this",
-      "predicate": "is",
-      "object": "compassionate"
-    },
-    "normalized_triple": {
-      "subject": "allowing this",
-      "predicate": "is",
-      "object": "compassionate"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -2373,16 +1645,8 @@
     "source_child_comment_id": "comment_e72b1be8ea",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "have no idea what they are getting themselves into",
-      "object": "when they leave their homes and become the product of the cartels"
-    },
-    "normalized_triple": {
-      "subject": "People leaving their homes",
-      "predicate": "do not know the consequences of becoming the product of the cartels",
-      "object": "becoming the product of the cartels"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -2399,16 +1663,8 @@
     "source_child_comment_id": "comment_e72b1be8ea",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "is not",
-      "object": "compassion"
-    },
-    "normalized_triple": {
-      "subject": "User_762's view",
-      "predicate": "is not",
-      "object": "compassion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -2425,16 +1681,8 @@
     "source_child_comment_id": "comment_e72b1be8ea",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "is",
-      "object": "completely and total naivete/subversion"
-    },
-    "normalized_triple": {
-      "subject": "User_762's view",
-      "predicate": "is",
-      "object": "complete and total naivete/subversion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2451,16 +1699,8 @@
     "source_child_comment_id": "comment_a530406132",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "is not",
-      "object": "compassion"
-    },
-    "normalized_triple": {
-      "subject": "It",
-      "predicate": "is not",
-      "object": "compassion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -2477,16 +1717,8 @@
     "source_child_comment_id": "comment_a530406132",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "is",
-      "object": "completely and total naivete/subversion"
-    },
-    "normalized_triple": {
-      "subject": "It",
-      "predicate": "is",
-      "object": "complete and total naivete/subversion"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2503,16 +1735,8 @@
     "source_child_comment_id": "comment_a530406132",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "con artists",
-      "predicate": "play on",
-      "object": "naive compassionate people"
-    },
-    "normalized_triple": {
-      "subject": "con artists",
-      "predicate": "play on",
-      "object": "naive compassionate people"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2529,16 +1753,8 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "the people of the USA",
-      "predicate": "thought voting for this would help them",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "the people of the USA",
-      "predicate": "thought voting for this would help them",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2555,16 +1771,8 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "didnt",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "the people of the USA",
-      "predicate": "did not vote for this",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -2581,16 +1789,8 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "were told",
-      "object": "thats how the voted went"
-    },
-    "normalized_triple": {
-      "subject": "the people of the USA",
-      "predicate": "were told",
-      "object": "that is how the vote went"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2607,16 +1807,8 @@
     "source_child_comment_id": "comment_d36e82563c",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "US citizen",
-      "predicate": "has no",
-      "object": "voting powers in usa"
-    },
-    "normalized_triple": {
-      "subject": "US citizens",
-      "predicate": "have no",
-      "object": "voting powers in the USA"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -2633,16 +1825,8 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "didnt",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "we",
-      "predicate": "did not [do something]",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -2659,16 +1843,8 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "US citizen",
-      "predicate": "has no",
-      "object": "voting powers in usa"
-    },
-    "normalized_triple": {
-      "subject": "US citizen",
-      "predicate": "has no",
-      "object": "voting powers in usa"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -2685,16 +1861,8 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "this",
-      "predicate": "is",
-      "object": "a Republican talking point"
-    },
-    "normalized_triple": {
-      "subject": "the previous claim",
-      "predicate": "is",
-      "object": "a Republican talking point"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2711,16 +1879,8 @@
     "source_child_comment_id": "comment_85cbef50e4",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "have convinced",
-      "object": "us that voting for one part can help when both parties are in cahoots"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "have convinced",
-      "object": "us that voting for one part can help when both parties are in cahoots"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2737,16 +1897,8 @@
     "source_child_comment_id": "comment_7a33f00b7e",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Poland, Hungary, Czech republic",
-      "predicate": "used to be",
-      "object": "\"poor man\" of Europe"
-    },
-    "normalized_triple": {
-      "subject": "Poland, Hungary, and the Czech Republic",
-      "predicate": "were",
-      "object": "the poor countries of Europe"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2763,16 +1915,8 @@
     "source_child_comment_id": "comment_7a33f00b7e",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Czechia",
-      "predicate": "had",
-      "object": "the biggest industry before WWII"
-    },
-    "normalized_triple": {
-      "subject": "Czechia",
-      "predicate": "had",
-      "object": "the largest industry before WWII"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2789,16 +1933,8 @@
     "source_child_comment_id": "comment_7a33f00b7e",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Czechia",
-      "predicate": "had",
-      "object": "Skoda cars, bohemian glass, coal industry and etc"
-    },
-    "normalized_triple": {
-      "subject": "Czechia",
-      "predicate": "had",
-      "object": "Skoda cars, Bohemian glass, and a coal industry"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2815,16 +1951,8 @@
     "source_child_comment_id": "comment_6e4ca3f7d8",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Hitler",
-      "predicate": "invaded",
-      "object": "Sudety in Czechia"
-    },
-    "normalized_triple": {
-      "subject": "Hitler",
-      "predicate": "invaded",
-      "object": "Sudetenland in Czechia"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2841,16 +1969,8 @@
     "source_child_comment_id": "comment_6e4ca3f7d8",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Sudety in Czechia",
-      "predicate": "had",
-      "object": "the biggest industry"
-    },
-    "normalized_triple": {
-      "subject": "Sudetenland in Czechia",
-      "predicate": "had",
-      "object": "the biggest industry"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2867,16 +1987,8 @@
     "source_child_comment_id": "comment_6e4ca3f7d8",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "the entity",
-      "predicate": "is not",
-      "object": "Czechoslovakia"
-    },
-    "normalized_triple": {
-      "subject": "the entity",
-      "predicate": "is not",
-      "object": "Czechoslovakia"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "uncertain",
     "polarity": "negated",
     "certainty": "certain",
@@ -2893,16 +2005,8 @@
     "source_child_comment_id": "comment_c7dd3061b2",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "feel like",
-      "object": "Denmark is home"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "feel like",
-      "object": "Denmark is home"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2919,16 +2023,8 @@
     "source_child_comment_id": "comment_c7dd3061b2",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "You",
-      "predicate": "can't stop speaking",
-      "object": "your mother language"
-    },
-    "normalized_triple": {
-      "subject": "You",
-      "predicate": "cannot stop speaking",
-      "object": "your mother language"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -2945,16 +2041,8 @@
     "source_child_comment_id": "comment_5e7d8f9d8c",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "You",
-      "predicate": "can't stop speaking",
-      "object": "your mother language"
-    },
-    "normalized_triple": {
-      "subject": "You",
-      "predicate": "cannot stop speaking",
-      "object": "your mother language"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -2971,16 +2059,8 @@
     "source_child_comment_id": "comment_5e7d8f9d8c",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "speak",
-      "object": "their language"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "speak",
-      "object": "the language of natives"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -2997,16 +2077,8 @@
     "source_child_comment_id": "comment_5e7d8f9d8c",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "translate",
-      "object": "what you just said"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "translate",
-      "object": "what you just said"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3023,16 +2095,8 @@
     "source_child_comment_id": "comment_72ee55acc4",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "speak",
-      "object": "their language"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "speak",
-      "object": "the native language"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3049,16 +2113,8 @@
     "source_child_comment_id": "comment_72ee55acc4",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "translate for them",
-      "object": "what you just said"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "translate",
-      "object": "what you just said"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3075,16 +2131,8 @@
     "source_child_comment_id": "comment_72ee55acc4",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "would be better to speak",
-      "object": "in the language she's more comfortable with"
-    },
-    "normalized_triple": {
-      "subject": "speaking in the language she is more comfortable with",
-      "predicate": "would be",
-      "object": "better"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -3101,16 +2149,8 @@
     "source_child_comment_id": "comment_72ee55acc4",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "speaking in the language she's more comfortable with",
-      "predicate": "to deliver",
-      "object": "the message in the best way possible"
-    },
-    "normalized_triple": {
-      "subject": "speaking in the language she is more comfortable with",
-      "predicate": "delivers",
-      "object": "the message in the best way possible"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3127,16 +2167,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "can't afford",
-      "object": "a baby"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "cannot afford",
-      "object": "a baby"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -3153,16 +2185,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "you people",
-      "predicate": "stole",
-      "object": "their wealth"
-    },
-    "normalized_triple": {
-      "subject": "you people",
-      "predicate": "stole",
-      "object": "their wealth"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3179,16 +2203,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "you people",
-      "predicate": "have been waging",
-      "object": "wars on them"
-    },
-    "normalized_triple": {
-      "subject": "you people",
-      "predicate": "have been waging",
-      "object": "wars on them"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3205,16 +2221,8 @@
     "source_child_comment_id": "comment_d1197de6fb",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "People like you",
-      "predicate": "are",
-      "object": "just lucky to be born in the other side of the fence"
-    },
-    "normalized_triple": {
-      "subject": "People like you",
-      "predicate": "are",
-      "object": "lucky to be born on the other side of the fence"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3231,16 +2239,8 @@
     "source_child_comment_id": "comment_1d3b607a54",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Elon",
-      "predicate": "is",
-      "object": "a Billionaire"
-    },
-    "normalized_triple": {
-      "subject": "Elon",
-      "predicate": "is",
-      "object": "a billionaire"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3257,16 +2257,8 @@
     "source_child_comment_id": "comment_1d3b607a54",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "is trying to make a stand for",
-      "object": "our country"
-    },
-    "normalized_triple": {
-      "subject": "Elon",
-      "predicate": "is trying to make a stand for",
-      "object": "our country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3283,16 +2275,8 @@
     "source_child_comment_id": "comment_1d3b607a54",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "could be",
-      "object": "off on a yacht"
-    },
-    "normalized_triple": {
-      "subject": "Elon",
-      "predicate": "could be",
-      "object": "off on a yacht"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -3309,16 +2293,8 @@
     "source_child_comment_id": "comment_1d3b607a54",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "can improve on",
-      "object": "South Africa"
-    },
-    "normalized_triple": {
-      "subject": "Elon",
-      "predicate": "can improve on",
-      "object": "South Africa"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3335,16 +2311,8 @@
     "source_child_comment_id": "comment_7679f45438",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "helping",
-      "object": "South Africa"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "can help",
-      "object": "South Africa"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -3361,16 +2329,8 @@
     "source_child_comment_id": "comment_7679f45438",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "can improve on",
-      "object": "South Africa"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "can improve",
-      "object": "South Africa"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -3387,16 +2347,8 @@
     "source_child_comment_id": "comment_7679f45438",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "South Africa",
-      "predicate": "is",
-      "object": "dead"
-    },
-    "normalized_triple": {
-      "subject": "South Africa",
-      "predicate": "is",
-      "object": "dead"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3413,16 +2365,8 @@
     "source_child_comment_id": "comment_7679f45438",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "nothing he can do",
-      "predicate": "for",
-      "object": "South Africa"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "can do nothing for",
-      "object": "South Africa"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -3439,16 +2383,8 @@
     "source_child_comment_id": "comment_7679f45438",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "saving South Africa",
-      "predicate": "is like",
-      "object": "saving North Korea"
-    },
-    "normalized_triple": {
-      "subject": "saving South Africa",
-      "predicate": "is like",
-      "object": "saving North Korea"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3465,16 +2401,8 @@
     "source_child_comment_id": "comment_7679f45438",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "would likely be shot in the chest",
-      "object": "on the first day of arrival"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "would likely be shot in the chest",
-      "object": "on the first day of arrival"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -3491,16 +2419,8 @@
     "source_child_comment_id": "comment_7679f45438",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "America",
-      "predicate": "should be kept from",
-      "object": "suffering the same fate"
-    },
-    "normalized_triple": {
-      "subject": "America",
-      "predicate": "should be kept from",
-      "object": "suffering the same fate"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3517,16 +2437,8 @@
     "source_child_comment_id": "comment_bcf8c032d2",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "USA",
-      "predicate": "is dying",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "USA",
-      "predicate": "is dying",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3543,16 +2455,8 @@
     "source_child_comment_id": "comment_bcf8c032d2",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "immigrants",
-      "predicate": "cause",
-      "object": "USA is dying"
-    },
-    "normalized_triple": {
-      "subject": "immigrants",
-      "predicate": "cause",
-      "object": "USA is dying"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3569,16 +2473,8 @@
     "source_child_comment_id": "comment_bcf8c032d2",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "US",
-      "predicate": "is not dying",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "US",
-      "predicate": "is not dying",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -3595,16 +2491,8 @@
     "source_child_comment_id": "comment_bcf8c032d2",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "US",
-      "predicate": "is",
-      "object": "growing"
-    },
-    "normalized_triple": {
-      "subject": "US",
-      "predicate": "is",
-      "object": "growing"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3621,16 +2509,8 @@
     "source_child_comment_id": "comment_3017363d17",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "USA",
-      "predicate": "is dying",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "USA",
-      "predicate": "is dying",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3647,16 +2527,8 @@
     "source_child_comment_id": "comment_3017363d17",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "immigrants",
-      "predicate": "cause",
-      "object": "USA is dying"
-    },
-    "normalized_triple": {
-      "subject": "immigrants",
-      "predicate": "cause",
-      "object": "USA is dying"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3673,16 +2545,8 @@
     "source_child_comment_id": "comment_3017363d17",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "User_772",
-      "predicate": "demands proof of",
-      "object": "USA is dying because of immigrants"
-    },
-    "normalized_triple": {
-      "subject": "User_772",
-      "predicate": "demands proof of",
-      "object": "USA is dying because of immigrants"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3699,16 +2563,8 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "people",
-      "predicate": "are allowed to come to your country and blatantly flout the rules with no consequences",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "people",
-      "predicate": "are allowed to enter countries and violate rules without consequences",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -3725,16 +2581,8 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "are facing consequences",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "people in the video",
-      "predicate": "are facing consequences",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3751,16 +2599,8 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "The people in this video",
-      "predicate": "are legally applying for refugee status",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "The people in this video",
-      "predicate": "are legally applying for refugee status",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3777,16 +2617,8 @@
     "source_child_comment_id": "comment_b2893e0fa2",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "the courts",
-      "predicate": "will evaluate their case and either accept or deport them",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "the courts",
-      "predicate": "will evaluate their case and either accept or deport them",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3803,16 +2635,8 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "are facing",
-      "object": "consequences"
-    },
-    "normalized_triple": {
-      "subject": "the people in the video",
-      "predicate": "are facing",
-      "object": "consequences"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3829,16 +2653,8 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "The people in this video",
-      "predicate": "are legally applying for",
-      "object": "refugee status"
-    },
-    "normalized_triple": {
-      "subject": "The people in this video",
-      "predicate": "are legally applying for",
-      "object": "refugee status"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3855,16 +2671,8 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "the courts",
-      "predicate": "will evaluate",
-      "object": "their case"
-    },
-    "normalized_triple": {
-      "subject": "the courts",
-      "predicate": "will evaluate",
-      "object": "the case of the people in the video"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3881,16 +2689,8 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "the courts",
-      "predicate": "will either accept or deport",
-      "object": "them"
-    },
-    "normalized_triple": {
-      "subject": "the courts",
-      "predicate": "will either accept or deport",
-      "object": "the people in the video"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3907,16 +2707,8 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "China",
-      "predicate": "doesn't accept",
-      "object": "them back"
-    },
-    "normalized_triple": {
-      "subject": "China",
-      "predicate": "does not accept",
-      "object": "the people in the video back"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -3933,16 +2725,8 @@
     "source_child_comment_id": "comment_98e94b0ef6",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is almost guaranteed",
-      "object": "they will stay"
-    },
-    "normalized_triple": {
-      "subject": "the people in the video",
-      "predicate": "are almost guaranteed to stay",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -3959,16 +2743,8 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "entering a country illegally",
-      "predicate": "shows",
-      "object": "a level of contempt for the rules and values of that country"
-    },
-    "normalized_triple": {
-      "subject": "entering a country illegally",
-      "predicate": "shows",
-      "object": "a level of contempt for the rules and values of that country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -3985,16 +2761,8 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "entering a country illegally",
-      "predicate": "makes it less likely",
-      "object": "they're the type of people to follow the rules of the land whilst here"
-    },
-    "normalized_triple": {
-      "subject": "entering a country illegally",
-      "predicate": "makes it less likely",
-      "object": "they will follow the rules of the land while present"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4011,16 +2779,8 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "without borders",
-      "predicate": "you have",
-      "object": "no country"
-    },
-    "normalized_triple": {
-      "subject": "without borders",
-      "predicate": "results in",
-      "object": "no country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4037,16 +2797,8 @@
     "source_child_comment_id": "comment_13d877ca20",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "entering a country illegally",
-      "predicate": "threatens",
-      "object": "the agricultural industry with introduced pests and deseases, spy's, saboteurs, terrorists etc."
-    },
-    "normalized_triple": {
-      "subject": "entering a country illegally",
-      "predicate": "threatens",
-      "object": "the agricultural industry with introduced pests, diseases, spies, saboteurs, and terrorists"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4063,16 +2815,8 @@
     "source_child_comment_id": "comment_26f07429dd",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "a beautiful country",
-      "predicate": "being trashed",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "a beautiful country",
-      "predicate": "is being trashed",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4089,16 +2833,8 @@
     "source_child_comment_id": "comment_26f07429dd",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "take part in",
-      "object": "the wars"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "take part in",
-      "object": "the wars"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4115,16 +2851,8 @@
     "source_child_comment_id": "comment_26f07429dd",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "take part in the wars",
-      "object": "refugee"
-    },
-    "normalized_triple": {
-      "subject": "taking part in wars",
-      "predicate": "causes",
-      "object": "dealing with refugees"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4141,16 +2869,8 @@
     "source_child_comment_id": "comment_7db671bc48",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "take part in the wars",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "takes part in wars",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4167,16 +2887,8 @@
     "source_child_comment_id": "comment_7db671bc48",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "NATO",
-      "predicate": "is",
-      "object": "an aggressor"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is",
-      "object": "an aggressor"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -4193,16 +2905,8 @@
     "source_child_comment_id": "comment_7db671bc48",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is",
-      "object": "a defence pact"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is",
-      "object": "a defence pact"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4219,16 +2923,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Nato",
-      "predicate": "isn't an",
-      "object": "aggressor"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is not",
-      "object": "an aggressor"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -4245,16 +2941,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is a",
-      "object": "defence pact"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is a",
-      "object": "defense pact"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4271,16 +2959,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "they went to",
-      "object": "syria ,Afghanistan , Libya"
-    },
-    "normalized_triple": {
-      "subject": "The USA and European countries",
-      "predicate": "went to",
-      "object": "Syria, Afghanistan, and Libya"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4297,16 +2977,8 @@
     "source_child_comment_id": "comment_4126fe24c6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "started",
-      "object": "all these problem"
-    },
-    "normalized_triple": {
-      "subject": "The USA and European countries",
-      "predicate": "started",
-      "object": "all these problems"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4323,16 +2995,8 @@
     "source_child_comment_id": "comment_adce9e92c0",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "went to",
-      "object": "syria ,Afghanistan , Libya"
-    },
-    "normalized_triple": {
-      "subject": "USA and European countries",
-      "predicate": "went to",
-      "object": "Syria, Afghanistan, and Libya"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4349,16 +3013,8 @@
     "source_child_comment_id": "comment_adce9e92c0",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Usa and european countries",
-      "predicate": "started",
-      "object": "all these problem"
-    },
-    "normalized_triple": {
-      "subject": "USA and European countries",
-      "predicate": "started",
-      "object": "all these problems"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4375,16 +3031,8 @@
     "source_child_comment_id": "comment_adce9e92c0",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Nato",
-      "predicate": "not run by",
-      "object": "dictatorships or religious nut cases"
-    },
-    "normalized_triple": {
-      "subject": "NATO",
-      "predicate": "is not run by",
-      "object": "dictators or religious extremists"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -4401,16 +3049,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "european",
-      "predicate": "are complaining why",
-      "object": "all those refugee in europe"
-    },
-    "normalized_triple": {
-      "subject": "Europeans",
-      "predicate": "are complaining about the presence of",
-      "object": "refugees in Europe"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4427,16 +3067,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "will always come",
-      "object": "anyway"
-    },
-    "normalized_triple": {
-      "subject": "refugees",
-      "predicate": "will always arrive",
-      "object": "anyway"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4453,16 +3085,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "a huge percent",
-      "predicate": "are",
-      "object": "bogus refugees"
-    },
-    "normalized_triple": {
-      "subject": "a large percentage of refugees",
-      "predicate": "are",
-      "object": "bogus refugees"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4479,16 +3103,8 @@
     "source_child_comment_id": "comment_e337f8dab6",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Albanian etc etc",
-      "predicate": "not escaping",
-      "object": "war"
-    },
-    "normalized_triple": {
-      "subject": "Albanians and others",
-      "predicate": "are not escaping",
-      "object": "war"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -4505,16 +3121,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "there",
-      "predicate": "is",
-      "object": "so much unrest"
-    },
-    "normalized_triple": {
-      "subject": "there",
-      "predicate": "is",
-      "object": "much unrest"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4531,16 +3139,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "the Mexican president",
-      "predicate": "was holding them at the border",
-      "object": "them"
-    },
-    "normalized_triple": {
-      "subject": "the Mexican president",
-      "predicate": "was holding them at the border",
-      "object": "them"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4557,16 +3157,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Mr.biden",
-      "predicate": "said to let them in",
-      "object": "them"
-    },
-    "normalized_triple": {
-      "subject": "Mr. Biden",
-      "predicate": "said to let them in",
-      "object": "them"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4583,16 +3175,8 @@
     "source_child_comment_id": "comment_842f8a03e5",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "became",
-      "object": "our problem"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "became",
-      "object": "our problem"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4609,16 +3193,8 @@
     "source_child_comment_id": "comment_05bb7ce8b8",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Chinese",
-      "predicate": "won't take them back",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "China",
-      "predicate": "will not take them back",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -4635,16 +3211,8 @@
     "source_child_comment_id": "comment_05bb7ce8b8",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "know theyre gaming the system",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "know they are gaming the system",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4661,16 +3229,8 @@
     "source_child_comment_id": "comment_05bb7ce8b8",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "A vote for Trump",
-      "predicate": "will send them all back",
-      "object": "them all"
-    },
-    "normalized_triple": {
-      "subject": "A vote for Trump",
-      "predicate": "will send them all back",
-      "object": "them all"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4687,16 +3247,8 @@
     "source_child_comment_id": "comment_0f1ea57229",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "A vote for Trump",
-      "predicate": "will send",
-      "object": "them all back"
-    },
-    "normalized_triple": {
-      "subject": "A vote for Trump",
-      "predicate": "will send",
-      "object": "them all back"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4713,16 +3265,8 @@
     "source_child_comment_id": "comment_0f1ea57229",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "is running",
-      "object": "this business"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "is running",
-      "object": "this business"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4739,16 +3283,8 @@
     "source_child_comment_id": "comment_0f1ea57229",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "could be using it to gain",
-      "object": "political advantage"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "could be using it to gain",
-      "object": "political advantage"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -4765,16 +3301,8 @@
     "source_child_comment_id": "comment_c4fe4b225a",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "could be using it to gain",
-      "object": "political advantage"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "could be using it to gain",
-      "object": "political advantage"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -4791,16 +3319,8 @@
     "source_child_comment_id": "comment_c4fe4b225a",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "am not fooled by",
-      "object": "anything Biden or China does"
-    },
-    "normalized_triple": {
-      "subject": "I",
-      "predicate": "am not fooled by",
-      "object": "anything Biden or China does"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -4817,16 +3337,8 @@
     "source_child_comment_id": "comment_c4fe4b225a",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "feel like I am fighting",
-      "object": "by myself"
-    },
-    "normalized_triple": {
-      "subject": "I",
-      "predicate": "feel like I am fighting",
-      "object": "by myself"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4843,16 +3355,8 @@
     "source_child_comment_id": "comment_40d9c19a20",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "All EU countries",
-      "predicate": "needs to look at",
-      "object": "Poland and do exactly that in regards to immigration"
-    },
-    "normalized_triple": {
-      "subject": "All EU countries",
-      "predicate": "should follow the Polish model regarding immigration",
-      "object": "immigration policy"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4869,16 +3373,8 @@
     "source_child_comment_id": "comment_40d9c19a20",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "Poland",
-      "predicate": "is",
-      "object": "so poor"
-    },
-    "normalized_triple": {
-      "subject": "Poland",
-      "predicate": "is",
-      "object": "poor"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -4895,16 +3391,8 @@
     "source_child_comment_id": "comment_40d9c19a20",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "most poles",
-      "predicate": "immigrate to",
-      "object": "other european countries"
-    },
-    "normalized_triple": {
-      "subject": "most Poles",
-      "predicate": "immigrate to",
-      "object": "other European countries"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4921,16 +3409,8 @@
     "source_child_comment_id": "comment_7a70160b36",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "poland",
-      "predicate": "is",
-      "object": "a poor country"
-    },
-    "normalized_triple": {
-      "subject": "Poland",
-      "predicate": "is",
-      "object": "a poor country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4947,16 +3427,8 @@
     "source_child_comment_id": "comment_7a70160b36",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "has",
-      "object": "one of the lowest GDP per capita and HDI in EU"
-    },
-    "normalized_triple": {
-      "subject": "Poland",
-      "predicate": "has",
-      "object": "one of the lowest GDP per capita and HDI in EU"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4973,16 +3445,8 @@
     "source_child_comment_id": "comment_7a70160b36",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "It",
-      "predicate": "can be compared to",
-      "object": "Turkey not Germany or France"
-    },
-    "normalized_triple": {
-      "subject": "Poland",
-      "predicate": "can be compared to",
-      "object": "Turkey rather than Germany or France"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -4999,16 +3463,8 @@
     "source_child_comment_id": "comment_1c34bbd117",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "women",
-      "predicate": "fix",
-      "object": "houses all the time in America"
-    },
-    "normalized_triple": {
-      "subject": "women",
-      "predicate": "fix",
-      "object": "houses in America"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5025,16 +3481,8 @@
     "source_child_comment_id": "comment_1c34bbd117",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "some of the best kindergarten teachers",
-      "predicate": "are",
-      "object": "men"
-    },
-    "normalized_triple": {
-      "subject": "some of the best kindergarten teachers",
-      "predicate": "are",
-      "object": "men"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5051,16 +3499,8 @@
     "source_child_comment_id": "comment_1c34bbd117",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "builders",
-      "predicate": "are",
-      "object": "disproportionately men"
-    },
-    "normalized_triple": {
-      "subject": "builders",
-      "predicate": "are",
-      "object": "disproportionately men"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5077,16 +3517,8 @@
     "source_child_comment_id": "comment_1c34bbd117",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "kindergarten teachers",
-      "predicate": "are",
-      "object": "disproportionately women"
-    },
-    "normalized_triple": {
-      "subject": "kindergarten teachers",
-      "predicate": "are",
-      "object": "disproportionately women"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5103,16 +3535,8 @@
     "source_child_comment_id": "comment_1c34bbd117",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "brain function",
-      "predicate": "causes",
-      "object": "disproportions"
-    },
-    "normalized_triple": {
-      "subject": "brain function",
-      "predicate": "causes",
-      "object": "disproportions"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5129,16 +3553,8 @@
     "source_child_comment_id": "comment_1c34bbd117",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "men and women",
-      "predicate": "are not",
-      "object": "the same"
-    },
-    "normalized_triple": {
-      "subject": "men and women",
-      "predicate": "are not",
-      "object": "the same"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -5155,16 +3571,8 @@
     "source_child_comment_id": "comment_8c34771d27",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "most builders",
-      "predicate": "are",
-      "object": "men"
-    },
-    "normalized_triple": {
-      "subject": "most builders",
-      "predicate": "are",
-      "object": "men"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5181,16 +3589,8 @@
     "source_child_comment_id": "comment_8c34771d27",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "most kindergarden teachers",
-      "predicate": "are",
-      "object": "women"
-    },
-    "normalized_triple": {
-      "subject": "most kindergarten teachers",
-      "predicate": "are",
-      "object": "women"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5207,16 +3607,8 @@
     "source_child_comment_id": "comment_8c34771d27",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "men and women",
-      "predicate": "are not",
-      "object": "the same"
-    },
-    "normalized_triple": {
-      "subject": "men and women",
-      "predicate": "are not",
-      "object": "the same"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -5233,16 +3625,8 @@
     "source_child_comment_id": "comment_8c34771d27",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "are",
-      "object": "different"
-    },
-    "normalized_triple": {
-      "subject": "men and women",
-      "predicate": "are",
-      "object": "different"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5259,16 +3643,8 @@
     "source_child_comment_id": "comment_f1cbef3ae7",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "most men",
-      "predicate": "are",
-      "object": "builders"
-    },
-    "normalized_triple": {
-      "subject": "most men",
-      "predicate": "are",
-      "object": "builders"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5285,16 +3661,8 @@
     "source_child_comment_id": "comment_f1cbef3ae7",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "women",
-      "predicate": "can't be",
-      "object": "builders"
-    },
-    "normalized_triple": {
-      "subject": "women",
-      "predicate": "cannot be",
-      "object": "builders"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -5311,16 +3679,8 @@
     "source_child_comment_id": "comment_f1cbef3ae7",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Men and women",
-      "predicate": "are",
-      "object": "the same"
-    },
-    "normalized_triple": {
-      "subject": "Men and women",
-      "predicate": "are",
-      "object": "the same"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5337,16 +3697,8 @@
     "source_child_comment_id": "comment_f1cbef3ae7",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Men and Woman",
-      "predicate": "are not",
-      "object": "the same"
-    },
-    "normalized_triple": {
-      "subject": "Men and women",
-      "predicate": "are not",
-      "object": "the same"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -5363,16 +3715,8 @@
     "source_child_comment_id": "comment_f1cbef3ae7",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "scientists and physiologists",
-      "predicate": "will tell you that",
-      "object": "men and women are not the same"
-    },
-    "normalized_triple": {
-      "subject": "scientists and physiologists",
-      "predicate": "will state that",
-      "object": "men and women are not the same"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5389,16 +3733,8 @@
     "source_child_comment_id": "comment_f1cbef3ae7",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "there",
-      "predicate": "are",
-      "object": "huge differences"
-    },
-    "normalized_triple": {
-      "subject": "there",
-      "predicate": "are",
-      "object": "huge differences"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5415,16 +3751,8 @@
     "source_child_comment_id": "comment_f8b9ca420e",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Westerners",
-      "predicate": "should not have to",
-      "object": "drop their values or acclimate to immigrants worldview"
-    },
-    "normalized_triple": {
-      "subject": "Westerners",
-      "predicate": "should not have to drop their values or acclimate to immigrants worldview",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -5441,16 +3769,8 @@
     "source_child_comment_id": "comment_f8b9ca420e",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "The people opening the borders around the world",
-      "predicate": "know this will",
-      "object": "create chaos and destroy Western countries"
-    },
-    "normalized_triple": {
-      "subject": "The people opening the borders around the world",
-      "predicate": "know that opening borders will create chaos and destroy Western countries",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5467,16 +3787,8 @@
     "source_child_comment_id": "comment_f8b9ca420e",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Ukrainian refugees",
-      "predicate": "fit right in",
-      "object": "Poland"
-    },
-    "normalized_triple": {
-      "subject": "Ukrainian refugees",
-      "predicate": "fit right in",
-      "object": "Poland"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5493,16 +3805,8 @@
     "source_child_comment_id": "comment_f8b9ca420e",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "people",
-      "predicate": "share",
-      "object": "different values in society"
-    },
-    "normalized_triple": {
-      "subject": "people",
-      "predicate": "share",
-      "object": "different values in society"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5519,16 +3823,8 @@
     "source_child_comment_id": "comment_f8b9ca420e",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "sharing values",
-      "predicate": "does not depend on",
-      "object": "nationality"
-    },
-    "normalized_triple": {
-      "subject": "sharing values",
-      "predicate": "does not depend on",
-      "object": "nationality"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -5545,16 +3841,8 @@
     "source_child_comment_id": "comment_f8b9ca420e",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "a person with Syrian background",
-      "predicate": "may have more values in common with",
-      "object": "you"
-    },
-    "normalized_triple": {
-      "subject": "a person with Syrian background",
-      "predicate": "may have more values in common with",
-      "object": "the listener"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -5571,16 +3859,8 @@
     "source_child_comment_id": "comment_0f1f11184c",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "there are processes to follow",
-      "predicate": "exists for",
-      "object": "Canada or the UK or US"
-    },
-    "normalized_triple": {
-      "subject": "Canada, the UK, and the US",
-      "predicate": "have",
-      "object": "processes to follow"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5597,16 +3877,8 @@
     "source_child_comment_id": "comment_0f1f11184c",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "America",
-      "predicate": "put sanctions on",
-      "object": "the country"
-    },
-    "normalized_triple": {
-      "subject": "America",
-      "predicate": "put sanctions on",
-      "object": "the country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5623,16 +3895,8 @@
     "source_child_comment_id": "comment_0f1f11184c",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "America",
-      "predicate": "engaged in",
-      "object": "proxy war"
-    },
-    "normalized_triple": {
-      "subject": "America",
-      "predicate": "engaged in",
-      "object": "proxy war"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -5649,16 +3913,8 @@
     "source_child_comment_id": "comment_0f1f11184c",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "proxy war",
-      "predicate": "has end goal of",
-      "object": "installing a puppet government"
-    },
-    "normalized_triple": {
-      "subject": "the proxy war",
-      "predicate": "has the end goal of",
-      "object": "installing a puppet government"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -5675,16 +3931,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "America",
-      "predicate": "put sanctions on",
-      "object": "the country"
-    },
-    "normalized_triple": {
-      "subject": "America",
-      "predicate": "put sanctions on",
-      "object": "the country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5701,16 +3949,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "America",
-      "predicate": "engaged in",
-      "object": "proxy war"
-    },
-    "normalized_triple": {
-      "subject": "America",
-      "predicate": "engaged in",
-      "object": "proxy war"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5727,16 +3967,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "proxy war",
-      "predicate": "has end goal of",
-      "object": "installing a puppet government"
-    },
-    "normalized_triple": {
-      "subject": "proxy war",
-      "predicate": "has end goal of",
-      "object": "installing a puppet government"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5753,16 +3985,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Venezuela",
-      "predicate": "has",
-      "object": "an Embassy in Washington"
-    },
-    "normalized_triple": {
-      "subject": "Venezuela",
-      "predicate": "has",
-      "object": "an Embassy in Washington"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5779,16 +4003,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "Embassy in Washington",
-      "predicate": "processes",
-      "object": "travel documents"
-    },
-    "normalized_triple": {
-      "subject": "Embassy in Washington",
-      "predicate": "processes",
-      "object": "travel documents"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5805,16 +4021,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "Embassy in Washington",
-      "predicate": "supports",
-      "object": "nationals in the US"
-    },
-    "normalized_triple": {
-      "subject": "Embassy in Washington",
-      "predicate": "supports",
-      "object": "nationals in the US"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5831,16 +4039,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "CAN",
-      "object": "leave"
-    },
-    "normalized_triple": {
-      "subject": "nationals",
-      "predicate": "can leave",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5857,16 +4057,8 @@
     "source_child_comment_id": "comment_dd0e392e9c",
     "pair_claim_id": "candidate_8",
     "topic_id": "candidate_8",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "don't want to",
-      "object": "leave"
-    },
-    "normalized_triple": {
-      "subject": "nationals",
-      "predicate": "do not want to leave",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -5883,16 +4075,8 @@
     "source_child_comment_id": "comment_21e28e4134",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "Venezuela",
-      "predicate": "has",
-      "object": "an Embassy in Washington"
-    },
-    "normalized_triple": {
-      "subject": "Venezuela",
-      "predicate": "has",
-      "object": "an Embassy in Washington"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5909,16 +4093,8 @@
     "source_child_comment_id": "comment_21e28e4134",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "the embassy",
-      "predicate": "processes",
-      "object": "travel documents and supports nationals in the US"
-    },
-    "normalized_triple": {
-      "subject": "the embassy",
-      "predicate": "processes",
-      "object": "travel documents and supports nationals in the US"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5935,16 +4111,8 @@
     "source_child_comment_id": "comment_21e28e4134",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "CAN leave",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "can leave",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -5961,16 +4129,8 @@
     "source_child_comment_id": "comment_21e28e4134",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "don't want to",
-      "object": "leave"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "do not want to leave",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -5987,16 +4147,8 @@
     "source_child_comment_id": "comment_21e28e4134",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "That embassy",
-      "predicate": "has been closed",
-      "object": "for over 3 years"
-    },
-    "normalized_triple": {
-      "subject": "That embassy",
-      "predicate": "has been closed",
-      "object": "for over 3 years"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6013,16 +4165,8 @@
     "source_child_comment_id": "comment_21e28e4134",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "our [embassy] in Venezuela",
-      "predicate": "has been closed",
-      "object": "for over 3 years"
-    },
-    "normalized_triple": {
-      "subject": "the US embassy in Venezuela",
-      "predicate": "has been closed",
-      "object": "for over 3 years"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6039,16 +4183,8 @@
     "source_child_comment_id": "comment_19b7655447",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "That embassy",
-      "predicate": "has been closed for",
-      "object": "over 3 years"
-    },
-    "normalized_triple": {
-      "subject": "That embassy",
-      "predicate": "has been closed for",
-      "object": "over 3 years"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6065,16 +4201,8 @@
     "source_child_comment_id": "comment_19b7655447",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "our [embassy] in Venezuela",
-      "predicate": "is closed",
-      "object": "same as [that embassy]"
-    },
-    "normalized_triple": {
-      "subject": "our embassy in Venezuela",
-      "predicate": "is closed",
-      "object": "same as that embassy"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6091,16 +4219,8 @@
     "source_child_comment_id": "comment_19b7655447",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "is processed via",
-      "object": "the Swiss consulate or Embassy"
-    },
-    "normalized_triple": {
-      "subject": "it",
-      "predicate": "is processed via",
-      "object": "the Swiss consulate or Embassy"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "uncertain",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6117,16 +4237,8 @@
     "source_child_comment_id": "comment_19b7655447",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "don’t need",
-      "object": "an exit visa to leave the US"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "do not need",
-      "object": "an exit visa to leave the US"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -6143,16 +4255,8 @@
     "source_child_comment_id": "comment_19b7655447",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "could withdraw",
-      "object": "their application at any time"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "could withdraw",
-      "object": "their application at any time"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6169,16 +4273,8 @@
     "source_child_comment_id": "comment_19b7655447",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "nothing",
-      "predicate": "is forcing",
-      "object": "them to stay"
-    },
-    "normalized_triple": {
-      "subject": "nothing",
-      "predicate": "is forcing",
-      "object": "them to stay"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -6195,16 +4291,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "One of the richest humans in the history of time",
-      "predicate": "is",
-      "object": "he"
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "is",
-      "object": "one of the richest humans in the history of time"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6221,16 +4309,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "beat the odds and became president of the most powerful country in the world",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "he",
-      "predicate": "beat the odds and became president of the most powerful country in the world",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6247,16 +4327,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "isn't rich",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "is not rich",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -6273,16 +4345,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "has",
-      "object": "his father's real estate inheritance"
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "has",
-      "object": "his father's real estate inheritance"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6299,16 +4363,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "scams",
-      "object": "investors"
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "scams",
-      "object": "investors"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6325,16 +4381,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "he",
-      "predicate": "depends on",
-      "object": "bailouts"
-    },
-    "normalized_triple": {
-      "subject": "Trump",
-      "predicate": "depends on",
-      "object": "bailouts"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6351,16 +4399,8 @@
     "source_child_comment_id": "comment_cccda8c9ab",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "his haphazard ignorant policies",
-      "predicate": "are going to be",
-      "object": "the death of you and your immediate family"
-    },
-    "normalized_triple": {
-      "subject": "his haphazard ignorant policies",
-      "predicate": "will cause the death of",
-      "object": "you and your immediate family"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6377,16 +4417,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "User_155",
-      "predicate": "is desperate when he begins to like his own comments",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "User_155",
-      "predicate": "is desperate when liking his own comments",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6403,16 +4435,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "User_156",
-      "predicate": "has never once liked",
-      "object": "his own comments"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "has never liked",
-      "object": "his own comments"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -6429,16 +4453,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "User_156",
-      "predicate": "does not create",
-      "object": "multiple accounts to agree with himself"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "does not create",
-      "object": "multiple accounts to agree with himself"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -6455,16 +4471,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "Your delusional political conspiracy theories",
-      "predicate": "ended",
-      "object": "the second you attempted to label me"
-    },
-    "normalized_triple": {
-      "subject": "Your delusional political conspiracy theories",
-      "predicate": "ended",
-      "object": "when you attempted to label me"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6481,16 +4489,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "do not care for",
-      "object": "political parties"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "does not care for",
-      "object": "political parties"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -6507,16 +4507,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "am not someone who is lead",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "is not someone who is led",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -6533,16 +4525,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "make",
-      "object": "my own informed decisions"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "makes",
-      "object": "his own informed decisions"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6559,16 +4543,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_8",
     "topic_id": "candidate_8",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "believe in",
-      "object": "the letter of the law"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "believes in",
-      "object": "the letter of the law"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6585,16 +4561,8 @@
     "source_child_comment_id": "comment_c994fa79d4",
     "pair_claim_id": "candidate_9",
     "topic_id": "candidate_9",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "do not believe in",
-      "object": "the president that happens to be in office"
-    },
-    "normalized_triple": {
-      "subject": "User_156",
-      "predicate": "does not believe in",
-      "object": "the president that happens to be in office"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -6611,16 +4579,8 @@
     "source_child_comment_id": "comment_a3965077f6",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "the Middle-East",
-      "predicate": "invaded, waged wars, colonized and enslaved",
-      "object": "European countries"
-    },
-    "normalized_triple": {
-      "subject": "the Middle-East",
-      "predicate": "invaded, waged wars, colonized and enslaved",
-      "object": "European countries"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6637,16 +4597,8 @@
     "source_child_comment_id": "comment_a3965077f6",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "a middle eastern country",
-      "predicate": "enslaved",
-      "object": "European country"
-    },
-    "normalized_triple": {
-      "subject": "a middle eastern country",
-      "predicate": "enslaved",
-      "object": "European country"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "unclear",
     "certainty": "uncertain",
@@ -6663,16 +4615,8 @@
     "source_child_comment_id": "comment_6ad8af4be1",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "the west",
-      "predicate": "supposed to be",
-      "object": "this great land of diversity? freedom of religion snd thought?"
-    },
-    "normalized_triple": {
-      "subject": "the West",
-      "predicate": "is supposed to be",
-      "object": "a great land of diversity and freedom of religion and thought"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -6689,16 +4633,8 @@
     "source_child_comment_id": "comment_6ad8af4be1",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "u",
-      "predicate": "are trying to change",
-      "object": "every single person who doesn't have these values"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "are trying to change",
-      "object": "every single person who does not have these values"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -6715,16 +4651,8 @@
     "source_child_comment_id": "comment_6ad8af4be1",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "I - and most normal people -",
-      "predicate": "want",
-      "object": "the West to remain white"
-    },
-    "normalized_triple": {
-      "subject": "the speaker and most normal people",
-      "predicate": "want",
-      "object": "the West to remain white"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6741,16 +4669,8 @@
     "source_child_comment_id": "comment_6ad8af4be1",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "the West to remain white",
-      "predicate": "is why",
-      "object": "the West is so great"
-    },
-    "normalized_triple": {
-      "subject": "the West remaining white",
-      "predicate": "is why",
-      "object": "the West is great"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6767,16 +4687,8 @@
     "source_child_comment_id": "comment_6ad8af4be1",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "diversity",
-      "predicate": "is ruining",
-      "object": "it"
-    },
-    "normalized_triple": {
-      "subject": "diversity",
-      "predicate": "is ruining",
-      "object": "the West"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6793,16 +4705,8 @@
     "source_child_comment_id": "comment_6ad8af4be1",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "are importing",
-      "object": "the worst kind of people"
-    },
-    "normalized_triple": {
-      "subject": "we",
-      "predicate": "are importing",
-      "object": "the worst kind of people"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6819,16 +4723,8 @@
     "source_child_comment_id": "comment_4010b21bb7",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "the west",
-      "predicate": "is supposed to be",
-      "object": "this great land of diversity? freedom of religion snd thought?"
-    },
-    "normalized_triple": {
-      "subject": "the west",
-      "predicate": "is supposed to be",
-      "object": "a great land of diversity and freedom of religion and thought"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -6845,16 +4741,8 @@
     "source_child_comment_id": "comment_4010b21bb7",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "u",
-      "predicate": "are trying to change",
-      "object": "every single person who doesn't have these values"
-    },
-    "normalized_triple": {
-      "subject": "the west",
-      "predicate": "is trying to change",
-      "object": "every single person who doesn't have these values"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -6871,16 +4759,8 @@
     "source_child_comment_id": "comment_4010b21bb7",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Those words",
-      "predicate": "can mean",
-      "object": "something in a Country and something different in another"
-    },
-    "normalized_triple": {
-      "subject": "Those words",
-      "predicate": "can mean",
-      "object": "something in a Country and something different in another"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -6897,16 +4777,8 @@
     "source_child_comment_id": "comment_4010b21bb7",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "if we want to just follow it as it is, without some interpretation",
-      "predicate": "we are trying to create",
-      "object": "a fairytale, not a reality"
-    },
-    "normalized_triple": {
-      "subject": "we",
-      "predicate": "are trying to create",
-      "object": "a fairytale, not a reality"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6923,16 +4795,8 @@
     "source_child_comment_id": "comment_c6034638b5",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "I - and most normal people -",
-      "predicate": "want",
-      "object": "the West to remain white"
-    },
-    "normalized_triple": {
-      "subject": "the speaker and most normal people",
-      "predicate": "want",
-      "object": "the West to remain white"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6949,16 +4813,8 @@
     "source_child_comment_id": "comment_c6034638b5",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "the West",
-      "predicate": "is",
-      "object": "great"
-    },
-    "normalized_triple": {
-      "subject": "the West",
-      "predicate": "is",
-      "object": "great"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -6975,16 +4831,8 @@
     "source_child_comment_id": "comment_c6034638b5",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "diversity",
-      "predicate": "is ruining",
-      "object": "it"
-    },
-    "normalized_triple": {
-      "subject": "diversity",
-      "predicate": "is ruining",
-      "object": "the West"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7001,16 +4849,8 @@
     "source_child_comment_id": "comment_c6034638b5",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "are importing",
-      "object": "the worst kind of people"
-    },
-    "normalized_triple": {
-      "subject": "we",
-      "predicate": "are importing",
-      "object": "the worst kind of people"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7027,16 +4867,8 @@
     "source_child_comment_id": "comment_c6034638b5",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "The Europeans",
-      "predicate": "did not do",
-      "object": "to the indigenous"
-    },
-    "normalized_triple": {
-      "subject": "the Europeans",
-      "predicate": "did not do [unspecified action]",
-      "object": "the indigenous"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "uncertain",
     "polarity": "negated",
     "certainty": "uncertain",
@@ -7053,16 +4885,8 @@
     "source_child_comment_id": "comment_c6034638b5",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "it",
-      "predicate": "should be applied",
-      "object": "here"
-    },
-    "normalized_triple": {
-      "subject": "the treatment of indigenous people",
-      "predicate": "should be applied",
-      "object": "to the current situation"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -7079,16 +4903,8 @@
     "source_child_comment_id": "comment_c6034638b5",
     "pair_claim_id": "candidate_7",
     "topic_id": "candidate_7",
-    "surface_triple": {
-      "subject": "immigrants",
-      "predicate": "are",
-      "object": "people not slaves"
-    },
-    "normalized_triple": {
-      "subject": "immigrants",
-      "predicate": "are",
-      "object": "people and not slaves"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7105,16 +4921,8 @@
     "source_child_comment_id": "comment_e3a7880eed",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "The Europeans",
-      "predicate": "didn’t do to the indigenous",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "Europeans",
-      "predicate": "did not respect",
-      "object": "indigenous people"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "uncertain",
@@ -7131,16 +4939,8 @@
     "source_child_comment_id": "comment_e3a7880eed",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "immigrants",
-      "predicate": "are",
-      "object": "people not slaves"
-    },
-    "normalized_triple": {
-      "subject": "immigrants",
-      "predicate": "are",
-      "object": "people and not slaves"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7157,16 +4957,8 @@
     "source_child_comment_id": "comment_e3a7880eed",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "Norway",
-      "predicate": "colonised",
-      "object": "the Middle East"
-    },
-    "normalized_triple": {
-      "subject": "Norway",
-      "predicate": "colonised",
-      "object": "the Middle East"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -7183,16 +4975,8 @@
     "source_child_comment_id": "comment_e3a7880eed",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "every single non European immigrant",
-      "predicate": "should be",
-      "object": "deported"
-    },
-    "normalized_triple": {
-      "subject": "every non-European immigrant",
-      "predicate": "should be",
-      "object": "deported"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7209,16 +4993,8 @@
     "source_child_comment_id": "comment_25564c5e78",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "live",
-      "object": "there"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "live",
-      "object": "western culture locations"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7235,16 +5011,8 @@
     "source_child_comment_id": "comment_e32d0889ab",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "was not disappointed",
-      "object": "reactions on the elevator"
-    },
-    "normalized_triple": {
-      "subject": "the author",
-      "predicate": "was not disappointed by",
-      "object": "reactions on the elevator"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7261,16 +5029,8 @@
     "source_child_comment_id": "comment_e32d0889ab",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "need to keep",
-      "object": "your hands and feet inside the ride at all times"
-    },
-    "normalized_triple": {
-      "subject": "passengers",
-      "predicate": "need to keep",
-      "object": "hands and feet inside the ride at all times"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7287,16 +5047,8 @@
     "source_child_comment_id": "comment_b0782f9ca2",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "need to keep your hands and feet inside the ride at all times",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "need to keep hands and feet inside the ride at all times",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "uncertain",
@@ -7313,16 +5065,8 @@
     "source_child_comment_id": "comment_b0782f9ca2",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "You",
-      "predicate": "definitely have to keep arms and what not inside",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "must keep arms and other parts inside",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7339,16 +5083,8 @@
     "source_child_comment_id": "comment_b0782f9ca2",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "this exact elevator",
-      "predicate": "is just as famous between natives as with you lot",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "this exact elevator",
-      "predicate": "is equally famous among natives and the other group",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7365,16 +5101,8 @@
     "source_child_comment_id": "comment_b0782f9ca2",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "the users",
-      "predicate": "are mostly by politicians on a daily basis",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "the users",
-      "predicate": "are mostly politicians on a daily basis",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7391,16 +5119,8 @@
     "source_child_comment_id": "comment_b0782f9ca2",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "the users are mostly by politicians on a daily basis",
-      "predicate": "limits the room for errors",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "the fact that users are mostly politicians on a daily basis",
-      "predicate": "limits the room for errors",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7417,16 +5137,8 @@
     "source_child_comment_id": "comment_b0782f9ca2",
     "pair_claim_id": "candidate_6",
     "topic_id": "candidate_6",
-    "surface_triple": {
-      "subject": "I",
-      "predicate": "dont recall any serious accidents",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "the speaker",
-      "predicate": "does not recall any serious accidents",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "uncertain",
@@ -7443,16 +5155,8 @@
     "source_child_comment_id": "comment_088f1f933a",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "people",
-      "predicate": "were complaining about",
-      "object": "Mexicans crossing illegally and taking jobs away from Americans"
-    },
-    "normalized_triple": {
-      "subject": "people",
-      "predicate": "complained about",
-      "object": "Mexicans crossing illegally and taking jobs from Americans"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7469,16 +5173,8 @@
     "source_child_comment_id": "comment_088f1f933a",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "we",
-      "predicate": "can complain about",
-      "object": "everyone coming across illegally"
-    },
-    "normalized_triple": {
-      "subject": "we",
-      "predicate": "can complain about",
-      "object": "everyone crossing illegally"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7495,16 +5191,8 @@
     "source_child_comment_id": "comment_088f1f933a",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "are not taking",
-      "object": "your jobs"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "are not taking",
-      "object": "Americans' jobs"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -7521,16 +5209,8 @@
     "source_child_comment_id": "comment_088f1f933a",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "are doing",
-      "object": "jobs that americans don't want to do"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "do",
-      "object": "jobs that Americans do not want to do"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7547,16 +5227,8 @@
     "source_child_comment_id": "comment_1bef1a17cd",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "are not \"taking\" your jobs",
-      "object": "your jobs"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "are not taking",
-      "object": "American jobs"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -7573,16 +5245,8 @@
     "source_child_comment_id": "comment_1bef1a17cd",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "They",
-      "predicate": "are doing",
-      "object": "jobs that americans don't want to do"
-    },
-    "normalized_triple": {
-      "subject": "They",
-      "predicate": "are doing",
-      "object": "jobs that Americans do not want to do"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7599,16 +5263,8 @@
     "source_child_comment_id": "comment_1bef1a17cd",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "are taken advantage of",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "are taken advantage of",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7625,16 +5281,8 @@
     "source_child_comment_id": "comment_1bef1a17cd",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "work harder for",
-      "object": "less pay"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "work harder for",
-      "object": "less pay"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7651,16 +5299,8 @@
     "source_child_comment_id": "comment_1bef1a17cd",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "don't know",
-      "object": "their own worth"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "do not know",
-      "object": "their own worth"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "negated",
     "certainty": "certain",
@@ -7677,16 +5317,8 @@
     "source_child_comment_id": "comment_9b9bc4f308",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "are taken advantage of and work harder for less pay",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "User_134",
-      "predicate": "are taken advantage of and work harder for less pay",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7703,16 +5335,8 @@
     "source_child_comment_id": "comment_9b9bc4f308",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "don't know",
-      "object": "their own worth"
-    },
-    "normalized_triple": {
-      "subject": "User_134",
-      "predicate": "do not know",
-      "object": "their own worth"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -7729,16 +5353,8 @@
     "source_child_comment_id": "comment_9b9bc4f308",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "money",
-      "predicate": "is",
-      "object": "good money for a new inmigrants"
-    },
-    "normalized_triple": {
-      "subject": "money",
-      "predicate": "is",
-      "object": "good for new immigrants"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7755,16 +5371,8 @@
     "source_child_comment_id": "comment_1b329974e8",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "new inmigrants",
-      "predicate": "is good money",
-      "object": "less than americans"
-    },
-    "normalized_triple": {
-      "subject": "new immigrants",
-      "predicate": "earn",
-      "object": "less than Americans"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7781,16 +5389,8 @@
     "source_child_comment_id": "comment_1b329974e8",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "devalue",
-      "object": "our way of living"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "devalue",
-      "object": "our way of living"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7807,16 +5407,8 @@
     "source_child_comment_id": "comment_1b329974e8",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "won’t have to work for Pennie’s on the dollar",
-      "object": "a job that will get you nowhere in life"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "won’t have to work for pennies on the dollar",
-      "object": "a job that will get you nowhere in life"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -7833,16 +5425,8 @@
     "source_child_comment_id": "comment_f2c423463d",
     "pair_claim_id": "candidate_1",
     "topic_id": "candidate_1",
-    "surface_triple": {
-      "subject": "you",
-      "predicate": "devalue",
-      "object": "our way of living"
-    },
-    "normalized_triple": {
-      "subject": "you",
-      "predicate": "devalue",
-      "object": "our way of living"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7859,16 +5443,8 @@
     "source_child_comment_id": "comment_f2c423463d",
     "pair_claim_id": "candidate_2",
     "topic_id": "candidate_2",
-    "surface_triple": {
-      "subject": "coming here legally the right way",
-      "predicate": "won’t have to work for Pennie’s on the dollar",
-      "object": ""
-    },
-    "normalized_triple": {
-      "subject": "coming here legally the right way",
-      "predicate": "prevents working for pennies on the dollar",
-      "object": ""
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "negated",
     "certainty": "certain",
@@ -7885,16 +5461,8 @@
     "source_child_comment_id": "comment_f2c423463d",
     "pair_claim_id": "candidate_3",
     "topic_id": "candidate_3",
-    "surface_triple": {
-      "subject": "at the beggining",
-      "predicate": "is",
-      "object": "low money"
-    },
-    "normalized_triple": {
-      "subject": "wages at the beginning",
-      "predicate": "are",
-      "object": "low"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7911,16 +5479,8 @@
     "source_child_comment_id": "comment_f2c423463d",
     "pair_claim_id": "candidate_4",
     "topic_id": "candidate_4",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "earn more and start to buy car and even house",
-      "object": "after gaining experience"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "earn more and buy cars and houses",
-      "object": "after gaining experience"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "normalized",
     "polarity": "affirmed",
     "certainty": "certain",
@@ -7937,16 +5497,8 @@
     "source_child_comment_id": "comment_f2c423463d",
     "pair_claim_id": "candidate_5",
     "topic_id": "candidate_5",
-    "surface_triple": {
-      "subject": "they",
-      "predicate": "become",
-      "object": "citizens"
-    },
-    "normalized_triple": {
-      "subject": "they",
-      "predicate": "become",
-      "object": "citizens"
-    },
+    "surface_triple": {},
+    "normalized_triple": {},
     "normalization_status": "direct",
     "polarity": "affirmed",
     "certainty": "certain",
