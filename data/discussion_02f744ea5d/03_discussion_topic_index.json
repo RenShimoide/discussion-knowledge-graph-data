@@ -1,0 +1,374 @@
+[
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "my mum who was married to an American and had two USKids, she applied for my “ residency”",
+        "predicate": "took",
+        "object": "years"
+      },
+      "normalized": {
+        "subject": "the speaker's mother's application for residency",
+        "predicate": "took",
+        "object": "years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "was in a",
+        "object": "waiting list, for citizenship"
+      },
+      "normalized": {
+        "subject": "the speaker",
+        "predicate": "was on a",
+        "object": "waiting list for citizenship"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "make it sound like",
+        "object": "you would have rather crossed illegally"
+      },
+      "normalized": {
+        "subject": "the speaker's description",
+        "predicate": "implies",
+        "object": "preferring to cross illegally"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "my process",
+        "predicate": "took",
+        "object": "nearly 10 years"
+      },
+      "normalized": {
+        "subject": "the speaker's process",
+        "predicate": "took",
+        "object": "nearly 10 years"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "my mom was married to a resident",
+        "predicate": "is why",
+        "object": "it took longer"
+      },
+      "normalized": {
+        "subject": "the speaker's mother's marriage to a resident",
+        "predicate": "caused",
+        "object": "a longer process"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Those crossing illegally",
+        "predicate": "don't have",
+        "object": "that path"
+      },
+      "normalized": {
+        "subject": "people crossing illegally",
+        "predicate": "do not have",
+        "object": "a path"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Depending on the country you come from",
+        "predicate": "sometimes there is no",
+        "object": "legal way"
+      },
+      "normalized": {
+        "subject": "the country of origin",
+        "predicate": "sometimes lacks",
+        "object": "a legal way to enter"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "love",
+        "object": "the US"
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "loves",
+        "object": "the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "definitely not to live",
+        "object": "the US"
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "does not want to live in",
+        "object": "the US"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "it",
+        "predicate": "just sounded that way",
+        "object": "when you said you did it the correct way as opposed to these people"
+      },
+      "normalized": {
+        "subject": "User_222's comment",
+        "predicate": "sounded like",
+        "object": "User_222 was doing it the correct way as opposed to these people"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "people",
+        "predicate": "think",
+        "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
+      },
+      "normalized": {
+        "subject": "some people",
+        "predicate": "think",
+        "object": "everyone in the world has the opportunity to migrate to the US the legal way and should just \"get in line\""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "simply doesn't work",
+        "object": "that way"
+      },
+      "normalized": {
+        "subject": "The process of migrating to the US the legal way and getting in line",
+        "predicate": "does not work",
+        "object": "that way"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_14",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "am thankful",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "is thankful",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_15",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "I",
+        "predicate": "would probably be doing the same",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "User_222",
+        "predicate": "would probably be doing the same",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_16",
+    "source_comment_ids": [
+      "comment_1063c2b4e2",
+      "comment_962bbe1853",
+      "comment_0d87081801",
+      "comment_4544120d98",
+      "comment_b3281bee98"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "Americans",
+        "predicate": "are angry",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "Americans",
+        "predicate": "are angry",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "topic_id": "claim_17",
+    "source_comment_ids": [],
+    "topic_triple": {
+      "surface": {
+        "subject": "The belief that everyone has the opportunity to migrate legally and should get in line",
+        "predicate": "is incorrect / does not work that way",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "The belief that everyone has the opportunity to migrate legally and should get in line",
+        "predicate": "does not work that way",
+        "object": ""
+      }
+    }
+  }
+]

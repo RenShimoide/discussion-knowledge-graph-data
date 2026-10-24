@@ -1,0 +1,297 @@
+[
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_1",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "asylees",
+        "predicate": "probably feel the same way -- so wrong that this situation is their best option",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "asylees",
+        "predicate": "probably feel",
+        "object": "this situation is their best option is wrong"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_2",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "your view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "your view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_3",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "have been gaslit into believing",
+        "object": "allowing this is compassionate"
+      },
+      "normalized": {
+        "subject": "you",
+        "predicate": "have been gaslit into believing",
+        "object": "allowing this is compassionate"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_4",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "have no idea what they are getting themselves into",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "asylees/refugees",
+        "predicate": "lack knowledge of the consequences of leaving their homes",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_5",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "you",
+        "predicate": "have no idea of what is happening to them",
+        "object": ""
+      },
+      "normalized": {
+        "subject": "the other user",
+        "predicate": "lacks knowledge of the situation regarding asylees",
+        "object": ""
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_6",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "your view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "User_762's view of this situation",
+        "predicate": "is grounded in",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_7",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "allowing this",
+        "predicate": "is",
+        "object": "compassionate"
+      },
+      "normalized": {
+        "subject": "allowing this",
+        "predicate": "is",
+        "object": "compassionate"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_8",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "They",
+        "predicate": "have no idea what they are getting themselves into",
+        "object": "when they leave their homes and become the product of the cartels"
+      },
+      "normalized": {
+        "subject": "People leaving their homes",
+        "predicate": "do not know the consequences of becoming the product of the cartels",
+        "object": "becoming the product of the cartels"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_9",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is not",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "User_762's view",
+        "predicate": "is not",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_10",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "completely and total naivete/subversion"
+      },
+      "normalized": {
+        "subject": "User_762's view",
+        "predicate": "is",
+        "object": "complete and total naivete/subversion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_11",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is not",
+        "object": "compassion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is not",
+        "object": "compassion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_12",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "completely and total naivete/subversion"
+      },
+      "normalized": {
+        "subject": "It",
+        "predicate": "is",
+        "object": "complete and total naivete/subversion"
+      }
+    }
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "topic_id": "claim_13",
+    "source_comment_ids": [
+      "comment_ab7af9f7e4",
+      "comment_f9a914503a",
+      "comment_e72b1be8ea",
+      "comment_a530406132"
+    ],
+    "topic_triple": {
+      "surface": {
+        "subject": "con artists",
+        "predicate": "play on",
+        "object": "naive compassionate people"
+      },
+      "normalized": {
+        "subject": "con artists",
+        "predicate": "play on",
+        "object": "naive compassionate people"
+      }
+    }
+  }
+]

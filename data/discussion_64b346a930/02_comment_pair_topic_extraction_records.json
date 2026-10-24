@@ -1,0 +1,470 @@
+[
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_40c85aa9966cd93c1ba2",
+    "source_parent_comment_id": "comment_07811cd076",
+    "source_child_comment_id": "comment_1d3b607a54",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "Elon",
+      "predicate": "is",
+      "object": "a Billionaire"
+    },
+    "normalized_triple": {
+      "subject": "Elon",
+      "predicate": "is",
+      "object": "a billionaire"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_40c85aa9966cd93c1ba2",
+    "source_parent_comment_id": "comment_07811cd076",
+    "source_child_comment_id": "comment_1d3b607a54",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "is trying to make a stand for",
+      "object": "our country"
+    },
+    "normalized_triple": {
+      "subject": "Elon",
+      "predicate": "is trying to make a stand for",
+      "object": "our country"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_40c85aa9966cd93c1ba2",
+    "source_parent_comment_id": "comment_07811cd076",
+    "source_child_comment_id": "comment_1d3b607a54",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "could be",
+      "object": "off on a yacht"
+    },
+    "normalized_triple": {
+      "subject": "Elon",
+      "predicate": "could be",
+      "object": "off on a yacht"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_40c85aa9966cd93c1ba2",
+    "source_parent_comment_id": "comment_07811cd076",
+    "source_child_comment_id": "comment_1d3b607a54",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "can improve on",
+      "object": "South Africa"
+    },
+    "normalized_triple": {
+      "subject": "Elon",
+      "predicate": "can improve on",
+      "object": "South Africa"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_21904e41d2ed4a5a1039",
+    "source_parent_comment_id": "comment_1d3b607a54",
+    "source_child_comment_id": "comment_7679f45438",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "helping",
+      "object": "South Africa"
+    },
+    "normalized_triple": {
+      "subject": "he",
+      "predicate": "can help",
+      "object": "South Africa"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_21904e41d2ed4a5a1039",
+    "source_parent_comment_id": "comment_1d3b607a54",
+    "source_child_comment_id": "comment_7679f45438",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "can improve on",
+      "object": "South Africa"
+    },
+    "normalized_triple": {
+      "subject": "he",
+      "predicate": "can improve",
+      "object": "South Africa"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_21904e41d2ed4a5a1039",
+    "source_parent_comment_id": "comment_1d3b607a54",
+    "source_child_comment_id": "comment_7679f45438",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "South Africa",
+      "predicate": "is",
+      "object": "dead"
+    },
+    "normalized_triple": {
+      "subject": "South Africa",
+      "predicate": "is",
+      "object": "dead"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_21904e41d2ed4a5a1039",
+    "source_parent_comment_id": "comment_1d3b607a54",
+    "source_child_comment_id": "comment_7679f45438",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "nothing he can do",
+      "predicate": "for",
+      "object": "South Africa"
+    },
+    "normalized_triple": {
+      "subject": "he",
+      "predicate": "can do nothing for",
+      "object": "South Africa"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_21904e41d2ed4a5a1039",
+    "source_parent_comment_id": "comment_1d3b607a54",
+    "source_child_comment_id": "comment_7679f45438",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "saving South Africa",
+      "predicate": "is like",
+      "object": "saving North Korea"
+    },
+    "normalized_triple": {
+      "subject": "saving South Africa",
+      "predicate": "is like",
+      "object": "saving North Korea"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_21904e41d2ed4a5a1039",
+    "source_parent_comment_id": "comment_1d3b607a54",
+    "source_child_comment_id": "comment_7679f45438",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "he",
+      "predicate": "would likely be shot in the chest",
+      "object": "on the first day of arrival"
+    },
+    "normalized_triple": {
+      "subject": "he",
+      "predicate": "would likely be shot in the chest",
+      "object": "on the first day of arrival"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_21904e41d2ed4a5a1039",
+    "source_parent_comment_id": "comment_1d3b607a54",
+    "source_child_comment_id": "comment_7679f45438",
+    "pair_claim_id": "candidate_7",
+    "topic_id": "candidate_7",
+    "surface_triple": {
+      "subject": "America",
+      "predicate": "should be kept from",
+      "object": "suffering the same fate"
+    },
+    "normalized_triple": {
+      "subject": "America",
+      "predicate": "should be kept from",
+      "object": "suffering the same fate"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_29cafd4af03f6534cb66",
+    "source_parent_comment_id": "comment_d4ed030971",
+    "source_child_comment_id": "comment_bcf8c032d2",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "USA",
+      "predicate": "is dying",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "USA",
+      "predicate": "is dying",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_29cafd4af03f6534cb66",
+    "source_parent_comment_id": "comment_d4ed030971",
+    "source_child_comment_id": "comment_bcf8c032d2",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "immigrants",
+      "predicate": "cause",
+      "object": "USA is dying"
+    },
+    "normalized_triple": {
+      "subject": "immigrants",
+      "predicate": "cause",
+      "object": "USA is dying"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_29cafd4af03f6534cb66",
+    "source_parent_comment_id": "comment_d4ed030971",
+    "source_child_comment_id": "comment_bcf8c032d2",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "US",
+      "predicate": "is not dying",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "US",
+      "predicate": "is not dying",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_29cafd4af03f6534cb66",
+    "source_parent_comment_id": "comment_d4ed030971",
+    "source_child_comment_id": "comment_bcf8c032d2",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "US",
+      "predicate": "is",
+      "object": "growing"
+    },
+    "normalized_triple": {
+      "subject": "US",
+      "predicate": "is",
+      "object": "growing"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_3f41670df972a951da98",
+    "source_parent_comment_id": "comment_d4ed030971",
+    "source_child_comment_id": "comment_3017363d17",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "USA",
+      "predicate": "is dying",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "USA",
+      "predicate": "is dying",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_3f41670df972a951da98",
+    "source_parent_comment_id": "comment_d4ed030971",
+    "source_child_comment_id": "comment_3017363d17",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "immigrants",
+      "predicate": "cause",
+      "object": "USA is dying"
+    },
+    "normalized_triple": {
+      "subject": "immigrants",
+      "predicate": "cause",
+      "object": "USA is dying"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_64b346a930",
+    "source_split": "Train",
+    "pair_id": "causal_3f41670df972a951da98",
+    "source_parent_comment_id": "comment_d4ed030971",
+    "source_child_comment_id": "comment_3017363d17",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "User_772",
+      "predicate": "demands proof of",
+      "object": "USA is dying because of immigrants"
+    },
+    "normalized_triple": {
+      "subject": "User_772",
+      "predicate": "demands proof of",
+      "object": "USA is dying because of immigrants"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

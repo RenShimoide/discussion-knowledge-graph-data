@@ -1,0 +1,340 @@
+[
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_3f3ec0643e11b30f433d",
+    "source_parent_comment_id": "comment_ab7af9f7e4",
+    "source_child_comment_id": "comment_f9a914503a",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "asylees",
+      "predicate": "probably feel the same way -- so wrong that this situation is their best option",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "asylees",
+      "predicate": "probably feel",
+      "object": "this situation is their best option is wrong"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_3f3ec0643e11b30f433d",
+    "source_parent_comment_id": "comment_ab7af9f7e4",
+    "source_child_comment_id": "comment_f9a914503a",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "your view of this situation",
+      "predicate": "is grounded in",
+      "object": "compassion"
+    },
+    "normalized_triple": {
+      "subject": "your view of this[the] situation",
+      "predicate": "is grounded in",
+      "object": "compassion"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_3f3ec0643e11b30f433d",
+    "source_parent_comment_id": "comment_ab7af9f7e4",
+    "source_child_comment_id": "comment_f9a914503a",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "have been gaslit into believing",
+      "object": "allowing this is compassionate"
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "have been gaslit into believing",
+      "object": "allowing this is compassionate"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_3f3ec0643e11b30f433d",
+    "source_parent_comment_id": "comment_ab7af9f7e4",
+    "source_child_comment_id": "comment_f9a914503a",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "They",
+      "predicate": "have no idea what they're getting themselves into",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "They",
+      "predicate": "have no idea what they are getting themselves into",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_3f3ec0643e11b30f433d",
+    "source_parent_comment_id": "comment_ab7af9f7e4",
+    "source_child_comment_id": "comment_f9a914503a",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "have no idea of what's happening to them",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "you",
+      "predicate": "have no idea of what is happening to them",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_c33f85d81c6dd297a984",
+    "source_parent_comment_id": "comment_f9a914503a",
+    "source_child_comment_id": "comment_e72b1be8ea",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "your view of this situation",
+      "predicate": "is grounded in",
+      "object": "compassion"
+    },
+    "normalized_triple": {
+      "subject": "User_762's view of this situation",
+      "predicate": "is grounded in",
+      "object": "compassion"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_c33f85d81c6dd297a984",
+    "source_parent_comment_id": "comment_f9a914503a",
+    "source_child_comment_id": "comment_e72b1be8ea",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "allowing this",
+      "predicate": "is",
+      "object": "compassionate"
+    },
+    "normalized_triple": {
+      "subject": "allowing this",
+      "predicate": "is",
+      "object": "compassionate"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "uncertain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_c33f85d81c6dd297a984",
+    "source_parent_comment_id": "comment_f9a914503a",
+    "source_child_comment_id": "comment_e72b1be8ea",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "They",
+      "predicate": "have no idea what they are getting themselves into",
+      "object": "when they leave their homes and become the product of the cartels"
+    },
+    "normalized_triple": {
+      "subject": "People leaving their homes",
+      "predicate": "do not know the consequences of becoming the product of the cartels",
+      "object": "becoming the product of the cartels"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_c33f85d81c6dd297a984",
+    "source_parent_comment_id": "comment_f9a914503a",
+    "source_child_comment_id": "comment_e72b1be8ea",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "is not",
+      "object": "compassion"
+    },
+    "normalized_triple": {
+      "subject": "User_762's view",
+      "predicate": "is not",
+      "object": "compassion"
+    },
+    "normalization_status": "normalized",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_c33f85d81c6dd297a984",
+    "source_parent_comment_id": "comment_f9a914503a",
+    "source_child_comment_id": "comment_e72b1be8ea",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "is",
+      "object": "completely and total naivete/subversion"
+    },
+    "normalized_triple": {
+      "subject": "User_762's view",
+      "predicate": "is",
+      "object": "complete and total naivete/subversion"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_5dbf70e74dc38d4d1186",
+    "source_parent_comment_id": "comment_e72b1be8ea",
+    "source_child_comment_id": "comment_a530406132",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "is not",
+      "object": "compassion"
+    },
+    "normalized_triple": {
+      "subject": "It",
+      "predicate": "is not",
+      "object": "compassion"
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_5dbf70e74dc38d4d1186",
+    "source_parent_comment_id": "comment_e72b1be8ea",
+    "source_child_comment_id": "comment_a530406132",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "It",
+      "predicate": "is",
+      "object": "completely and total naivete/subversion"
+    },
+    "normalized_triple": {
+      "subject": "It",
+      "predicate": "is",
+      "object": "complete and total naivete/subversion"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "pair_id": "causal_5dbf70e74dc38d4d1186",
+    "source_parent_comment_id": "comment_e72b1be8ea",
+    "source_child_comment_id": "comment_a530406132",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "con artists",
+      "predicate": "play on",
+      "object": "naive compassionate people"
+    },
+    "normalized_triple": {
+      "subject": "con artists",
+      "predicate": "play on",
+      "object": "naive compassionate people"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

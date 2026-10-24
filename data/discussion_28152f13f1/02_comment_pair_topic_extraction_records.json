@@ -1,0 +1,288 @@
+[
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_cb3e2e6ce11fcc0718b3",
+    "source_parent_comment_id": "comment_527430f3b9",
+    "source_child_comment_id": "comment_74609bd636",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "the people",
+      "predicate": "got exactly what they voted for",
+      "object": ""
+    },
+    "normalized_triple": {
+      "subject": "the people",
+      "predicate": "got exactly what they voted for",
+      "object": ""
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_cb3e2e6ce11fcc0718b3",
+    "source_parent_comment_id": "comment_527430f3b9",
+    "source_child_comment_id": "comment_74609bd636",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "Nobody",
+      "predicate": "voted for",
+      "object": "this"
+    },
+    "normalized_triple": {
+      "subject": "Nobody",
+      "predicate": "voted for",
+      "object": "this"
+    },
+    "normalization_status": "direct",
+    "polarity": "negated",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_cb3e2e6ce11fcc0718b3",
+    "source_parent_comment_id": "comment_527430f3b9",
+    "source_child_comment_id": "comment_74609bd636",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "the UK",
+      "predicate": "has",
+      "object": "same problems"
+    },
+    "normalized_triple": {
+      "subject": "the UK",
+      "predicate": "has",
+      "object": "same problems"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_cb3e2e6ce11fcc0718b3",
+    "source_parent_comment_id": "comment_527430f3b9",
+    "source_child_comment_id": "comment_74609bd636",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "voted for",
+      "object": "immigration to be cut to 10,000 per year"
+    },
+    "normalized_triple": {
+      "subject": "the UK voters",
+      "predicate": "voted for",
+      "object": "immigration to be cut to 10,000 per year"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_cb3e2e6ce11fcc0718b3",
+    "source_parent_comment_id": "comment_527430f3b9",
+    "source_child_comment_id": "comment_74609bd636",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "last year",
+      "predicate": "we got",
+      "object": "1.2 million"
+    },
+    "normalized_triple": {
+      "subject": "the UK",
+      "predicate": "received 1.2 million immigrants",
+      "object": "1.2 million"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_df23ad355292ff579692",
+    "source_parent_comment_id": "comment_74609bd636",
+    "source_child_comment_id": "comment_d08982e567",
+    "pair_claim_id": "candidate_1",
+    "topic_id": "candidate_1",
+    "surface_triple": {
+      "subject": "Nobody",
+      "predicate": "voted for",
+      "object": "this"
+    },
+    "normalized_triple": {
+      "subject": "Nobody",
+      "predicate": "voted for",
+      "object": "this"
+    },
+    "normalization_status": "direct",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_df23ad355292ff579692",
+    "source_parent_comment_id": "comment_74609bd636",
+    "source_child_comment_id": "comment_d08982e567",
+    "pair_claim_id": "candidate_2",
+    "topic_id": "candidate_2",
+    "surface_triple": {
+      "subject": "we",
+      "predicate": "voted for",
+      "object": "immigration to be cut to 10,000 per year"
+    },
+    "normalized_triple": {
+      "subject": "the UK",
+      "predicate": "voted for",
+      "object": "immigration to be cut to 10,000 per year"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_df23ad355292ff579692",
+    "source_parent_comment_id": "comment_74609bd636",
+    "source_child_comment_id": "comment_d08982e567",
+    "pair_claim_id": "candidate_3",
+    "topic_id": "candidate_3",
+    "surface_triple": {
+      "subject": "last year",
+      "predicate": "we got",
+      "object": "1.2 million"
+    },
+    "normalized_triple": {
+      "subject": "the UK",
+      "predicate": "received",
+      "object": "1.2 million immigrants"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_df23ad355292ff579692",
+    "source_parent_comment_id": "comment_74609bd636",
+    "source_child_comment_id": "comment_d08982e567",
+    "pair_claim_id": "candidate_4",
+    "topic_id": "candidate_4",
+    "surface_triple": {
+      "subject": "you guys",
+      "predicate": "did",
+      "object": "vote for this"
+    },
+    "normalized_triple": {
+      "subject": "the people in the UK",
+      "predicate": "voted for",
+      "object": "this"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_df23ad355292ff579692",
+    "source_parent_comment_id": "comment_74609bd636",
+    "source_child_comment_id": "comment_d08982e567",
+    "pair_claim_id": "candidate_5",
+    "topic_id": "candidate_5",
+    "surface_triple": {
+      "subject": "the cancer of feminism",
+      "predicate": "came to",
+      "object": "the stage"
+    },
+    "normalized_triple": {
+      "subject": "feminism",
+      "predicate": "arrived at",
+      "object": "the stage"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  },
+  {
+    "source_discussion_id": "discussion_28152f13f1",
+    "source_split": "Train",
+    "pair_id": "causal_df23ad355292ff579692",
+    "source_parent_comment_id": "comment_74609bd636",
+    "source_child_comment_id": "comment_d08982e567",
+    "pair_claim_id": "candidate_6",
+    "topic_id": "candidate_6",
+    "surface_triple": {
+      "subject": "you",
+      "predicate": "allowed",
+      "object": "the cancer of feminism"
+    },
+    "normalized_triple": {
+      "subject": "the people",
+      "predicate": "allowed",
+      "object": "feminism"
+    },
+    "normalization_status": "normalized",
+    "polarity": "affirmed",
+    "certainty": "certain",
+    "stage": "E1",
+    "model": "gemma4:26b",
+    "prompt_version": "topic_triple_v1_e_extract_mixed_e2off_auto",
+    "status": "success"
+  }
+]

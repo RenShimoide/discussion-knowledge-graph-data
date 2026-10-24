@@ -1,0 +1,122 @@
+[
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_1063c2b4e2",
+    "relation_id": "causal_8be1745838682021",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_1063c2b4e2",
+    "relation_id": "causal_6440fd10fa80b9df",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_1063c2b4e2",
+    "relation_id": "causal_8e150881f9eb23f0",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "qualification",
+    "confidence": 0.81
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_962bbe1853",
+    "relation_id": "causal_59699f08bff22da1",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_962bbe1853",
+    "relation_id": "causal_6440fd10fa80b9df",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_962bbe1853",
+    "relation_id": "causal_ce1fa2fe9db88309",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "rebuttal",
+    "confidence": 0.86
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_962bbe1853",
+    "relation_id": "causal_063d94f854b2d5f4",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_962bbe1853",
+    "relation_id": "causal_8e150881f9eb23f0",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.93
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_962bbe1853",
+    "relation_id": "causal_084307b1bb862f0a",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "rebuttal",
+    "confidence": 0.96
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_b3281bee98",
+    "relation_id": "causal_ce1fa2fe9db88309",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.94
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_b3281bee98",
+    "relation_id": "causal_063d94f854b2d5f4",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "qualification",
+    "confidence": 0.85
+  },
+  {
+    "source_discussion_id": "discussion_02f744ea5d",
+    "source_split": "Train",
+    "source_comment_id": "comment_b3281bee98",
+    "relation_id": "causal_8e150881f9eb23f0",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "support",
+    "confidence": 0.96
+  }
+]

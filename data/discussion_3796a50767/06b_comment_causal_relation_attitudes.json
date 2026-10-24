@@ -1,0 +1,12 @@
+[
+  {
+    "source_discussion_id": "discussion_3796a50767",
+    "source_split": "Train",
+    "source_comment_id": "comment_f9a914503a",
+    "relation_id": "causal_942e6f25dd641e7f",
+    "model": "gpt-oss:120b-mac",
+    "prompt_version": "prompts/comment_attitude/task_b/stage3.txt",
+    "label": "rebuttal",
+    "confidence": 0.85
+  }
+]
