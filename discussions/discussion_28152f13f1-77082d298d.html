@@ -178,6 +178,9 @@ body.graph-maximized .explore-split{grid-template-columns:minmax(0,1fr)}body.gra
 .explore-right .right-filter-panel #filter-summary{min-height:46px;max-height:132px;overflow-y:auto;align-content:flex-start;scrollbar-gutter:stable}
 .explore-right .right-filter-panel #filter-summary .chip{max-width:calc(50% - 4px);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-align:left}
 .explore-right .right-filter-panel #filter-summary .result-count{order:-1;position:sticky;top:0;z-index:2;flex:1 0 100%;margin-left:0;padding:5px 0;background:#fffaf4}
+.node.comment.comment-expanded{width:440px;max-width:calc(100vw - 96px);max-height:280px;overflow:auto;z-index:15;cursor:zoom-out;box-shadow:0 14px 38px #17203345;background:#fff}
+.node.comment.comment-expanded .node-body{display:block;-webkit-line-clamp:unset;white-space:pre-wrap;overflow:visible;overflow-wrap:anywhere;line-height:1.45;color:inherit!important;font-weight:700}
+.node.comment.comment-expanded .node-expand-hint{display:block;margin-top:8px;padding-top:7px;border-top:1px solid #dbe3ee;color:#3157d5;font-weight:800}
 </style>
 </head>
 <body>
@@ -1131,7 +1134,7 @@ function boot(initialState){
     const comment=state.comments.find(c=>'comment:'+c.comment_id===id);
     n.append(make('small','node-identity',`Comment ${comment?.number??'?'} · ${comment?.author||'Unknown'}`));
     n.append(make('small','node-comment-id',comment?.comment_id||id.slice(8)));
-    n.append(make('b','node-body',bold));
+    const expanded=selected===id&&selectedNodes.size===1,bodyText=expanded?(comment?.content||bold):bold;if(expanded){n.classList.add('comment-expanded');const shift=Math.max(12-p.x,Math.min(-105,width-452-p.x));n.style.transform=`translateX(${shift}px)`}n.append(make('b','node-body',bodyText));if(expanded)n.append(make('small','node-expand-hint','Full comment · click again to collapse'));
   }else{n.append(make('small','',small),make('b','',bold));}n.title=type==='relation'?(state.relations.find(r=>'relation:'+r.id===id)?.label||'Relation')+' · Click to inspect source and target':small+' — '+bold;n.dataset.ref=id;if(isSeed)n.title='Focus origin · '+n.title;else if(isContext)n.title='Reply-path context · '+n.title;else if(isLinked)n.title='Connected node · '+n.title;n.onclick=e=>{e.stopPropagation();select(id,e)};nodes.append(n)};
   state.comments.forEach(c=>addNode('comment:'+c.comment_id,'comment',pos.get('comment:'+c.comment_id),`Comment ${c.number} · ${c.author||'Unknown'}`,c.summary||c.content));state.topics.forEach(t=>addNode('topic:'+t.id,'topic',pos.get('topic:'+t.id),t.external_topic_id,title(t)));if(!(demoActive&&demoStep===3))state.relations.filter(r=>r.kind==='topic_topic').forEach(r=>addNode('relation:'+r.id,'relation',pos.get('relation:'+r.id),'',''));
   applyTransform();
