@@ -11,7 +11,9 @@ The proposed representation contains two layers:
 
 ## Interactive demonstrations
 
-Open **(https://renshimoide.github.io/discussion-knowledge-graph-data/)** to explore 10 examples using the **Discussion Knowledge Graph Explorer**. The linked HTML pages provide interactive views of the CDG and TAG.
+Open **[Discussion Knowledge Graph Explorer](https://renshimoide.github.io/discussion-knowledge-graph-data/)** to explore 10 examples. The linked HTML pages provide interactive views of the CDG and TAG.
+
+**Note:** The interactive HTML demonstrations will be taken offline after the NLP4KGC 2026 presentation session. The graph data in this repository will remain publicly available.
 
 ## Data
 
